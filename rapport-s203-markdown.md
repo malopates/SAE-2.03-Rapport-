@@ -17,7 +17,7 @@ Pour la première séance, nous avons commencé en créant une nouvelle VM dans 
 
 Le reste de la configuration de la VM s'est faite en laissant les paramètres par défaut. Cependant, l'étape de chargement du pre-seed était bloqué, suite aux recherches de Louis, nous avons pu résoudre ce problème en redémarrant la machine à cette étape. 
 
-![Screen création VM](https://lh7-us.googleusercontent.com/HwGyxgCVJ4FucrncIYnrRtDJVPEdrYU__IEii__UMg29YSwengtuclEehw575ZxLd2NAXWbh1VpI0xNDq_o1kRc3V7HD2PmTYJKxIz14KGTN7T8BkUGBZ_M6d1aJU1k5DbnO3vo9U3_ELN5BtngKaZY)\
+![Screen création VM](https://lh7-us.googleusercontent.com/HwGyxgCVJ4FucrncIYnrRtDJVPEdrYU__IEii__UMg29YSwengtuclEehw575ZxLd2NAXWbh1VpI0xNDq_o1kRc3V7HD2PmTYJKxIz14KGTN7T8BkUGBZ_M6d1aJU1k5DbnO3vo9U3_ELN5BtngKaZY)
 Avant de lancer la VM, nous avons modifié les fichiers
 "`vboxpostinstall.sh`" et "`preseed-fr.cfg`" pour paramétrer notre VM,
 ainsi que l'uuid dans le fichier viso.
@@ -27,7 +27,7 @@ l'installation de mate :
 
 `tasksel tasksel/first multiselect standard ssh-server, mate-desktop`\
 
-**![](https://lh7-us.googleusercontent.com/NXvSVVd-LuTqc8ObAwmz6XIFKAmHAJZ_OK8OafUy8bNNJKmjDhpUu9oPERd58B_ClqZOfV2UAREMnBZijqGrVuKCphyTQjMiojFAJzsT8ltba8KWeEGLdtXVldk-NC7NrDMONRHsnqa2n-hrjT5Un5s)**\
+**![](https://lh7-us.googleusercontent.com/NXvSVVd-LuTqc8ObAwmz6XIFKAmHAJZ_OK8OafUy8bNNJKmjDhpUu9oPERd58B_ClqZOfV2UAREMnBZijqGrVuKCphyTQjMiojFAJzsT8ltba8KWeEGLdtXVldk-NC7NrDMONRHsnqa2n-hrjT5Un5s)**
 Dans le **vboxpostinstall**, nous avons ajouté dans la partie "Run user
 command" les commandes pour installer les fonctionnalités attendues :\
 **![](https://lh7-us.googleusercontent.com/UNWV9n-fmQzs8ckQ6X1Jv6B-sqRiQcOuRqqGqFoyHddPlooD2WQCCO5Nn3KV80svOt0gnpqwU0Pc20U3ihF7d2KU3x-EEJvqRnc7PBaEbutOic7IBDlwmiBTQYdecS9YvDb325QQ2BqxfhV5BRyTX68)**\
@@ -288,6 +288,5 @@ des outils pour la relecture de code. (Source Wikipédia)
 
 :::
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODU4OTc0MTcsLTE5MjcwMjE1OTFdfQ
-==
+eyJoaXN0b3J5IjpbLTg5MTAyNjQ0MSwtMTkyNzAyMTU5MV19
 -->
