@@ -45,12 +45,8 @@ command" les commandes pour installer les fonctionnalités attendues :\
 
 `log_command_in_target sudo apt-get install neofetch`
 
-Nous avons rencontré quelques soucis à l'installation à cause de ces
-commandes, mais en commentant les 5 dernières lignes *( sudo
-apt-get...)* l'ensemble refonctionnait de nouveau, mais sans les
-installations. \
-Nous avons plus tard réalisé que le problème venait du fait que la commande
-`sudo` attend une entrée utilisateur, ce qui bloquait complètement l'exécution
+Nous avons rencontré quelques soucis à l'installation à cause de ces commandes, mais en commentant les 5 dernières lignes *( sudo apt-get...)* l'ensemble refonctionnait de nouveau, mais sans les installations.
+Nous avons plus tard réalisé que le problème venait du fait que la commande`sudo` attend une entrée utilisateur, ce qui bloquait complètement l'exécution
 du script. De plus, ce script s'exécute déjà en tant que root, alors il nous
 a suffit de retirer `sudo` de toutes les commandes pour que le script
 fonctionne.
@@ -294,5 +290,5 @@ des outils pour la relecture de code. (Source Wikipédia)
 
 :::
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjcwMjE1OTFdfQ==
+eyJoaXN0b3J5IjpbLTYyMzM1OTAyNSwtMTkyNzAyMTU5MV19
 -->
