@@ -61,7 +61,7 @@ Quel est le nom du fichier XML contenant la configuration de votre machine ?
 
 Comment vous modifieriez ce fichier de configuration pour mettre 2 processeurs à votre machine ?
 
-:   -  ** :** Pour mettre 2 processeurs à votre machine, je modifierais le
+:   -  **M:** Pour mettre 2 processeurs à votre machine, je modifierais le
         fichier de configuration en ajoutant la ligne suivante :
         `<vcpu placement='static'>2</vcpu>.`
 
@@ -229,9 +229,9 @@ Comparer-le aux outils inclus avec git (et installé précédemment) ainsi qu'av
 		
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwODgzMzA0NSwtNTI5ODE1MSwzNTc0OT
-E5MDIsLTE4NDM3ODI5ODAsMTgwMjUxNjcxMiwtMTI2MjQwNzcz
-MiwzNjU3Mzg2MzIsMTcwOTg1NTI4NiwtNzE2NTM3MjI2LDY2NT
-kzMTU1LC00NjEwODkzNiwxNzc1NzU2ODE5LC05NDY0MDA4Mywt
-ODkxMDI2NDQxLC0xOTI3MDIxNTkxXX0=
+eyJoaXN0b3J5IjpbLTYwMzU1MjgwMiwtNDA4ODMzMDQ1LC01Mj
+k4MTUxLDM1NzQ5MTkwMiwtMTg0Mzc4Mjk4MCwxODAyNTE2NzEy
+LC0xMjYyNDA3NzMyLDM2NTczODYzMiwxNzA5ODU1Mjg2LC03MT
+Y1MzcyMjYsNjY1OTMxNTUsLTQ2MTA4OTM2LDE3NzU3NTY4MTks
+LTk0NjQwMDgzLC04OTEwMjY0NDEsLTE5MjcwMjE1OTFdfQ==
 -->
