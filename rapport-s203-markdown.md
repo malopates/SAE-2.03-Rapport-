@@ -64,7 +64,7 @@ Comment vous modifieriez ce fichier de configuration pour mettre 2 processeurs �
         fichier de configuration en ajoutant la ligne suivante :
         `<vcpu placement='static'>2</vcpu>.`
         [Source](https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/6/html/virtualization_administration_guide/sect-cpu-allocation#sect-cpu-allocation)
-        
+       
         OU
  :   - **Louis** :   A partir de la commande VboxManage modifyvm, on peut utiliser « --cpus <cpucount> ».
 Ainsi, pour mettre 2 processeurs, il suffit d’ajouter la ligne :
@@ -235,10 +235,10 @@ Comparer-le aux outils inclus avec git (et installé précédemment) ainsi qu'av
 		
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjkyNjM4ODUsLTQwOTE3NjAzMCw0OD
-c3NjU4MzAsLTQwODgzMzA0NSwtNTI5ODE1MSwzNTc0OTE5MDIs
-LTE4NDM3ODI5ODAsMTgwMjUxNjcxMiwtMTI2MjQwNzczMiwzNj
-U3Mzg2MzIsMTcwOTg1NTI4NiwtNzE2NTM3MjI2LDY2NTkzMTU1
-LC00NjEwODkzNiwxNzc1NzU2ODE5LC05NDY0MDA4MywtODkxMD
-I2NDQxLC0xOTI3MDIxNTkxXX0=
+eyJoaXN0b3J5IjpbLTE2NDQyNTQ4MTMsLTIwMjkyNjM4ODUsLT
+QwOTE3NjAzMCw0ODc3NjU4MzAsLTQwODgzMzA0NSwtNTI5ODE1
+MSwzNTc0OTE5MDIsLTE4NDM3ODI5ODAsMTgwMjUxNjcxMiwtMT
+I2MjQwNzczMiwzNjU3Mzg2MzIsMTcwOTg1NTI4NiwtNzE2NTM3
+MjI2LDY2NTkzMTU1LC00NjEwODkzNiwxNzc1NzU2ODE5LC05ND
+Y0MDA4MywtODkxMDI2NDQxLC0xOTI3MDIxNTkxXX0=
 -->
