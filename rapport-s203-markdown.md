@@ -192,7 +192,7 @@ En revanche, nous nous sommes heurté.e.s à des obstacles pour la compilation a
 
 ## 3^ème^ semaine  {#3S}
 
-### ![drawing](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Question_mark_alternate.svg/788px-Question_mark_alternate.svg.png){width="20"}  [Questions]{.mark} : Interfaces graphiques pour *git* 
+### ![drawing](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Question_mark_alternate.svg/788px-Question_mark_alternate.svg.png =20x30): Interfaces graphiques pour *git* 
 
 Qu'est-ce que le logiciel gitk ? Comment se lance-t-il ?
 
@@ -237,7 +237,7 @@ Comparer-le aux outils inclus avec git (et installé précédemment) ainsi qu'av
 		
 ## 4^ème^-semaine
 
-### ![drawing](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Question_mark_alternate.svg/788px-Question_mark_alternate.svg.png){width="20"}  [Questions]{.mark} : Qu'est ce que *Gitea* ? 
+### ![drawing](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Question_mark_alternate.svg/788px-Question_mark_alternate.svg.png =20x30){width="20"}  [Questions]{.mark} : Qu'est ce que *Gitea* ? 
 
 Gitea est une forge logicielle libre en Go sous licence MIT, 
 pour l'hébergement de développement logiciel, basé sur le logiciel 
@@ -245,10 +245,10 @@ de gestion de versions Git pour la gestion du code source,
 comportant un système de suivi des bugs, un wiki, ainsi que 
 des outils pour la relecture de code. (Source Wikipédia)
 
-### ![drawing](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Question_mark_alternate.svg/788px-Question_mark_alternate.svg.png){width="20"}  [Questions]{.mark} : À quels logiciels peut-on le comparer ? 
+### ![drawing](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Question_mark_alternate.svg/788px-Question_mark_alternate.svg.png =20x30) : À quels logiciels peut-on le comparer ? 
 
 
-### ![drawing](https://cdn-icons-png.flaticon.com/512/73/73575.png){width="35"}  [Installation de Gitea]{.mark} 
+### ![drawing](https://cdn-icons-png.flaticon.com/512/73/73575.png =20x30){width="35"}  [Installation de Gitea
 
 - On commence par ajouter la règle de redirection de port
 
@@ -288,5 +288,6 @@ des outils pour la relecture de code. (Source Wikipédia)
 
 :::
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5MTAyNjQ0MSwtMTkyNzAyMTU5MV19
+eyJoaXN0b3J5IjpbLTIxMjg1MTI3MzksLTg5MTAyNjQ0MSwtMT
+kyNzAyMTU5MV19
 -->
