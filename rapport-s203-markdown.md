@@ -56,7 +56,7 @@ Quelle est la configuration réseau utilisée par défaut ?
 
 Quel est le nom du fichier XML contenant la configuration de votre machine ?
 
-:   -   **** : Le nom du fichier XML contenant la configuration de votre
+:   -   **Louis :** Le nom du fichier XML contenant la configuration de votre
         machine est le fichier `debian.xml`, comme le dit le manuel virtualbox  "the XML settings file, with a `.vbox` file extension,
 
 Comment vous modifieriez ce fichier de configuration pour mettre 2 processeurs à votre machine ?
@@ -229,8 +229,9 @@ Comparer-le aux outils inclus avec git (et installé précédemment) ainsi qu'av
 		
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDM3ODI5ODAsMTgwMjUxNjcxMiwtMT
-I2MjQwNzczMiwzNjU3Mzg2MzIsMTcwOTg1NTI4NiwtNzE2NTM3
-MjI2LDY2NTkzMTU1LC00NjEwODkzNiwxNzc1NzU2ODE5LC05ND
-Y0MDA4MywtODkxMDI2NDQxLC0xOTI3MDIxNTkxXX0=
+eyJoaXN0b3J5IjpbMzU3NDkxOTAyLC0xODQzNzgyOTgwLDE4MD
+I1MTY3MTIsLTEyNjI0MDc3MzIsMzY1NzM4NjMyLDE3MDk4NTUy
+ODYsLTcxNjUzNzIyNiw2NjU5MzE1NSwtNDYxMDg5MzYsMTc3NT
+c1NjgxOSwtOTQ2NDAwODMsLTg5MTAyNjQ0MSwtMTkyNzAyMTU5
+MV19
 -->
