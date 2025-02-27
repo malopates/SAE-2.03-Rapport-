@@ -2,7 +2,7 @@ Malori ALVAREZ, Ulysse PETILLON, Louis HUARD
 
 # Rapport SAE 2.03
 
-##  1^ère^-semaine 
+##  1^ère^ semaine 
 
 ### ![Logo PC](https://cdn-icons-png.flaticon.com/512/73/73575.png =50x50) Création de la 1^ère^ VM
 
@@ -229,7 +229,7 @@ Comparer-le aux outils inclus avec git (et installé précédemment) ainsi qu'av
 		
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY1OTMxNTUsLTQ2MTA4OTM2LDE3NzU3NT
-Y4MTksLTk0NjQwMDgzLC04OTEwMjY0NDEsLTE5MjcwMjE1OTFd
-fQ==
+eyJoaXN0b3J5IjpbLTcxNjUzNzIyNiw2NjU5MzE1NSwtNDYxMD
+g5MzYsMTc3NTc1NjgxOSwtOTQ2NDAwODMsLTg5MTAyNjQ0MSwt
+MTkyNzAyMTU5MV19
 -->
