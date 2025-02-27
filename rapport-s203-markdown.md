@@ -46,12 +46,12 @@ fonctionne.
 
 Que signifie "64-bit" dans "Debian 64-bit" ?
 
-:   - **Louis** : C'est la largeur des registres soit la façon dont le processeur gère les informations qu'il doit effectuer, ce qui signifie que Debian peut faire tourner le processeur en 64-bit, et en 32-bit, ce qui n'est pas réciproque (le 32-bit ne fait pas tourner du 64). Pour exploiter ces processeurs à leur plein potentiel, il est nécessaire que les logiciels et l’O.S sur la machine soient compatibles, sinon le processeur se limiterait à tourner en mode 32 bits : c’est la **compatibilité descendante.**
+:   - **Malori** : C'est la largeur des registres soit la façon dont le processeur gère les informations qu'il doit effectuer, ce qui signifie que Debian peut faire tourner le processeur en 64-bit, et en 32-bit, ce qui n'est pas réciproque (le 32-bit ne fait pas tourner du 64). Pour exploiter ces processeurs à leur plein potentiel, il est nécessaire que les logiciels et l’O.S sur la machine soient compatibles, sinon le processeur se limiterait à tourner en mode 32 bits : c’est la **compatibilité descendante.**
 
 Quelle est la configuration réseau utilisée par défaut ?
 
-:   - **Malori** :  La configuration réseau utilisée par défaut est la configuration
-        en mode *NAT*. (Network Adress Translation) 
+:   - **Louis** :  La configuration réseau utilisée par défaut est la configuration
+        en mode *NAT*. (Network Adress Translation) Celui-ci permet à la machine virtuelle de se connecter à Internet sans avoir à lui fournir une adresse I.P sur le réseau locale, car elle utilise la connexion de l’hôte.
 
 
 Quel est le nom du fichier XML contenant la configuration de votre machine ?
@@ -229,7 +229,7 @@ Comparer-le aux outils inclus avec git (et installé précédemment) ainsi qu'av
 		
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxNzk4MTAyMiwxNzA5ODU1Mjg2LC03MT
-Y1MzcyMjYsNjY1OTMxNTUsLTQ2MTA4OTM2LDE3NzU3NTY4MTks
-LTk0NjQwMDgzLC04OTEwMjY0NDEsLTE5MjcwMjE1OTFdfQ==
+eyJoaXN0b3J5IjpbLTE3ODg5OTUyMzAsMTcwOTg1NTI4NiwtNz
+E2NTM3MjI2LDY2NTkzMTU1LC00NjEwODkzNiwxNzc1NzU2ODE5
+LC05NDY0MDA4MywtODkxMDI2NDQxLC0xOTI3MDIxNTkxXX0=
 -->
