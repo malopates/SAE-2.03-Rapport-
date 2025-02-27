@@ -63,6 +63,7 @@ Comment vous modifieriez ce fichier de configuration pour mettre 2 processeurs �
 :   -  ** Malori  :** Pour mettre 2 processeurs à votre machine, je modifierais le
         fichier de configuration en ajoutant la ligne suivante :
         `<vcpu placement='static'>2</vcpu>.`
+        [](https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/6/html/virtualization_administration_guide/sect-cpu-allocation#sect-cpu-allocation)
         OU
  :   - ****  
 
@@ -230,7 +231,7 @@ Comparer-le aux outils inclus avec git (et installé précédemment) ainsi qu'av
 		
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2OTQzODg2MSwtNDA5MTc2MDMwLDQ4Nz
+eyJoaXN0b3J5IjpbMTM4MTI5ODk1MCwtNDA5MTc2MDMwLDQ4Nz
 c2NTgzMCwtNDA4ODMzMDQ1LC01Mjk4MTUxLDM1NzQ5MTkwMiwt
 MTg0Mzc4Mjk4MCwxODAyNTE2NzEyLC0xMjYyNDA3NzMyLDM2NT
 czODYzMiwxNzA5ODU1Mjg2LC03MTY1MzcyMjYsNjY1OTMxNTUs
