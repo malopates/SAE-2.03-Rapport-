@@ -2,13 +2,6 @@ Malori ALVAREZ, Ulysse PETILLON, Louis HUARD
 
 # Rapport SAE 2.03
 
-## Sommaire :
-|[1^ère^-semaine](#1ère-semaine)| [2^ème^-semaine](#2^ème^-semaine) | [3^ème^-semaine](#3^ème^-semaine) | [4^ème^-semaine](#4^ème^-semaine) |
-|--|--|--|--|--| 
-|Placeholder|Placeholder|Placeholder|Placeholder|
-|Placeholder|Placeholder|Placeholder|Placeholder|
-|Placeholder|Placeholder|Placeholder|Placeholder|
-
 ##  1^ère^-semaine 
 
 ### ![Logo PC](https://cdn-icons-png.flaticon.com/512/73/73575.png =50x50) Création de la 1^ère^ VM
@@ -235,59 +228,9 @@ Comparer-le aux outils inclus avec git (et installé précédemment) ainsi qu'av
         stats par utilisateurs et d'actions effectuables simultanément
         sur plusieurs repository sélectionnés (fetch, pull, clone ect).
 		
-## 4^ème^-semaine
 
-### ![drawing](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Question_mark_alternate.svg/788px-Question_mark_alternate.svg.png =20x30) : Qu'est ce que *Gitea* ? 
-
-Gitea est une forge logicielle libre en Go sous licence MIT, 
-pour l'hébergement de développement logiciel, basé sur le logiciel 
-de gestion de versions Git pour la gestion du code source, 
-comportant un système de suivi des bugs, un wiki, ainsi que 
-des outils pour la relecture de code. (Source Wikipédia)
-
-### ![drawing](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Question_mark_alternate.svg/788px-Question_mark_alternate.svg.png =20x30) : À quels logiciels peut-on le comparer ? 
-
-
-### ![drawing](https://cdn-icons-png.flaticon.com/512/73/73575.png =30x30) Installation de Gitea
-
-- On commence par ajouter la règle de redirection de port
-
-![](https://cdn.discordapp.com/attachments/1072839621567856690/1218651902045327391/Sans_titre.png?ex=66087106&is=65f5fc06&hm=9b8d57958b4eb5c5e24f237b782bed7447981b2bdedd1f91e9192ae1eb2f80bb&)
-
-- On utilise wget avec le lien de téléchargement associé à notre version de linux, en l’occurrence : linux-amd64 (cf. Semaine 06 - Question 4)
-
-`> wget -O gitea https://dl.gitea.com/gitea/1.21.7/gitea-1.21.7-linux-amd64`
-
-`> chmod +x gitea`
-
-- Télécharger le fichier asc : <https://dl.gitea.com/gitea/1.21.7/gitea-1.21.7-linux-amd64.asc>
-
-- Ajout des clés binaires
-
-`> gpg --keyserver keys.openpgp.org --recv 7C9E68152594688862D62AF62D9AE806EC1592E2`
-
-`> gpg --verify gitea-1.21.7-linux-amd64.asc gitea`
-
-- Création d’un utilisateur “git”
-
-`>adduser \ --system \ --shell /bin/bash \ --gecos 'Git Version Control' \ --group \ --disabled-password \ --home /home/git \ git`
-
-- Création des dossiers nécessaires
-
-`> mkdir -p /var/lib/gitea/{custom,data,log}`
-
-`chown -R git:git /var/lib/gitea/`
-
-`chmod -R 750 /var/lib/gitea/`
-
-`mkdir /etc/gitea`
-
-`chown root:git /etc/gitea`
-
-`chmod 770 /etc/gitea`
-
-:::
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2MTA4OTM2LDE3NzU3NTY4MTksLTk0Nj
-QwMDgzLC04OTEwMjY0NDEsLTE5MjcwMjE1OTFdfQ==
+eyJoaXN0b3J5IjpbLTIwMzE1NzM0NTgsLTQ2MTA4OTM2LDE3Nz
+U3NTY4MTksLTk0NjQwMDgzLC04OTEwMjY0NDEsLTE5MjcwMjE1
+OTFdfQ==
 -->
