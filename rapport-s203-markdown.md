@@ -208,7 +208,7 @@ Qu'est-ce que le logiciel git-gui ? Comment se lance-t-il ?
 
 Pourquoi avez-vous choisi ce logiciel ?
 
-:   -   Nous avons choisi [GitKraken](https://www.gitkraken.com/) car
+:   -   Nous avons choisi []() car
         son interface semble plus logique, intuitive et esthéthiquement
         plaisante.
 
@@ -230,7 +230,7 @@ Comparer-le aux outils inclus avec git (et installé précédemment) ainsi qu'av
 		
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzE1NzM0NTgsLTQ2MTA4OTM2LDE3Nz
-U3NTY4MTksLTk0NjQwMDgzLC04OTEwMjY0NDEsLTE5MjcwMjE1
-OTFdfQ==
+eyJoaXN0b3J5IjpbMjEwMjg2MDA5OCwtNDYxMDg5MzYsMTc3NT
+c1NjgxOSwtOTQ2NDAwODMsLTg5MTAyNjQ0MSwtMTkyNzAyMTU5
+MV19
 -->
