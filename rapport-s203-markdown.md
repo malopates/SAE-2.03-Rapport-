@@ -23,7 +23,9 @@ l'installation de mate :
 **![](https://lh7-us.googleusercontent.com/NXvSVVd-LuTqc8ObAwmz6XIFKAmHAJZ_OK8OafUy8bNNJKmjDhpUu9oPERd58B_ClqZOfV2UAREMnBZijqGrVuKCphyTQjMiojFAJzsT8ltba8KWeEGLdtXVldk-NC7NrDMONRHsnqa2n-hrjT5Un5s)**
 Dans le **vboxpostinstall**, nous avons ajouté dans la partie "Run user
 command" les commandes pour installer les fonctionnalités attendues :\
-**![](https://lh7-us.googleusercontent.com/UNWV9n-fmQzs8ckQ6X1Jv6B-sqRiQcOuRqqGqFoyHddPlooD2WQCCO5Nn3KV80svOt0gnpqwU0Pc20U3ihF7d2KU3x-EEJvqRnc7PBaEbutOic7IBDlwmiBTQYdecS9YvDb325QQ2BqxfhV5BRyTX68)**\
+
+Soit au lancement de la machine grâce à la commande `log_command_in_target`
+
 `log_command_in_target usermod -a -G sudo user`
 
 `log_command_in_target apt-get install sudo`
@@ -234,11 +236,11 @@ Comparer-le aux outils inclus avec git (et installé précédemment) ainsi qu'av
 		
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0MDk4MzA4MywxNTQ0MjU5MTE2LC02OD
-gzOTcyMDgsLTQxMzI3MTk4Miw4NzEyNzgyOCw3MDA0MjkxNTIs
-LTE2NDQyNTQ4MTMsLTIwMjkyNjM4ODUsLTQwOTE3NjAzMCw0OD
-c3NjU4MzAsLTQwODgzMzA0NSwtNTI5ODE1MSwzNTc0OTE5MDIs
-LTE4NDM3ODI5ODAsMTgwMjUxNjcxMiwtMTI2MjQwNzczMiwzNj
-U3Mzg2MzIsMTcwOTg1NTI4NiwtNzE2NTM3MjI2LDY2NTkzMTU1
-XX0=
+eyJoaXN0b3J5IjpbLTEyOTExNjY5NCwtOTQwOTgzMDgzLDE1ND
+QyNTkxMTYsLTY4ODM5NzIwOCwtNDEzMjcxOTgyLDg3MTI3ODI4
+LDcwMDQyOTE1MiwtMTY0NDI1NDgxMywtMjAyOTI2Mzg4NSwtND
+A5MTc2MDMwLDQ4Nzc2NTgzMCwtNDA4ODMzMDQ1LC01Mjk4MTUx
+LDM1NzQ5MTkwMiwtMTg0Mzc4Mjk4MCwxODAyNTE2NzEyLC0xMj
+YyNDA3NzMyLDM2NTczODYzMiwxNzA5ODU1Mjg2LC03MTY1Mzcy
+MjZdfQ==
 -->
