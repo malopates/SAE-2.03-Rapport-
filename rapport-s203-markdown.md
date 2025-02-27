@@ -190,7 +190,7 @@ En revanche, nous nous sommes heurté.e.s à des obstacles pour la compilation a
 
 ## 3^ème^-semaine 
 
-### ![drawing](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Question_mark_alternate.svg/788px-Question_mark_alternate.svg.png =20x30): Interfaces graphiques pour *git* 
+### ![drawing](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Question_mark_alternate.svg/788px-Question_mark_alternate.svg.png =20x30)   Interfaces graphiques pour *git* 
 
 Qu'est-ce que le logiciel gitk ? Comment se lance-t-il ?
 
@@ -210,6 +210,7 @@ Qu'est-ce que le logiciel git-gui ? Comment se lance-t-il ?
         commit et l'annotation de fichiers uniques et n'affiche pas
         l'historique du projet. Il fournit cependant des actions de menu
         pour démarrer une session gitk à partir de git gui.
+[https://git-scm.com/docs/git-gui/fr]
 
 Pourquoi avez-vous choisi ce logiciel ?
 
@@ -234,7 +235,7 @@ Comparer-le aux outils inclus avec git (et installé précédemment) ainsi qu'av
 		
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5ODU2NjI2MCwtNDEzMjcxOTgyLDg3MT
+eyJoaXN0b3J5IjpbLTY4ODM5NzIwOCwtNDEzMjcxOTgyLDg3MT
 I3ODI4LDcwMDQyOTE1MiwtMTY0NDI1NDgxMywtMjAyOTI2Mzg4
 NSwtNDA5MTc2MDMwLDQ4Nzc2NTgzMCwtNDA4ODMzMDQ1LC01Mj
 k4MTUxLDM1NzQ5MTkwMiwtMTg0Mzc4Mjk4MCwxODAyNTE2NzEy
