@@ -46,11 +46,11 @@ fonctionne.
 
 Que signifie "64-bit" dans "Debian 64-bit" ?
 
-:   -   C'est la largeur des registres soit la façon dont le processeur gère les informations qu'il doit effectuer, ce qui signifie que Debian peut faire tourner le processeur en 64 bit, et en 32-bit, ce qui n'est pas réciproque (le 32-bit ne fait pas tourner du 64).
+:   - Malori : C'est la largeur des registres soit la façon dont le processeur gère les informations qu'il doit effectuer, ce qui signifie que Debian peut faire tourner le processeur en 64 bit, et en 32-bit, ce qui n'est pas réciproque (le 32-bit ne fait pas tourner du 64).
 
 Quelle est la configuration réseau utilisée par défaut ?
 
-:   -   La configuration réseau utilisée par défaut est la configuration
+:   -  La configuration réseau utilisée par défaut est la configuration
         en mode *NAT*.
 
 
@@ -229,7 +229,7 @@ Comparer-le aux outils inclus avec git (et installé précédemment) ainsi qu'av
 		
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxNjUzNzIyNiw2NjU5MzE1NSwtNDYxMD
-g5MzYsMTc3NTc1NjgxOSwtOTQ2NDAwODMsLTg5MTAyNjQ0MSwt
-MTkyNzAyMTU5MV19
+eyJoaXN0b3J5IjpbODI3OTA0NzQsLTcxNjUzNzIyNiw2NjU5Mz
+E1NSwtNDYxMDg5MzYsMTc3NTc1NjgxOSwtOTQ2NDAwODMsLTg5
+MTAyNjQ0MSwtMTkyNzAyMTU5MV19
 -->
