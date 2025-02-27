@@ -57,8 +57,7 @@ Quelle est la configuration réseau utilisée par défaut ?
 Quel est le nom du fichier XML contenant la configuration de votre machine ?
 
 :   -   Le nom du fichier XML contenant la configuration de votre
-        machine est le fichier `debian.xml`
-        Le nom fichier XML qui contient la configuration de la machine est « sae203.vbox ».
+        machine est le fichier `debian.xml`, comme le dit "the XML settings file, with a `.vbox` file extension,
 
 Comment vous modifieriez ce fichier de configuration pour mettre 2 processeurs à votre machine ?
 
@@ -230,8 +229,8 @@ Comparer-le aux outils inclus avec git (et installé précédemment) ainsi qu'av
 		
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjI0MDc3MzIsMzY1NzM4NjMyLDE3MD
-k4NTUyODYsLTcxNjUzNzIyNiw2NjU5MzE1NSwtNDYxMDg5MzYs
-MTc3NTc1NjgxOSwtOTQ2NDAwODMsLTg5MTAyNjQ0MSwtMTkyNz
-AyMTU5MV19
+eyJoaXN0b3J5IjpbMTA3MDk3NDc0MywtMTI2MjQwNzczMiwzNj
+U3Mzg2MzIsMTcwOTg1NTI4NiwtNzE2NTM3MjI2LDY2NTkzMTU1
+LC00NjEwODkzNiwxNzc1NzU2ODE5LC05NDY0MDA4MywtODkxMD
+I2NDQxLC0xOTI3MDIxNTkxXX0=
 -->
