@@ -56,12 +56,11 @@ Quelle est la configuration réseau utilisée par défaut ?
 
 Quel est le nom du fichier XML contenant la configuration de votre machine ?
 
-:   -   **Louis :** Le nom du fichier XML contenant la configuration de votre
-        machine est le fichier `sae203.vbox`, comme le dit le manuel virtualbox  "the XML settings file, with a `.vbox` file extension."
+:   -   **Louis :** Le nom du fichier XML contenant la configuration de votre machine est le fichier `sae203.vbox`, (```` comme le dit le manuel virtualbox  "the XML settings file, with a `.vbox` file extension."
 
 Comment vous modifieriez ce fichier de configuration pour mettre 2 processeurs à votre machine ?
 
-:   -  **M:** Pour mettre 2 processeurs à votre machine, je modifierais le
+:   -  **Ulysse :** Pour mettre 2 processeurs à votre machine, je modifierais le
         fichier de configuration en ajoutant la ligne suivante :
         `<vcpu placement='static'>2</vcpu>.`
 
@@ -229,9 +228,9 @@ Comparer-le aux outils inclus avec git (et installé précédemment) ainsi qu'av
 		
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwMzU1MjgwMiwtNDA4ODMzMDQ1LC01Mj
-k4MTUxLDM1NzQ5MTkwMiwtMTg0Mzc4Mjk4MCwxODAyNTE2NzEy
-LC0xMjYyNDA3NzMyLDM2NTczODYzMiwxNzA5ODU1Mjg2LC03MT
-Y1MzcyMjYsNjY1OTMxNTUsLTQ2MTA4OTM2LDE3NzU3NTY4MTks
-LTk0NjQwMDgzLC04OTEwMjY0NDEsLTE5MjcwMjE1OTFdfQ==
+eyJoaXN0b3J5IjpbLTE5MDg2ODQ0ODQsLTQwODgzMzA0NSwtNT
+I5ODE1MSwzNTc0OTE5MDIsLTE4NDM3ODI5ODAsMTgwMjUxNjcx
+MiwtMTI2MjQwNzczMiwzNjU3Mzg2MzIsMTcwOTg1NTI4NiwtNz
+E2NTM3MjI2LDY2NTkzMTU1LC00NjEwODkzNiwxNzc1NzU2ODE5
+LC05NDY0MDA4MywtODkxMDI2NDQxLC0xOTI3MDIxNTkxXX0=
 -->
