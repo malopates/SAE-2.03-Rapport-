@@ -51,7 +51,7 @@ Que signifie "64-bit" dans "Debian 64-bit" ?
 Quelle est la configuration réseau utilisée par défaut ?
 
 :   - **Louis** :  La configuration réseau utilisée par défaut est la configuration
-        en mode *NAT*. (Network Adress Translation) Celui-ci permet à la machine virtuelle de se connecter à Internet sans avoir à lui fournir une adresse I.P sur le réseau locale, car elle utilise la connexion de l’hôte.
+        en mode *NAT*. (Network Adress Translation) Celui-ci permet à la machine virtuelle de se connecter à Internet sans avoir            à lui fournir une adresse I.P sur le réseau locale, car elle utilise la connexion de l’hôte.
 
 
 Quel est le nom du fichier XML contenant la configuration de votre machine ?
@@ -229,8 +229,8 @@ Comparer-le aux outils inclus avec git (et installé précédemment) ainsi qu'av
 		
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODM1MTkxODYsLTEyNjI0MDc3MzIsMz
-Y1NzM4NjMyLDE3MDk4NTUyODYsLTcxNjUzNzIyNiw2NjU5MzE1
-NSwtNDYxMDg5MzYsMTc3NTc1NjgxOSwtOTQ2NDAwODMsLTg5MT
-AyNjQ0MSwtMTkyNzAyMTU5MV19
+eyJoaXN0b3J5IjpbMTgwMjUxNjcxMiwtMTI2MjQwNzczMiwzNj
+U3Mzg2MzIsMTcwOTg1NTI4NiwtNzE2NTM3MjI2LDY2NTkzMTU1
+LC00NjEwODkzNiwxNzc1NzU2ODE5LC05NDY0MDA4MywtODkxMD
+I2NDQxLC0xOTI3MDIxNTkxXX0=
 -->
