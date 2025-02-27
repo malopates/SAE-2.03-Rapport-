@@ -76,7 +76,7 @@ Qu'est-ce qu'un fichier iso bootable ?
 
 :   -   Un fichier iso bootable est un fichier qui s'exécute au
         démarrage de la VM et qui contient une instance d'un système
-        d'exploitation. Il permet de créer la machine.
+        d'exploitation. Il permet de créer la machine. 
 
 Qu'est-ce que MATE ? GNOME ?
 
@@ -234,11 +234,11 @@ Comparer-le aux outils inclus avec git (et installé précédemment) ainsi qu'av
 		
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0NDI1OTExNiwtNjg4Mzk3MjA4LC00MT
-MyNzE5ODIsODcxMjc4MjgsNzAwNDI5MTUyLC0xNjQ0MjU0ODEz
-LC0yMDI5MjYzODg1LC00MDkxNzYwMzAsNDg3NzY1ODMwLC00MD
-g4MzMwNDUsLTUyOTgxNTEsMzU3NDkxOTAyLC0xODQzNzgyOTgw
-LDE4MDI1MTY3MTIsLTEyNjI0MDc3MzIsMzY1NzM4NjMyLDE3MD
-k4NTUyODYsLTcxNjUzNzIyNiw2NjU5MzE1NSwtNDYxMDg5MzZd
-fQ==
+eyJoaXN0b3J5IjpbLTE1MzQzNzQ3MiwxNTQ0MjU5MTE2LC02OD
+gzOTcyMDgsLTQxMzI3MTk4Miw4NzEyNzgyOCw3MDA0MjkxNTIs
+LTE2NDQyNTQ4MTMsLTIwMjkyNjM4ODUsLTQwOTE3NjAzMCw0OD
+c3NjU4MzAsLTQwODgzMzA0NSwtNTI5ODE1MSwzNTc0OTE5MDIs
+LTE4NDM3ODI5ODAsMTgwMjUxNjcxMiwtMTI2MjQwNzczMiwzNj
+U3Mzg2MzIsMTcwOTg1NTI4NiwtNzE2NTM3MjI2LDY2NTkzMTU1
+XX0=
 -->
