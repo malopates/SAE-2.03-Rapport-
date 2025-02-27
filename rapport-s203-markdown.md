@@ -58,6 +58,7 @@ Quel est le nom du fichier XML contenant la configuration de votre machine ?
 
 :   -   Le nom du fichier XML contenant la configuration de votre
         machine est le fichier `debian.xml`
+        Le nom fichier XML qui contient la configuration de la machine est « sae203.vbox ».
 
 Comment vous modifieriez ce fichier de configuration pour mettre 2 processeurs à votre machine ?
 
@@ -229,7 +230,7 @@ Comparer-le aux outils inclus avec git (et installé précédemment) ainsi qu'av
 		
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODg5OTUyMzAsMTcwOTg1NTI4NiwtNz
-E2NTM3MjI2LDY2NTkzMTU1LC00NjEwODkzNiwxNzc1NzU2ODE5
-LC05NDY0MDA4MywtODkxMDI2NDQxLC0xOTI3MDIxNTkxXX0=
+eyJoaXN0b3J5IjpbMzY1NzM4NjMyLDE3MDk4NTUyODYsLTcxNj
+UzNzIyNiw2NjU5MzE1NSwtNDYxMDg5MzYsMTc3NTc1NjgxOSwt
+OTQ2NDAwODMsLTg5MTAyNjQ0MSwtMTkyNzAyMTU5MV19
 -->
