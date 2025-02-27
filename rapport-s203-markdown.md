@@ -69,7 +69,7 @@ Comment vous modifieriez ce fichier de configuration pour mettre 2 processeurs �
  :   - **Louis** :   A partir de la commande VboxManage modifyvm, on peut utiliser « --cpus <cpucount> ».
 Ainsi, pour mettre 2 processeurs, il suffit d’ajouter la ligne :
 ```VboxManage modifyvm --cpus 2```
-[Source](https://docs.redhat.com/en/documentation)
+[Source]()
 
 ### ![drawing](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Question_mark_alternate.svg/788px-Question_mark_alternate.svg.png =20x30) Installation OS de base 
 
@@ -235,10 +235,10 @@ Comparer-le aux outils inclus avec git (et installé précédemment) ainsi qu'av
 		
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3NjcwODY4MywtNDA5MTc2MDMwLDQ4Nz
-c2NTgzMCwtNDA4ODMzMDQ1LC01Mjk4MTUxLDM1NzQ5MTkwMiwt
-MTg0Mzc4Mjk4MCwxODAyNTE2NzEyLC0xMjYyNDA3NzMyLDM2NT
-czODYzMiwxNzA5ODU1Mjg2LC03MTY1MzcyMjYsNjY1OTMxNTUs
-LTQ2MTA4OTM2LDE3NzU3NTY4MTksLTk0NjQwMDgzLC04OTEwMj
-Y0NDEsLTE5MjcwMjE1OTFdfQ==
+eyJoaXN0b3J5IjpbLTIwMjkyNjM4ODUsLTQwOTE3NjAzMCw0OD
+c3NjU4MzAsLTQwODgzMzA0NSwtNTI5ODE1MSwzNTc0OTE5MDIs
+LTE4NDM3ODI5ODAsMTgwMjUxNjcxMiwtMTI2MjQwNzczMiwzNj
+U3Mzg2MzIsMTcwOTg1NTI4NiwtNzE2NTM3MjI2LDY2NTkzMTU1
+LC00NjEwODkzNiwxNzc1NzU2ODE5LC05NDY0MDA4MywtODkxMD
+I2NDQxLC0xOTI3MDIxNTkxXX0=
 -->
