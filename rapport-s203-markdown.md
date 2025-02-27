@@ -46,7 +46,7 @@ fonctionne.
 
 Que signifie "64-bit" dans "Debian 64-bit" ?
 
-:   - **Malori** : C'est la largeur des registres soit la façon dont le processeur gère les informations qu'il doit effectuer, ce qui signifie que Debian peut faire tourner le processeur en 64 bit, et en 32-bit, ce qui n'est pas réciproque (le 32-bit ne fait pas tourner du 64).
+:   - **Louis** : C'est la largeur des registres soit la façon dont le processeur gère les informations qu'il doit effectuer, ce qui signifie que Debian peut faire tourner le processeur en 64 bit, et en 32-bit, ce qui n'est pas réciproque (le 32-bit ne fait pas tourner du 64). Pour exploiter ces processeurs à leur plein potentiel, il est nécessaire que les logiciels et l’O.S sur la machine soient compatibles, sinon le processeur se limiterait à tourner en mode 32 bits : c’est la **compatibilité descendante.**
 
 Quelle est la configuration réseau utilisée par défaut ?
 
@@ -229,7 +229,7 @@ Comparer-le aux outils inclus avec git (et installé précédemment) ainsi qu'av
 		
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyOTUxODY2NiwtNzE2NTM3MjI2LDY2NT
-kzMTU1LC00NjEwODkzNiwxNzc1NzU2ODE5LC05NDY0MDA4Mywt
-ODkxMDI2NDQxLC0xOTI3MDIxNTkxXX0=
+eyJoaXN0b3J5IjpbLTIwNDAxMjU5NzUsLTcxNjUzNzIyNiw2Nj
+U5MzE1NSwtNDYxMDg5MzYsMTc3NTc1NjgxOSwtOTQ2NDAwODMs
+LTg5MTAyNjQ0MSwtMTkyNzAyMTU5MV19
 -->
