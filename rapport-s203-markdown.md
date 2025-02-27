@@ -50,8 +50,8 @@ Que signifie "64-bit" dans "Debian 64-bit" ?
 
 Quelle est la configuration réseau utilisée par défaut ?
 
-:   -  La configuration réseau utilisée par défaut est la configuration
-        en mode *NAT*.
+:   - **Malori** :  La configuration réseau utilisée par défaut est la configuration
+        en mode *NAT*. (Network Adress Translation) 
 
 
 Quel est le nom du fichier XML contenant la configuration de votre machine ?
@@ -229,7 +229,7 @@ Comparer-le aux outils inclus avec git (et installé précédemment) ainsi qu'av
 		
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwOTg1NTI4NiwtNzE2NTM3MjI2LDY2NT
-kzMTU1LC00NjEwODkzNiwxNzc1NzU2ODE5LC05NDY0MDA4Mywt
-ODkxMDI2NDQxLC0xOTI3MDIxNTkxXX0=
+eyJoaXN0b3J5IjpbMTcxNzk4MTAyMiwxNzA5ODU1Mjg2LC03MT
+Y1MzcyMjYsNjY1OTMxNTUsLTQ2MTA4OTM2LDE3NzU3NTY4MTks
+LTk0NjQwMDgzLC04OTEwMjY0NDEsLTE5MjcwMjE1OTFdfQ==
 -->
