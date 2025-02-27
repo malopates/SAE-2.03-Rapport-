@@ -99,8 +99,8 @@ Qu'est-ce qu'un serveur mandataire ?
 :   -   Un serveur mandataire est un serveur qui permet de filtrer les
         requêtes des clients.
 
-### 
-![question](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Question_mark_alternate.svg/788px-Question_mark_alternate.svg.png =20x30)Sudo 
+###  
+![question](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Question_mark_alternate.svg/788px-Question_mark_alternate.svg.png =20x30)
 
 Comment peux-ton savoir à quels groupes appartient l'utilisateur user ?
 
@@ -235,11 +235,11 @@ Comparer-le aux outils inclus avec git (et installé précédemment) ainsi qu'av
 		
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Nzc3MjY1OTUsNzAwNDI5MTUyLC0xNj
-Q0MjU0ODEzLC0yMDI5MjYzODg1LC00MDkxNzYwMzAsNDg3NzY1
-ODMwLC00MDg4MzMwNDUsLTUyOTgxNTEsMzU3NDkxOTAyLC0xOD
-QzNzgyOTgwLDE4MDI1MTY3MTIsLTEyNjI0MDc3MzIsMzY1NzM4
-NjMyLDE3MDk4NTUyODYsLTcxNjUzNzIyNiw2NjU5MzE1NSwtND
-YxMDg5MzYsMTc3NTc1NjgxOSwtOTQ2NDAwODMsLTg5MTAyNjQ0
-MV19
+eyJoaXN0b3J5IjpbODcxMjc4MjgsNzAwNDI5MTUyLC0xNjQ0Mj
+U0ODEzLC0yMDI5MjYzODg1LC00MDkxNzYwMzAsNDg3NzY1ODMw
+LC00MDg4MzMwNDUsLTUyOTgxNTEsMzU3NDkxOTAyLC0xODQzNz
+gyOTgwLDE4MDI1MTY3MTIsLTEyNjI0MDc3MzIsMzY1NzM4NjMy
+LDE3MDk4NTUyODYsLTcxNjUzNzIyNiw2NjU5MzE1NSwtNDYxMD
+g5MzYsMTc3NTc1NjgxOSwtOTQ2NDAwODMsLTg5MTAyNjQ0MV19
+
 -->
