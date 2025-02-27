@@ -9,7 +9,7 @@ Malori ALVAREZ, Ulysse PETILLON, Louis HUARD
 |Placeholder|Placeholder|Placeholder|Placeholder|
 |Placeholder|Placeholder|Placeholder|Placeholder|
 
-##  1^ère^ semaine 
+##  1^ère^-semaine 
 
 ### ![Logo PC](https://cdn-icons-png.flaticon.com/512/73/73575.png =50x50) Création de la 1^ère^ VM
 
@@ -166,7 +166,7 @@ Quel a été le premier nom de code utilisé ?
 
 :   -   Le premier nom de code utilisé était Buzz.
 
-## 2^ème^ semaine  
+## 2^ème^-semaine  
 
 Nous nous sommes initié au **Markdown** via les sites qui nous ont été
 fournis pour s'exercer
@@ -190,7 +190,7 @@ L'utilisation de l'option -\-template permet, par exemple, de donner un titre à
 
 En revanche, nous nous sommes heurté.e.s à des obstacles pour la compilation au format PDF avec pdflatex.
 
-## 3^ème^ semaine  {#3S}
+## 3^ème^-semaine 
 
 ### ![drawing](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Question_mark_alternate.svg/788px-Question_mark_alternate.svg.png =20x30): Interfaces graphiques pour *git* 
 
@@ -235,7 +235,7 @@ Comparer-le aux outils inclus avec git (et installé précédemment) ainsi qu'av
         stats par utilisateurs et d'actions effectuables simultanément
         sur plusieurs repository sélectionnés (fetch, pull, clone ect).
 		
-## 4^ème^ semaine
+## 4^ème^-semaine
 
 ### ![drawing](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Question_mark_alternate.svg/788px-Question_mark_alternate.svg.png =20x30) : Qu'est ce que *Gitea* ? 
 
@@ -288,6 +288,6 @@ des outils pour la relecture de code. (Source Wikipédia)
 
 :::
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3NTc1NjgxOSwtOTQ2NDAwODMsLTg5MT
-AyNjQ0MSwtMTkyNzAyMTU5MV19
+eyJoaXN0b3J5IjpbLTQ2MTA4OTM2LDE3NzU3NTY4MTksLTk0Nj
+QwMDgzLC04OTEwMjY0NDEsLTE5MjcwMjE1OTFdfQ==
 -->
