@@ -74,7 +74,7 @@ Ainsi, pour mettre 2 processeurs, il suffit d’ajouter la ligne :
 
 Qu'est-ce qu'un fichier iso bootable ?
 
-:   -   Un fichier iso bootable est un fichier qui s'exécute au
+:   -  **Ulysse** :  Un fichier iso bootable est un fichier qui s'exécute au
         démarrage de la VM et qui contient une instance d'un système
         d'exploitation. Il permet de créer la machine. 
 
@@ -234,7 +234,7 @@ Comparer-le aux outils inclus avec git (et installé précédemment) ainsi qu'av
 		
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzQzNzQ3MiwxNTQ0MjU5MTE2LC02OD
+eyJoaXN0b3J5IjpbLTk0MDk4MzA4MywxNTQ0MjU5MTE2LC02OD
 gzOTcyMDgsLTQxMzI3MTk4Miw4NzEyNzgyOCw3MDA0MjkxNTIs
 LTE2NDQyNTQ4MTMsLTIwMjkyNjM4ODUsLTQwOTE3NjAzMCw0OD
 c3NjU4MzAsLTQwODgzMzA0NSwtNTI5ODE1MSwzNTc0OTE5MDIs
