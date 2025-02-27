@@ -196,7 +196,7 @@ Qu'est-ce que le logiciel gitk ? Comment se lance-t-il ?
 
 :   -   gitk est un navigateur de dépôt graphique qui permet de voir nos
         branches et nos commits, pulls, push, etc. sur git. Il se lance
-        depuis le terminal depuis un dépôt.
+        depuis le terminal depuis un dépôt. 
 
 Qu'est-ce que le logiciel git-gui ? Comment se lance-t-il ?
 
@@ -234,11 +234,11 @@ Comparer-le aux outils inclus avec git (et installé précédemment) ainsi qu'av
 		
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxMzI3MTk4Miw4NzEyNzgyOCw3MDA0Mj
-kxNTIsLTE2NDQyNTQ4MTMsLTIwMjkyNjM4ODUsLTQwOTE3NjAz
-MCw0ODc3NjU4MzAsLTQwODgzMzA0NSwtNTI5ODE1MSwzNTc0OT
-E5MDIsLTE4NDM3ODI5ODAsMTgwMjUxNjcxMiwtMTI2MjQwNzcz
-MiwzNjU3Mzg2MzIsMTcwOTg1NTI4NiwtNzE2NTM3MjI2LDY2NT
-kzMTU1LC00NjEwODkzNiwxNzc1NzU2ODE5LC05NDY0MDA4M119
-
+eyJoaXN0b3J5IjpbLTc5ODU2NjI2MCwtNDEzMjcxOTgyLDg3MT
+I3ODI4LDcwMDQyOTE1MiwtMTY0NDI1NDgxMywtMjAyOTI2Mzg4
+NSwtNDA5MTc2MDMwLDQ4Nzc2NTgzMCwtNDA4ODMzMDQ1LC01Mj
+k4MTUxLDM1NzQ5MTkwMiwtMTg0Mzc4Mjk4MCwxODAyNTE2NzEy
+LC0xMjYyNDA3NzMyLDM2NTczODYzMiwxNzA5ODU1Mjg2LC03MT
+Y1MzcyMjYsNjY1OTMxNTUsLTQ2MTA4OTM2LDE3NzU3NTY4MTld
+fQ==
 -->
