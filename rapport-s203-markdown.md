@@ -69,7 +69,7 @@ Comment vous modifieriez ce fichier de configuration pour mettre 2 processeurs �
  :   - **Louis** :   A partir de la commande VboxManage modifyvm, on peut utiliser « --cpus <cpucount> ».
 Ainsi, pour mettre 2 processeurs, il suffit d’ajouter la ligne :
 ```VboxManage modifyvm --cpus 2```
-[Source]()
+[Source](https://docs.oracle.com/en/virtualization/virtualbox/6.0/user/vboxmanage-modifyvm.html)
 
 ### ![drawing](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Question_mark_alternate.svg/788px-Question_mark_alternate.svg.png =20x30) Installation OS de base 
 
@@ -235,10 +235,11 @@ Comparer-le aux outils inclus avec git (et installé précédemment) ainsi qu'av
 		
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDQyNTQ4MTMsLTIwMjkyNjM4ODUsLT
-QwOTE3NjAzMCw0ODc3NjU4MzAsLTQwODgzMzA0NSwtNTI5ODE1
-MSwzNTc0OTE5MDIsLTE4NDM3ODI5ODAsMTgwMjUxNjcxMiwtMT
-I2MjQwNzczMiwzNjU3Mzg2MzIsMTcwOTg1NTI4NiwtNzE2NTM3
-MjI2LDY2NTkzMTU1LC00NjEwODkzNiwxNzc1NzU2ODE5LC05ND
-Y0MDA4MywtODkxMDI2NDQxLC0xOTI3MDIxNTkxXX0=
+eyJoaXN0b3J5IjpbNzAwNDI5MTUyLC0xNjQ0MjU0ODEzLC0yMD
+I5MjYzODg1LC00MDkxNzYwMzAsNDg3NzY1ODMwLC00MDg4MzMw
+NDUsLTUyOTgxNTEsMzU3NDkxOTAyLC0xODQzNzgyOTgwLDE4MD
+I1MTY3MTIsLTEyNjI0MDc3MzIsMzY1NzM4NjMyLDE3MDk4NTUy
+ODYsLTcxNjUzNzIyNiw2NjU5MzE1NSwtNDYxMDg5MzYsMTc3NT
+c1NjgxOSwtOTQ2NDAwODMsLTg5MTAyNjQ0MSwtMTkyNzAyMTU5
+MV19
 -->
