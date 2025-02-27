@@ -209,8 +209,7 @@ Qu'est-ce que le logiciel git-gui ? Comment se lance-t-il ?
 Pourquoi avez-vous choisi ce logiciel ?
 
 :   -   Nous avons choisi [Gittyup](https://murmele.github.io/Gittyup/) car
-        son interface semble plus logique, intuitive et esthéthiquement
-        plaisante.
+        c'est un logiciel open-source, son interface le rend facile d'utilisation, et sa license est MIT
 
 Comment l'avez vous installé ?
 
@@ -230,7 +229,7 @@ Comparer-le aux outils inclus avec git (et installé précédemment) ainsi qu'av
 		
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4MDc0ODQ0MywtNDYxMDg5MzYsMTc3NT
-c1NjgxOSwtOTQ2NDAwODMsLTg5MTAyNjQ0MSwtMTkyNzAyMTU5
-MV19
+eyJoaXN0b3J5IjpbLTExNTM3NDQzMDIsLTQ2MTA4OTM2LDE3Nz
+U3NTY4MTksLTk0NjQwMDgzLC04OTEwMjY0NDEsLTE5MjcwMjE1
+OTFdfQ==
 -->
