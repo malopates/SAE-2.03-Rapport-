@@ -100,7 +100,7 @@ Qu'est-ce qu'un serveur mandataire ?
         requêtes des clients.
 
 ### 
-![question](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Question_mark_alternate.svg/788px-Question_mark_alternate.svg.png =20x30) Sudo 
+![question](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Question_mark_alternate.svg/788px-Question_mark_alternate.svg.png =20x30)Sudo 
 
 Comment peux-ton savoir à quels groupes appartient l'utilisateur user ?
 
@@ -235,11 +235,11 @@ Comparer-le aux outils inclus avec git (et installé précédemment) ainsi qu'av
 		
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NDQ1ODQ2Nyw3MDA0MjkxNTIsLTE2ND
-QyNTQ4MTMsLTIwMjkyNjM4ODUsLTQwOTE3NjAzMCw0ODc3NjU4
-MzAsLTQwODgzMzA0NSwtNTI5ODE1MSwzNTc0OTE5MDIsLTE4ND
-M3ODI5ODAsMTgwMjUxNjcxMiwtMTI2MjQwNzczMiwzNjU3Mzg2
-MzIsMTcwOTg1NTI4NiwtNzE2NTM3MjI2LDY2NTkzMTU1LC00Nj
-EwODkzNiwxNzc1NzU2ODE5LC05NDY0MDA4MywtODkxMDI2NDQx
-XX0=
+eyJoaXN0b3J5IjpbLTE5Nzc3MjY1OTUsNzAwNDI5MTUyLC0xNj
+Q0MjU0ODEzLC0yMDI5MjYzODg1LC00MDkxNzYwMzAsNDg3NzY1
+ODMwLC00MDg4MzMwNDUsLTUyOTgxNTEsMzU3NDkxOTAyLC0xOD
+QzNzgyOTgwLDE4MDI1MTY3MTIsLTEyNjI0MDc3MzIsMzY1NzM4
+NjMyLDE3MDk4NTUyODYsLTcxNjUzNzIyNiw2NjU5MzE1NSwtND
+YxMDg5MzYsMTc3NTc1NjgxOSwtOTQ2NDAwODMsLTg5MTAyNjQ0
+MV19
 -->
