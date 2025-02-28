@@ -371,28 +371,24 @@ Comment l'avez vous installé ?
 la semaine 1, nous n'avons plus qu'à configurer le logiciel. Pour cela, il suffit d'utiliser
 la commande :
 
-```bash 
-git config --global user.name "Prénom Nom" &&
-git config --global user.email "votre@email" &&
-git config --global init.defaultBranch "master"
-```
-****_
-
-: - **Louis**
- La commande `git config` sert, comme son nom l'indique, à configurer git sur la machine.
+		```bash 
+		git config --global user.name "Prénom Nom" &&
+		git config --global user.email "votre@email" &&
+		git config --global init.defaultBranch "master"
+		```
+		 La commande `git config` sert, comme son nom l'indique, à configurer git sur la machine.
  
-L'option `--global`est un des trois niveau de configuration de git :
+		L'option `--global`est un des trois niveau de configuration de git :
 
-- `--local`: limite la configuration au dépôt dans lequel la fonction est invoquée. 
+		- `--local`: limite la configuration au dépôt dans lequel la fonction est invoquée. 
 C'est la configuration par défaut.
 
-- `--global`: permet d'étendre la configuration à l'utilisateur, à travers l'entiereté de l'O.S
+		- `--global`: permet d'étendre la configuration à l'utilisateur, à travers l'entiereté de l'O.S
 
-- `--system`: étend la configuration à tous les utilisateurs et tous les dépôts présent sur le système
+		- `--system`: étend la configuration à tous les utilisateurs et tous les dépôts présent sur le système
  La 3e ligne, `int.defaultBranch "master"` évite un avertissement à la création d'une branche par défaut
 
-Pour plus d'informations, utilisez `man git config`
-(`&&` permet d'enchaîner les 3 commandes en une seule ligne) 
+			**Pour plus d'informations, utilisez `man git config` (`&&` permet d'enchaîner les 3 commandes en une seule ligne)*
 
 [Sources](https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-config)
 
@@ -403,11 +399,11 @@ L’arborescence est facilement lisible, ce qui fait gagner du temps à l'utilis
 		
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTExMDEzNzYsMzU0NTQwNTgxLDE0NTQ3Nj
-E0MDEsMTkyODczNDI3MCwxNTgzOTUyMTc5LC03MDczMjg2OTAs
-ODU2MDUyNDk2LDE5NTk5ODM4MDEsLTEwNDQ2MDAyMjQsNjQ5Nj
-MyMjEsLTEyMzk1MTM3MDcsLTEwMDU1MzMyNSwxOTE4NTM0ODE2
-LC0zMzk3OTE4MTQsMTA5MDcyOTExNSw0ODA0NDQ5OCw1MjcwMT
-QwNTgsLTEyOTExNjY5NCwtOTQwOTgzMDgzLDE1NDQyNTkxMTZd
-fQ==
+eyJoaXN0b3J5IjpbNjI3MjgwMzc0LDM1NDU0MDU4MSwxNDU0Nz
+YxNDAxLDE5Mjg3MzQyNzAsMTU4Mzk1MjE3OSwtNzA3MzI4Njkw
+LDg1NjA1MjQ5NiwxOTU5OTgzODAxLC0xMDQ0NjAwMjI0LDY0OT
+YzMjIxLC0xMjM5NTEzNzA3LC0xMDA1NTMzMjUsMTkxODUzNDgx
+NiwtMzM5NzkxODE0LDEwOTA3MjkxMTUsNDgwNDQ0OTgsNTI3MD
+E0MDU4LC0xMjkxMTY2OTQsLTk0MDk4MzA4MywxNTQ0MjU5MTE2
+XX0=
 -->
