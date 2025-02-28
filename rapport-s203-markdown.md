@@ -275,6 +275,8 @@ Qu'est-ce que le logiciel gitk ? Comment se lance-t-il ?
         branches et nos commits, pulls, push, etc. sur git. Il se lance
         depuis le terminal depuis un dépôt. 
 
+https://www.atlassian.com/fr/git/tutorials/gitk
+
 Qu'est-ce que le logiciel git-gui ? Comment se lance-t-il ?
 
 :   -  **Malori** : Interface graphique de Git basée sur Tcl/Tk. Git gui permet aux
@@ -302,15 +304,15 @@ Comment l'avez vous installé ?
 Comparez-le aux outils inclus avec git (et installé précédemment) ainsi qu’avec ce qui serait fait en ligne de commande pure : fonctionnalités avantages, inconvénients…
 
 :   -   **Ulysse** : L'interface est épuré et intuitive, avec des schémas clairs et un code couleur distinctif, la navigation est fluide et efficace. 
-L’arborescence est facilement lisible, ce qui fait gagner du temps à l'utilisateur. Des fonctionnalités pratiques permettent d’apercevoir instantanément les modifications en survolant les éléments. On peut aussi consulter les statistiques détaillées de chaque utilisateur, et il est possible d’effectuer plusieurs actions en parallèle comme fetch, pull ou clone sur plusieurs repositories à la fois.
+L’arborescence est facilement lisible, ce qui fait gagner du temps à l'utilisateur. Des fonctionnalités pratiques permettent d’apercevoir instantanément les modifications en survolant les éléments. On peut aussi consulter les statistiques détaillées de chaque utilisateur, et il est possible d’effectuer plusieurs actions en parallèle comme fetch, pull ou clone sur plusieurs repo à la fois.
 		
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAyNjY3MjIyLDE5NTk5ODM4MDEsLTEwND
-Q2MDAyMjQsNjQ5NjMyMjEsLTEyMzk1MTM3MDcsLTEwMDU1MzMy
-NSwxOTE4NTM0ODE2LC0zMzk3OTE4MTQsMTA5MDcyOTExNSw0OD
-A0NDQ5OCw1MjcwMTQwNTgsLTEyOTExNjY5NCwtOTQwOTgzMDgz
-LDE1NDQyNTkxMTYsLTY4ODM5NzIwOCwtNDEzMjcxOTgyLDg3MT
-I3ODI4LDcwMDQyOTE1MiwtMTY0NDI1NDgxMywtMjAyOTI2Mzg4
-NV19
+eyJoaXN0b3J5IjpbMTc3MDE1MTc2OSwxOTU5OTgzODAxLC0xMD
+Q0NjAwMjI0LDY0OTYzMjIxLC0xMjM5NTEzNzA3LC0xMDA1NTMz
+MjUsMTkxODUzNDgxNiwtMzM5NzkxODE0LDEwOTA3MjkxMTUsND
+gwNDQ0OTgsNTI3MDE0MDU4LC0xMjkxMTY2OTQsLTk0MDk4MzA4
+MywxNTQ0MjU5MTE2LC02ODgzOTcyMDgsLTQxMzI3MTk4Miw4Nz
+EyNzgyOCw3MDA0MjkxNTIsLTE2NDQyNTQ4MTMsLTIwMjkyNjM4
+ODVdfQ==
 -->
