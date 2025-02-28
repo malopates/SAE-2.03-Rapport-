@@ -30,7 +30,7 @@ l'installation de mate :
 `tasksel tasksel/first multiselect standard ssh-server, mate-desktop`\
 
 
-![](https://media.discordapp.net/attachments/861363773901635646/1345003005614751786/8eb0211196a577b2.png?ex=67c2f729&is=67c1a5a9&hm=9422127e5508a4c2dfbec7cca352f639cd09cf661cb30f39d53e366a4f0d9f57&=&format=webp&quality=lossless&width=1440&height=99)
+
 ![](https://media.discordapp.net/attachments/861363773901635646/1345003034169577514/34be8daa4b5249e5.png?ex=67c2f730&is=67c1a5b0&hm=0c12dbf9965c91c7541f0f77f56ed1ae7e923a8f1c77a253e72513f0e3e3c831&=&format=webp&quality=lossless&width=1440&height=207)
 
 Dans le **vboxpostinstall**, nous avons ajouté dans la partie "Run user
@@ -347,10 +347,8 @@ _Explication de la commande :_
 
 -les termes suivant « string » et séparés d’un espace sont les groupes auquel « user » sera automatiquement ajouté, c’est pour cela que l’on a rajouté « sudo ».
 
-  
-
 [https://www.debian.org/releases/stable/amd64/apbs04.fr.html#preseed-account](https://www.debian.org/releases/stable/amd64/apbs04.fr.html#preseed-account)  
-  
+ 
 
 2. Installation de MATE :
 
@@ -368,7 +366,7 @@ Pour automatiser cette sélection et installation, on va utiliser la ligne de co
 
 Pour installer des paquets non présents dans le tasksel, on va utiliser la commande ``` d-i pkgsel/include``` et, à la suite de « string », on va renseigner les différents paquets à installer, soit :
 
-[image2]
+![](https://media.discordapp.net/attachments/861363773901635646/1345003005614751786/8eb0211196a577b2.png?ex=67c2f729&is=67c1a5a9&hm=9422127e5508a4c2dfbec7cca352f639cd09cf661cb30f39d53e366a4f0d9f57&=&format=webp&quality=lossless&width=1440&height=99)
 
 • sudo
 
@@ -382,7 +380,6 @@ Pour installer des paquets non présents dans le tasksel, on va utiliser la comm
 
 • neofetch
 
-[image3]
 
 ![Installation réussie](https://media.discordapp.net/attachments/861363773901635646/1344994403349172254/e186db6708bb1758.png?ex=67c2ef26&is=67c19da6&hm=14d1994d23ae87d8f5781bd4ebcc6081ad9d435cb242aaad0ac8bb65670b2f75&=&format=webp&quality=lossless&width=1131&height=604)
 
@@ -529,11 +526,11 @@ Comparez-le aux outils inclus avec git (et installé précédemment) ainsi qu’
 | Customisable | Avoir les fonctionnalités que l'on souhaite | Perte de temps puisque les fonctionnalités nécessaire sont présente par défaut |
 | Peut gérer plusieurs dépôt simultanément | Boost de productivité | On peut vite s'y perdre |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3NjM4NjI5OSwtNDQwOTk0MjkyLDIxMT
-QxNTE0NDUsLTEzMzA5NTQ5NzIsMzU0NTQwNTgxLDE0NTQ3NjE0
-MDEsMTkyODczNDI3MCwxNTgzOTUyMTc5LC03MDczMjg2OTAsOD
-U2MDUyNDk2LDE5NTk5ODM4MDEsLTEwNDQ2MDAyMjQsNjQ5NjMy
-MjEsLTEyMzk1MTM3MDcsLTEwMDU1MzMyNSwxOTE4NTM0ODE2LC
-0zMzk3OTE4MTQsMTA5MDcyOTExNSw0ODA0NDQ5OCw1MjcwMTQw
-NThdfQ==
+eyJoaXN0b3J5IjpbMjI1MTQ3MzA2LC00NDA5OTQyOTIsMjExND
+E1MTQ0NSwtMTMzMDk1NDk3MiwzNTQ1NDA1ODEsMTQ1NDc2MTQw
+MSwxOTI4NzM0MjcwLDE1ODM5NTIxNzksLTcwNzMyODY5MCw4NT
+YwNTI0OTYsMTk1OTk4MzgwMSwtMTA0NDYwMDIyNCw2NDk2MzIy
+MSwtMTIzOTUxMzcwNywtMTAwNTUzMzI1LDE5MTg1MzQ4MTYsLT
+MzOTc5MTgxNCwxMDkwNzI5MTE1LDQ4MDQ0NDk4LDUyNzAxNDA1
+OF19
 -->
