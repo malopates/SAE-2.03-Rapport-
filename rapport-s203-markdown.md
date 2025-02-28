@@ -53,7 +53,7 @@ Que signifie "64-bit" dans "Debian 64-bit" ?
 Quelle est la configuration réseau utilisée par défaut ?
 
 :   - **Louis** :  La configuration réseau utilisée par défaut est la configuration
-        en mode *NAT*. (Network Adress Translation) Celui-ci permet à la machine virtuelle de se connecter à Internet sans avoir à lui fournir une adresse I.P sur le réseau locale, car elle utilise la connexion de l’hôte.
+        en mode *NAT*. (Network Adress Translation) Celui-ci permet à la machine virtuelle de se connecter à Internet ==sans avoir à lui fournir une adresse I.P== sur le réseau local, car elle utilise la connexion de l’hôte.
 
 
 Quel est le nom du fichier XML contenant la configuration de votre machine ?
@@ -100,20 +100,20 @@ Qu'est-ce qu'un serveur web ?
 
 Qu'est-ce qu'un serveur ssh ?
 
-:   -   **Ulysse** : SSH (pour "*Secure Shell*") est un protocole de communication sécurisé qui permet d'**accéder à distance à un serveur*, et donc un outil permettant de se connecter à distance à des serveurs Linux pour les administrer.
+:   -   **Ulysse** : SSH (pour "*Secure Shell*") est un protocole de communication sécurisé qui permet d'==accéder à distance à un serveur==, et donc un outil permettant de se connecter à distance à des serveurs Linux pour les administrer.
 : - **Louis** : Il surpasse son prédécesseur Telnet notamment par sa sécurité accrue des données échangées. Le protocole, et la suite d’applications associées, permettent ainsi saisir des commandes sur un shell pour gérer en temps réel des serveurs Linux, mais aussi le transfert de fichiers entre des machines de façon sécurisée.
 
 
 Qu'est-ce qu'un serveur mandataire ?
 
-:   -   **Malori** : Un serveur mandataire (dit "proxy" plus communément) est un serveur qui permet de filtrer les requêtes des clients. 
+:   -   **Malori** : Un serveur mandataire (dit "proxy" plus communément) est un serveur qui permet de ==filtrer les requêtes des clients==. 
 
 ###  
 ![question](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Question_mark_alternate.svg/788px-Question_mark_alternate.svg.png =20x30) Comment peux-ton savoir à quels groupes appartient l'utilisateur user ?
 
 :   -   On utilise la commande : \$ groups user
 
-### ![question](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Question_mark_alternate.svg/788px-Question_mark_alternate.svg.png =20x30) Suppléments invités 
+### ![question](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Question_mark_alternate.svg/788px-Question_mark_alternate.svg.png =20x30)  Suppléments invités 
 
 Quelle est la version du noyau Linux utilisé par votre VM ? N'oubliez pas, comme pour toutes les questions, de justifier votre réponse.
 
@@ -242,7 +242,7 @@ Comparer-le aux outils inclus avec git (et installé précédemment) ainsi qu'av
 		
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODcwMTM3NjIsNTI3MDE0MDU4LC0xMj
+eyJoaXN0b3J5IjpbLTE0NzExNzQwNTUsNTI3MDE0MDU4LC0xMj
 kxMTY2OTQsLTk0MDk4MzA4MywxNTQ0MjU5MTE2LC02ODgzOTcy
 MDgsLTQxMzI3MTk4Miw4NzEyNzgyOCw3MDA0MjkxNTIsLTE2ND
 QyNTQ4MTMsLTIwMjkyNjM4ODUsLTQwOTE3NjAzMCw0ODc3NjU4
