@@ -309,7 +309,7 @@ Mais pour ce faire, il fallait donc installer le paquet `flatpak` avec la comman
 
 Cependant, n'ayant aucune expérience, il était inévitable de tomber sur une erreur :
 
-[image]
+![Capture d'écran gitnuro](https://cdn.discordapp.com/attachments/861363773901635646/1345079726775074848/b5b6f1b1902b5679.png?ex=67c33e9d&is=67c1ed1d&hm=1d381ace0313cf0f346ff2cfd037af08d7ae17e06894d6411a1d8e88e8089944&)
 
 Après avoir essayé, en vain, d'utiliser flathub, nous sommes tombés sur ce post :
 
@@ -390,14 +390,14 @@ Comparez-le aux outils inclus avec git (et installé précédemment) ainsi qu’
 
 :   -   **Malori** : L'interface est épuré et intuitive, avec des schémas clairs et un code couleur distinctif, la navigation est fluide et efficace. L’arborescence est facilement lisible, ce qui fait gagner du temps à l'utilisateur. Des fonctionnalités pratiques permettent d’apercevoir instantanément les modifications en survolant les éléments. On peut aussi consulter les statistiques détaillées de chaque utilisateur, et il est possible d’effectuer plusieurs actions en parallèle comme fetch, pull ou clone sur plusieurs repo à la fois.
 		
-| FonctionnalitÃ©s      | Avantage                     | InconvÃ©nient                           |
+| Fonctionnalités      | Avantage                     | Inconvénient                           |
 |----------------------|------------------------------|---------------------------------------|
-| Interface graphique  | Permet de comprendre plus efficacement les changements  | Plus long au dÃ©marrage, plus lourd que le version CLI |
+| Interface graphique  | Permet de comprendre plus efficacement les changements  | Plus long au démarrage, plus lourd que le version CLI |
 | Plus intuitif puisque l'utilisation de commandes n'est pas obligatoire | Plus accÃ¨s dÃ©butant | Perte de temps puisqu'il faut faire des aller-retour entre le terminal et l'application |
-| Customisable | Avoir les fonctionnalitÃ©s que l'on souhaite | Perte de temps puisque les fonctionnalitÃ©s nÃ©cessaire sont prÃ©sente par dÃ©faut |
+| Customisable | Avoir les fonctionnalités que l'on souhaite | Perte de temps puisque les fonctionnalitÃ©s nÃ©cessaire sont présente par dÃ©faut |
 | Peut gÃ©rer plusieurs dÃ©pÃ´t simultanÃ©ment | Boost de productivitÃ© | On peut vite s'y perdre |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1OTc4MzA2MSwzNTQ1NDA1ODEsMTQ1ND
+eyJoaXN0b3J5IjpbMTM2MzI5MDQ1NCwzNTQ1NDA1ODEsMTQ1ND
 c2MTQwMSwxOTI4NzM0MjcwLDE1ODM5NTIxNzksLTcwNzMyODY5
 MCw4NTYwNTI0OTYsMTk1OTk4MzgwMSwtMTA0NDYwMDIyNCw2ND
 k2MzIyMSwtMTIzOTUxMzcwNywtMTAwNTUzMzI1LDE5MTg1MzQ4
