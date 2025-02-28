@@ -325,7 +325,7 @@ Pour lancer gitnuro, il suffit d'utiliser la commande :
 
 `flatpak run com.jetpackduba.Gitnuro`
 
-
+![Screen flatpak](https://cdn.discordapp.com/attachments/861363773901635646/1345079267356311593/718f9810582fd268.png?ex=67c33e2f&is=67c1ecaf&hm=893bd0046ebf42c972b49e0db82d6fee27eb8ac56d9d7d23956655163eea37a0&)
 
 ###    Interfaces graphiques pour *git* 
 
@@ -397,7 +397,7 @@ Comparez-le aux outils inclus avec git (et installé précédemment) ainsi qu’
 | Customisable | Avoir les fonctionnalitÃ©s que l'on souhaite | Perte de temps puisque les fonctionnalitÃ©s nÃ©cessaire sont prÃ©sente par dÃ©faut |
 | Peut gÃ©rer plusieurs dÃ©pÃ´t simultanÃ©ment | Boost de productivitÃ© | On peut vite s'y perdre |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3NjcxNDM4NSwzNTQ1NDA1ODEsMTQ1ND
+eyJoaXN0b3J5IjpbMTM1OTc4MzA2MSwzNTQ1NDA1ODEsMTQ1ND
 c2MTQwMSwxOTI4NzM0MjcwLDE1ODM5NTIxNzksLTcwNzMyODY5
 MCw4NTYwNTI0OTYsMTk1OTk4MzgwMSwtMTA0NDYwMDIyNCw2ND
 k2MzIyMSwtMTIzOTUxMzcwNywtMTAwNTUzMzI1LDE5MTg1MzQ4
