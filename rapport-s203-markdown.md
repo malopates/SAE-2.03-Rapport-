@@ -239,16 +239,11 @@ Quel a été le premier nom de code utilisé ?
 
 ## 2^ème^-semaine  
 
-**Malori** : Etant déjà initiée au **Markdown**, *riche d'une précédente SAE 2.03*, je me suis chargée de centraliser les rapports et questions en un seul et même rapport. Louis et Ulysse se sont initié au MarkDown via les sites [^3] qui nous ont été fournis pour s'exercer; Ils m'ont ensuite envoyé leurs rendus afin que je pu
+**Malori** : Etant déjà initiée au **Markdown**, *riche d'une précédente SAE 2.03*, je me suis chargée de centraliser les rapports et questions en un seul et même rapport. Louis et Ulysse se sont initié au MarkDown via les sites [^3] qui nous ont été fournis pour s'exercer; Ils m'ont ensuite envoyé leurs rendus afin que je puisse regrouper nos réponses.
 
 [^3]: [markdowntutorial.com](http://markdowntutorial.com) & [commonmark.org](http://commonmark.org)
 
-Pour le choix de l'éditeur, nous préférons sur navigateur afin de
-s'épargner de devoir installer un logiciel sur chaque machines où nous
-travaillons. Nous avons donc choisi **StackEdit** car après avoir essayé
-d'autres options telles que **NextCloud** ou **github/lab**, celui-ci
-nous paraissait optimal bien qu'on ne puisse pas rédiger le rapport en
-temps réel ensemble comme sur **NextCloud**.
+Pour le choix de l'éditeur, nous préférons sur navigateur afin de s'épargner de devoir installer un logiciel sur chaque machines où nous travaillons. Nous avons donc choisi **StackEdit**, 
 
 Nous avons exporté notre rapport sous le format .md et nous l'avons
 compilé en HTML avec la commande:
@@ -305,11 +300,11 @@ Comparer-le aux outils inclus avec git (et installé précédemment) ainsi qu'av
 		
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTUxODg0ODQsMTA5MDcyOTExNSw0OD
-A0NDQ5OCw1MjcwMTQwNTgsLTEyOTExNjY5NCwtOTQwOTgzMDgz
-LDE1NDQyNTkxMTYsLTY4ODM5NzIwOCwtNDEzMjcxOTgyLDg3MT
-I3ODI4LDcwMDQyOTE1MiwtMTY0NDI1NDgxMywtMjAyOTI2Mzg4
-NSwtNDA5MTc2MDMwLDQ4Nzc2NTgzMCwtNDA4ODMzMDQ1LC01Mj
-k4MTUxLDM1NzQ5MTkwMiwtMTg0Mzc4Mjk4MCwxODAyNTE2NzEy
-XX0=
+eyJoaXN0b3J5IjpbLTY0Mzk0MjUyOSwxMDkwNzI5MTE1LDQ4MD
+Q0NDk4LDUyNzAxNDA1OCwtMTI5MTE2Njk0LC05NDA5ODMwODMs
+MTU0NDI1OTExNiwtNjg4Mzk3MjA4LC00MTMyNzE5ODIsODcxMj
+c4MjgsNzAwNDI5MTUyLC0xNjQ0MjU0ODEzLC0yMDI5MjYzODg1
+LC00MDkxNzYwMzAsNDg3NzY1ODMwLC00MDg4MzMwNDUsLTUyOT
+gxNTEsMzU3NDkxOTAyLC0xODQzNzgyOTgwLDE4MDI1MTY3MTJd
+fQ==
 -->
