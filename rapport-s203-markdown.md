@@ -274,8 +274,8 @@ Qu'est-ce que le logiciel gitk ? Comment se lance-t-il ?
 :   - **Malori** : gitk est un navigateur de dépôt graphique qui permet de voir nos
         branches et nos commits, pulls, push, etc. sur git. Il se lance
         depuis le terminal depuis un dépôt. 
+***[Source](https://www.atlassian.com/fr/git/tutorials/gitk)***
 
-https://www.atlassian.com/fr/git/tutorials/gitk
 
 Qu'est-ce que le logiciel git-gui ? Comment se lance-t-il ?
 
@@ -308,11 +308,11 @@ L’arborescence est facilement lisible, ce qui fait gagner du temps à l'utilis
 		
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3MDE1MTc2OSwxOTU5OTgzODAxLC0xMD
-Q0NjAwMjI0LDY0OTYzMjIxLC0xMjM5NTEzNzA3LC0xMDA1NTMz
-MjUsMTkxODUzNDgxNiwtMzM5NzkxODE0LDEwOTA3MjkxMTUsND
-gwNDQ0OTgsNTI3MDE0MDU4LC0xMjkxMTY2OTQsLTk0MDk4MzA4
-MywxNTQ0MjU5MTE2LC02ODgzOTcyMDgsLTQxMzI3MTk4Miw4Nz
-EyNzgyOCw3MDA0MjkxNTIsLTE2NDQyNTQ4MTMsLTIwMjkyNjM4
-ODVdfQ==
+eyJoaXN0b3J5IjpbLTEwNTIzOTU3LDE5NTk5ODM4MDEsLTEwND
+Q2MDAyMjQsNjQ5NjMyMjEsLTEyMzk1MTM3MDcsLTEwMDU1MzMy
+NSwxOTE4NTM0ODE2LC0zMzk3OTE4MTQsMTA5MDcyOTExNSw0OD
+A0NDQ5OCw1MjcwMTQwNTgsLTEyOTExNjY5NCwtOTQwOTgzMDgz
+LDE1NDQyNTkxMTYsLTY4ODM5NzIwOCwtNDEzMjcxOTgyLDg3MT
+I3ODI4LDcwMDQyOTE1MiwtMTY0NDI1NDgxMywtMjAyOTI2Mzg4
+NV19
 -->
