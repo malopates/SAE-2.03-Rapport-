@@ -29,7 +29,8 @@ l'installation de mate :
 
 `tasksel tasksel/first multiselect standard ssh-server, mate-desktop`\
 
-**![](https://lh7-us.googleusercontent.com/NXvSVVd-LuTqc8ObAwmz6XIFKAmHAJZ_OK8OafUy8bNNJKmjDhpUu9oPERd58B_ClqZOfV2UAREMnBZijqGrVuKCphyTQjMiojFAJzsT8ltba8KWeEGLdtXVldk-NC7NrDMONRHsnqa2n-hrjT5Un5s)**
+**
+![](https://media.discordapp.net/attachments/861363773901635646/1345003005614751786/8eb0211196a577b2.png?ex=67c2f729&is=67c1a5a9&hm=9422127e5508a4c2dfbec7cca352f639cd09cf661cb30f39d53e366a4f0d9f57&=&format=webp&quality=lossless&width=1440&height=99)**
 Dans le **vboxpostinstall**, nous avons ajouté dans la partie "Run user
 command" les commandes pour installer les fonctionnalités attendues :\
 
@@ -307,7 +308,7 @@ L’arborescence est facilement lisible, ce qui fait gagner du temps à l'utilis
 		
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5MzMyMTkwNCwtNzA3MzI4NjkwLDg1Nj
+eyJoaXN0b3J5IjpbLTY1OTcxOTQ0NSwtNzA3MzI4NjkwLDg1Nj
 A1MjQ5NiwxOTU5OTgzODAxLC0xMDQ0NjAwMjI0LDY0OTYzMjIx
 LC0xMjM5NTEzNzA3LC0xMDA1NTMzMjUsMTkxODUzNDgxNiwtMz
 M5NzkxODE0LDEwOTA3MjkxMTUsNDgwNDQ0OTgsNTI3MDE0MDU4
