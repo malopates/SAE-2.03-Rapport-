@@ -7,9 +7,7 @@ geometry: margin=2cm
 
 
 
-# Rapport SAE 2.03
-
-[installation de services réseaux](https://moodle.univ-lille.fr/course/view.php?id=30827&sectionid=266881)
+# Rapport SAE 2.03 **[Installation de services réseaux](https://moodle.univ-lille.fr/course/view.php?id=30827&sectionid=266881)**
 
 ##  1^ère^ semaine
 
@@ -57,17 +55,23 @@ fonctionne.
 
 Que signifie "64-bit" dans "Debian 64-bit" ?
 
-:   - **Malori** : C'est la largeur des registres soit la façon dont le processeur gère les informations qu'il doit effectuer, ce qui signifie que Debian peut faire tourner le processeur en 64-bit, et en 32-bit, ce qui n'est pas réciproque (le 32-bit ne fait pas tourner du 64). Pour exploiter ces processeurs à leur plein potentiel, il est nécessaire que les logiciels et l’O.S sur la machine soient compatibles, sinon le processeur se limiterait à tourner en mode 32 bits : c’est la **compatibilité descendante.**
+:   - **Malori** : C'est la ==largeur des registres== soit la façon dont le processeur gère les informations qu'il doit effectuer, ce qui signifie que Debian peut faire tourner le processeur en 64-bit, et en 32-bit, ce qui n'est pas réciproque (le 32-bit ne fait pas tourner du 64). Pour exploiter ces processeurs à leur plein potentiel, il est nécessaire que les logiciels et l’O.S sur la machine soient compatibles, sinon le processeur se limiterait à tourner en mode 32 bits : c’est la **compatibilité descendante.**
+
+***[Source](https://en.wikipedia.org/wiki/64-bit_computing)***
 
 Quelle est la configuration réseau utilisée par défaut ?
 
 :   - **Louis** :  La configuration réseau utilisée par défaut est la configuration
         en mode *NAT*. (Network Adress Translation) Celui-ci permet à la machine virtuelle de se connecter à Internet ==sans avoir à lui fournir une adresse I.P== sur le réseau local, car elle utilise la connexion de l’hôte.
 
+***[Source](https://www.virtualbox.org/manual/ch06.html#network_nat)***
+
 
 Quel est le nom du fichier XML contenant la configuration de votre machine ?
 
 :   -   **Ulysse** : Le nom du fichier XML contenant la configuration de votre machine est le fichier `sae203.vbox`, (``/usr/local/virtual_machine/infoetu/prenom.nom.etu/sae203``) comme le dit le manuel virtualbox  "the XML settings file, with a `.vbox` file extension."
+
+
 
 Comment vous modifieriez ce fichier de configuration pour mettre 2 processeurs à votre machine ?
 
@@ -285,7 +289,7 @@ Comparer-le aux outils inclus avec git (et installé précédemment) ainsi qu'av
 		
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1OTQ4OTY2Miw1MjcwMTQwNTgsLTEyOT
+eyJoaXN0b3J5IjpbMTU4NTcyMDYxMyw1MjcwMTQwNTgsLTEyOT
 ExNjY5NCwtOTQwOTgzMDgzLDE1NDQyNTkxMTYsLTY4ODM5NzIw
 OCwtNDEzMjcxOTgyLDg3MTI3ODI4LDcwMDQyOTE1MiwtMTY0ND
 I1NDgxMywtMjAyOTI2Mzg4NSwtNDA5MTc2MDMwLDQ4Nzc2NTgz
