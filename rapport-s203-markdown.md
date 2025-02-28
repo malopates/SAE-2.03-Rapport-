@@ -299,7 +299,7 @@ Comment l'avez vous installé ?
         couvre entièrement notre temps d'utilisation du logiciel pour la
         SAE.
 
-Comparer-le aux outils inclus avec git (et installé précédemment) ainsi qu'avec ce qui serait fait 2/3 \| 1.1. Configuration globale de git en ligne de commande pure : fonctionnalités avantages, inconvénients...
+Comparez-le aux outils inclus avec git (et installé précédemment) ainsi qu’avec ce qui serait fait en ligne de commande pure : fonctionnalités avantages, inconvénients…
 
 :   -   **Ulysse** : L'interface est logique (schéma clairs, différentes couleurs,
         interface simpliste.) et nous permet de visualiser simplement
@@ -311,11 +311,11 @@ Comparer-le aux outils inclus avec git (et installé précédemment) ainsi qu'av
 		
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNjAwMDE1NCwxOTU5OTgzODAxLC0xMD
-Q0NjAwMjI0LDY0OTYzMjIxLC0xMjM5NTEzNzA3LC0xMDA1NTMz
-MjUsMTkxODUzNDgxNiwtMzM5NzkxODE0LDEwOTA3MjkxMTUsND
-gwNDQ0OTgsNTI3MDE0MDU4LC0xMjkxMTY2OTQsLTk0MDk4MzA4
-MywxNTQ0MjU5MTE2LC02ODgzOTcyMDgsLTQxMzI3MTk4Miw4Nz
-EyNzgyOCw3MDA0MjkxNTIsLTE2NDQyNTQ4MTMsLTIwMjkyNjM4
-ODVdfQ==
+eyJoaXN0b3J5IjpbLTEyODg0NTk0NTcsMTk1OTk4MzgwMSwtMT
+A0NDYwMDIyNCw2NDk2MzIyMSwtMTIzOTUxMzcwNywtMTAwNTUz
+MzI1LDE5MTg1MzQ4MTYsLTMzOTc5MTgxNCwxMDkwNzI5MTE1LD
+Q4MDQ0NDk4LDUyNzAxNDA1OCwtMTI5MTE2Njk0LC05NDA5ODMw
+ODMsMTU0NDI1OTExNiwtNjg4Mzk3MjA4LC00MTMyNzE5ODIsOD
+cxMjc4MjgsNzAwNDI5MTUyLC0xNjQ0MjU0ODEzLC0yMDI5MjYz
+ODg1XX0=
 -->
