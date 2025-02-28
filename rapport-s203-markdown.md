@@ -103,15 +103,16 @@ Un [fichier ISO bootable]{.underline} est un fichier qui contient une **image di
 
 Qu'est-ce que MATE ? GNOME ?
 
-:   -   **Malori** : *MATE* et *GNOME* sont des environnements graphiques de Debian
-:   - **Louis** : MATE est un environnement de bureau.[^1] et une dérivation de GNOME.  On y retrouve le bureau, le gestionnaire de fenêtres, les différents menus… GNOME est un environnement de bureau conçu pour les systèmes d’exploitation GNU/Linux et UNIX. MATE a repris le code source de GNOME 2 pour reprendre l’aspect « bureau », délaissé par la version GNOME 3.
+:   -   **Malori** : *MATE* et *GNOME* sont des environnements graphiques de Debian. On y retrouve le bureau, le gestionnaire de fenêtres, les différents menus…
+
+:   - **Louis** : MATE est un environnement de bureau,[^1] et une dérivation de GNOME.  GNOME est un environnement de bureau conçu pour les systèmes d’exploitation GNU/Linux et UNIX. MATE a repris le code source de GNOME 2 pour reprendre l’aspect « bureau », délaissé par la version GNOME 3.
 
 [^1]: Un environnement de bureau est un logiciel qui regroupe différents outils constituant une interface graphique, qui permettent à l’utilisateur d’interagir graphiquement avec l’ordinateur.
 
 Qu'est-ce qu'un serveur web ?
 
-:   - **Ulysse** :   Un serveur web est un logiciel qui permet de stocker et de
-        diffuser des pages web.
+:   - **Malori** :   Un serveur web est un logiciel qui permet de ==stocker et de
+        diffuser des pages web.==
 : - **Louis** : On peut distinguer deux catégories de serveurs Web :
 
 >1. Le serveur logiciel, qui contrôle la façon dont l’utilisateur accède à un fichier hébergé sur le serveur matériel. On trouvera un serveur HTTP, qui utilise le protocole HTTP et permet de recevoir des requêtes HTTP de l’utilisateur et renvoyer des réponses HTTP contenant les fichiers demandés.
@@ -296,7 +297,7 @@ Comparer-le aux outils inclus avec git (et installé précédemment) ainsi qu'av
 		
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU5MDE0OTE5LDUyNzAxNDA1OCwtMTI5MT
+eyJoaXN0b3J5IjpbODU3NjU4NjI2LDUyNzAxNDA1OCwtMTI5MT
 E2Njk0LC05NDA5ODMwODMsMTU0NDI1OTExNiwtNjg4Mzk3MjA4
 LC00MTMyNzE5ODIsODcxMjc4MjgsNzAwNDI5MTUyLC0xNjQ0Mj
 U0ODEzLC0yMDI5MjYzODg1LC00MDkxNzYwMzAsNDg3NzY1ODMw
