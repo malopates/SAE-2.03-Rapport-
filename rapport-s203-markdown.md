@@ -216,8 +216,9 @@ Il existe 3 durées de prise en charge (support) de ces versions : la durée min
 Pendant combien de temps les mises à jour de sécurité seront-elles fournies ?
 
 :   -   **Ulysse** : [Durée : **5 ans**](https://wiki.debian.org/LTS)
-ELTS : jusqu’à **10 ans**[^2].
+ELTS : jusqu’à **10 ans**[^4].
 
+[^4]: Via paiement
 
 Combien de version au minimum sont activement maintenues par Debian ? Donnez leur nom générique (= les types de distribution).
 
@@ -307,11 +308,11 @@ Comparer-le aux outils inclus avec git (et installé précédemment) ainsi qu'av
 		
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjE4NDg3MiwtMTAwNTUzMzI1LDE5MT
-g1MzQ4MTYsLTMzOTc5MTgxNCwxMDkwNzI5MTE1LDQ4MDQ0NDk4
-LDUyNzAxNDA1OCwtMTI5MTE2Njk0LC05NDA5ODMwODMsMTU0ND
-I1OTExNiwtNjg4Mzk3MjA4LC00MTMyNzE5ODIsODcxMjc4Mjgs
-NzAwNDI5MTUyLC0xNjQ0MjU0ODEzLC0yMDI5MjYzODg1LC00MD
-kxNzYwMzAsNDg3NzY1ODMwLC00MDg4MzMwNDUsLTUyOTgxNTFd
-fQ==
+eyJoaXN0b3J5IjpbLTEyMzk1MTM3MDcsLTEwMDU1MzMyNSwxOT
+E4NTM0ODE2LC0zMzk3OTE4MTQsMTA5MDcyOTExNSw0ODA0NDQ5
+OCw1MjcwMTQwNTgsLTEyOTExNjY5NCwtOTQwOTgzMDgzLDE1ND
+QyNTkxMTYsLTY4ODM5NzIwOCwtNDEzMjcxOTgyLDg3MTI3ODI4
+LDcwMDQyOTE1MiwtMTY0NDI1NDgxMywtMjAyOTI2Mzg4NSwtND
+A5MTc2MDMwLDQ4Nzc2NTgzMCwtNDA4ODMzMDQ1LC01Mjk4MTUx
+XX0=
 -->
