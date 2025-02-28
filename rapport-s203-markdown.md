@@ -301,21 +301,16 @@ Comment l'avez vous installé ?
 
 Comparez-le aux outils inclus avec git (et installé précédemment) ainsi qu’avec ce qui serait fait en ligne de commande pure : fonctionnalités avantages, inconvénients…
 
-:   -   **Ulysse** : L'interface est logique (schéma clairs, différentes couleurs,
-        interface simpliste.) et nous permet de visualiser simplement
-        l'arborescence, nous faisant gagner énormément de temps. Des
-        outils nous permettent de visualiser les modifications
-        rapidement en passant le curseur dessus, on dispose également de
-        stats par utilisateurs et d'actions effectuables simultanément
-        sur plusieurs repository sélectionnés (fetch, pull, clone ect).
+:   -   **Ulysse** : L'interface est épuré et intuitive, avec des schémas clairs et un code couleur distinctif, la navigation est fluide et efficace. 
+L’arborescence est facilement lisible, ce qui fait gagner du temps à l'utilisateur. Des fonctionnalités pratiques permettent d’apercevoir instantanément les modifications en survolant les éléments. On peut aussi consulter les statistiques détaillées de chaque utilisateur, et il est possible d’effectuer plusieurs actions en parallèle comme fetch, pull ou clone sur plusieurs repositories à la fois.
 		
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODg0NTk0NTcsMTk1OTk4MzgwMSwtMT
-A0NDYwMDIyNCw2NDk2MzIyMSwtMTIzOTUxMzcwNywtMTAwNTUz
-MzI1LDE5MTg1MzQ4MTYsLTMzOTc5MTgxNCwxMDkwNzI5MTE1LD
-Q4MDQ0NDk4LDUyNzAxNDA1OCwtMTI5MTE2Njk0LC05NDA5ODMw
-ODMsMTU0NDI1OTExNiwtNjg4Mzk3MjA4LC00MTMyNzE5ODIsOD
-cxMjc4MjgsNzAwNDI5MTUyLC0xNjQ0MjU0ODEzLC0yMDI5MjYz
-ODg1XX0=
+eyJoaXN0b3J5IjpbODAyNjY3MjIyLDE5NTk5ODM4MDEsLTEwND
+Q2MDAyMjQsNjQ5NjMyMjEsLTEyMzk1MTM3MDcsLTEwMDU1MzMy
+NSwxOTE4NTM0ODE2LC0zMzk3OTE4MTQsMTA5MDcyOTExNSw0OD
+A0NDQ5OCw1MjcwMTQwNTgsLTEyOTExNjY5NCwtOTQwOTgzMDgz
+LDE1NDQyNTkxMTYsLTY4ODM5NzIwOCwtNDEzMjcxOTgyLDg3MT
+I3ODI4LDcwMDQyOTE1MiwtMTY0NDI1NDgxMywtMjAyOTI2Mzg4
+NV19
 -->
