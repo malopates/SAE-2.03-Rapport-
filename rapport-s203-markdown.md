@@ -237,22 +237,18 @@ Chaque distribution majeur possède un nom de code différent. Par exemple la ve
         provenant de Toy Story a été prise par Bruce Perens qui était, à
         l'époque, responsable du projet Debian et travaillait chez
         Pixar, la société qui a produit les films.
-
+        
 L'un des atouts de Debian fut le nombre d'architecture (≈ processeurs) officiellement prises en charge. 
-
 Combien et lesquelles sont prises en charge par la version Bullseye ?
-
-:   -   Il y a 10 architectures officiellement prises en charge par la
-        version Bullseye : amd64 (la notre) arm64 armel armhf i386 mips
-        mips64el mipsel ppc64el s390x.
+:   -   
 
 Quel était le numéro de version de cette distribution ?
 
-:   -   Le numéro de version de cette distribution était 11.
+:   -   
 
 Quel a été le premier nom de code utilisé ?
 
-:   -   Le premier nom de code utilisé était Buzz.
+:   -  
 
 ![Installation réussie](https://media.discordapp.net/attachments/861363773901635646/1344994403349172254/e186db6708bb1758.png?ex=67c2ef26&is=67c19da6&hm=14d1994d23ae87d8f5781bd4ebcc6081ad9d435cb242aaad0ac8bb65670b2f75&=&format=webp&quality=lossless&width=1131&height=604)
 
@@ -399,11 +395,11 @@ Comparez-le aux outils inclus avec git (et installé précédemment) ainsi qu’
 | Customisable | Avoir les fonctionnalités que l'on souhaite | Perte de temps puisque les fonctionnalités nécessaire sont présente par défaut |
 | Peut gérer plusieurs dépôt simultanément | Boost de productivité | On peut vite s'y perdre |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM4NTg3MDUsLTQ0MDk5NDI5MiwyMTE0MT
-UxNDQ1LC0xMzMwOTU0OTcyLDM1NDU0MDU4MSwxNDU0NzYxNDAx
-LDE5Mjg3MzQyNzAsMTU4Mzk1MjE3OSwtNzA3MzI4NjkwLDg1Nj
-A1MjQ5NiwxOTU5OTgzODAxLC0xMDQ0NjAwMjI0LDY0OTYzMjIx
-LC0xMjM5NTEzNzA3LC0xMDA1NTMzMjUsMTkxODUzNDgxNiwtMz
-M5NzkxODE0LDEwOTA3MjkxMTUsNDgwNDQ0OTgsNTI3MDE0MDU4
-XX0=
+eyJoaXN0b3J5IjpbLTE2NjQ4MjAxNTUsLTQ0MDk5NDI5MiwyMT
+E0MTUxNDQ1LC0xMzMwOTU0OTcyLDM1NDU0MDU4MSwxNDU0NzYx
+NDAxLDE5Mjg3MzQyNzAsMTU4Mzk1MjE3OSwtNzA3MzI4NjkwLD
+g1NjA1MjQ5NiwxOTU5OTgzODAxLC0xMDQ0NjAwMjI0LDY0OTYz
+MjIxLC0xMjM5NTEzNzA3LC0xMDA1NTMzMjUsMTkxODUzNDgxNi
+wtMzM5NzkxODE0LDEwOTA3MjkxMTUsNDgwNDQ0OTgsNTI3MDE0
+MDU4XX0=
 -->
