@@ -245,11 +245,12 @@ Quel a été le premier nom de code utilisé ?
 
 Pour le choix de l'éditeur, je préfére travailler sur navigateur afin de m'épargner de devoir installer un logiciel sur chaque machines sur lesquelles je pourrais travailler. J'ai donc repris **StackEdit**, y étant familière.
 
-Ulysse s'est penché sur pandoc, exporté notre rapport sous le format .md et nous l'avons
-compilé en HTML avec la commande:
+En parralèle, Ulysse s'est penché sur pandoc, et a exporté ses réponses sous le format .md puis compilé en HTML avec la commande:
+
+`pandoc.exe template-compilation-s203.html rapport-s203-markdown.md -o rapport-s203.html`
+
 
 `pandoc.exe --standalone --template template-compilation-s203.html rapport-s203-markdown.md -o rapport-s203.html`
-
 L'utilisation de l'option -\-template permet, par exemple, de donner un titre à la page et d'utiliser une feuille de style CSS externe.
 
 En revanche, nous nous sommes heurté.e.s à des obstacles pour la compilation au format PDF avec pdflatex.
@@ -300,11 +301,11 @@ Comparer-le aux outils inclus avec git (et installé précédemment) ainsi qu'av
 		
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MjI5Njg4NSwxMDkwNzI5MTE1LDQ4MD
-Q0NDk4LDUyNzAxNDA1OCwtMTI5MTE2Njk0LC05NDA5ODMwODMs
-MTU0NDI1OTExNiwtNjg4Mzk3MjA4LC00MTMyNzE5ODIsODcxMj
-c4MjgsNzAwNDI5MTUyLC0xNjQ0MjU0ODEzLC0yMDI5MjYzODg1
-LC00MDkxNzYwMzAsNDg3NzY1ODMwLC00MDg4MzMwNDUsLTUyOT
-gxNTEsMzU3NDkxOTAyLC0xODQzNzgyOTgwLDE4MDI1MTY3MTJd
-fQ==
+eyJoaXN0b3J5IjpbLTE0MTUzNzMxMTMsMTA5MDcyOTExNSw0OD
+A0NDQ5OCw1MjcwMTQwNTgsLTEyOTExNjY5NCwtOTQwOTgzMDgz
+LDE1NDQyNTkxMTYsLTY4ODM5NzIwOCwtNDEzMjcxOTgyLDg3MT
+I3ODI4LDcwMDQyOTE1MiwtMTY0NDI1NDgxMywtMjAyOTI2Mzg4
+NSwtNDA5MTc2MDMwLDQ4Nzc2NTgzMCwtNDA4ODMzMDQ1LC01Mj
+k4MTUxLDM1NzQ5MTkwMiwtMTg0Mzc4Mjk4MCwxODAyNTE2NzEy
+XX0=
 -->
