@@ -157,8 +157,7 @@ Qu'est-ce qu'un serveur mandataire ?
 
 ***[Source](https://wiki.archlinux.org/title/Proxy_server)***
 
-###  
-![question](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Question_mark_alternate.svg/788px-Question_mark_alternate.svg.png =20x30) Comment peux-ton savoir à quels groupes appartient l'utilisateur user ?
+###  Comment peux-ton savoir à quels groupes appartient l'utilisateur user ?
 
 :   -  **Malori** :  On peut utiliser la commande : `\$ groups user` mais il y en a d'autres, comme `id -G -n user`
 
@@ -169,7 +168,7 @@ Qu'est-ce qu'un serveur mandataire ?
 ***[Source](https://www.geeksforgeeks.org/how-to-check-the-groups-a-user-belongs-to-in-linux/)***
 
 
-### ![question](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Question_mark_alternate.svg/788px-Question_mark_alternate.svg.png){width="10" height="15"}    Suppléments invités 
+### Suppléments invités 
 
 Quelle est la version du noyau Linux utilisé par votre VM ? N'oubliez pas, comme pour toutes les questions, de justifier votre réponse.
 
@@ -321,11 +320,7 @@ https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-config
 
 ### II. Les applications graphiques officielles
 
-La version d'Ulysse étant parfaite, je n'aurais qu'un seul ajout :
-
 J'ai utilisé `apt-cache search <name>` pour m'assurer d'utiliser les bon noms de paquets pour la machine
-
-
 
 ### III. Un autre exemple d'application graphique : gitnuro
 
@@ -409,11 +404,11 @@ L’arborescence est facilement lisible, ce qui fait gagner du temps à l'utilis
 		
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU0NTQwNTgxLDE0NTQ3NjE0MDEsMTkyOD
-czNDI3MCwxNTgzOTUyMTc5LC03MDczMjg2OTAsODU2MDUyNDk2
-LDE5NTk5ODM4MDEsLTEwNDQ2MDAyMjQsNjQ5NjMyMjEsLTEyMz
-k1MTM3MDcsLTEwMDU1MzMyNSwxOTE4NTM0ODE2LC0zMzk3OTE4
-MTQsMTA5MDcyOTExNSw0ODA0NDQ5OCw1MjcwMTQwNTgsLTEyOT
-ExNjY5NCwtOTQwOTgzMDgzLDE1NDQyNTkxMTYsLTY4ODM5NzIw
-OF19
+eyJoaXN0b3J5IjpbMjQ5MTMwNzgzLDM1NDU0MDU4MSwxNDU0Nz
+YxNDAxLDE5Mjg3MzQyNzAsMTU4Mzk1MjE3OSwtNzA3MzI4Njkw
+LDg1NjA1MjQ5NiwxOTU5OTgzODAxLC0xMDQ0NjAwMjI0LDY0OT
+YzMjIxLC0xMjM5NTEzNzA3LC0xMDA1NTMzMjUsMTkxODUzNDgx
+NiwtMzM5NzkxODE0LDEwOTA3MjkxMTUsNDgwNDQ0OTgsNTI3MD
+E0MDU4LC0xMjkxMTY2OTQsLTk0MDk4MzA4MywxNTQ0MjU5MTE2
+XX0=
 -->
