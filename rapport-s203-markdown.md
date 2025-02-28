@@ -133,13 +133,13 @@ Qu'est-ce qu'un serveur mandataire ?
 
 Quelle est la version du noyau Linux utilisé par votre VM ? N'oubliez pas, comme pour toutes les questions, de justifier votre réponse.
 
-:   -   On l'obtient avec la commande uname -r, uname donne des
+:   -  **Malori** :  On l'obtient avec la commande uname -r, uname donne des
         informations sur le système qu'on utilise. Ici il s'agit de
         amd64.
 
 À quoi servent les suppléments invités ? Donner 2 principales raisons de les installer.
 
-:   -   Les suppléments invités servent à :\
+:   -   **Malori** : Les suppléments invités servent à :\
         -\> améliorer les performances de la machine virtuelle\
         -\> faciliter le partage de fichiers entre la machine virtuelle
         et l'hôte.
@@ -258,11 +258,11 @@ Comparer-le aux outils inclus avec git (et installé précédemment) ainsi qu'av
 		
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0Njc2NzcxMCw1MjcwMTQwNTgsLTEyOT
-ExNjY5NCwtOTQwOTgzMDgzLDE1NDQyNTkxMTYsLTY4ODM5NzIw
-OCwtNDEzMjcxOTgyLDg3MTI3ODI4LDcwMDQyOTE1MiwtMTY0ND
-I1NDgxMywtMjAyOTI2Mzg4NSwtNDA5MTc2MDMwLDQ4Nzc2NTgz
-MCwtNDA4ODMzMDQ1LC01Mjk4MTUxLDM1NzQ5MTkwMiwtMTg0Mz
-c4Mjk4MCwxODAyNTE2NzEyLC0xMjYyNDA3NzMyLDM2NTczODYz
-Ml19
+eyJoaXN0b3J5IjpbNzU5ODg3NDU2LDUyNzAxNDA1OCwtMTI5MT
+E2Njk0LC05NDA5ODMwODMsMTU0NDI1OTExNiwtNjg4Mzk3MjA4
+LC00MTMyNzE5ODIsODcxMjc4MjgsNzAwNDI5MTUyLC0xNjQ0Mj
+U0ODEzLC0yMDI5MjYzODg1LC00MDkxNzYwMzAsNDg3NzY1ODMw
+LC00MDg4MzMwNDUsLTUyOTgxNTEsMzU3NDkxOTAyLC0xODQzNz
+gyOTgwLDE4MDI1MTY3MTIsLTEyNjI0MDc3MzIsMzY1NzM4NjMy
+XX0=
 -->
