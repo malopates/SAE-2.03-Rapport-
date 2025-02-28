@@ -91,11 +91,15 @@ Qu'est-ce qu'un serveur web ?
 
 :   - **Ulysse** :   Un serveur web est un logiciel qui permet de stocker et de
         diffuser des pages web.
-: - 
+: - **Louis** : On peut distinguer deux catégories de serveurs Web :
+
+>1. Le serveur logiciel, qui contrôle la façon dont l’utilisateur accède à un fichier hébergé sur le serveur matériel. On trouvera un serveur HTTP, qui utilise le protocole HTTP et permet de recevoir des requêtes HTTP de l’utilisateur et renvoyer des réponses HTTP contenant les fichiers demandés.
+>
+>2. Le serveur matériel, qui est un ordinateur stockant les fichiers composant le site Web et un serveur Web. Il est connecté à Internet et possède un nom de domaine.
 
 Qu'est-ce qu'un serveur ssh ?
 
-:   -   SSH est un protocole de communication sécurisé qui permet
+:   -   **Ulysse** : SSH (pest un protocole de communication sécurisé qui permet
         d'accéder à distance à un serveur.
 
 
@@ -240,7 +244,7 @@ Comparer-le aux outils inclus avec git (et installé précédemment) ainsi qu'av
 		
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4MDA2NDc2NiwtMTI5MTE2Njk0LC05ND
+eyJoaXN0b3J5IjpbMTE2NTI1NDkyMCwtMTI5MTE2Njk0LC05ND
 A5ODMwODMsMTU0NDI1OTExNiwtNjg4Mzk3MjA4LC00MTMyNzE5
 ODIsODcxMjc4MjgsNzAwNDI5MTUyLC0xNjQ0MjU0ODEzLC0yMD
 I5MjYzODg1LC00MDkxNzYwMzAsNDg3NzY1ODMwLC00MDg4MzMw
