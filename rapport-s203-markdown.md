@@ -228,7 +228,7 @@ Combien de version au minimum sont activement maintenues par Debian ? Donnez leu
 
 Chaque distribution majeur possède un nom de code différent. Par exemple la version majeur actuelle (Debian 12) se nomme bookworm. D'où viennent les noms de code données aux distributions ?
 
-:   -   Les noms de code donnés aux distributions viennent de
+:   - **Malori** :  Les noms de code donnés aux distributions viennent de
         personnages de Toy Story. La décision d'utiliser des noms
         provenant de Toy Story a été prise par Bruce Perens qui était, à
         l'époque, responsable du projet Debian et travaillait chez
@@ -309,11 +309,11 @@ Comparer-le aux outils inclus avec git (et installé précédemment) ainsi qu'av
 		
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE5MzQzODIxLC0xMjM5NTEzNzA3LC0xMD
-A1NTMzMjUsMTkxODUzNDgxNiwtMzM5NzkxODE0LDEwOTA3Mjkx
-MTUsNDgwNDQ0OTgsNTI3MDE0MDU4LC0xMjkxMTY2OTQsLTk0MD
-k4MzA4MywxNTQ0MjU5MTE2LC02ODgzOTcyMDgsLTQxMzI3MTk4
-Miw4NzEyNzgyOCw3MDA0MjkxNTIsLTE2NDQyNTQ4MTMsLTIwMj
-kyNjM4ODUsLTQwOTE3NjAzMCw0ODc3NjU4MzAsLTQwODgzMzA0
-NV19
+eyJoaXN0b3J5IjpbNjQ5NjMyMjEsLTEyMzk1MTM3MDcsLTEwMD
+U1MzMyNSwxOTE4NTM0ODE2LC0zMzk3OTE4MTQsMTA5MDcyOTEx
+NSw0ODA0NDQ5OCw1MjcwMTQwNTgsLTEyOTExNjY5NCwtOTQwOT
+gzMDgzLDE1NDQyNTkxMTYsLTY4ODM5NzIwOCwtNDEzMjcxOTgy
+LDg3MTI3ODI4LDcwMDQyOTE1MiwtMTY0NDI1NDgxMywtMjAyOT
+I2Mzg4NSwtNDA5MTc2MDMwLDQ4Nzc2NTgzMCwtNDA4ODMzMDQ1
+XX0=
 -->
