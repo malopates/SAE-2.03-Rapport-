@@ -193,7 +193,8 @@ Les [suppléments invités]{.underline} sont des **pilotes adapté à des systè
 À quoi sert la commande mount (dans notre cas de figure et dans le cas général) ?
 
 :   -  **Malori** : Dans le cas général, cette commande permet de monter une partition sur le disque.
-: - **Ulysse** : La [commande mount]{.underline} sert à **rattacher** un système de fichier au système principal. Dans notre cas, l'objectif est de permettre au système d'**accéder au CDROM**.
+: - **Ulysse** : Elle **rattache** un système de fichier au système principal. Dans notre cas, l'objectif est de permettre au système d'**accéder au CDROM**.
+:   -  **Louis** : L’action de **monter** permet au système d’exploitation d’utiliser l’unité de stockage montée. En effet, on va à la fois ==créer un chemin d’accès dans l’arborescence du système qui redirige vers l’unité de stockage== (c’est l’ancien chemin du point de montage) et on va aussi ==formater la partition avec un système de fichier==.
 
 ***[Source](https://man.archlinux.org/man/mount.8)***
 
@@ -306,7 +307,7 @@ Comparer-le aux outils inclus avec git (et installé précédemment) ainsi qu'av
 		
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2NjY4OTk3Nyw1MjcwMTQwNTgsLTEyOT
+eyJoaXN0b3J5IjpbLTk4NDQ0OTUwNyw1MjcwMTQwNTgsLTEyOT
 ExNjY5NCwtOTQwOTgzMDgzLDE1NDQyNTkxMTYsLTY4ODM5NzIw
 OCwtNDEzMjcxOTgyLDg3MTI3ODI4LDcwMDQyOTE1MiwtMTY0ND
 I1NDgxMywtMjAyOTI2Mzg4NSwtNDA5MTc2MDMwLDQ4Nzc2NTgz
