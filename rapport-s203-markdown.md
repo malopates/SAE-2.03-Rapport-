@@ -237,7 +237,183 @@ Chaque distribution majeur possède un nom de code différent. Par exemple la ve
         provenant de Toy Story a été prise par Bruce Perens qui était, à
         l'époque, responsable du projet Debian et travaillait chez
         Pixar, la société qui a produit les films.
-        
+        **Question 4.2 Quelques questions**
+
+ Qu’est-ce que le Projet Debian ? D’où vient le nom Debian ?
+
+:   -Debian est une distribution de l’O.S Linux. Il est géré par les membres, volontaires, du projet Debian, qui se définissent comme des descendants directs du projet GNU, c’est-à-dire que leur objectif est de développer un système d’exploitation de qualité et qui le logiciel libre en son centre (liberté de distribution, de copie, de modification…). Le nom Debian est une contraction du nom du créateur, Ian Murdock, et sa femme, Debra.
+
+  
+
+• Il existe 3 durées de prise en charge (support) de ces versions : la durée minimale, la durée en support long terme (LTS) et la durée en support long terme étendue (ELTS). Quelle sont les durées de ces prises en charge ?
+
+La durée minimale de prise en charge pour la version oldstable, c’est-à-dire
+
+La durée en support long terme LTS étend la prise en charge à 5 ans.
+
+La durée en support long terme étendue ELTS l’étend d’encore 5 ans, soit 10 ans au total.
+
+  
+
+• Pendant combien de temps les mises à jour de sécurité seront-elles fournies ?
+
+Elles sont fournies pendant 3 ans par l’équipe de sécurité.
+
+  
+
+• Chaque distribution majeur possède un nom de code différent. Par exemple, la version majeur actuelle (Debian 12) se nomme _bookworm_. D’où viennent les noms de code données aux distributions ?
+
+Les noms de code utilisés par les différentes versions de Debian proviennent des noms de personnages de la série de films Toy Story. Ainsi, « bookworm » est un vermisseau vert apparu dans Toy Story 3 (2010).
+
+  
+
+• L’un des atouts de Debian fut le nombre d’architecture (≈ processeurs) officiellement prises en charge. Combien et lesquelles sont prises en charge par la version _Bullseye_ ?
+
+Bullseye prend en charge 9 architectures :
+
+  
+
+-amd64
+
+-i386
+
+-ppc64el
+
+-s390x
+
+-armel
+
+-armhf
+
+-arm64
+
+-mipsel
+
+-mipsel64
+
+  
+
+• Première version avec un nom de code
+
+-   Quelle a était le premier nom de code utilisé ?
+    
+    Le premier nom de code utilisé était « Buzz »
+    
+-   Quand a-t-il été annoncé ?
+    
+    La version Buzz a été annoncée le 17 juin 1996
+    
+-   Quelle était le numéro de version de cette distribution ?
+    
+    Son numéro de version était 1.1
+    
+
+• Dernière nom de code attribué
+
+-   Quel est le dernier nom de code annoncée à ce jour ?
+    
+    Le dernier nom de code annoncé est « Trixie »
+    
+-   Quand a-t-il été annoncé ?
+    
+    Il a été annoncé le 8 Novembre 2020
+    
+-   Quelle est la version de cette distribution ?
+    
+
+C’est le nom de code de Debian 13, qui est le « testing » actuel.
+
+  
+
+_Sources :_
+
+[https://www.debian.org/doc/manuals/debian-faq/basic-defs.fr.html#whatisdebian](https://www.debian.org/doc/manuals/debian-faq/basic-defs.fr.html#whatisdebian)  
+
+[https://www.debian.org/doc/manuals/debian-faq/basic-defs.fr.html#pronunciation](https://www.debian.org/doc/manuals/debian-faq/basic-defs.fr.html#pronunciation)  
+
+[https://wiki.debian.org/fr/DebianOldStable](https://wiki.debian.org/fr/DebianOldStable)  
+
+[https://wiki.debian.org/LTS?highlight=%28%5CbCategoryLts%5Cb%29](https://wiki.debian.org/LTS?highlight=%28%5CbCategoryLts%5Cb%29)  
+
+[https://www.debian.org/lts/index.fr.html](https://www.debian.org/lts/index.fr.html)  
+
+[https://wiki.debian.org/fr/LTS/Extended](https://wiki.debian.org/fr/LTS/Extended)  
+
+[https://www.debian.org/security/faq#lifespan](https://www.debian.org/security/faq#lifespan)  
+
+[https://wiki.debian.org/DebianReleases#Codenames](https://wiki.debian.org/DebianReleases#Codenames)  
+
+[https://wiki.debian.org/DebianBullseye#Architectures](https://wiki.debian.org/DebianBullseye#Architectures)  
+
+[https://www.debian.org/doc/manuals/project-history/releases.en.html](https://www.debian.org/doc/manuals/project-history/releases.en.html)  
+
+[https://wiki.debian.org/DebianTrixie?highlight=%28CategoryRelease%29](https://wiki.debian.org/DebianTrixie?highlight=%28CategoryRelease%29)  
+
+  
+
+**Question** **5 :**  **Ajustement de la pré-configuration**
+
+  
+
+Pour cette partie, il faut effectuer les modifications associées à preseed.cfg :
+
+  
+
+1. Modifier les groupe de « user » :
+
+Pour ce faire, on a remplacé la ligne :
+
+```d-i passwd/user-default-groups string audio cdrom video```
+
+par la ligne :
+
+```d-i passwd/user-default-groups string sudo audio cdrom video```
+
+_Explication de la commande :_
+
+-« d-i » est une abréviation pour « debian installer »
+
+-passwd/user-default-groups est le fichier qui contient les groupe assignés par défaut à l’utilisateur par défaut, ici « user ». Cela a des conséquences uniquement sur cet utilisateur, et non ceux créés ultérieurement.
+
+-les termes suivant « string » et séparés d’un espace sont les groupes auquel « user » sera automatiquement ajouté, c’est pour cela que l’on a rajouté « sudo ».
+
+  
+
+[https://www.debian.org/releases/stable/amd64/apbs04.fr.html#preseed-account](https://www.debian.org/releases/stable/amd64/apbs04.fr.html#preseed-account)  
+
+  
+
+2. Installation de MATE :
+
+MATE est l’un des nombreux paquets que l’on peut sélectionner lors d’une installation graphique manuelle, ou avec la commande tasksel.
+
+Pour automatiser cette sélection et installation, on va utiliser la ligne de commande suivante :
+
+[image1]
+
+(A noter qu’il n’y a pas besoin d’écrire « d-i » au début de la commande)
+
+  
+
+3. Installation des paquets supplémentaire :
+
+Pour installer des paquets non présents dans le tasksel, on va utiliser la commande ``` d-i pkgsel/include``` et, à la suite de « string », on va renseigner les différents paquets à installer, soit :
+
+[image2]
+
+• sudo
+
+• git
+
+• sqllite3
+
+• curl
+
+• bash-completion
+
+• neofetch
+
+[image3]
 
 ![Installation réussie](https://media.discordapp.net/attachments/861363773901635646/1344994403349172254/e186db6708bb1758.png?ex=67c2ef26&is=67c19da6&hm=14d1994d23ae87d8f5781bd4ebcc6081ad9d435cb242aaad0ac8bb65670b2f75&=&format=webp&quality=lossless&width=1131&height=604)
 
@@ -384,11 +560,11 @@ Comparez-le aux outils inclus avec git (et installé précédemment) ainsi qu’
 | Customisable | Avoir les fonctionnalités que l'on souhaite | Perte de temps puisque les fonctionnalités nécessaire sont présente par défaut |
 | Peut gérer plusieurs dépôt simultanément | Boost de productivité | On peut vite s'y perdre |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODkwNzUxNDUsLTQ0MDk5NDI5MiwyMT
-E0MTUxNDQ1LC0xMzMwOTU0OTcyLDM1NDU0MDU4MSwxNDU0NzYx
-NDAxLDE5Mjg3MzQyNzAsMTU4Mzk1MjE3OSwtNzA3MzI4NjkwLD
-g1NjA1MjQ5NiwxOTU5OTgzODAxLC0xMDQ0NjAwMjI0LDY0OTYz
-MjIxLC0xMjM5NTEzNzA3LC0xMDA1NTMzMjUsMTkxODUzNDgxNi
-wtMzM5NzkxODE0LDEwOTA3MjkxMTUsNDgwNDQ0OTgsNTI3MDE0
-MDU4XX0=
+eyJoaXN0b3J5IjpbODg3MDU2ODk4LC00NDA5OTQyOTIsMjExND
+E1MTQ0NSwtMTMzMDk1NDk3MiwzNTQ1NDA1ODEsMTQ1NDc2MTQw
+MSwxOTI4NzM0MjcwLDE1ODM5NTIxNzksLTcwNzMyODY5MCw4NT
+YwNTI0OTYsMTk1OTk4MzgwMSwtMTA0NDYwMDIyNCw2NDk2MzIy
+MSwtMTIzOTUxMzcwNywtMTAwNTUzMzI1LDE5MTg1MzQ4MTYsLT
+MzOTc5MTgxNCwxMDkwNzI5MTE1LDQ4MDQ0NDk4LDUyNzAxNDA1
+OF19
 -->
