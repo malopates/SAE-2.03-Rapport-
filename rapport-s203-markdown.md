@@ -20,21 +20,8 @@ Le reste de la configuration de la VM s'est faite en laissant les paramètres **
 
 
 ![Screen création VM](https://lh7-us.googleusercontent.com/HwGyxgCVJ4FucrncIYnrRtDJVPEdrYU__IEii__UMg29YSwengtuclEehw575ZxLd2NAXWbh1VpI0xNDq_o1kRc3V7HD2PmTYJKxIz14KGTN7T8BkUGBZ_M6d1aJU1k5DbnO3vo9U3_ELN5BtngKaZY)
-Avant de lancer la VM, nous avons modifié les fichiers
-"`vboxpostinstall.sh`" et "`preseed-fr.cfg`" pour paramétrer notre VM,
-ainsi que l'uuid dans le fichier viso.
-
-Dans la **preseed**, on a modifié la ligne 83 afin d'avoir
-l'installation de mate :
-
-`tasksel tasksel/first multiselect standard ssh-server, mate-desktop`\
-
-
-
-![](https://media.discordapp.net/attachments/861363773901635646/1345003034169577514/34be8daa4b5249e5.png?ex=67c2f730&is=67c1a5b0&hm=0c12dbf9965c91c7541f0f77f56ed1ae7e923a8f1c77a253e72513f0e3e3c831&=&format=webp&quality=lossless&width=1440&height=207)
-
 Dans le **vboxpostinstall**, nous avons ajouté dans la partie "Run user
-command" les commandes pour installer les fonctionnalités attendues :\
+command" les commandes pour installer les fonctionnalités attendues :
 
 Soit au lancement de la machine grâce à la commande `log_command_in_target`
 
@@ -356,11 +343,11 @@ MATE est l’un des nombreux paquets que l’on peut sélectionner lors d’une 
 
 Pour automatiser cette sélection et installation, on va utiliser la ligne de commande suivante :
 
-[image1]
+![](https://media.discordapp.net/attachments/861363773901635646/1345003034169577514/34be8daa4b5249e5.png?ex=67c2f730&is=67c1a5b0&hm=0c12dbf9965c91c7541f0f77f56ed1ae7e923a8f1c77a253e72513f0e3e3c831&=&format=webp&quality=lossless&width=1440&height=207)
 
 (A noter qu’il n’y a pas besoin d’écrire « d-i » au début de la commande)
 
-  
+ 
 
 3. Installation des paquets supplémentaire :
 
@@ -526,11 +513,11 @@ Comparez-le aux outils inclus avec git (et installé précédemment) ainsi qu’
 | Customisable | Avoir les fonctionnalités que l'on souhaite | Perte de temps puisque les fonctionnalités nécessaire sont présente par défaut |
 | Peut gérer plusieurs dépôt simultanément | Boost de productivité | On peut vite s'y perdre |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI1MTQ3MzA2LC00NDA5OTQyOTIsMjExND
-E1MTQ0NSwtMTMzMDk1NDk3MiwzNTQ1NDA1ODEsMTQ1NDc2MTQw
-MSwxOTI4NzM0MjcwLDE1ODM5NTIxNzksLTcwNzMyODY5MCw4NT
-YwNTI0OTYsMTk1OTk4MzgwMSwtMTA0NDYwMDIyNCw2NDk2MzIy
-MSwtMTIzOTUxMzcwNywtMTAwNTUzMzI1LDE5MTg1MzQ4MTYsLT
-MzOTc5MTgxNCwxMDkwNzI5MTE1LDQ4MDQ0NDk4LDUyNzAxNDA1
-OF19
+eyJoaXN0b3J5IjpbLTkzOTQwMjAzMSwtNDQwOTk0MjkyLDIxMT
+QxNTE0NDUsLTEzMzA5NTQ5NzIsMzU0NTQwNTgxLDE0NTQ3NjE0
+MDEsMTkyODczNDI3MCwxNTgzOTUyMTc5LC03MDczMjg2OTAsOD
+U2MDUyNDk2LDE5NTk5ODM4MDEsLTEwNDQ2MDAyMjQsNjQ5NjMy
+MjEsLTEyMzk1MTM3MDcsLTEwMDU1MzMyNSwxOTE4NTM0ODE2LC
+0zMzk3OTE4MTQsMTA5MDcyOTExNSw0ODA0NDQ5OCw1MjcwMTQw
+NThdfQ==
 -->
