@@ -370,12 +370,12 @@ Comment l'avez vous installé ?
 :   -   **Louis** :  Comme le paquet git a déjà été installé sur la machine grâce à l'éxécution du preseed de 
 la semaine 1, nous n'avons plus qu'à configurer le logiciel. Pour cela, il suffit d'utiliser
 la commande :
-```
+```javascript
 git config --global user.name "Prénom Nom" &&
 git config --global user.email "votre@email" &&
 git config --global init.defaultBranch "master"
 ```
-:   -La commande `git config` sert, comme son nom l'indique, à configurer git sur la machine.
+La commande `git config` sert, comme son nom l'indique, à configurer git sur la machine.
  
 L'option `--global`est un des trois niveau de configuration de git :
 
@@ -399,7 +399,7 @@ L’arborescence est facilement lisible, ce qui fait gagner du temps à l'utilis
 		
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTk3NzI0MjYsMzU0NTQwNTgxLDE0NT
+eyJoaXN0b3J5IjpbLTE1NTU0NDA5NzQsMzU0NTQwNTgxLDE0NT
 Q3NjE0MDEsMTkyODczNDI3MCwxNTgzOTUyMTc5LC03MDczMjg2
 OTAsODU2MDUyNDk2LDE5NTk5ODM4MDEsLTEwNDQ2MDAyMjQsNj
 Q5NjMyMjEsLTEyMzk1MTM3MDcsLTEwMDU1MzMyNSwxOTE4NTM0
