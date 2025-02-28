@@ -269,6 +269,93 @@ En parralèle, Ulysse s'est penché sur **pandoc**, et a exporté ses réponses 
 
 
 ## 3^ème^-semaine 
+## Introduction
+Nous allons cette semaine traiter le cas de Git et des applications graphiques 
+qui lui sont associées\
+Pour ce faire, nous allons : \
+1. Configurer git sur la machine virtuelle
+2. Etudier les applications graphiques officielles gitk et git-gui
+3. Installer une autre applications non-officielle : gitnuro
+
+## I. Configuration de git sur la machine
+
+### Qu'est-ce que git ?
+
+Git est un logiciel de gestion de versions décentralisé (DVCS) qui se différencie des autres VCS
+par sa vison des données comme une série de snapshots, au lieu de simplement y voir des fichiers et les changements qu'on leur applique.
+Git sépare le travail en trois espaces : le dossier de travail, un index auquel on ajoute les changements et un dépôt .git, sur lequel on enverra les changements définitifs.
+
+*Sources :*
+https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F
+
+
+### Comment le configurer sur la machine virtuelle ?
+
+Comme le paquet git a déjà été installé sur la machine grâce à l'éxécution du preseed de 
+la semaine 1, nous n'avons plus qu'à configurer le logiciel. Pour cela, il suffit d'utiliser
+la commande :
+
+```
+git config --global user.name "Prénom Nom" &&
+git config --global user.email "votre@email" &&
+git config --global init.defaultBranch "master"
+```
+> La commande `git config` sert, comme son nom l'indique, à configurer git sur la machine.
+L'option `--global`est un des trois niveau de configuration de git :
+`--local`: limite la configuration au dépôt dans lequel la fonction est invoquée. 
+C'est la configuration par défaut.
+`--global`: permet d'étendre la configuration à l'utilisateur, à travers l'entiereté de l'O.S\
+`--system`: étend la configuration à tous les utilisateurs et tous les dépôts présent sur le système\
+La 3e ligne, `int.defaultBranch "master"` évite un avertissement à la création d'une branche par défaut\
+Pour plus d'informations, utilisez `man git config`
+(`&&` permet d'enchaîner les 3 commandes en une seule ligne) 
+
+*Sources:*
+https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-config
+
+## II. Les applications graphiques officielles
+
+La version d'Ulysse étant parfaite, je n'aurais qu'un seul ajout :
+
+J'ai utilisé `apt-cache search <name>` pour m'assurer d'utiliser les bon noms de paquets pour la machine
+
+
+
+## III. Un autre exemple d'application graphique : gitnuro
+
+### 1. Choix du logiciel
+
+Je rajouterai juste l'aspect esthétique 
+
+### 2. Installation sur la machine virtuelle
+
+Il existe plusieurs méthodes d'installer gitnuro sur une machine Linux proposées par leur site officiel.
+
+Nous avons décidé d'utilise la ligne de commande :
+
+`flatpak install --user com.jetpackduba.Gitnuro`
+
+Mais pour ce faire, il fallait donc installer le paquet `flatpak` avec la commande `apt-get install flatpak`
+
+Cependant, n'ayant aucune expérience, il était inévitable de tomber sur une erreur :
+
+[image]
+
+Après avoir essayé, en vain, d'utiliser flathub, nous sommes tombés sur ce post :
+
+https://superuser.com/questions/1755709/getting-this-error-when-trying-to-use-flatpak-no-remote-refs-found-similar-to
+
+Qui préconisait l'utilisation de la commande suivante :
+
+`flatpak remote-add --user --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo`
+
+Ainsi, nous n'avons plus eu qu'à réessayer la commande initiale et l'installation a eu lieu sans problème.
+
+Pour lancer gitnuro, il suffit d'utiliser la commande :
+
+`flatpak run com.jetpackduba.Gitnuro`
+
+[image 2]
 
 ### ![drawing](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Question_mark_alternate.svg/788px-Question_mark_alternate.svg.png =20x30)    Interfaces graphiques pour *git* 
 
@@ -310,11 +397,11 @@ L’arborescence est facilement lisible, ce qui fait gagner du temps à l'utilis
 		
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4Mzk1MjE3OSwtNzA3MzI4NjkwLDg1Nj
-A1MjQ5NiwxOTU5OTgzODAxLC0xMDQ0NjAwMjI0LDY0OTYzMjIx
-LC0xMjM5NTEzNzA3LC0xMDA1NTMzMjUsMTkxODUzNDgxNiwtMz
-M5NzkxODE0LDEwOTA3MjkxMTUsNDgwNDQ0OTgsNTI3MDE0MDU4
-LC0xMjkxMTY2OTQsLTk0MDk4MzA4MywxNTQ0MjU5MTE2LC02OD
-gzOTcyMDgsLTQxMzI3MTk4Miw4NzEyNzgyOCw3MDA0MjkxNTJd
-fQ==
+eyJoaXN0b3J5IjpbMTgzMDY1OTUsMTU4Mzk1MjE3OSwtNzA3Mz
+I4NjkwLDg1NjA1MjQ5NiwxOTU5OTgzODAxLC0xMDQ0NjAwMjI0
+LDY0OTYzMjIxLC0xMjM5NTEzNzA3LC0xMDA1NTMzMjUsMTkxOD
+UzNDgxNiwtMzM5NzkxODE0LDEwOTA3MjkxMTUsNDgwNDQ0OTgs
+NTI3MDE0MDU4LC0xMjkxMTY2OTQsLTk0MDk4MzA4MywxNTQ0Mj
+U5MTE2LC02ODgzOTcyMDgsLTQxMzI3MTk4Miw4NzEyNzgyOF19
+
 -->
