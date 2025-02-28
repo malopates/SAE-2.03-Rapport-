@@ -232,7 +232,7 @@ En revanche, nous nous sommes heurté.e.s à des obstacles pour la compilation a
 
 ## 3^ème^-semaine 
 
-### ![drawing](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Question_mark_alternate.svg/788px-Question_mark_alternate.svg.png =20x30)   Interfaces graphiques pour *git* 
+### ![drawing](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Question_mark_alternate.svg/788px-Question_mark_alternate.svg.png =20x30)    Interfaces graphiques pour *git* 
 
 Qu'est-ce que le logiciel gitk ? Comment se lance-t-il ?
 
@@ -276,11 +276,11 @@ Comparer-le aux outils inclus avec git (et installé précédemment) ainsi qu'av
 		
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUzOTQyMDQ4LDUyNzAxNDA1OCwtMTI5MT
-E2Njk0LC05NDA5ODMwODMsMTU0NDI1OTExNiwtNjg4Mzk3MjA4
-LC00MTMyNzE5ODIsODcxMjc4MjgsNzAwNDI5MTUyLC0xNjQ0Mj
-U0ODEzLC0yMDI5MjYzODg1LC00MDkxNzYwMzAsNDg3NzY1ODMw
-LC00MDg4MzMwNDUsLTUyOTgxNTEsMzU3NDkxOTAyLC0xODQzNz
-gyOTgwLDE4MDI1MTY3MTIsLTEyNjI0MDc3MzIsMzY1NzM4NjMy
-XX0=
+eyJoaXN0b3J5IjpbLTIxMDE4MDUxNTYsNTI3MDE0MDU4LC0xMj
+kxMTY2OTQsLTk0MDk4MzA4MywxNTQ0MjU5MTE2LC02ODgzOTcy
+MDgsLTQxMzI3MTk4Miw4NzEyNzgyOCw3MDA0MjkxNTIsLTE2ND
+QyNTQ4MTMsLTIwMjkyNjM4ODUsLTQwOTE3NjAzMCw0ODc3NjU4
+MzAsLTQwODgzMzA0NSwtNTI5ODE1MSwzNTc0OTE5MDIsLTE4ND
+M3ODI5ODAsMTgwMjUxNjcxMiwtMTI2MjQwNzczMiwzNjU3Mzg2
+MzJdfQ==
 -->
