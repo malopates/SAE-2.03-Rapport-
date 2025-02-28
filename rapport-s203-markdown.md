@@ -373,8 +373,9 @@ Qu'est-ce que le logiciel gitk ? Comment se lance-t-il ?
 :   - **Ulysse** :  Il se concentre sur la visualisation et lanavigation dans l’historique du projet.
 Pour le lancer, il faut taper la commande gitk, en étant dans un dépôt git (dans le terminal).
 
-
-***[Sour](https://www.atlassian.com/fr/git/tutorials/gitk)[ces](https://www.atlassian.com/fr/git/tutorials/gitkhttps://man.archlinux.org/man/gitk.1.en)***
+**Sources :**
+***[Atlassian](https://www.atlassian.com/fr/git/tutorials/gitk)**
+**[Man archlinux](https://man.archlinux.org/man/gitk.1.en)***
 
 
 Qu'est-ce que le logiciel git-gui ? Comment se lance-t-il ?
@@ -402,16 +403,16 @@ Comment l'avez vous installé ?
 
 Comparez-le aux outils inclus avec git (et installé précédemment) ainsi qu’avec ce qui serait fait en ligne de commande pure : fonctionnalités avantages, inconvénients…
 
-:   -   **Ulysse** : L'interface est épuré et intuitive, avec des schémas clairs et un code couleur distinctif, la navigation est fluide et efficace. 
+:   -   **Malori** : L'interface est épuré et intuitive, avec des schémas clairs et un code couleur distinctif, la navigation est fluide et efficace. 
 L’arborescence est facilement lisible, ce qui fait gagner du temps à l'utilisateur. Des fonctionnalités pratiques permettent d’apercevoir instantanément les modifications en survolant les éléments. On peut aussi consulter les statistiques détaillées de chaque utilisateur, et il est possible d’effectuer plusieurs actions en parallèle comme fetch, pull ou clone sur plusieurs repo à la fois.
 		
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDEyMzI3ODMsMTkyODczNDI3MCwxNT
-gzOTUyMTc5LC03MDczMjg2OTAsODU2MDUyNDk2LDE5NTk5ODM4
-MDEsLTEwNDQ2MDAyMjQsNjQ5NjMyMjEsLTEyMzk1MTM3MDcsLT
-EwMDU1MzMyNSwxOTE4NTM0ODE2LC0zMzk3OTE4MTQsMTA5MDcy
-OTExNSw0ODA0NDQ5OCw1MjcwMTQwNTgsLTEyOTExNjY5NCwtOT
-QwOTgzMDgzLDE1NDQyNTkxMTYsLTY4ODM5NzIwOCwtNDEzMjcx
-OTgyXX0=
+eyJoaXN0b3J5IjpbMTQ1NDc2MTQwMSwxOTI4NzM0MjcwLDE1OD
+M5NTIxNzksLTcwNzMyODY5MCw4NTYwNTI0OTYsMTk1OTk4Mzgw
+MSwtMTA0NDYwMDIyNCw2NDk2MzIyMSwtMTIzOTUxMzcwNywtMT
+AwNTUzMzI1LDE5MTg1MzQ4MTYsLTMzOTc5MTgxNCwxMDkwNzI5
+MTE1LDQ4MDQ0NDk4LDUyNzAxNDA1OCwtMTI5MTE2Njk0LC05ND
+A5ODMwODMsMTU0NDI1OTExNiwtNjg4Mzk3MjA4LC00MTMyNzE5
+ODJdfQ==
 -->
