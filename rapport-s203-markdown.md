@@ -239,11 +239,10 @@ Quel a été le premier nom de code utilisé ?
 
 ## 2^ème^-semaine  
 
-Malori : Etant déjà init**Markdown** via les sites qui nous ont été
+Malori : Etant déjà initiée au **Markdown**, riche d'une SAE 2.03 , via les sites qui nous ont été
 fournis pour s'exercer
 ([markdowntutorial.com](http://markdowntutorial.com) &
-[commonmark.org](http://commonmark.org)) mais certain.*es* d'entre nous
-savaient déjà l'utiliser par le passé.
+[commonmark.org](http://commonmark.org)) 
 
 Pour le choix de l'éditeur, nous préférons sur navigateur afin de
 s'épargner de devoir installer un logiciel sur chaque machines où nous
@@ -307,11 +306,11 @@ Comparer-le aux outils inclus avec git (et installé précédemment) ainsi qu'av
 		
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwOTE0MzQzNSw1MjcwMTQwNTgsLTEyOT
-ExNjY5NCwtOTQwOTgzMDgzLDE1NDQyNTkxMTYsLTY4ODM5NzIw
-OCwtNDEzMjcxOTgyLDg3MTI3ODI4LDcwMDQyOTE1MiwtMTY0ND
-I1NDgxMywtMjAyOTI2Mzg4NSwtNDA5MTc2MDMwLDQ4Nzc2NTgz
-MCwtNDA4ODMzMDQ1LC01Mjk4MTUxLDM1NzQ5MTkwMiwtMTg0Mz
-c4Mjk4MCwxODAyNTE2NzEyLC0xMjYyNDA3NzMyLDM2NTczODYz
-Ml19
+eyJoaXN0b3J5IjpbNDgwNDQ0OTgsNTI3MDE0MDU4LC0xMjkxMT
+Y2OTQsLTk0MDk4MzA4MywxNTQ0MjU5MTE2LC02ODgzOTcyMDgs
+LTQxMzI3MTk4Miw4NzEyNzgyOCw3MDA0MjkxNTIsLTE2NDQyNT
+Q4MTMsLTIwMjkyNjM4ODUsLTQwOTE3NjAzMCw0ODc3NjU4MzAs
+LTQwODgzMzA0NSwtNTI5ODE1MSwzNTc0OTE5MDIsLTE4NDM3OD
+I5ODAsMTgwMjUxNjcxMiwtMTI2MjQwNzczMiwzNjU3Mzg2MzJd
+fQ==
 -->
