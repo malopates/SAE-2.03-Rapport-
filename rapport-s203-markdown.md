@@ -243,9 +243,9 @@ Quel a été le premier nom de code utilisé ?
 
 [^3]: [markdowntutorial.com](http://markdowntutorial.com) & [commonmark.org](http://commonmark.org)
 
-Pour le choix de l'éditeur, nous préférons sur navigateur afin de s'épargner de devoir installer un logiciel sur chaque machines où nous travaillons. Nous avons donc choisi **StackEdit**, 
+Pour le choix de l'éditeur, je préfére travailler sur navigateur afin de m'épargner de devoir installer un logiciel sur chaque machines sur lesquelles je pourrais travailler. J'ai donc repris **StackEdit**, y étant familière.
 
-Nous avons exporté notre rapport sous le format .md et nous l'avons
+Ulysse s'est penché sur pandoc, exporté notre rapport sous le format .md et nous l'avons
 compilé en HTML avec la commande:
 
 `pandoc.exe --standalone --template template-compilation-s203.html rapport-s203-markdown.md -o rapport-s203.html`
@@ -300,7 +300,7 @@ Comparer-le aux outils inclus avec git (et installé précédemment) ainsi qu'av
 		
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0Mzk0MjUyOSwxMDkwNzI5MTE1LDQ4MD
+eyJoaXN0b3J5IjpbMTY1MjI5Njg4NSwxMDkwNzI5MTE1LDQ4MD
 Q0NDk4LDUyNzAxNDA1OCwtMTI5MTE2Njk0LC05NDA5ODMwODMs
 MTU0NDI1OTExNiwtNjg4Mzk3MjA4LC00MTMyNzE5ODIsODcxMj
 c4MjgsNzAwNDI5MTUyLC0xNjQ0MjU0ODEzLC0yMDI5MjYzODg1
