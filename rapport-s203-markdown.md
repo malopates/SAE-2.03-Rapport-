@@ -325,7 +325,7 @@ Pour lancer gitnuro, il suffit d'utiliser la commande :
 
 `flatpak run com.jetpackduba.Gitnuro`
 
-[image 2]
+
 
 ###    Interfaces graphiques pour *git* 
 
@@ -337,7 +337,6 @@ Qu'est-ce que le logiciel gitk ? Comment se lance-t-il ?
         
 :   - **Ulysse** :  Il se concentre sur la visualisation et lanavigation dans l’historique du projet.
 Pour le lancer, il faut taper la commande gitk, en étant dans un dépôt git (dans le terminal).
-
 **Sources :**
 ***[Atlassian](https://www.atlassian.com/fr/git/tutorials/gitk)**
 **[Man archlinux](https://man.archlinux.org/man/gitk.1.en)***
@@ -345,7 +344,7 @@ Pour le lancer, il faut taper la commande gitk, en étant dans un dépôt git (d
 
 Qu'est-ce que le logiciel git-gui ? Comment se lance-t-il ?
 
-:   -  **Malori** : Interface graphique de Git basée sur Tcl/Tk. Git gui permet aux
+:   -  **Malori** : C'est une Interface graphique de Git basée sur Tcl/Tk. Git gui permet aux
         utilisateurs d'apporter des modifications à leur dépôt en
         faisant de nouveaux commits, en modifiant les commits existants,
         en créant des branches, en effectuant des fusions locales, et en
@@ -398,7 +397,7 @@ Comparez-le aux outils inclus avec git (et installé précédemment) ainsi qu’
 | Customisable | Avoir les fonctionnalitÃ©s que l'on souhaite | Perte de temps puisque les fonctionnalitÃ©s nÃ©cessaire sont prÃ©sente par dÃ©faut |
 | Peut gÃ©rer plusieurs dÃ©pÃ´t simultanÃ©ment | Boost de productivitÃ© | On peut vite s'y perdre |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MTU1OTgyNiwzNTQ1NDA1ODEsMTQ1ND
+eyJoaXN0b3J5IjpbLTQ3NjcxNDM4NSwzNTQ1NDA1ODEsMTQ1ND
 c2MTQwMSwxOTI4NzM0MjcwLDE1ODM5NTIxNzksLTcwNzMyODY5
 MCw4NTYwNTI0OTYsMTk1OTk4MzgwMSwtMTA0NDYwMDIyNCw2ND
 k2MzIyMSwtMTIzOTUxMzcwNywtMTAwNTUzMzI1LDE5MTg1MzQ4
