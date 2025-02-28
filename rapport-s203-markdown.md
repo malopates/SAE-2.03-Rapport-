@@ -206,17 +206,6 @@ Les [suppléments invités]{.underline} sont des **pilotes adapté à des systè
 
 ###  Quelques questions 
 
-Il existe 3 durées de prise en charge (support) de ces versions : la durée minimale la durée en support long terme (LTS) et la durée en support long terme étendue (ELTS). Quelles sont les durées de ces prises en charge ?
-
-:   -   **Ulysse** : 
-
-| Type       | Durée       | Source                                     |
-|------------|-------------|---------------------------------------------|
-| Minimum    | **3 ans**   | [Lien](https://wiki.debian.org/DebianReleases#Release_statistics) |
-| LTS        | **5 ans**   | [Lien](https://wiki.debian.org/LTS)         |
-| ELTS       | **10 ans**  | [Lien](https://wiki.debian.org/LTS/Extended) |
-
-
 
 Pendant combien de temps les mises à jour de sécurité seront-elles fournies ?
 
@@ -244,28 +233,18 @@ Chaque distribution majeur possède un nom de code différent. Par exemple la ve
 :   -Debian est une distribution de l’O.S Linux. Il est géré par les membres, volontaires, du projet Debian, qui se définissent comme des descendants directs du projet GNU, c’est-à-dire que leur objectif est de développer un système d’exploitation de qualité et qui le logiciel libre en son centre (liberté de distribution, de copie, de modification…). Le nom Debian est une contraction du nom du créateur, Ian Murdock, et sa femme, Debra.
 
   
+Il existe 3 durées de prise en charge (support) de ces versions : la durée minimale la durée en support long terme (LTS) et la durée en support long terme étendue (ELTS). Quelles sont les durées de ces prises en charge ?
 
-• Il existe 3 durées de prise en charge (support) de ces versions : la durée minimale, la durée en support long terme (LTS) et la durée en support long terme étendue (ELTS). Quelle sont les durées de ces prises en charge ?
+:   -   **Ulysse** : 
 
-La durée minimale de prise en charge pour la version oldstable, c’est-à-dire
+| Type       | Durée       | Source                                     |
+|------------|-------------|---------------------------------------------|
+| Minimum    | **3 ans**   | [Lien](https://wiki.debian.org/DebianReleases#Release_statistics) |
+| LTS        | **5 ans**   | [Lien](https://wiki.debian.org/LTS)         |
+| ELTS       | **10 ans**  | [Lien](https://wiki.debian.org/LTS/Extended) |
 
-La durée en support long terme LTS étend la prise en charge à 5 ans.
 
-La durée en support long terme étendue ELTS l’étend d’encore 5 ans, soit 10 ans au total.
 
-  
-
-• Pendant combien de temps les mises à jour de sécurité seront-elles fournies ?
-
-Elles sont fournies pendant 3 ans par l’équipe de sécurité.
-
-  
-
-• Chaque distribution majeur possède un nom de code différent. Par exemple, la version majeur actuelle (Debian 12) se nomme _bookworm_. D’où viennent les noms de code données aux distributions ?
-
-Les noms de code utilisés par les différentes versions de Debian proviennent des noms de personnages de la série de films Toy Story. Ainsi, « bookworm » est un vermisseau vert apparu dans Toy Story 3 (2010).
-
-  
 
 • L’un des atouts de Debian fut le nombre d’architecture (≈ processeurs) officiellement prises en charge. Combien et lesquelles sont prises en charge par la version _Bullseye_ ?
 
@@ -293,7 +272,7 @@ Bullseye prend en charge 9 architectures :
 
   
 
-• Première version avec un nom de code
+•Première version avec un nom de code
 
 -   Quelle a était le premier nom de code utilisé ?
     
@@ -560,11 +539,11 @@ Comparez-le aux outils inclus avec git (et installé précédemment) ainsi qu’
 | Customisable | Avoir les fonctionnalités que l'on souhaite | Perte de temps puisque les fonctionnalités nécessaire sont présente par défaut |
 | Peut gérer plusieurs dépôt simultanément | Boost de productivité | On peut vite s'y perdre |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg3MDU2ODk4LC00NDA5OTQyOTIsMjExND
-E1MTQ0NSwtMTMzMDk1NDk3MiwzNTQ1NDA1ODEsMTQ1NDc2MTQw
-MSwxOTI4NzM0MjcwLDE1ODM5NTIxNzksLTcwNzMyODY5MCw4NT
-YwNTI0OTYsMTk1OTk4MzgwMSwtMTA0NDYwMDIyNCw2NDk2MzIy
-MSwtMTIzOTUxMzcwNywtMTAwNTUzMzI1LDE5MTg1MzQ4MTYsLT
-MzOTc5MTgxNCwxMDkwNzI5MTE1LDQ4MDQ0NDk4LDUyNzAxNDA1
-OF19
+eyJoaXN0b3J5IjpbLTEwMTg3Njk4MDgsLTQ0MDk5NDI5MiwyMT
+E0MTUxNDQ1LC0xMzMwOTU0OTcyLDM1NDU0MDU4MSwxNDU0NzYx
+NDAxLDE5Mjg3MzQyNzAsMTU4Mzk1MjE3OSwtNzA3MzI4NjkwLD
+g1NjA1MjQ5NiwxOTU5OTgzODAxLC0xMDQ0NjAwMjI0LDY0OTYz
+MjIxLC0xMjM5NTEzNzA3LC0xMDA1NTMzMjUsMTkxODUzNDgxNi
+wtMzM5NzkxODE0LDEwOTA3MjkxMTUsNDgwNDQ0OTgsNTI3MDE0
+MDU4XX0=
 -->
