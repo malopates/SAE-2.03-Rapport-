@@ -203,8 +203,15 @@ Les [suppléments invités]{.underline} sont des **pilotes adapté à des systè
 
 Il existe 3 durées de prise en charge (support) de ces versions : la durée minimale la durée en support long terme (LTS) et la durée en support long terme étendue (ELTS). Quelles sont les durées de ces prises en charge ?
 
-:   -   La durée minimale, de support long terme (LTS) et celle en
-        support long terme étendue (ELTS) sont de 5 ans
+:   -   **Ulysse** : 
+
+| Type       | Durée       | Source                                     |
+|------------|-------------|---------------------------------------------|
+| Minimum    | **3 ans**   | [Lien](https://wiki.debian.org/DebianReleases#Release_statistics) |
+| LTS        | **5 ans**   | [Lien](https://wiki.debian.org/LTS)         |
+| ELTS       | **10 ans**  | [Lien](https://wiki.debian.org/LTS/Extended) |
+
+
 
 Pendant combien de temps les mises à jour de sécurité seront-elles fournies ?
 
@@ -298,11 +305,11 @@ Comparer-le aux outils inclus avec git (et installé précédemment) ainsi qu'av
 		
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxODUzNDgxNiwtMzM5NzkxODE0LDEwOT
-A3MjkxMTUsNDgwNDQ0OTgsNTI3MDE0MDU4LC0xMjkxMTY2OTQs
-LTk0MDk4MzA4MywxNTQ0MjU5MTE2LC02ODgzOTcyMDgsLTQxMz
-I3MTk4Miw4NzEyNzgyOCw3MDA0MjkxNTIsLTE2NDQyNTQ4MTMs
-LTIwMjkyNjM4ODUsLTQwOTE3NjAzMCw0ODc3NjU4MzAsLTQwOD
-gzMzA0NSwtNTI5ODE1MSwzNTc0OTE5MDIsLTE4NDM3ODI5ODBd
-fQ==
+eyJoaXN0b3J5IjpbLTEwMDU1MzMyNSwxOTE4NTM0ODE2LC0zMz
+k3OTE4MTQsMTA5MDcyOTExNSw0ODA0NDQ5OCw1MjcwMTQwNTgs
+LTEyOTExNjY5NCwtOTQwOTgzMDgzLDE1NDQyNTkxMTYsLTY4OD
+M5NzIwOCwtNDEzMjcxOTgyLDg3MTI3ODI4LDcwMDQyOTE1Miwt
+MTY0NDI1NDgxMywtMjAyOTI2Mzg4NSwtNDA5MTc2MDMwLDQ4Nz
+c2NTgzMCwtNDA4ODMzMDQ1LC01Mjk4MTUxLDM1NzQ5MTkwMl19
+
 -->
