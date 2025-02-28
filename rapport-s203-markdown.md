@@ -238,18 +238,6 @@ Chaque distribution majeur possède un nom de code différent. Par exemple la ve
         l'époque, responsable du projet Debian et travaillait chez
         Pixar, la société qui a produit les films.
         
-L'un des atouts de Debian fut le nombre d'architecture (≈ processeurs) officiellement prises en charge. 
-Combien et lesquelles sont prises en charge par la version Bullseye ?
-
-
-
-Quel était le numéro de version de cette distribution ?
-
-:   -   
-
-Quel a été le premier nom de code utilisé ?
-
-:   -  
 
 ![Installation réussie](https://media.discordapp.net/attachments/861363773901635646/1344994403349172254/e186db6708bb1758.png?ex=67c2ef26&is=67c19da6&hm=14d1994d23ae87d8f5781bd4ebcc6081ad9d435cb242aaad0ac8bb65670b2f75&=&format=webp&quality=lossless&width=1131&height=604)
 
@@ -396,11 +384,11 @@ Comparez-le aux outils inclus avec git (et installé précédemment) ainsi qu’
 | Customisable | Avoir les fonctionnalités que l'on souhaite | Perte de temps puisque les fonctionnalités nécessaire sont présente par défaut |
 | Peut gérer plusieurs dépôt simultanément | Boost de productivité | On peut vite s'y perdre |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1MDg0NTAwNCwtNDQwOTk0MjkyLDIxMT
-QxNTE0NDUsLTEzMzA5NTQ5NzIsMzU0NTQwNTgxLDE0NTQ3NjE0
-MDEsMTkyODczNDI3MCwxNTgzOTUyMTc5LC03MDczMjg2OTAsOD
-U2MDUyNDk2LDE5NTk5ODM4MDEsLTEwNDQ2MDAyMjQsNjQ5NjMy
-MjEsLTEyMzk1MTM3MDcsLTEwMDU1MzMyNSwxOTE4NTM0ODE2LC
-0zMzk3OTE4MTQsMTA5MDcyOTExNSw0ODA0NDQ5OCw1MjcwMTQw
-NThdfQ==
+eyJoaXN0b3J5IjpbLTE3ODkwNzUxNDUsLTQ0MDk5NDI5MiwyMT
+E0MTUxNDQ1LC0xMzMwOTU0OTcyLDM1NDU0MDU4MSwxNDU0NzYx
+NDAxLDE5Mjg3MzQyNzAsMTU4Mzk1MjE3OSwtNzA3MzI4NjkwLD
+g1NjA1MjQ5NiwxOTU5OTgzODAxLC0xMDQ0NjAwMjI0LDY0OTYz
+MjIxLC0xMjM5NTEzNzA3LC0xMDA1NTMzMjUsMTkxODUzNDgxNi
+wtMzM5NzkxODE0LDEwOTA3MjkxMTUsNDgwNDQ0OTgsNTI3MDE0
+MDU4XX0=
 -->
