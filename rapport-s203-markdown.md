@@ -15,11 +15,11 @@ geometry: margin=2cm
 
 Pour la première séance, nous avons commencé en créant une nouvelle VM dans **Oracle VM VirtualBox** que nous avons appelée "*SAE203auto*", sans aucun fichier iso, mais en sélectionnant le type (**Linux**) et la version (**Debian 12 Bookworm** en version 64-bit). Pour ce qui est de l'iso, il faut se rendre dans l'onglet `Storage`, puis dans "`Controller: IDE`" -> "`Empty`" pour rajouter dans "`IDE Primary Device 0`" le fichier "**S203-Debian12.viso**" afin que les fichiers de configuration automatique se lancent convenablement.
 
-Le reste de la configuration de la VM s'est faite en laissant les paramètres par défaut. Cependant, l'étape de chargement du pre-seed était bloqué, suite aux recherches de Louis, nous avons pu résoudre ce problème en redémarrant la machine à cette étape. 
+Le reste de la configuration de la VM s'est faite en laissant les paramètres **par défaut.** Cependant, l'étape de chargement du pre-seed était bloqué, suite aux recherches de Louis, nous avons pu résoudre ce problème en redémarrant la machine à cette étape. 
 
-![Installation réussie](https://zimbra.univ-lille.fr/service/home/~/?auth=co&loc=fr_FR&id=4172&part=3)
 
-![Screen création VM](https://lh7-us.googleusercontent.com/HwGyxgCVJ4FucrncIYnrRtDJVPEdrYU__IEii__UMg29YSwengtuclEehw575ZxLd2NAXWbh1VpI0xNDq_o1kRc3V7HD2PmTYJKxIz14KGTN7T8BkUGBZ_M6d1aJU1k5DbnO3vo9U3_ELN5BtngKaZY)
+
+![Screen création VM](https://lh7-us.googleusercontent.com/HwGyxgCVJ4FucrncIYnrRtDJVPEdrYU__IEii__UMg29YSwengtuclEehw575ZxLd2NAXWbh1VpI0xNDq_o1kRc3V7HD2PmTYJKxIz14KGTN7T8BkUGBZ_M6d1aJU1k5DbnO3vo9U3_ELN5BtngKaZY)![Installation réussie](https://media.discordapp.net/attachments/861363773901635646/1344994403349172254/e186db6708bb1758.png?ex=67c2ef26&is=67c19da6&hm=14d1994d23ae87d8f5781bd4ebcc6081ad9d435cb242aaad0ac8bb65670b2f75&=&format=webp&quality=lossless&width=1131&height=604)
 Avant de lancer la VM, nous avons modifié les fichiers
 "`vboxpostinstall.sh`" et "`preseed-fr.cfg`" pour paramétrer notre VM,
 ainsi que l'uuid dans le fichier viso.
@@ -311,11 +311,11 @@ Comparer-le aux outils inclus avec git (et installé précédemment) ainsi qu'av
 		
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYzMDY1MTM4LC0xMDQ0NjAwMjI0LDY0OT
-YzMjIxLC0xMjM5NTEzNzA3LC0xMDA1NTMzMjUsMTkxODUzNDgx
-NiwtMzM5NzkxODE0LDEwOTA3MjkxMTUsNDgwNDQ0OTgsNTI3MD
-E0MDU4LC0xMjkxMTY2OTQsLTk0MDk4MzA4MywxNTQ0MjU5MTE2
-LC02ODgzOTcyMDgsLTQxMzI3MTk4Miw4NzEyNzgyOCw3MDA0Mj
-kxNTIsLTE2NDQyNTQ4MTMsLTIwMjkyNjM4ODUsLTQwOTE3NjAz
-MF19
+eyJoaXN0b3J5IjpbLTE3MTIyMjM0MTksLTEwNDQ2MDAyMjQsNj
+Q5NjMyMjEsLTEyMzk1MTM3MDcsLTEwMDU1MzMyNSwxOTE4NTM0
+ODE2LC0zMzk3OTE4MTQsMTA5MDcyOTExNSw0ODA0NDQ5OCw1Mj
+cwMTQwNTgsLTEyOTExNjY5NCwtOTQwOTgzMDgzLDE1NDQyNTkx
+MTYsLTY4ODM5NzIwOCwtNDEzMjcxOTgyLDg3MTI3ODI4LDcwMD
+QyOTE1MiwtMTY0NDI1NDgxMywtMjAyOTI2Mzg4NSwtNDA5MTc2
+MDMwXX0=
 -->
