@@ -108,9 +108,7 @@ Qu'est-ce qu'un serveur mandataire ?
 :   -   **Malori** : Un serveur mandataire (dit "proxy" plus communément) est un serveur qui permet de filtrer les requêtes des clients. 
 
 ###  
-![question](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Question_mark_alternate.svg/788px-Question_mark_alternate.svg.png =20x30)
-
-Comment peux-ton savoir à quels groupes appartient l'utilisateur user ?
+![question](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Question_mark_alternate.svg/788px-Question_mark_alternate.svg.png =20x30) Comment peux-ton savoir à quels groupes appartient l'utilisateur user ?
 
 :   -   On utilise la commande : \$ groups user
 
@@ -243,7 +241,7 @@ Comparer-le aux outils inclus avec git (et installé précédemment) ainsi qu'av
 		
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIxNzA5MzQ0LC0xMjkxMTY2OTQsLTk0MD
+eyJoaXN0b3J5IjpbNTI3MDE0MDU4LC0xMjkxMTY2OTQsLTk0MD
 k4MzA4MywxNTQ0MjU5MTE2LC02ODgzOTcyMDgsLTQxMzI3MTk4
 Miw4NzEyNzgyOCw3MDA0MjkxNTIsLTE2NDQyNTQ4MTMsLTIwMj
 kyNjM4ODUsLTQwOTE3NjAzMCw0ODc3NjU4MzAsLTQwODgzMzA0
