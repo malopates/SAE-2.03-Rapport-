@@ -268,7 +268,7 @@ En parralèle, Ulysse s'est penché sur **pandoc**, et a exporté ses réponses 
 
 
 ## 3^ème^-semaine 
-
+***
 ### Introduction
 Nous allons cette semaine traiter le cas de Git et des applications graphiques 
 qui lui sont associées
@@ -363,7 +363,7 @@ Contrairement à gitk, git gui se concentre sur la génération de
 
 Pourquoi avez-vous choisi ce logiciel ?
 
-:   -   **Ulysse
+:   -   **Ulysse** : J’ai choisi premièrement d’installer le logiciel gitnuro, parce qu’il est disponible sur Linux, Mac et Windows, qu’il est gratuit, open-source et qu’il n’est pas propriétaire, mais sous la license GNU GPL, en outre de son apparence. 
 
 Comment l'avez vous installé ?
 
@@ -396,9 +396,14 @@ Comparez-le aux outils inclus avec git (et installé précédemment) ainsi qu’
 
 :   -   **Malori** : L'interface est épuré et intuitive, avec des schémas clairs et un code couleur distinctif, la navigation est fluide et efficace. L’arborescence est facilement lisible, ce qui fait gagner du temps à l'utilisateur. Des fonctionnalités pratiques permettent d’apercevoir instantanément les modifications en survolant les éléments. On peut aussi consulter les statistiques détaillées de chaque utilisateur, et il est possible d’effectuer plusieurs actions en parallèle comme fetch, pull ou clone sur plusieurs repo à la fois.
 		
-
+| FonctionnalitÃ©s      | Avantage                     | InconvÃ©nient                           |
+|----------------------|------------------------------|---------------------------------------|
+| Interface graphique  | Permet de comprendre plus efficacement les changements  | Plus long au dÃ©marrage, plus lourd que le version CLI |
+| Plus intuitif puisque l'utilisation de commandes n'est pas obligatoire | Plus accÃ¨s dÃ©butant | Perte de temps puisqu'il faut faire des aller-retour entre le terminal et l'application |
+| Customisable | Avoir les fonctionnalitÃ©s que l'on souhaite | Perte de temps puisque les fonctionnalitÃ©s nÃ©cessaire sont prÃ©sente par dÃ©faut |
+| Peut gÃ©rer plusieurs dÃ©pÃ´t simultanÃ©ment | Boost de productivitÃ© | On peut vite s'y perdre |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0NDU5NDI3NywzNTQ1NDA1ODEsMTQ1ND
+eyJoaXN0b3J5IjpbMTU5MzY2MTEzNCwzNTQ1NDA1ODEsMTQ1ND
 c2MTQwMSwxOTI4NzM0MjcwLDE1ODM5NTIxNzksLTcwNzMyODY5
 MCw4NTYwNTI0OTYsMTk1OTk4MzgwMSwtMTA0NDYwMDIyNCw2ND
 k2MzIyMSwtMTIzOTUxMzcwNywtMTAwNTUzMzI1LDE5MTg1MzQ4
