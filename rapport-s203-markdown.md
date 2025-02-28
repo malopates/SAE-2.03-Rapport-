@@ -233,7 +233,7 @@ Chaque distribution majeur possède un nom de code différent. Par exemple la ve
         provenant de Toy Story a été prise par Bruce Perens qui était, à
         l'époque, responsable du projet Debian et travaillait chez
         Pixar, la société qui a produit les films.
-ue signifie "64-bit" dans "Debian 64-bit" ?
+Que signifie "64-bit" dans "Debian 64-bit" ?
 L'un des atouts de Debian fut le nombre d'architecture (≈ processeurs) officiellement prises en charge. Combien et lesquelles sont prises en charge par la version Bullseye ?
 
 :   -   Il y a 10 architectures officiellement prises en charge par la
@@ -309,11 +309,11 @@ Comparer-le aux outils inclus avec git (et installé précédemment) ainsi qu'av
 		
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ5NjMyMjEsLTEyMzk1MTM3MDcsLTEwMD
-U1MzMyNSwxOTE4NTM0ODE2LC0zMzk3OTE4MTQsMTA5MDcyOTEx
-NSw0ODA0NDQ5OCw1MjcwMTQwNTgsLTEyOTExNjY5NCwtOTQwOT
-gzMDgzLDE1NDQyNTkxMTYsLTY4ODM5NzIwOCwtNDEzMjcxOTgy
-LDg3MTI3ODI4LDcwMDQyOTE1MiwtMTY0NDI1NDgxMywtMjAyOT
-I2Mzg4NSwtNDA5MTc2MDMwLDQ4Nzc2NTgzMCwtNDA4ODMzMDQ1
+eyJoaXN0b3J5IjpbLTgwODYxMzQxNCw2NDk2MzIyMSwtMTIzOT
+UxMzcwNywtMTAwNTUzMzI1LDE5MTg1MzQ4MTYsLTMzOTc5MTgx
+NCwxMDkwNzI5MTE1LDQ4MDQ0NDk4LDUyNzAxNDA1OCwtMTI5MT
+E2Njk0LC05NDA5ODMwODMsMTU0NDI1OTExNiwtNjg4Mzk3MjA4
+LC00MTMyNzE5ODIsODcxMjc4MjgsNzAwNDI5MTUyLC0xNjQ0Mj
+U0ODEzLC0yMDI5MjYzODg1LC00MDkxNzYwMzAsNDg3NzY1ODMw
 XX0=
 -->
