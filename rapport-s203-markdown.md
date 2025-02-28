@@ -106,7 +106,21 @@ Qu'est-ce qu'un serveur ssh ?
 
 Qu'est-ce qu'un serveur mandataire ?
 
-:   -   **Malori** : Un serveur mandataire (dit "proxy" plus communément) est un serveur intermédiaire qui vient se placer entre deux hôtes. permet de ==filtrer les requêtes des clients==. 
+:   -   **Malori** : Un serveur mandataire (dit "proxy" plus communément) est un serveur intermédiaire qui vient ==se placer entre deux hôtes==. 
+
+: - **Ulysse** : Par exemple, une requête d’accès à une ressource normalement transmise du client vers un serveur, Web par exemple, passera plutôt par un serveur proxy, qui évalue la requête et la retransmet correctement au second hôte.
+
+: - **Louis** : 
+ Les serveurs mandataires ont différentes utilités :
+
+> 1. Ils peuvent servir à filtrer l’accès certains contenus, ce qui est pratique en milieu académique ou professionnel.
+
+> 2. Inversement, des serveurs proxy peuvent servir à passer outre ce genre de filtre. Ils sont par exemple utilisés pour éviter les restrictions gouvernementales et géographiques d’accès au contenu.
+
+> 3. Ils servent aussi a anonymiser l’accès à un contenu, puisque le proxy est souvent situé du côté du client. L’origine de la requête peut dont être masquée aux yeux du serveur.
+
+> 4. Les serveurs mandataires permettent aussi une accélération du traitement des requêtes en sauvegardant des fragments d’anciennes requêtes, ou encore la traduction de sites internet.
+
 
 ###  
 ![question](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Question_mark_alternate.svg/788px-Question_mark_alternate.svg.png =20x30) Comment peux-ton savoir à quels groupes appartient l'utilisateur user ?
@@ -242,11 +256,11 @@ Comparer-le aux outils inclus avec git (et installé précédemment) ainsi qu'av
 		
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyOTk5MjQxOCw1MjcwMTQwNTgsLTEyOT
-ExNjY5NCwtOTQwOTgzMDgzLDE1NDQyNTkxMTYsLTY4ODM5NzIw
-OCwtNDEzMjcxOTgyLDg3MTI3ODI4LDcwMDQyOTE1MiwtMTY0ND
-I1NDgxMywtMjAyOTI2Mzg4NSwtNDA5MTc2MDMwLDQ4Nzc2NTgz
-MCwtNDA4ODMzMDQ1LC01Mjk4MTUxLDM1NzQ5MTkwMiwtMTg0Mz
-c4Mjk4MCwxODAyNTE2NzEyLC0xMjYyNDA3NzMyLDM2NTczODYz
-Ml19
+eyJoaXN0b3J5IjpbLTE5ODExNDk4NDcsNTI3MDE0MDU4LC0xMj
+kxMTY2OTQsLTk0MDk4MzA4MywxNTQ0MjU5MTE2LC02ODgzOTcy
+MDgsLTQxMzI3MTk4Miw4NzEyNzgyOCw3MDA0MjkxNTIsLTE2ND
+QyNTQ4MTMsLTIwMjkyNjM4ODUsLTQwOTE3NjAzMCw0ODc3NjU4
+MzAsLTQwODgzMzA0NSwtNTI5ODE1MSwzNTc0OTE5MDIsLTE4ND
+M3ODI5ODAsMTgwMjUxNjcxMiwtMTI2MjQwNzczMiwzNjU3Mzg2
+MzJdfQ==
 -->
