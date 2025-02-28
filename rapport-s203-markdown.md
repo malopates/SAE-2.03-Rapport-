@@ -270,8 +270,7 @@ En parralèle, Ulysse s'est penché sur **pandoc**, et a exporté ses réponses 
 ## 3^ème^-semaine 
 ***
 ### Introduction
-Nous allons cette semaine traiter le cas de Git et des applications graphiques 
-qui lui sont associées
+*Nous allons cette semaine traiter le cas de Git et des applications graphiques qui lui sont associées*
 
 **Pour ce faire, nous allons :** 
 1. Configurer git sur la machine virtuelle
@@ -297,10 +296,6 @@ Git sépare le travail en trois espaces : le dossier de travail, un index auquel
 J'ai utilisé `apt-cache search <name>` pour m'assurer d'utiliser les bon noms de paquets pour la machine
 
 ### III. Un autre exemple d'application graphique : gitnuro
-
-### 1. Choix du logiciel
-
-
 
 ### 2. Installation sur la machine virtuelle
 
@@ -403,11 +398,11 @@ Comparez-le aux outils inclus avec git (et installé précédemment) ainsi qu’
 | Customisable | Avoir les fonctionnalitÃ©s que l'on souhaite | Perte de temps puisque les fonctionnalitÃ©s nÃ©cessaire sont prÃ©sente par dÃ©faut |
 | Peut gÃ©rer plusieurs dÃ©pÃ´t simultanÃ©ment | Boost de productivitÃ© | On peut vite s'y perdre |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTgzNTQ3NjQsMzU0NTQwNTgxLDE0NT
-Q3NjE0MDEsMTkyODczNDI3MCwxNTgzOTUyMTc5LC03MDczMjg2
-OTAsODU2MDUyNDk2LDE5NTk5ODM4MDEsLTEwNDQ2MDAyMjQsNj
-Q5NjMyMjEsLTEyMzk1MTM3MDcsLTEwMDU1MzMyNSwxOTE4NTM0
-ODE2LC0zMzk3OTE4MTQsMTA5MDcyOTExNSw0ODA0NDQ5OCw1Mj
-cwMTQwNTgsLTEyOTExNjY5NCwtOTQwOTgzMDgzLDE1NDQyNTkx
-MTZdfQ==
+eyJoaXN0b3J5IjpbLTM3MTU1OTgyNiwzNTQ1NDA1ODEsMTQ1ND
+c2MTQwMSwxOTI4NzM0MjcwLDE1ODM5NTIxNzksLTcwNzMyODY5
+MCw4NTYwNTI0OTYsMTk1OTk4MzgwMSwtMTA0NDYwMDIyNCw2ND
+k2MzIyMSwtMTIzOTUxMzcwNywtMTAwNTUzMzI1LDE5MTg1MzQ4
+MTYsLTMzOTc5MTgxNCwxMDkwNzI5MTE1LDQ4MDQ0NDk4LDUyNz
+AxNDA1OCwtMTI5MTE2Njk0LC05NDA5ODMwODMsMTU0NDI1OTEx
+Nl19
 -->
