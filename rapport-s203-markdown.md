@@ -137,12 +137,24 @@ Quelle est la version du noyau Linux utilisé par votre VM ? N'oubliez pas, comm
         informations sur le système qu'on utilise. Ici il s'agit de
         amd64.
 
+***[Source](https://man.archlinux.org/man/uname.1.fr)***
+
 À quoi servent les suppléments invités ? Donner 2 principales raisons de les installer.
 
-:   -   **Malori** : Les suppléments invités servent à :\
-        -\> améliorer les performances de la machine virtuelle\
-        -\> faciliter le partage de fichiers entre la machine virtuelle
-        et l'hôte.
+:   -   **Ulysse** : 
+
+Les [suppléments invités]{.underline} sont des **pilotes adapté à des systèmes invités**, c'est-à-dire les OSs des VMs.
+
+| Avantage                     | Description                           |
+|------------------------------|---------------------------------------|
+| Meilleures performances vidéos | Accélération de l’affichage graphique |
+|                              | Meilleure résolution d’écran          |
+| Presse-papier partagé        | Partage entre l’hôte et la VM (après configuration) |
+| Dossiers partagés            | Partage de dossiers entre l’hôte et la VM |
+| Meilleure transition         | Fluidité améliorée entre l’hôte et la VM |
+
+
+***[Source](https://doc.ubuntu-fr.org/virtualbox_additions_invite)***
 
 À quoi sert la commande mount (dans notre cas de figure et dans le cas général) ?
 
@@ -258,11 +270,11 @@ Comparer-le aux outils inclus avec git (et installé précédemment) ainsi qu'av
 		
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU5ODg3NDU2LDUyNzAxNDA1OCwtMTI5MT
-E2Njk0LC05NDA5ODMwODMsMTU0NDI1OTExNiwtNjg4Mzk3MjA4
-LC00MTMyNzE5ODIsODcxMjc4MjgsNzAwNDI5MTUyLC0xNjQ0Mj
-U0ODEzLC0yMDI5MjYzODg1LC00MDkxNzYwMzAsNDg3NzY1ODMw
-LC00MDg4MzMwNDUsLTUyOTgxNTEsMzU3NDkxOTAyLC0xODQzNz
-gyOTgwLDE4MDI1MTY3MTIsLTEyNjI0MDc3MzIsMzY1NzM4NjMy
-XX0=
+eyJoaXN0b3J5IjpbLTIwNTMzNjEwNDEsNTI3MDE0MDU4LC0xMj
+kxMTY2OTQsLTk0MDk4MzA4MywxNTQ0MjU5MTE2LC02ODgzOTcy
+MDgsLTQxMzI3MTk4Miw4NzEyNzgyOCw3MDA0MjkxNTIsLTE2ND
+QyNTQ4MTMsLTIwMjkyNjM4ODUsLTQwOTE3NjAzMCw0ODc3NjU4
+MzAsLTQwODgzMzA0NSwtNTI5ODE1MSwzNTc0OTE5MDIsLTE4ND
+M3ODI5ODAsMTgwMjUxNjcxMiwtMTI2MjQwNzczMiwzNjU3Mzg2
+MzJdfQ==
 -->
