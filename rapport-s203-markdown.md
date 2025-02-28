@@ -249,7 +249,7 @@ En parralèle, Ulysse s'est penché sur **pandoc**, et a exporté ses réponses 
 
 `pandoc.exe rapport-s203-markdown.md -o rapport-s203.html`
 
-
+![Capture d'écran du rapport d'Ulysse](https://cdn.discordapp.com/attachments/1339313007641235487/1344963770484654191/Capture_du_2025-02-28_10-24-361.png?ex=67c2d29f&is=67c1811f&hm=d3bd37ace3b798ba34e9429abc5f3d6c0a048557bb8459c1a110ee731556ad90&)
 
 
 ## 3^ème^-semaine 
@@ -298,11 +298,11 @@ Comparer-le aux outils inclus avec git (et installé précédemment) ainsi qu'av
 		
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDA2NzE0NTksMTA5MDcyOTExNSw0OD
-A0NDQ5OCw1MjcwMTQwNTgsLTEyOTExNjY5NCwtOTQwOTgzMDgz
-LDE1NDQyNTkxMTYsLTY4ODM5NzIwOCwtNDEzMjcxOTgyLDg3MT
-I3ODI4LDcwMDQyOTE1MiwtMTY0NDI1NDgxMywtMjAyOTI2Mzg4
-NSwtNDA5MTc2MDMwLDQ4Nzc2NTgzMCwtNDA4ODMzMDQ1LC01Mj
-k4MTUxLDM1NzQ5MTkwMiwtMTg0Mzc4Mjk4MCwxODAyNTE2NzEy
-XX0=
+eyJoaXN0b3J5IjpbLTMzOTc5MTgxNCwxMDkwNzI5MTE1LDQ4MD
+Q0NDk4LDUyNzAxNDA1OCwtMTI5MTE2Njk0LC05NDA5ODMwODMs
+MTU0NDI1OTExNiwtNjg4Mzk3MjA4LC00MTMyNzE5ODIsODcxMj
+c4MjgsNzAwNDI5MTUyLC0xNjQ0MjU0ODEzLC0yMDI5MjYzODg1
+LC00MDkxNzYwMzAsNDg3NzY1ODMwLC00MDg4MzMwNDUsLTUyOT
+gxNTEsMzU3NDkxOTAyLC0xODQzNzgyOTgwLDE4MDI1MTY3MTJd
+fQ==
 -->
