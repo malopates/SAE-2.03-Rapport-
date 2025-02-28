@@ -290,12 +290,10 @@ Git sépare le travail en trois espaces : le dossier de travail, un index auquel
 
 ### Comment le configurer sur la machine virtuelle ?
 
-
 ### II. Les applications graphiques officielles
 
 J'ai utilisé `apt-cache search <name>` pour m'assurer d'utiliser les bon noms de paquets pour la machine
 
-### III. Un autre exemple d'application graphique : gitnuro
 
 ### 2. Installation sur la machine virtuelle
 
@@ -397,11 +395,11 @@ Comparez-le aux outils inclus avec git (et installé précédemment) ainsi qu’
 | Customisable | Avoir les fonctionnalités que l'on souhaite | Perte de temps puisque les fonctionnalités nécessaire sont présente par défaut |
 | Peut gérer plusieurs dépôt simultanément | Boost de productivité | On peut vite s'y perdre |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzA5NTQ5NzIsMzU0NTQwNTgxLDE0NT
-Q3NjE0MDEsMTkyODczNDI3MCwxNTgzOTUyMTc5LC03MDczMjg2
-OTAsODU2MDUyNDk2LDE5NTk5ODM4MDEsLTEwNDQ2MDAyMjQsNj
-Q5NjMyMjEsLTEyMzk1MTM3MDcsLTEwMDU1MzMyNSwxOTE4NTM0
-ODE2LC0zMzk3OTE4MTQsMTA5MDcyOTExNSw0ODA0NDQ5OCw1Mj
-cwMTQwNTgsLTEyOTExNjY5NCwtOTQwOTgzMDgzLDE1NDQyNTkx
-MTZdfQ==
+eyJoaXN0b3J5IjpbMjExNDE1MTQ0NSwtMTMzMDk1NDk3MiwzNT
+Q1NDA1ODEsMTQ1NDc2MTQwMSwxOTI4NzM0MjcwLDE1ODM5NTIx
+NzksLTcwNzMyODY5MCw4NTYwNTI0OTYsMTk1OTk4MzgwMSwtMT
+A0NDYwMDIyNCw2NDk2MzIyMSwtMTIzOTUxMzcwNywtMTAwNTUz
+MzI1LDE5MTg1MzQ4MTYsLTMzOTc5MTgxNCwxMDkwNzI5MTE1LD
+Q4MDQ0NDk4LDUyNzAxNDA1OCwtMTI5MTE2Njk0LC05NDA5ODMw
+ODNdfQ==
 -->
