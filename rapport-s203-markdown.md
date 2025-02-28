@@ -239,8 +239,10 @@ Quel a été le premier nom de code utilisé ?
 
 ## 2^ème^-semaine  
 
-Malori : Etant déjà initiée au **Markdown**, riche d'une SAE 2.03 , via les sites [^3] qui nous ont été fournis pour s'exercer 
+Malori : Etant déjà initiée au **Markdown**, riche d'une précédente SAE 2.03, je me suis chargée de centraliser les rapports et questions en un seul et même rapport. via les sites [^3] qui nous ont été fournis pour s'exercer 
+
 [^3]: [markdowntutorial.com](http://markdowntutorial.com) & [commonmark.org](http://commonmark.org)
+
 Pour le choix de l'éditeur, nous préférons sur navigateur afin de
 s'épargner de devoir installer un logiciel sur chaque machines où nous
 travaillons. Nous avons donc choisi **StackEdit** car après avoir essayé
@@ -303,7 +305,7 @@ Comparer-le aux outils inclus avec git (et installé précédemment) ainsi qu'av
 		
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0Mjc0MDA2Myw0ODA0NDQ5OCw1MjcwMT
+eyJoaXN0b3J5IjpbMTA5MDcyOTExNSw0ODA0NDQ5OCw1MjcwMT
 QwNTgsLTEyOTExNjY5NCwtOTQwOTgzMDgzLDE1NDQyNTkxMTYs
 LTY4ODM5NzIwOCwtNDEzMjcxOTgyLDg3MTI3ODI4LDcwMDQyOT
 E1MiwtMTY0NDI1NDgxMywtMjAyOTI2Mzg4NSwtNDA5MTc2MDMw
