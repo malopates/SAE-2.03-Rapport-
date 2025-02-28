@@ -96,7 +96,10 @@ Qu'est-ce qu'un fichier iso bootable ?
         démarrage de la VM et qui contient une instance d'un système
         d'exploitation. Il permet de créer la machine. 
         
-      :   - Ulysse
+:   - **Ulysse** : 
+Un [fichier ISO bootable]{.underline} est un fichier qui contient une **image disque**, et cette image contient une **copie des données du disque** en question. On peut l'utiliser pour **stocker des données** sans support de stockage, ou dans notre cas **servir de CD-ROMs virtuel** pour l'[hyperviseur]{.underline} (ici VirtualBox).
+
+***[Source](https://en.wikipedia.org/wiki/Disk_image)***
 
 Qu'est-ce que MATE ? GNOME ?
 
@@ -293,7 +296,7 @@ Comparer-le aux outils inclus avec git (et installé précédemment) ainsi qu'av
 		
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1OTIwNzg3LDUyNzAxNDA1OCwtMTI5MT
+eyJoaXN0b3J5IjpbMzU5MDE0OTE5LDUyNzAxNDA1OCwtMTI5MT
 E2Njk0LC05NDA5ODMwODMsMTU0NDI1OTExNiwtNjg4Mzk3MjA4
 LC00MTMyNzE5ODIsODcxMjc4MjgsNzAwNDI5MTUyLC0xNjQ0Mj
 U0ODEzLC0yMDI5MjYzODg1LC00MDkxNzYwMzAsNDg3NzY1ODMw
