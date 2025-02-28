@@ -50,6 +50,7 @@ Soit au lancement de la machine grâce à la commande `log_command_in_target`
 Nous avons rencontré quelques soucis à l'installation à cause de ces commandes, mais en commentant les 5 dernières lignes *( sudo apt-get...)* l'ensemble refonctionnait de nouveau, mais sans les installations.
 Nous avons plus tard réalisé que le problème venait du fait que la commande `sudo` attend une entrée utilisateur, ce qui bloquait complètement l'exécution du script. De plus, ce script s'exécute déjà en tant que root, alors il nous a suffit de retirer `sudo` de toutes les commandes pour que le script
 fonctionne.
+![](https://zimbra.univ-lille.fr/service/home/~/?auth=co&loc=fr_FR&id=4172&part=3)
 
 ### ![Question](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Question_mark_alternate.svg/788px-Question_mark_alternate.svg.png =20x30)   Configuration matérielle dans VirtualBox 
 
@@ -308,11 +309,11 @@ Comparer-le aux outils inclus avec git (et installé précédemment) ainsi qu'av
 		
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzk1MTM3MDcsLTEwMDU1MzMyNSwxOT
-E4NTM0ODE2LC0zMzk3OTE4MTQsMTA5MDcyOTExNSw0ODA0NDQ5
-OCw1MjcwMTQwNTgsLTEyOTExNjY5NCwtOTQwOTgzMDgzLDE1ND
-QyNTkxMTYsLTY4ODM5NzIwOCwtNDEzMjcxOTgyLDg3MTI3ODI4
-LDcwMDQyOTE1MiwtMTY0NDI1NDgxMywtMjAyOTI2Mzg4NSwtND
-A5MTc2MDMwLDQ4Nzc2NTgzMCwtNDA4ODMzMDQ1LC01Mjk4MTUx
-XX0=
+eyJoaXN0b3J5IjpbNDE5MzQzODIxLC0xMjM5NTEzNzA3LC0xMD
+A1NTMzMjUsMTkxODUzNDgxNiwtMzM5NzkxODE0LDEwOTA3Mjkx
+MTUsNDgwNDQ0OTgsNTI3MDE0MDU4LC0xMjkxMTY2OTQsLTk0MD
+k4MzA4MywxNTQ0MjU5MTE2LC02ODgzOTcyMDgsLTQxMzI3MTk4
+Miw4NzEyNzgyOCw3MDA0MjkxNTIsLTE2NDQyNTQ4MTMsLTIwMj
+kyNjM4ODUsLTQwOTE3NjAzMCw0ODc3NjU4MzAsLTQwODgzMzA0
+NV19
 -->
