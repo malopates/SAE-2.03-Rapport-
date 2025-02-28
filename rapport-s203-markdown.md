@@ -284,8 +284,7 @@ Qu'est-ce que le logiciel git-gui ? Comment se lance-t-il ?
         faisant de nouveaux commits, en modifiant les commits existants,
         en créant des branches, en effectuant des fusions locales, et en
         récupérant/poussant vers des dépôts distants.
-
-:   -   **Malori** : Contrairement à gitk, git gui se concentre sur la génération de
+Contrairement à gitk, git gui se concentre sur la génération de
         commit et l'annotation de fichiers uniques et n'affiche pas
         l'historique du projet. Il fournit cependant des actions de menu
         pour démarrer une session gitk à partir de git gui.
@@ -308,7 +307,7 @@ L’arborescence est facilement lisible, ce qui fait gagner du temps à l'utilis
 		
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTIzOTU3LDE5NTk5ODM4MDEsLTEwND
+eyJoaXN0b3J5IjpbODU2MDUyNDk2LDE5NTk5ODM4MDEsLTEwND
 Q2MDAyMjQsNjQ5NjMyMjEsLTEyMzk1MTM3MDcsLTEwMDU1MzMy
 NSwxOTE4NTM0ODE2LC0zMzk3OTE4MTQsMTA5MDcyOTExNSw0OD
 A0NDQ5OCw1MjcwMTQwNTgsLTEyOTExNjY5NCwtOTQwOTgzMDgz
