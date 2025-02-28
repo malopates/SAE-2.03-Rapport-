@@ -287,7 +287,7 @@ Git est un logiciel de gestion de versions décentralisé (DVCS) qui se différe
 par sa vison des données comme une série de snapshots, au lieu de simplement y voir des fichiers et les changements qu'on leur applique.
 Git sépare le travail en trois espaces : le dossier de travail, un index auquel on ajoute les changements et un dépôt .git, sur lequel on enverra les changements définitifs.
 
-[Sources](https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F)
+[Source](https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F)
 
 
 ### Comment le configurer sur la machine virtuelle ?
@@ -409,7 +409,7 @@ L’arborescence est facilement lisible, ce qui fait gagner du temps à l'utilis
 		
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU1OTY4OTc4LDE0NTQ3NjE0MDEsMTkyOD
+eyJoaXN0b3J5IjpbMzU0NTQwNTgxLDE0NTQ3NjE0MDEsMTkyOD
 czNDI3MCwxNTgzOTUyMTc5LC03MDczMjg2OTAsODU2MDUyNDk2
 LDE5NTk5ODM4MDEsLTEwNDQ2MDAyMjQsNjQ5NjMyMjEsLTEyMz
 k1MTM3MDcsLTEwMDU1MzMyNSwxOTE4NTM0ODE2LC0zMzk3OTE4
