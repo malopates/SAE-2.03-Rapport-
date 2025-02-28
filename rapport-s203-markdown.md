@@ -301,7 +301,7 @@ Comment l'avez vous installé ?
 
 Comparer-le aux outils inclus avec git (et installé précédemment) ainsi qu'avec ce qui serait fait 2/3 \| 1.1. Configuration globale de git en ligne de commande pure : fonctionnalités avantages, inconvénients...
 
-:   -   L'interface est logique (schéma clairs, différentes couleurs,
+:   -   **Ulysse** : L'interface est logique (schéma clairs, différentes couleurs,
         interface simpliste.) et nous permet de visualiser simplement
         l'arborescence, nous faisant gagner énormément de temps. Des
         outils nous permettent de visualiser les modifications
@@ -311,11 +311,11 @@ Comparer-le aux outils inclus avec git (et installé précédemment) ainsi qu'av
 		
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1OTk4MzgwMSwtMTA0NDYwMDIyNCw2ND
-k2MzIyMSwtMTIzOTUxMzcwNywtMTAwNTUzMzI1LDE5MTg1MzQ4
-MTYsLTMzOTc5MTgxNCwxMDkwNzI5MTE1LDQ4MDQ0NDk4LDUyNz
-AxNDA1OCwtMTI5MTE2Njk0LC05NDA5ODMwODMsMTU0NDI1OTEx
-NiwtNjg4Mzk3MjA4LC00MTMyNzE5ODIsODcxMjc4MjgsNzAwND
-I5MTUyLC0xNjQ0MjU0ODEzLC0yMDI5MjYzODg1LC00MDkxNzYw
-MzBdfQ==
+eyJoaXN0b3J5IjpbMTMwNjAwMDE1NCwxOTU5OTgzODAxLC0xMD
+Q0NjAwMjI0LDY0OTYzMjIxLC0xMjM5NTEzNzA3LC0xMDA1NTMz
+MjUsMTkxODUzNDgxNiwtMzM5NzkxODE0LDEwOTA3MjkxMTUsND
+gwNDQ0OTgsNTI3MDE0MDU4LC0xMjkxMTY2OTQsLTk0MDk4MzA4
+MywxNTQ0MjU5MTE2LC02ODgzOTcyMDgsLTQxMzI3MTk4Miw4Nz
+EyNzgyOCw3MDA0MjkxNTIsLTE2NDQyNTQ4MTMsLTIwMjkyNjM4
+ODVdfQ==
 -->
