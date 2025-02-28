@@ -127,9 +127,9 @@ Qu'est-ce qu'un serveur mandataire ?
 
 :   -  **Malori** :  On peut utiliser la commande : `\$ groups user` mais il y en a d'autres, comme `id -G -n user`
 
-: - **Louis** : Combiner la commande `getent group`, qui affiche tous les groupes de la machine,  avec `grep -w user`, qui n’affiche que les lignes contenant **exactement** user,  de la manière suivante : `getent group | grep -w user`
+: - **Louis** : Combiner la commande `getent group`, qui affiche tous les groupes de la machine,  avec `grep -w user`, -w n’affiche que les lignes contenant **exactement** user,  de la manière suivante : `getent group | grep -w user`
 
-### ![question](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Question_mark_alternate.svg/788px-Question_mark_alternate.svg.png =20x30)  Suppléments invités 
+### ![question](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Question_mark_alternate.svg/788px-Question_mark_alternate.svg.png =20x30)    Suppléments invités 
 
 Quelle est la version du noyau Linux utilisé par votre VM ? N'oubliez pas, comme pour toutes les questions, de justifier votre réponse.
 
@@ -258,7 +258,7 @@ Comparer-le aux outils inclus avec git (et installé précédemment) ainsi qu'av
 		
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNDE3NTkzOSw1MjcwMTQwNTgsLTEyOT
+eyJoaXN0b3J5IjpbMjE0Njc2NzcxMCw1MjcwMTQwNTgsLTEyOT
 ExNjY5NCwtOTQwOTgzMDgzLDE1NDQyNTkxMTYsLTY4ODM5NzIw
 OCwtNDEzMjcxOTgyLDg3MTI3ODI4LDcwMDQyOTE1MiwtMTY0ND
 I1NDgxMywtMjAyOTI2Mzg4NSwtNDA5MTc2MDMwLDQ4Nzc2NTgz
