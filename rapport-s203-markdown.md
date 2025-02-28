@@ -99,8 +99,7 @@ Qu'est-ce qu'un serveur web ?
 
 Qu'est-ce qu'un serveur ssh ?
 
-:   -   **Ulysse** : SSH (pest un protocole de communication sécurisé qui permet
-        d'accéder à distance à un serveur.
+:   -   **Ulysse** : SSH (pour "Secure Shell") est un protocole de communication sécurisé qui permet d'accéder à distance à un serveur.
 
 
 Qu'est-ce qu'un serveur mandataire ?
@@ -244,7 +243,7 @@ Comparer-le aux outils inclus avec git (et installé précédemment) ainsi qu'av
 		
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NTI1NDkyMCwtMTI5MTE2Njk0LC05ND
+eyJoaXN0b3J5IjpbLTM3MTQwNjc0MiwtMTI5MTE2Njk0LC05ND
 A5ODMwODMsMTU0NDI1OTExNiwtNjg4Mzk3MjA4LC00MTMyNzE5
 ODIsODcxMjc4MjgsNzAwNDI5MTUyLC0xNjQ0MjU0ODEzLC0yMD
 I5MjYzODg1LC00MDkxNzYwMzAsNDg3NzY1ODMwLC00MDg4MzMw
