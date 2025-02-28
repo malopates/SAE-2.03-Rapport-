@@ -167,7 +167,7 @@ Qu'est-ce qu'un serveur mandataire ?
 
 Quelle est la version du noyau Linux utilisé par votre VM ? N'oubliez pas, comme pour toutes les questions, de justifier votre réponse.
 
-:   -  **Malori** :  On l'obtient avec la commande uname -r, uname donne des
+:   -  **Malori** :  On l'obtient avec la commande `uname -r`, uname donne des
         informations sur le système qu'on utilise. Ici il s'agit de
         amd64.
 
@@ -192,9 +192,11 @@ Les [suppléments invités]{.underline} sont des **pilotes adapté à des systè
 
 À quoi sert la commande mount (dans notre cas de figure et dans le cas général) ?
 
-:   -   Elle permet de monter une partition sur le disque dans le cas
-        général.
-        
+:   -  **Malori** : Dans le cas général, cette commande permet de monter une partition sur le disque.
+: - **Ulysse** : La [commande mount]{.underline} sert à **rattacher** un système de fichier au système principal. Dans notre cas, l'objectif est de permettre au système d'**accéder au CDROM**.
+
+***[Source](https://man.archlinux.org/man/mount.8)***
+
 
 ### ![question](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Question_mark_alternate.svg/788px-Question_mark_alternate.svg.png =20x30)  Quelques questions 
 
@@ -304,11 +306,11 @@ Comparer-le aux outils inclus avec git (et installé précédemment) ainsi qu'av
 		
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAyMzYzMTg3LDUyNzAxNDA1OCwtMTI5MT
-E2Njk0LC05NDA5ODMwODMsMTU0NDI1OTExNiwtNjg4Mzk3MjA4
-LC00MTMyNzE5ODIsODcxMjc4MjgsNzAwNDI5MTUyLC0xNjQ0Mj
-U0ODEzLC0yMDI5MjYzODg1LC00MDkxNzYwMzAsNDg3NzY1ODMw
-LC00MDg4MzMwNDUsLTUyOTgxNTEsMzU3NDkxOTAyLC0xODQzNz
-gyOTgwLDE4MDI1MTY3MTIsLTEyNjI0MDc3MzIsMzY1NzM4NjMy
-XX0=
+eyJoaXN0b3J5IjpbMTM2NjY4OTk3Nyw1MjcwMTQwNTgsLTEyOT
+ExNjY5NCwtOTQwOTgzMDgzLDE1NDQyNTkxMTYsLTY4ODM5NzIw
+OCwtNDEzMjcxOTgyLDg3MTI3ODI4LDcwMDQyOTE1MiwtMTY0ND
+I1NDgxMywtMjAyOTI2Mzg4NSwtNDA5MTc2MDMwLDQ4Nzc2NTgz
+MCwtNDA4ODMzMDQ1LC01Mjk4MTUxLDM1NzQ5MTkwMiwtMTg0Mz
+c4Mjk4MCwxODAyNTE2NzEyLC0xMjYyNDA3NzMyLDM2NTczODYz
+Ml19
 -->
