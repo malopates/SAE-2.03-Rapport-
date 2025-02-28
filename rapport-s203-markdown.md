@@ -367,17 +367,15 @@ Pourquoi avez-vous choisi ce logiciel ?
 
 Comment l'avez vous installé ?
 
-:   -   **Louis** : 
-Comme le paquet git a déjà été installé sur la machine grâce à l'éxécution du preseed de 
+:   -   **Louis** :  Comme le paquet git a déjà été installé sur la machine grâce à l'éxécution du preseed de 
 la semaine 1, nous n'avons plus qu'à configurer le logiciel. Pour cela, il suffit d'utiliser
 la commande :
-
 ```
 git config --global user.name "Prénom Nom" &&
 git config --global user.email "votre@email" &&
 git config --global init.defaultBranch "master"
 ```
- La commande `git config` sert, comme son nom l'indique, à configurer git sur la machine.
+:   -La commande `git config` sert, comme son nom l'indique, à configurer git sur la machine.
  
 L'option `--global`est un des trois niveau de configuration de git :
 
@@ -401,11 +399,11 @@ L’arborescence est facilement lisible, ce qui fait gagner du temps à l'utilis
 		
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1MjMxMTA3LDM1NDU0MDU4MSwxNDU0Nz
-YxNDAxLDE5Mjg3MzQyNzAsMTU4Mzk1MjE3OSwtNzA3MzI4Njkw
-LDg1NjA1MjQ5NiwxOTU5OTgzODAxLC0xMDQ0NjAwMjI0LDY0OT
-YzMjIxLC0xMjM5NTEzNzA3LC0xMDA1NTMzMjUsMTkxODUzNDgx
-NiwtMzM5NzkxODE0LDEwOTA3MjkxMTUsNDgwNDQ0OTgsNTI3MD
-E0MDU4LC0xMjkxMTY2OTQsLTk0MDk4MzA4MywxNTQ0MjU5MTE2
-XX0=
+eyJoaXN0b3J5IjpbLTE4OTk3NzI0MjYsMzU0NTQwNTgxLDE0NT
+Q3NjE0MDEsMTkyODczNDI3MCwxNTgzOTUyMTc5LC03MDczMjg2
+OTAsODU2MDUyNDk2LDE5NTk5ODM4MDEsLTEwNDQ2MDAyMjQsNj
+Q5NjMyMjEsLTEyMzk1MTM3MDcsLTEwMDU1MzMyNSwxOTE4NTM0
+ODE2LC0zMzk3OTE4MTQsMTA5MDcyOTExNSw0ODA0NDQ5OCw1Mj
+cwMTQwNTgsLTEyOTExNjY5NCwtOTQwOTgzMDgzLDE1NDQyNTkx
+MTZdfQ==
 -->
