@@ -269,10 +269,12 @@ En parralèle, Ulysse s'est penché sur **pandoc**, et a exporté ses réponses 
 
 
 ## 3^ème^-semaine 
+
 ### Introduction
 Nous allons cette semaine traiter le cas de Git et des applications graphiques 
-qui lui sont associées\
-Pour ce faire, nous allons : \
+qui lui sont associées
+
+Pour ce faire, nous allons : 
 1. Configurer git sur la machine virtuelle
 2. Etudier les applications graphiques officielles gitk et git-gui
 3. Installer une autre applications non-officielle : gitnuro
@@ -285,8 +287,7 @@ Git est un logiciel de gestion de versions décentralisé (DVCS) qui se différe
 par sa vison des données comme une série de snapshots, au lieu de simplement y voir des fichiers et les changements qu'on leur applique.
 Git sépare le travail en trois espaces : le dossier de travail, un index auquel on ajoute les changements et un dépôt .git, sur lequel on enverra les changements définitifs.
 
-*Sources :*
-https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F
+[Sources](https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F)
 
 
 ### Comment le configurer sur la machine virtuelle ?
@@ -408,11 +409,11 @@ L’arborescence est facilement lisible, ce qui fait gagner du temps à l'utilis
 		
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NDc2MTQwMSwxOTI4NzM0MjcwLDE1OD
-M5NTIxNzksLTcwNzMyODY5MCw4NTYwNTI0OTYsMTk1OTk4Mzgw
-MSwtMTA0NDYwMDIyNCw2NDk2MzIyMSwtMTIzOTUxMzcwNywtMT
-AwNTUzMzI1LDE5MTg1MzQ4MTYsLTMzOTc5MTgxNCwxMDkwNzI5
-MTE1LDQ4MDQ0NDk4LDUyNzAxNDA1OCwtMTI5MTE2Njk0LC05ND
-A5ODMwODMsMTU0NDI1OTExNiwtNjg4Mzk3MjA4LC00MTMyNzE5
-ODJdfQ==
+eyJoaXN0b3J5IjpbNzU1OTY4OTc4LDE0NTQ3NjE0MDEsMTkyOD
+czNDI3MCwxNTgzOTUyMTc5LC03MDczMjg2OTAsODU2MDUyNDk2
+LDE5NTk5ODM4MDEsLTEwNDQ2MDAyMjQsNjQ5NjMyMjEsLTEyMz
+k1MTM3MDcsLTEwMDU1MzMyNSwxOTE4NTM0ODE2LC0zMzk3OTE4
+MTQsMTA5MDcyOTExNSw0ODA0NDQ5OCw1MjcwMTQwNTgsLTEyOT
+ExNjY5NCwtOTQwOTgzMDgzLDE1NDQyNTkxMTYsLTY4ODM5NzIw
+OF19
 -->
