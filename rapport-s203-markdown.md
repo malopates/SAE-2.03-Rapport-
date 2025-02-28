@@ -82,9 +82,10 @@ Qu'est-ce qu'un fichier iso bootable ?
 
 Qu'est-ce que MATE ? GNOME ?
 
-:   -   **Malori** : *Mate* et *Gnome* sont des environnements graphiques de Debian
-:   - **Louis** :
+:   -   **Malori** : *MATE* et *GNOME* sont des environnements graphiques de Debian
+:   - **Louis** : MATE est un environnement de bureau et une dérivation de GNOME.  On y retrouve le bureau, le gestionnaire de fenêtres, les différents menus… GNOME est un environnement de bureau conçu pour les systèmes d’exploitation GNU/Linux et UNIX. MATE a repris le code source de GNOME 2 pour reprendre l’aspect « bureau », délaissé par la version GNOME 3.
 
+Un environnement de bureau est un logiciel qui regroupe différents outils constituant une interface graphique, qui permettent à l’utilisateur d’interagir graphiquement avec l’ordinateur.
 Qu'est-ce qu'un serveur web ?
 
 :   -   Un serveur web est un logiciel qui permet de stocker et de
@@ -237,11 +238,11 @@ Comparer-le aux outils inclus avec git (et installé précédemment) ainsi qu'av
 		
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTE0MzgxNDUsLTEyOTExNjY5NCwtOT
-QwOTgzMDgzLDE1NDQyNTkxMTYsLTY4ODM5NzIwOCwtNDEzMjcx
-OTgyLDg3MTI3ODI4LDcwMDQyOTE1MiwtMTY0NDI1NDgxMywtMj
-AyOTI2Mzg4NSwtNDA5MTc2MDMwLDQ4Nzc2NTgzMCwtNDA4ODMz
-MDQ1LC01Mjk4MTUxLDM1NzQ5MTkwMiwtMTg0Mzc4Mjk4MCwxOD
-AyNTE2NzEyLC0xMjYyNDA3NzMyLDM2NTczODYzMiwxNzA5ODU1
-Mjg2XX0=
+eyJoaXN0b3J5IjpbLTE5MjEwMzg4LC0xMjkxMTY2OTQsLTk0MD
+k4MzA4MywxNTQ0MjU5MTE2LC02ODgzOTcyMDgsLTQxMzI3MTk4
+Miw4NzEyNzgyOCw3MDA0MjkxNTIsLTE2NDQyNTQ4MTMsLTIwMj
+kyNjM4ODUsLTQwOTE3NjAzMCw0ODc3NjU4MzAsLTQwODgzMzA0
+NSwtNTI5ODE1MSwzNTc0OTE5MDIsLTE4NDM3ODI5ODAsMTgwMj
+UxNjcxMiwtMTI2MjQwNzczMiwzNjU3Mzg2MzIsMTcwOTg1NTI4
+Nl19
 -->
