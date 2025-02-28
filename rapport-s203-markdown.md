@@ -169,7 +169,7 @@ Qu'est-ce qu'un serveur mandataire ?
 ***[Source](https://www.geeksforgeeks.org/how-to-check-the-groups-a-user-belongs-to-in-linux/)***
 
 
-### ![question](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Question_mark_alternate.svg/788px-Question_mark_alternate.svg.png){width="10"}    Suppléments invités 
+### ![question](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Question_mark_alternate.svg/788px-Question_mark_alternate.svg.png){width="10" height="15"}    Suppléments invités 
 
 Quelle est la version du noyau Linux utilisé par votre VM ? N'oubliez pas, comme pour toutes les questions, de justifier votre réponse.
 
@@ -397,11 +397,11 @@ L’arborescence est facilement lisible, ce qui fait gagner du temps à l'utilis
 		
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNTQ4NzkzNCwxOTI4NzM0MjcwLDE1OD
-M5NTIxNzksLTcwNzMyODY5MCw4NTYwNTI0OTYsMTk1OTk4Mzgw
-MSwtMTA0NDYwMDIyNCw2NDk2MzIyMSwtMTIzOTUxMzcwNywtMT
-AwNTUzMzI1LDE5MTg1MzQ4MTYsLTMzOTc5MTgxNCwxMDkwNzI5
-MTE1LDQ4MDQ0NDk4LDUyNzAxNDA1OCwtMTI5MTE2Njk0LC05ND
-A5ODMwODMsMTU0NDI1OTExNiwtNjg4Mzk3MjA4LC00MTMyNzE5
-ODJdfQ==
+eyJoaXN0b3J5IjpbLTEzOTkxMjk1OTIsMTkyODczNDI3MCwxNT
+gzOTUyMTc5LC03MDczMjg2OTAsODU2MDUyNDk2LDE5NTk5ODM4
+MDEsLTEwNDQ2MDAyMjQsNjQ5NjMyMjEsLTEyMzk1MTM3MDcsLT
+EwMDU1MzMyNSwxOTE4NTM0ODE2LC0zMzk3OTE4MTQsMTA5MDcy
+OTExNSw0ODA0NDQ5OCw1MjcwMTQwNTgsLTEyOTExNjY5NCwtOT
+QwOTgzMDgzLDE1NDQyNTkxMTYsLTY4ODM5NzIwOCwtNDEzMjcx
+OTgyXX0=
 -->
