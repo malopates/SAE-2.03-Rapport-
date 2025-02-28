@@ -17,8 +17,6 @@ Pour la première séance, nous avons commencé en créant une nouvelle VM dans 
 
 Le reste de la configuration de la VM s'est faite en laissant les paramètres **par défaut.** Cependant, l'étape de chargement du pre-seed était bloqué, suite aux recherches de Louis, nous avons pu résoudre ce problème en redémarrant la machine à cette étape. 
 
-
-
 ![Screen création VM](https://lh7-us.googleusercontent.com/HwGyxgCVJ4FucrncIYnrRtDJVPEdrYU__IEii__UMg29YSwengtuclEehw575ZxLd2NAXWbh1VpI0xNDq_o1kRc3V7HD2PmTYJKxIz14KGTN7T8BkUGBZ_M6d1aJU1k5DbnO3vo9U3_ELN5BtngKaZY)
 Dans le **vboxpostinstall**, nous avons ajouté dans la partie "Run user
 command" les commandes pour installer les fonctionnalités attendues :
@@ -39,10 +37,6 @@ Soit au lancement de la machine grâce à la commande `log_command_in_target`
 
 `log_command_in_target sudo apt-get install neofetch`
 
-Nous avons rencontré quelques soucis à l'installation à cause de ces commandes, mais en commentant les 5 dernières lignes *( sudo apt-get...)* l'ensemble refonctionnait de nouveau, mais sans les installations.
-Nous avons plus tard réalisé que le problème venait du fait que la commande `sudo` attend une entrée utilisateur, ce qui bloquait complètement l'exécution du script. De plus, ce script s'exécute déjà en tant que root, alors il nous a suffit de retirer `sudo` de toutes les commandes pour que le script
-fonctionne.
-![](https://zimbra.univ-lille.fr/service/home/~/?auth=co&loc=fr_FR&id=4172&part=3)
 
 ###    Configuration matérielle dans VirtualBox 
 
@@ -253,17 +247,17 @@ Bullseye prend en charge 9 architectures :
 
 -mipsel64
 
--   Quelle a était le premier nom de code utilisé ?
+Quelle a été le premier nom de code utilisé ?
     
-:   -  Le premier nom de code utilisé était « Buzz »
+ :   -  Le premier nom de code utilisé était « Buzz »
     
 -   Quand a-t-il été annoncé ?
     
     La version Buzz a été annoncée le 17 juin 1996
     
--   Quelle était le numéro de version de cette distribution ?
+Quelle était le numéro de version de cette distribution ?
     
-    Son numéro de version était 1.1
+:   -  Son numéro de version était 1.1
     Dernier nom de code attribué
 
 Quel est le dernier nom de code annoncée à ce jour ?
@@ -500,11 +494,11 @@ Comparez-le aux outils inclus avec git (et installé précédemment) ainsi qu’
 | Customisable | Avoir les fonctionnalités que l'on souhaite | Perte de temps puisque les fonctionnalités nécessaire sont présente par défaut |
 | Peut gérer plusieurs dépôt simultanément | Boost de productivité | On peut vite s'y perdre |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzgyMDczNDAsLTQ0MDk5NDI5MiwyMT
-E0MTUxNDQ1LC0xMzMwOTU0OTcyLDM1NDU0MDU4MSwxNDU0NzYx
-NDAxLDE5Mjg3MzQyNzAsMTU4Mzk1MjE3OSwtNzA3MzI4NjkwLD
-g1NjA1MjQ5NiwxOTU5OTgzODAxLC0xMDQ0NjAwMjI0LDY0OTYz
-MjIxLC0xMjM5NTEzNzA3LC0xMDA1NTMzMjUsMTkxODUzNDgxNi
-wtMzM5NzkxODE0LDEwOTA3MjkxMTUsNDgwNDQ0OTgsNTI3MDE0
-MDU4XX0=
+eyJoaXN0b3J5IjpbLTE4ODcxMTk4MywtNDQwOTk0MjkyLDIxMT
+QxNTE0NDUsLTEzMzA5NTQ5NzIsMzU0NTQwNTgxLDE0NTQ3NjE0
+MDEsMTkyODczNDI3MCwxNTgzOTUyMTc5LC03MDczMjg2OTAsOD
+U2MDUyNDk2LDE5NTk5ODM4MDEsLTEwNDQ2MDAyMjQsNjQ5NjMy
+MjEsLTEyMzk1MTM3MDcsLTEwMDU1MzMyNSwxOTE4NTM0ODE2LC
+0zMzk3OTE4MTQsMTA5MDcyOTExNSw0ODA0NDQ5OCw1MjcwMTQw
+NThdfQ==
 -->
