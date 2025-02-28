@@ -127,7 +127,7 @@ Qu'est-ce qu'un serveur mandataire ?
 
 :   -  **Malori** :  On peut utiliser la commande : `\$ groups user` mais il y en a d'autres, `id -G -n user`
 
--Combiner la commande `getent group`, qui affiche tous les groupes de la machine,  avec ```grep
+-Combiner la commande `getent group`, qui affiche tous les groupes de la machine,  avec `grep`
 
 -w user```, qui n’affiche que les lignes contenant EXACTEMENT user,  de la manière suivante :
 
@@ -262,11 +262,11 @@ Comparer-le aux outils inclus avec git (et installé précédemment) ainsi qu'av
 		
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ4NjczNzA4LDUyNzAxNDA1OCwtMTI5MT
-E2Njk0LC05NDA5ODMwODMsMTU0NDI1OTExNiwtNjg4Mzk3MjA4
-LC00MTMyNzE5ODIsODcxMjc4MjgsNzAwNDI5MTUyLC0xNjQ0Mj
-U0ODEzLC0yMDI5MjYzODg1LC00MDkxNzYwMzAsNDg3NzY1ODMw
-LC00MDg4MzMwNDUsLTUyOTgxNTEsMzU3NDkxOTAyLC0xODQzNz
-gyOTgwLDE4MDI1MTY3MTIsLTEyNjI0MDc3MzIsMzY1NzM4NjMy
-XX0=
+eyJoaXN0b3J5IjpbLTE2MjQ0NDQ2OTAsNTI3MDE0MDU4LC0xMj
+kxMTY2OTQsLTk0MDk4MzA4MywxNTQ0MjU5MTE2LC02ODgzOTcy
+MDgsLTQxMzI3MTk4Miw4NzEyNzgyOCw3MDA0MjkxNTIsLTE2ND
+QyNTQ4MTMsLTIwMjkyNjM4ODUsLTQwOTE3NjAzMCw0ODc3NjU4
+MzAsLTQwODgzMzA0NSwtNTI5ODE1MSwzNTc0OTE5MDIsLTE4ND
+M3ODI5ODAsMTgwMjUxNjcxMiwtMTI2MjQwNzczMiwzNjU3Mzg2
+MzJdfQ==
 -->
