@@ -17,6 +17,8 @@ Pour la première séance, nous avons commencé en créant une nouvelle VM dans 
 
 Le reste de la configuration de la VM s'est faite en laissant les paramètres par défaut. Cependant, l'étape de chargement du pre-seed était bloqué, suite aux recherches de Louis, nous avons pu résoudre ce problème en redémarrant la machine à cette étape. 
 
+![Installation réussie](https://zimbra.univ-lille.fr/service/home/~/?auth=co&loc=fr_FR&id=4172&part=3)
+
 ![Screen création VM](https://lh7-us.googleusercontent.com/HwGyxgCVJ4FucrncIYnrRtDJVPEdrYU__IEii__UMg29YSwengtuclEehw575ZxLd2NAXWbh1VpI0xNDq_o1kRc3V7HD2PmTYJKxIz14KGTN7T8BkUGBZ_M6d1aJU1k5DbnO3vo9U3_ELN5BtngKaZY)
 Avant de lancer la VM, nous avons modifié les fichiers
 "`vboxpostinstall.sh`" et "`preseed-fr.cfg`" pour paramétrer notre VM,
@@ -309,11 +311,11 @@ Comparer-le aux outils inclus avec git (et installé précédemment) ainsi qu'av
 		
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDQ2MDAyMjQsNjQ5NjMyMjEsLTEyMz
-k1MTM3MDcsLTEwMDU1MzMyNSwxOTE4NTM0ODE2LC0zMzk3OTE4
-MTQsMTA5MDcyOTExNSw0ODA0NDQ5OCw1MjcwMTQwNTgsLTEyOT
-ExNjY5NCwtOTQwOTgzMDgzLDE1NDQyNTkxMTYsLTY4ODM5NzIw
-OCwtNDEzMjcxOTgyLDg3MTI3ODI4LDcwMDQyOTE1MiwtMTY0ND
-I1NDgxMywtMjAyOTI2Mzg4NSwtNDA5MTc2MDMwLDQ4Nzc2NTgz
+eyJoaXN0b3J5IjpbNzYzMDY1MTM4LC0xMDQ0NjAwMjI0LDY0OT
+YzMjIxLC0xMjM5NTEzNzA3LC0xMDA1NTMzMjUsMTkxODUzNDgx
+NiwtMzM5NzkxODE0LDEwOTA3MjkxMTUsNDgwNDQ0OTgsNTI3MD
+E0MDU4LC0xMjkxMTY2OTQsLTk0MDk4MzA4MywxNTQ0MjU5MTE2
+LC02ODgzOTcyMDgsLTQxMzI3MTk4Miw4NzEyNzgyOCw3MDA0Mj
+kxNTIsLTE2NDQyNTQ4MTMsLTIwMjkyNjM4ODUsLTQwOTE3NjAz
 MF19
 -->
