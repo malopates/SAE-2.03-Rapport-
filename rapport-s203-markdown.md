@@ -163,7 +163,7 @@ Qu'est-ce qu'un serveur mandataire ?
 
 : - **Louis** : Combiner la commande `getent group`, qui affiche tous les groupes de la machine,  avec `grep -w user`, -w n’affiche que les lignes contenant **exactement** user,  de la manière suivante : `getent group | grep -w user`[^2].  
 
-[^2]: On peut également regarder dans le fichier /etc/gshadow, il y a une ligne qui contient l'utilisateur et son/ses groupe(s)
+[^2]: On peut également regarder dans le fichier /etc/gshadow, il y a une ligne qui contient l'utilisateur et sonses groupe(s)
 
 ***[Source](https://www.geeksforgeeks.org/how-to-check-the-groups-a-user-belongs-to-in-linux/)***
 
@@ -376,7 +376,8 @@ git config --global user.name "Prénom Nom" &&
 git config --global user.email "votre@email" &&
 git config --global init.defaultBranch "master"
 ```
-*
+****_
+
 : - **Louis**
  La commande `git config` sert, comme son nom l'indique, à configurer git sur la machine.
  
@@ -402,11 +403,11 @@ L’arborescence est facilement lisible, ce qui fait gagner du temps à l'utilis
 		
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3ODIwMjUzNCwzNTQ1NDA1ODEsMTQ1ND
-c2MTQwMSwxOTI4NzM0MjcwLDE1ODM5NTIxNzksLTcwNzMyODY5
-MCw4NTYwNTI0OTYsMTk1OTk4MzgwMSwtMTA0NDYwMDIyNCw2ND
-k2MzIyMSwtMTIzOTUxMzcwNywtMTAwNTUzMzI1LDE5MTg1MzQ4
-MTYsLTMzOTc5MTgxNCwxMDkwNzI5MTE1LDQ4MDQ0NDk4LDUyNz
-AxNDA1OCwtMTI5MTE2Njk0LC05NDA5ODMwODMsMTU0NDI1OTEx
-Nl19
+eyJoaXN0b3J5IjpbNTExMDEzNzYsMzU0NTQwNTgxLDE0NTQ3Nj
+E0MDEsMTkyODczNDI3MCwxNTgzOTUyMTc5LC03MDczMjg2OTAs
+ODU2MDUyNDk2LDE5NTk5ODM4MDEsLTEwNDQ2MDAyMjQsNjQ5Nj
+MyMjEsLTEyMzk1MTM3MDcsLTEwMDU1MzMyNSwxOTE4NTM0ODE2
+LC0zMzk3OTE4MTQsMTA5MDcyOTExNSw0ODA0NDQ5OCw1MjcwMT
+QwNTgsLTEyOTExNjY5NCwtOTQwOTgzMDgzLDE1NDQyNTkxMTZd
+fQ==
 -->
