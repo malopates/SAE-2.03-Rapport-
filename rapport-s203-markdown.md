@@ -393,11 +393,11 @@ Comparez-le aux outils inclus avec git (et installé précédemment) ainsi qu’
 | Fonctionnalités      | Avantage                     | Inconvénient                           |
 |----------------------|------------------------------|---------------------------------------|
 | Interface graphique  | Permet de comprendre plus efficacement les changements  | Plus long au démarrage, plus lourd que le version CLI |
-| Plus intuitif puisque l'utilisation de commandes n'est pas obligatoire | Plus accÃ¨s dÃ©butant | Perte de temps puisqu'il faut faire des aller-retour entre le terminal et l'application |
-| Customisable | Avoir les fonctionnalités que l'on souhaite | Perte de temps puisque les fonctionnalitÃ©s nÃ©cessaire sont présente par dÃ©faut |
-| Peut gÃ©rer plusieurs dÃ©pÃ´t simultanÃ©ment | Boost de productivitÃ© | On peut vite s'y perdre |
+| Plus intuitif puisque l'utilisation de commandes n'est pas obligatoire | Plus accès débutant | Perte de temps puisqu'il faut faire des aller-retour entre le terminal et l'application |
+| Customisable | Avoir les fonctionnalités que l'on souhaite | Perte de temps puisque les fonctionnalitÃ©s nÃ©cessaire sont présente par défaut |
+| Peut gérer plusieurs dépôt simultanément | Boost de productivité | On peut vite s'y perdre |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2MzI5MDQ1NCwzNTQ1NDA1ODEsMTQ1ND
+eyJoaXN0b3J5IjpbMTUwNjExOTA5MiwzNTQ1NDA1ODEsMTQ1ND
 c2MTQwMSwxOTI4NzM0MjcwLDE1ODM5NTIxNzksLTcwNzMyODY5
 MCw4NTYwNTI0OTYsMTk1OTk4MzgwMSwtMTA0NDYwMDIyNCw2ND
 k2MzIyMSwtMTIzOTUxMzcwNywtMTAwNTUzMzI1LDE5MTg1MzQ4
