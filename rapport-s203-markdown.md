@@ -204,7 +204,7 @@ Les [suppléments invités]{.underline} sont des **pilotes adapté à des systè
 ***[Source](https://man.archlinux.org/man/mount.8)***
 
 
-### ![question](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Question_mark_alternate.svg/788px-Question_mark_alternate.svg.png =20x30)  Quelques questions 
+###  Quelques questions 
 
 Il existe 3 durées de prise en charge (support) de ces versions : la durée minimale la durée en support long terme (LTS) et la durée en support long terme étendue (ELTS). Quelles sont les durées de ces prises en charge ?
 
@@ -395,11 +395,11 @@ Comparez-le aux outils inclus avec git (et installé précédemment) ainsi qu’
 | Customisable | Avoir les fonctionnalités que l'on souhaite | Perte de temps puisque les fonctionnalités nécessaire sont présente par défaut |
 | Peut gérer plusieurs dépôt simultanément | Boost de productivité | On peut vite s'y perdre |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNDE1MTQ0NSwtMTMzMDk1NDk3MiwzNT
-Q1NDA1ODEsMTQ1NDc2MTQwMSwxOTI4NzM0MjcwLDE1ODM5NTIx
-NzksLTcwNzMyODY5MCw4NTYwNTI0OTYsMTk1OTk4MzgwMSwtMT
-A0NDYwMDIyNCw2NDk2MzIyMSwtMTIzOTUxMzcwNywtMTAwNTUz
-MzI1LDE5MTg1MzQ4MTYsLTMzOTc5MTgxNCwxMDkwNzI5MTE1LD
-Q4MDQ0NDk4LDUyNzAxNDA1OCwtMTI5MTE2Njk0LC05NDA5ODMw
-ODNdfQ==
+eyJoaXN0b3J5IjpbLTQ0MDk5NDI5MiwyMTE0MTUxNDQ1LC0xMz
+MwOTU0OTcyLDM1NDU0MDU4MSwxNDU0NzYxNDAxLDE5Mjg3MzQy
+NzAsMTU4Mzk1MjE3OSwtNzA3MzI4NjkwLDg1NjA1MjQ5NiwxOT
+U5OTgzODAxLC0xMDQ0NjAwMjI0LDY0OTYzMjIxLC0xMjM5NTEz
+NzA3LC0xMDA1NTMzMjUsMTkxODUzNDgxNiwtMzM5NzkxODE0LD
+EwOTA3MjkxMTUsNDgwNDQ0OTgsNTI3MDE0MDU4LC0xMjkxMTY2
+OTRdfQ==
 -->
