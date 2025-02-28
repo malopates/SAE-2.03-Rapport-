@@ -239,7 +239,7 @@ Quel a été le premier nom de code utilisé ?
 
 ## 2^ème^-semaine  
 
-Malori : Etant déjà initiée au **Markdown**, riche d'une précédente SAE 2.03, je me suis chargée de centraliser les rapports et questions en un seul et même rapport. via les sites [^3] qui nous ont été fournis pour s'exercer 
+**Malori** : Etant déjà initiée au **Markdown**, riche d'une précédente SAE 2.03, je me suis chargée de centraliser les rapports et questions en un seul et même rapport. Louis et Ulysse se sont initié au MarkDown via les sites [^3] qui nous ont été fournis pour s'exercer; qui m'ont ensuite envoyé leurs rendus afin que je réalise 
 
 [^3]: [markdowntutorial.com](http://markdowntutorial.com) & [commonmark.org](http://commonmark.org)
 
@@ -305,11 +305,11 @@ Comparer-le aux outils inclus avec git (et installé précédemment) ainsi qu'av
 		
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5MDcyOTExNSw0ODA0NDQ5OCw1MjcwMT
-QwNTgsLTEyOTExNjY5NCwtOTQwOTgzMDgzLDE1NDQyNTkxMTYs
-LTY4ODM5NzIwOCwtNDEzMjcxOTgyLDg3MTI3ODI4LDcwMDQyOT
-E1MiwtMTY0NDI1NDgxMywtMjAyOTI2Mzg4NSwtNDA5MTc2MDMw
-LDQ4Nzc2NTgzMCwtNDA4ODMzMDQ1LC01Mjk4MTUxLDM1NzQ5MT
-kwMiwtMTg0Mzc4Mjk4MCwxODAyNTE2NzEyLC0xMjYyNDA3NzMy
-XX0=
+eyJoaXN0b3J5IjpbNTEwMTI4NDI5LDEwOTA3MjkxMTUsNDgwND
+Q0OTgsNTI3MDE0MDU4LC0xMjkxMTY2OTQsLTk0MDk4MzA4Mywx
+NTQ0MjU5MTE2LC02ODgzOTcyMDgsLTQxMzI3MTk4Miw4NzEyNz
+gyOCw3MDA0MjkxNTIsLTE2NDQyNTQ4MTMsLTIwMjkyNjM4ODUs
+LTQwOTE3NjAzMCw0ODc3NjU4MzAsLTQwODgzMzA0NSwtNTI5OD
+E1MSwzNTc0OTE5MDIsLTE4NDM3ODI5ODAsMTgwMjUxNjcxMl19
+
 -->
