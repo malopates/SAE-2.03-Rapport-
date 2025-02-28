@@ -374,7 +374,7 @@ Qu'est-ce que le logiciel gitk ? Comment se lance-t-il ?
 Pour le lancer, il faut taper la commande gitk, en étant dans un dépôt git (dans le terminal).
 
 
-***[Sour](https://www.atlassian.com/fr/git/tutorials/gitkhttps://man.archlinux.org/man/gitk.1.en)[ces](https://www.atlassian.com/fr/git/tutorials/gitkhttps://man.archlinux.org/man/gitk.1.en)***
+***[Sour](https://www.atlassian.com/fr/git/tutorials/gitk)[ces](https://www.atlassian.com/fr/git/tutorials/gitkhttps://man.archlinux.org/man/gitk.1.en)***
 
 
 Qu'est-ce que le logiciel git-gui ? Comment se lance-t-il ?
@@ -407,11 +407,11 @@ L’arborescence est facilement lisible, ce qui fait gagner du temps à l'utilis
 		
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3MDU3NzI2NSwxOTI4NzM0MjcwLDE1OD
-M5NTIxNzksLTcwNzMyODY5MCw4NTYwNTI0OTYsMTk1OTk4Mzgw
-MSwtMTA0NDYwMDIyNCw2NDk2MzIyMSwtMTIzOTUxMzcwNywtMT
-AwNTUzMzI1LDE5MTg1MzQ4MTYsLTMzOTc5MTgxNCwxMDkwNzI5
-MTE1LDQ4MDQ0NDk4LDUyNzAxNDA1OCwtMTI5MTE2Njk0LC05ND
-A5ODMwODMsMTU0NDI1OTExNiwtNjg4Mzk3MjA4LC00MTMyNzE5
-ODJdfQ==
+eyJoaXN0b3J5IjpbLTExNDEyMzI3ODMsMTkyODczNDI3MCwxNT
+gzOTUyMTc5LC03MDczMjg2OTAsODU2MDUyNDk2LDE5NTk5ODM4
+MDEsLTEwNDQ2MDAyMjQsNjQ5NjMyMjEsLTEyMzk1MTM3MDcsLT
+EwMDU1MzMyNSwxOTE4NTM0ODE2LC0zMzk3OTE4MTQsMTA5MDcy
+OTExNSw0ODA0NDQ5OCw1MjcwMTQwNTgsLTEyOTExNjY5NCwtOT
+QwOTgzMDgzLDE1NDQyNTkxMTYsLTY4ODM5NzIwOCwtNDEzMjcx
+OTgyXX0=
 -->
