@@ -53,7 +53,7 @@ Que signifie "64-bit" dans "Debian 64-bit" ?
 Quelle est la configuration réseau utilisée par défaut ?
 
 :   - **Louis** :  La configuration réseau utilisée par défaut est la configuration
-        en mode *NAT*. (Network Adress Translation) Celui-ci permet à la machine virtuelle de se connecter à Internet sans avoir            à lui fournir une adresse I.P sur le réseau locale, car elle utilise la connexion de l’hôte.
+        en mode *NAT*. (Network Adress Translation) Celui-ci permet à la machine virtuelle de se connecter à Internet sans avoir à lui fournir une adresse I.P sur le réseau locale, car elle utilise la connexion de l’hôte.
 
 
 Quel est le nom du fichier XML contenant la configuration de votre machine ?
@@ -66,6 +66,7 @@ Comment vous modifieriez ce fichier de configuration pour mettre 2 processeurs �
         fichier de configuration en ajoutant la ligne suivante :
         `<vcpu placement='static'>2</vcpu>.`
         [Source](https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/6/html/virtualization_administration_guide/sect-cpu-allocation#sect-cpu-allocation)
+        
         OU
  :   - **Louis** :   A partir de la commande VboxManage modifyvm, on peut utiliser « --cpus <cpucount> ».
 Ainsi, pour mettre 2 processeurs, il suffit d’ajouter la ligne :
@@ -99,7 +100,7 @@ Qu'est-ce qu'un serveur web ?
 
 Qu'est-ce qu'un serveur ssh ?
 
-:   -   **Ulysse** : SSH (pour "Secure Shell") est un protocole de communication sécurisé qui permet d'accéder à distance à un serveur, et donc un outil permettant de se connecter à distance à des serveurs Linux pour les administrer.
+:   -   **Ulysse** : SSH (pour "*Secure Shell*") est un protocole de communication sécurisé qui permet d'**accéder à distance à un serveur*, et donc un outil permettant de se connecter à distance à des serveurs Linux pour les administrer.
 : - **Louis** : Il surpasse son prédécesseur Telnet notamment par sa sécurité accrue des données échangées. Le protocole, et la suite d’applications associées, permettent ainsi saisir des commandes sur un shell pour gérer en temps réel des serveurs Linux, mais aussi le transfert de fichiers entre des machines de façon sécurisée.
 
 
@@ -241,11 +242,11 @@ Comparer-le aux outils inclus avec git (et installé précédemment) ainsi qu'av
 		
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI3MDE0MDU4LC0xMjkxMTY2OTQsLTk0MD
-k4MzA4MywxNTQ0MjU5MTE2LC02ODgzOTcyMDgsLTQxMzI3MTk4
-Miw4NzEyNzgyOCw3MDA0MjkxNTIsLTE2NDQyNTQ4MTMsLTIwMj
-kyNjM4ODUsLTQwOTE3NjAzMCw0ODc3NjU4MzAsLTQwODgzMzA0
-NSwtNTI5ODE1MSwzNTc0OTE5MDIsLTE4NDM3ODI5ODAsMTgwMj
-UxNjcxMiwtMTI2MjQwNzczMiwzNjU3Mzg2MzIsMTcwOTg1NTI4
-Nl19
+eyJoaXN0b3J5IjpbLTE2ODcwMTM3NjIsNTI3MDE0MDU4LC0xMj
+kxMTY2OTQsLTk0MDk4MzA4MywxNTQ0MjU5MTE2LC02ODgzOTcy
+MDgsLTQxMzI3MTk4Miw4NzEyNzgyOCw3MDA0MjkxNTIsLTE2ND
+QyNTQ4MTMsLTIwMjkyNjM4ODUsLTQwOTE3NjAzMCw0ODc3NjU4
+MzAsLTQwODgzMzA0NSwtNTI5ODE1MSwzNTc0OTE5MDIsLTE4ND
+M3ODI5ODAsMTgwMjUxNjcxMiwtMTI2MjQwNzczMiwzNjU3Mzg2
+MzJdfQ==
 -->
