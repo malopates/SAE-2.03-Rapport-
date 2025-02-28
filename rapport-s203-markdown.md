@@ -10,7 +10,7 @@ geometry: margin=2cm
 # Rapport SAE 2.03 **[Installation de services réseaux](https://moodle.univ-lille.fr/course/view.php?id=30827&sectionid=266881)**
 
 ##  1^ère^ semaine
-
+***
 ### Création de la 1^ère^ VM
 
 Pour la première séance, nous avons commencé en créant une nouvelle VM dans **Oracle VM VirtualBox** que nous avons appelée "*SAE203auto*", sans aucun fichier iso, mais en sélectionnant le type (**Linux**) et la version (**Debian 12 Bookworm** en version 64-bit). Pour ce qui est de l'iso, il faut se rendre dans l'onglet `Storage`, puis dans "`Controller: IDE`" -> "`Empty`" pour rajouter dans "`IDE Primary Device 0`" le fichier "**S203-Debian12.viso**" afin que les fichiers de configuration automatique se lancent convenablement.
@@ -253,7 +253,7 @@ Quel a été le premier nom de code utilisé ?
 :   -   Le premier nom de code utilisé était Buzz.
 
 ## 2^ème^-semaine  
-
+***
 **Malori** : Etant déjà initiée au **Markdown**, *riche d'une précédente SAE 2.03*, je me suis chargée de centraliser les rapports et questions en un seul et même rapport. Louis et Ulysse se sont initié au MarkDown via les sites [^3] qui nous ont été fournis pour s'exercer; Ils m'ont ensuite envoyé leurs rendus afin que je puisse regrouper nos réponses.
 
 [^3]: [markdowntutorial.com](http://markdowntutorial.com) & [commonmark.org](http://commonmark.org)
@@ -273,7 +273,7 @@ En parralèle, Ulysse s'est penché sur **pandoc**, et a exporté ses réponses 
 Nous allons cette semaine traiter le cas de Git et des applications graphiques 
 qui lui sont associées
 
-Pour ce faire, nous allons : 
+**Pour ce faire, nous allons :** 
 1. Configurer git sur la machine virtuelle
 2. Etudier les applications graphiques officielles gitk et git-gui
 3. Installer une autre applications non-officielle : gitnuro
@@ -403,11 +403,11 @@ Comparez-le aux outils inclus avec git (et installé précédemment) ainsi qu’
 | Customisable | Avoir les fonctionnalitÃ©s que l'on souhaite | Perte de temps puisque les fonctionnalitÃ©s nÃ©cessaire sont prÃ©sente par dÃ©faut |
 | Peut gÃ©rer plusieurs dÃ©pÃ´t simultanÃ©ment | Boost de productivitÃ© | On peut vite s'y perdre |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5MzY2MTEzNCwzNTQ1NDA1ODEsMTQ1ND
-c2MTQwMSwxOTI4NzM0MjcwLDE1ODM5NTIxNzksLTcwNzMyODY5
-MCw4NTYwNTI0OTYsMTk1OTk4MzgwMSwtMTA0NDYwMDIyNCw2ND
-k2MzIyMSwtMTIzOTUxMzcwNywtMTAwNTUzMzI1LDE5MTg1MzQ4
-MTYsLTMzOTc5MTgxNCwxMDkwNzI5MTE1LDQ4MDQ0NDk4LDUyNz
-AxNDA1OCwtMTI5MTE2Njk0LC05NDA5ODMwODMsMTU0NDI1OTEx
-Nl19
+eyJoaXN0b3J5IjpbLTE0OTgzNTQ3NjQsMzU0NTQwNTgxLDE0NT
+Q3NjE0MDEsMTkyODczNDI3MCwxNTgzOTUyMTc5LC03MDczMjg2
+OTAsODU2MDUyNDk2LDE5NTk5ODM4MDEsLTEwNDQ2MDAyMjQsNj
+Q5NjMyMjEsLTEyMzk1MTM3MDcsLTEwMDU1MzMyNSwxOTE4NTM0
+ODE2LC0zMzk3OTE4MTQsMTA5MDcyOTExNSw0ODA0NDQ5OCw1Mj
+cwMTQwNTgsLTEyOTExNjY5NCwtOTQwOTgzMDgzLDE1NDQyNTkx
+MTZdfQ==
 -->
