@@ -18,24 +18,7 @@ Pour la première séance, nous avons commencé en créant une nouvelle VM dans 
 Le reste de la configuration de la VM s'est faite en laissant les paramètres **par défaut.** Cependant, l'étape de chargement du pre-seed était bloqué, suite aux recherches de Louis, nous avons pu résoudre ce problème en redémarrant la machine à cette étape. 
 
 ![Screen création VM](https://lh7-us.googleusercontent.com/HwGyxgCVJ4FucrncIYnrRtDJVPEdrYU__IEii__UMg29YSwengtuclEehw575ZxLd2NAXWbh1VpI0xNDq_o1kRc3V7HD2PmTYJKxIz14KGTN7T8BkUGBZ_M6d1aJU1k5DbnO3vo9U3_ELN5BtngKaZY)
-Dans le **vboxpostinstall**, nous avons ajouté dans la partie "Run user
-command" les commandes pour installer les fonctionnalités attendues :
 
-Soit au lancement de la machine grâce à la commande `log_command_in_target`
-
-`log_command_in_target usermod -a -G sudo user`
-
-`log_command_in_target apt-get install sudo`
-
-`log_command_in_target sudo apt-get install git`
-
-`log_command_in_target sudo apt-get install sqlite3`
-
-`log_command_in_target sudo apt-get install curl`
-
-`log_command_in_target sudo apt-get install bash-completion`
-
-`log_command_in_target sudo apt-get install neofetch`
 
 
 ###    Configuration matérielle dans VirtualBox 
@@ -351,6 +334,29 @@ Pour installer des paquets non présents dans le tasksel, on va utiliser la comm
 
 ![Installation réussie](https://media.discordapp.net/attachments/861363773901635646/1344994403349172254/e186db6708bb1758.png?ex=67c2ef26&is=67c19da6&hm=14d1994d23ae87d8f5781bd4ebcc6081ad9d435cb242aaad0ac8bb65670b2f75&=&format=webp&quality=lossless&width=1131&height=604)
 
+Alternativement, 
+
+Dans le **vboxpostinstall**, l'on peut dans la partie "Run user
+command" mettre les commandes pour installer les fonctionnalités attendues :
+
+Soit au lancement de la machine grâce à la commande 
+
+`log_command_in_target`
+
+`log_command_in_target usermod -a -G sudo user`
+
+`log_command_in_target apt-get install sudo`
+
+`log_command_in_target sudo apt-get install git`
+
+`log_command_in_target sudo apt-get install sqlite3`
+
+`log_command_in_target sudo apt-get install curl`
+
+`log_command_in_target sudo apt-get install bash-completion`
+
+`log_command_in_target sudo apt-get install neofetch`
+
 ## 2^ème^-semaine  
 ***
 **Malori** : Etant déjà initiée au **Markdown**, *riche d'une précédente SAE 2.03*, je me suis chargée de centraliser les rapports et questions en un seul et même rapport. Louis et Ulysse se sont initié au MarkDown via les sites [^3] qui nous ont été fournis pour s'exercer; Ils m'ont ensuite envoyé leurs rendus afin que je puisse regrouper nos réponses.
@@ -494,11 +500,11 @@ Comparez-le aux outils inclus avec git (et installé précédemment) ainsi qu’
 | Customisable | Avoir les fonctionnalités que l'on souhaite | Perte de temps puisque les fonctionnalités nécessaire sont présente par défaut |
 | Peut gérer plusieurs dépôt simultanément | Boost de productivité | On peut vite s'y perdre |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODcxMTk4MywtNDQwOTk0MjkyLDIxMT
-QxNTE0NDUsLTEzMzA5NTQ5NzIsMzU0NTQwNTgxLDE0NTQ3NjE0
-MDEsMTkyODczNDI3MCwxNTgzOTUyMTc5LC03MDczMjg2OTAsOD
-U2MDUyNDk2LDE5NTk5ODM4MDEsLTEwNDQ2MDAyMjQsNjQ5NjMy
-MjEsLTEyMzk1MTM3MDcsLTEwMDU1MzMyNSwxOTE4NTM0ODE2LC
-0zMzk3OTE4MTQsMTA5MDcyOTExNSw0ODA0NDQ5OCw1MjcwMTQw
-NThdfQ==
+eyJoaXN0b3J5IjpbLTExNTM0Njc2ODksLTQ0MDk5NDI5MiwyMT
+E0MTUxNDQ1LC0xMzMwOTU0OTcyLDM1NDU0MDU4MSwxNDU0NzYx
+NDAxLDE5Mjg3MzQyNzAsMTU4Mzk1MjE3OSwtNzA3MzI4NjkwLD
+g1NjA1MjQ5NiwxOTU5OTgzODAxLC0xMDQ0NjAwMjI0LDY0OTYz
+MjIxLC0xMjM5NTEzNzA3LC0xMDA1NTMzMjUsMTkxODUzNDgxNi
+wtMzM5NzkxODE0LDEwOTA3MjkxMTUsNDgwNDQ0OTgsNTI3MDE0
+MDU4XX0=
 -->
