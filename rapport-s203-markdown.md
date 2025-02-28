@@ -300,13 +300,18 @@ git config --global user.name "Prénom Nom" &&
 git config --global user.email "votre@email" &&
 git config --global init.defaultBranch "master"
 ```
-> La commande `git config` sert, comme son nom l'indique, à configurer git sur la machine.
+ La commande `git config` sert, comme son nom l'indique, à configurer git sur la machine.
+ 
 L'option `--global`est un des trois niveau de configuration de git :
-`--local`: limite la configuration au dépôt dans lequel la fonction est invoquée. 
+
+- `--local`: limite la configuration au dépôt dans lequel la fonction est invoquée. 
 C'est la configuration par défaut.
-`--global`: permet d'étendre la configuration à l'utilisateur, à travers l'entiereté de l'O.S\
-`--system`: étend la configuration à tous les utilisateurs et tous les dépôts présent sur le système\
-La 3e ligne, `int.defaultBranch "master"` évite un avertissement à la création d'une branche par défaut\
+
+- `--global`: permet d'étendre la configuration à l'utilisateur, à travers l'entiereté de l'O.S
+
+- `--system`: étend la configuration à tous les utilisateurs et tous les dépôts présent sur le système
+ La 3e ligne, `int.defaultBranch "master"` évite un avertissement à la création d'une branche par défaut
+
 Pour plus d'informations, utilisez `man git config`
 (`&&` permet d'enchaîner les 3 commandes en une seule ligne) 
 
@@ -397,11 +402,11 @@ L’arborescence est facilement lisible, ce qui fait gagner du temps à l'utilis
 		
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTkxMjk1OTIsMTkyODczNDI3MCwxNT
-gzOTUyMTc5LC03MDczMjg2OTAsODU2MDUyNDk2LDE5NTk5ODM4
-MDEsLTEwNDQ2MDAyMjQsNjQ5NjMyMjEsLTEyMzk1MTM3MDcsLT
-EwMDU1MzMyNSwxOTE4NTM0ODE2LC0zMzk3OTE4MTQsMTA5MDcy
-OTExNSw0ODA0NDQ5OCw1MjcwMTQwNTgsLTEyOTExNjY5NCwtOT
-QwOTgzMDgzLDE1NDQyNTkxMTYsLTY4ODM5NzIwOCwtNDEzMjcx
-OTgyXX0=
+eyJoaXN0b3J5IjpbNzk1NDkyNTIxLDE5Mjg3MzQyNzAsMTU4Mz
+k1MjE3OSwtNzA3MzI4NjkwLDg1NjA1MjQ5NiwxOTU5OTgzODAx
+LC0xMDQ0NjAwMjI0LDY0OTYzMjIxLC0xMjM5NTEzNzA3LC0xMD
+A1NTMzMjUsMTkxODUzNDgxNiwtMzM5NzkxODE0LDEwOTA3Mjkx
+MTUsNDgwNDQ0OTgsNTI3MDE0MDU4LC0xMjkxMTY2OTQsLTk0MD
+k4MzA4MywxNTQ0MjU5MTE2LC02ODgzOTcyMDgsLTQxMzI3MTk4
+Ml19
 -->
