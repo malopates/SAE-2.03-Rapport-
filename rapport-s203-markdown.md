@@ -372,9 +372,9 @@ Qu'est-ce que le logiciel gitk ? Comment se lance-t-il ?
         
 :   - **Ulysse** :  Il se concentre sur la visualisation et lanavigation dans l’historique du projet.
 Pour le lancer, il faut taper la commande gitk, en étant dans un dépôt git (dans le terminal).
-{https://man.archlinux.org/man/gitk.1.en}
 
-***[Sources](https://www.atlassian.com/fr/git/tutorials/gitk)***
+
+***[Sour](https://www.atlassian.com/fr/git/tutorials/gitkhttps://man.archlinux.org/man/gitk.1.en)[ces](https://www.atlassian.com/fr/git/tutorials/gitkhttps://man.archlinux.org/man/gitk.1.en)***
 
 
 Qu'est-ce que le logiciel git-gui ? Comment se lance-t-il ?
@@ -407,7 +407,7 @@ L’arborescence est facilement lisible, ce qui fait gagner du temps à l'utilis
 		
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0MDcxMTU4MywxOTI4NzM0MjcwLDE1OD
+eyJoaXN0b3J5IjpbMTc3MDU3NzI2NSwxOTI4NzM0MjcwLDE1OD
 M5NTIxNzksLTcwNzMyODY5MCw4NTYwNTI0OTYsMTk1OTk4Mzgw
 MSwtMTA0NDYwMDIyNCw2NDk2MzIyMSwtMTIzOTUxMzcwNywtMT
 AwNTUzMzI1LDE5MTg1MzQ4MTYsLTMzOTc5MTgxNCwxMDkwNzI5
