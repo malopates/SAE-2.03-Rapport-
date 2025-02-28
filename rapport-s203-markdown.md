@@ -269,7 +269,7 @@ En parralèle, Ulysse s'est penché sur **pandoc**, et a exporté ses réponses 
 
 
 ## 3^ème^-semaine 
-## Introduction
+### Introduction
 Nous allons cette semaine traiter le cas de Git et des applications graphiques 
 qui lui sont associées\
 Pour ce faire, nous allons : \
@@ -277,7 +277,7 @@ Pour ce faire, nous allons : \
 2. Etudier les applications graphiques officielles gitk et git-gui
 3. Installer une autre applications non-officielle : gitnuro
 
-## I. Configuration de git sur la machine
+### I. Configuration de git sur la machine
 
 ### Qu'est-ce que git ?
 
@@ -313,7 +313,7 @@ Pour plus d'informations, utilisez `man git config`
 *Sources:*
 https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-config
 
-## II. Les applications graphiques officielles
+### II. Les applications graphiques officielles
 
 La version d'Ulysse étant parfaite, je n'aurais qu'un seul ajout :
 
@@ -321,7 +321,7 @@ J'ai utilisé `apt-cache search <name>` pour m'assurer d'utiliser les bon noms d
 
 
 
-## III. Un autre exemple d'application graphique : gitnuro
+### III. Un autre exemple d'application graphique : gitnuro
 
 ### 1. Choix du logiciel
 
@@ -357,7 +357,7 @@ Pour lancer gitnuro, il suffit d'utiliser la commande :
 
 [image 2]
 
-### ![drawing](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Question_mark_alternate.svg/788px-Question_mark_alternate.svg.png =20x30)    Interfaces graphiques pour *git* 
+###    Interfaces graphiques pour *git* 
 
 Qu'est-ce que le logiciel gitk ? Comment se lance-t-il ?
 
@@ -397,11 +397,11 @@ L’arborescence est facilement lisible, ce qui fait gagner du temps à l'utilis
 		
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMDY1OTUsMTU4Mzk1MjE3OSwtNzA3Mz
-I4NjkwLDg1NjA1MjQ5NiwxOTU5OTgzODAxLC0xMDQ0NjAwMjI0
-LDY0OTYzMjIxLC0xMjM5NTEzNzA3LC0xMDA1NTMzMjUsMTkxOD
-UzNDgxNiwtMzM5NzkxODE0LDEwOTA3MjkxMTUsNDgwNDQ0OTgs
-NTI3MDE0MDU4LC0xMjkxMTY2OTQsLTk0MDk4MzA4MywxNTQ0Mj
-U5MTE2LC02ODgzOTcyMDgsLTQxMzI3MTk4Miw4NzEyNzgyOF19
-
+eyJoaXN0b3J5IjpbMTkyODczNDI3MCwxNTgzOTUyMTc5LC03MD
+czMjg2OTAsODU2MDUyNDk2LDE5NTk5ODM4MDEsLTEwNDQ2MDAy
+MjQsNjQ5NjMyMjEsLTEyMzk1MTM3MDcsLTEwMDU1MzMyNSwxOT
+E4NTM0ODE2LC0zMzk3OTE4MTQsMTA5MDcyOTExNSw0ODA0NDQ5
+OCw1MjcwMTQwNTgsLTEyOTExNjY5NCwtOTQwOTgzMDgzLDE1ND
+QyNTkxMTYsLTY4ODM5NzIwOCwtNDEzMjcxOTgyLDg3MTI3ODI4
+XX0=
 -->
