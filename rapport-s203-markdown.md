@@ -288,7 +288,7 @@ Contrairement à gitk, git gui se concentre sur la génération de
         commit et l'annotation de fichiers uniques et n'affiche pas
         l'historique du projet. Il fournit cependant des actions de menu
         pour démarrer une session gitk à partir de git gui.
-[https://git-scm.com/docs/git-gui/fr]
+***[Source](https://git-scm.com/docs/git-gui/fr)***
 
 Pourquoi avez-vous choisi ce logiciel ?
 
@@ -307,11 +307,11 @@ L’arborescence est facilement lisible, ce qui fait gagner du temps à l'utilis
 		
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU2MDUyNDk2LDE5NTk5ODM4MDEsLTEwND
-Q2MDAyMjQsNjQ5NjMyMjEsLTEyMzk1MTM3MDcsLTEwMDU1MzMy
-NSwxOTE4NTM0ODE2LC0zMzk3OTE4MTQsMTA5MDcyOTExNSw0OD
-A0NDQ5OCw1MjcwMTQwNTgsLTEyOTExNjY5NCwtOTQwOTgzMDgz
-LDE1NDQyNTkxMTYsLTY4ODM5NzIwOCwtNDEzMjcxOTgyLDg3MT
-I3ODI4LDcwMDQyOTE1MiwtMTY0NDI1NDgxMywtMjAyOTI2Mzg4
-NV19
+eyJoaXN0b3J5IjpbLTcwNzMyODY5MCw4NTYwNTI0OTYsMTk1OT
+k4MzgwMSwtMTA0NDYwMDIyNCw2NDk2MzIyMSwtMTIzOTUxMzcw
+NywtMTAwNTUzMzI1LDE5MTg1MzQ4MTYsLTMzOTc5MTgxNCwxMD
+kwNzI5MTE1LDQ4MDQ0NDk4LDUyNzAxNDA1OCwtMTI5MTE2Njk0
+LC05NDA5ODMwODMsMTU0NDI1OTExNiwtNjg4Mzk3MjA4LC00MT
+MyNzE5ODIsODcxMjc4MjgsNzAwNDI5MTUyLC0xNjQ0MjU0ODEz
+XX0=
 -->
