@@ -244,13 +244,9 @@ Il existe 3 durées de prise en charge (support) de ces versions : la durée min
 | ELTS       | **10 ans**  | [Lien](https://wiki.debian.org/LTS/Extended) |
 
 
-
-
-• L’un des atouts de Debian fut le nombre d’architecture (≈ processeurs) officiellement prises en charge. Combien et lesquelles sont prises en charge par la version _Bullseye_ ?
-
+L’un des atouts de Debian fut le nombre d’architecture (≈ processeurs) officiellement prises en charge. Combien et lesquelles sont prises en charge par la version _Bullseye_ ?
+:   -  **Louis** : 
 Bullseye prend en charge 9 architectures :
-
-  
 
 -amd64
 
@@ -272,7 +268,7 @@ Bullseye prend en charge 9 architectures :
 
   
 
-•Première version avec un nom de code
+• Première version avec un nom de code
 
 -   Quelle a était le premier nom de code utilisé ?
     
@@ -328,15 +324,10 @@ _Sources :_
 
 [https://wiki.debian.org/DebianTrixie?highlight=%28CategoryRelease%29](https://wiki.debian.org/DebianTrixie?highlight=%28CategoryRelease%29)  
 
-  
 
-**Question** **5 :**  **Ajustement de la pré-configuration**
-
-  
+### Ajustement de la pré-configuration
 
 Pour cette partie, il faut effectuer les modifications associées à preseed.cfg :
-
-  
 
 1. Modifier les groupe de « user » :
 
@@ -359,7 +350,6 @@ _Explication de la commande :_
   
 
 [https://www.debian.org/releases/stable/amd64/apbs04.fr.html#preseed-account](https://www.debian.org/releases/stable/amd64/apbs04.fr.html#preseed-account)  
-
   
 
 2. Installation de MATE :
@@ -539,11 +529,11 @@ Comparez-le aux outils inclus avec git (et installé précédemment) ainsi qu’
 | Customisable | Avoir les fonctionnalités que l'on souhaite | Perte de temps puisque les fonctionnalités nécessaire sont présente par défaut |
 | Peut gérer plusieurs dépôt simultanément | Boost de productivité | On peut vite s'y perdre |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTg3Njk4MDgsLTQ0MDk5NDI5MiwyMT
-E0MTUxNDQ1LC0xMzMwOTU0OTcyLDM1NDU0MDU4MSwxNDU0NzYx
-NDAxLDE5Mjg3MzQyNzAsMTU4Mzk1MjE3OSwtNzA3MzI4NjkwLD
-g1NjA1MjQ5NiwxOTU5OTgzODAxLC0xMDQ0NjAwMjI0LDY0OTYz
-MjIxLC0xMjM5NTEzNzA3LC0xMDA1NTMzMjUsMTkxODUzNDgxNi
-wtMzM5NzkxODE0LDEwOTA3MjkxMTUsNDgwNDQ0OTgsNTI3MDE0
-MDU4XX0=
+eyJoaXN0b3J5IjpbLTU3NjM4NjI5OSwtNDQwOTk0MjkyLDIxMT
+QxNTE0NDUsLTEzMzA5NTQ5NzIsMzU0NTQwNTgxLDE0NTQ3NjE0
+MDEsMTkyODczNDI3MCwxNTgzOTUyMTc5LC03MDczMjg2OTAsOD
+U2MDUyNDk2LDE5NTk5ODM4MDEsLTEwNDQ2MDAyMjQsNjQ5NjMy
+MjEsLTEyMzk1MTM3MDcsLTEwMDU1MzMyNSwxOTE4NTM0ODE2LC
+0zMzk3OTE4MTQsMTA5MDcyOTExNSw0ODA0NDQ5OCw1MjcwMTQw
+NThdfQ==
 -->
