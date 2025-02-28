@@ -239,11 +239,8 @@ Quel a été le premier nom de code utilisé ?
 
 ## 2^ème^-semaine  
 
-Malori : Etant déjà initiée au **Markdown**, riche d'une SAE 2.03 , via les sites qui nous ont été
-fournis pour s'exercer
-([markdowntutorial.com](http://markdowntutorial.com) &
-[commonmark.org](http://commonmark.org)) 
-
+Malori : Etant déjà initiée au **Markdown**, riche d'une SAE 2.03 , via les sites [^3] qui nous ont été fournis pour s'exercer 
+[^3]: [markdowntutorial.com](http://markdowntutorial.com) & [commonmark.org](http://commonmark.org)
 Pour le choix de l'éditeur, nous préférons sur navigateur afin de
 s'épargner de devoir installer un logiciel sur chaque machines où nous
 travaillons. Nous avons donc choisi **StackEdit** car après avoir essayé
@@ -306,11 +303,11 @@ Comparer-le aux outils inclus avec git (et installé précédemment) ainsi qu'av
 		
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgwNDQ0OTgsNTI3MDE0MDU4LC0xMjkxMT
-Y2OTQsLTk0MDk4MzA4MywxNTQ0MjU5MTE2LC02ODgzOTcyMDgs
-LTQxMzI3MTk4Miw4NzEyNzgyOCw3MDA0MjkxNTIsLTE2NDQyNT
-Q4MTMsLTIwMjkyNjM4ODUsLTQwOTE3NjAzMCw0ODc3NjU4MzAs
-LTQwODgzMzA0NSwtNTI5ODE1MSwzNTc0OTE5MDIsLTE4NDM3OD
-I5ODAsMTgwMjUxNjcxMiwtMTI2MjQwNzczMiwzNjU3Mzg2MzJd
-fQ==
+eyJoaXN0b3J5IjpbMTk0Mjc0MDA2Myw0ODA0NDQ5OCw1MjcwMT
+QwNTgsLTEyOTExNjY5NCwtOTQwOTgzMDgzLDE1NDQyNTkxMTYs
+LTY4ODM5NzIwOCwtNDEzMjcxOTgyLDg3MTI3ODI4LDcwMDQyOT
+E1MiwtMTY0NDI1NDgxMywtMjAyOTI2Mzg4NSwtNDA5MTc2MDMw
+LDQ4Nzc2NTgzMCwtNDA4ODMzMDQ1LC01Mjk4MTUxLDM1NzQ5MT
+kwMiwtMTg0Mzc4Mjk4MCwxODAyNTE2NzEyLC0xMjYyNDA3NzMy
+XX0=
 -->
