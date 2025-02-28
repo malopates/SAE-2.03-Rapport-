@@ -114,8 +114,8 @@ GNOME est un environnement de bureau conçu pour les systèmes d’exploitation 
 
 Qu'est-ce qu'un serveur web ?
 
-:   - **Malori** :   Un serveur web est un logiciel qui permet de ==stocker et de
-        diffuser des pages web.==
+: - **Ulysse** :  [Un serveur WEB]{.underline} est un logiciel qui ==contrôle et permet de rendre accessible des **fichiers** ou des **pages WEB**== (liste non-exhaustive) via HTTP ou HTTPS.
+
 : - **Louis** : On peut distinguer deux catégories de serveurs Web :
 
 >1. Le serveur logiciel, qui contrôle la façon dont l’utilisateur accède à un fichier hébergé sur le serveur matériel. On trouvera un serveur HTTP, qui utilise le protocole HTTP et permet de recevoir des requêtes HTTP de l’utilisateur et renvoyer des réponses HTTP contenant les fichiers demandés.
@@ -300,11 +300,11 @@ Comparer-le aux outils inclus avec git (et installé précédemment) ainsi qu'av
 		
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTExODc3MjY3LDUyNzAxNDA1OCwtMTI5MT
-E2Njk0LC05NDA5ODMwODMsMTU0NDI1OTExNiwtNjg4Mzk3MjA4
-LC00MTMyNzE5ODIsODcxMjc4MjgsNzAwNDI5MTUyLC0xNjQ0Mj
-U0ODEzLC0yMDI5MjYzODg1LC00MDkxNzYwMzAsNDg3NzY1ODMw
-LC00MDg4MzMwNDUsLTUyOTgxNTEsMzU3NDkxOTAyLC0xODQzNz
-gyOTgwLDE4MDI1MTY3MTIsLTEyNjI0MDc3MzIsMzY1NzM4NjMy
-XX0=
+eyJoaXN0b3J5IjpbLTEzNzc5NzUzMzksNTI3MDE0MDU4LC0xMj
+kxMTY2OTQsLTk0MDk4MzA4MywxNTQ0MjU5MTE2LC02ODgzOTcy
+MDgsLTQxMzI3MTk4Miw4NzEyNzgyOCw3MDA0MjkxNTIsLTE2ND
+QyNTQ4MTMsLTIwMjkyNjM4ODUsLTQwOTE3NjAzMCw0ODc3NjU4
+MzAsLTQwODgzMzA0NSwtNTI5ODE1MSwzNTc0OTE5MDIsLTE4ND
+M3ODI5ODAsMTgwMjUxNjcxMiwtMTI2MjQwNzczMiwzNjU3Mzg2
+MzJdfQ==
 -->
