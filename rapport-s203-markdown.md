@@ -291,32 +291,6 @@ Git sépare le travail en trois espaces : le dossier de travail, un index auquel
 
 ### Comment le configurer sur la machine virtuelle ?
 
-Comme le paquet git a déjà été installé sur la machine grâce à l'éxécution du preseed de 
-la semaine 1, nous n'avons plus qu'à configurer le logiciel. Pour cela, il suffit d'utiliser
-la commande :
-
-```
-git config --global user.name "Prénom Nom" &&
-git config --global user.email "votre@email" &&
-git config --global init.defaultBranch "master"
-```
- La commande `git config` sert, comme son nom l'indique, à configurer git sur la machine.
- 
-L'option `--global`est un des trois niveau de configuration de git :
-
-- `--local`: limite la configuration au dépôt dans lequel la fonction est invoquée. 
-C'est la configuration par défaut.
-
-- `--global`: permet d'étendre la configuration à l'utilisateur, à travers l'entiereté de l'O.S
-
-- `--system`: étend la configuration à tous les utilisateurs et tous les dépôts présent sur le système
- La 3e ligne, `int.defaultBranch "master"` évite un avertissement à la création d'une branche par défaut
-
-Pour plus d'informations, utilisez `man git config`
-(`&&` permet d'enchaîner les 3 commandes en une seule ligne) 
-
-*Sources:*
-https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-config
 
 ### II. Les applications graphiques officielles
 
@@ -393,9 +367,32 @@ Pourquoi avez-vous choisi ce logiciel ?
 
 Comment l'avez vous installé ?
 
-:   -   **Malori** Sur leur site avec la version demo Linux-Debian. L'essai gratuit
-        couvre entièrement notre temps d'utilisation du logiciel pour la
-        SAE.
+:   -   **Louis** : 
+Comme le paquet git a déjà été installé sur la machine grâce à l'éxécution du preseed de 
+la semaine 1, nous n'avons plus qu'à configurer le logiciel. Pour cela, il suffit d'utiliser
+la commande :
+
+```
+git config --global user.name "Prénom Nom" &&
+git config --global user.email "votre@email" &&
+git config --global init.defaultBranch "master"
+```
+ La commande `git config` sert, comme son nom l'indique, à configurer git sur la machine.
+ 
+L'option `--global`est un des trois niveau de configuration de git :
+
+- `--local`: limite la configuration au dépôt dans lequel la fonction est invoquée. 
+C'est la configuration par défaut.
+
+- `--global`: permet d'étendre la configuration à l'utilisateur, à travers l'entiereté de l'O.S
+
+- `--system`: étend la configuration à tous les utilisateurs et tous les dépôts présent sur le système
+ La 3e ligne, `int.defaultBranch "master"` évite un avertissement à la création d'une branche par défaut
+
+Pour plus d'informations, utilisez `man git config`
+(`&&` permet d'enchaîner les 3 commandes en une seule ligne) 
+
+[Sources](https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-config)
 
 Comparez-le aux outils inclus avec git (et installé précédemment) ainsi qu’avec ce qui serait fait en ligne de commande pure : fonctionnalités avantages, inconvénients…
 
@@ -404,7 +401,7 @@ L’arborescence est facilement lisible, ce qui fait gagner du temps à l'utilis
 		
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ5MTMwNzgzLDM1NDU0MDU4MSwxNDU0Nz
+eyJoaXN0b3J5IjpbLTQ1MjMxMTA3LDM1NDU0MDU4MSwxNDU0Nz
 YxNDAxLDE5Mjg3MzQyNzAsMTU4Mzk1MjE3OSwtNzA3MzI4Njkw
 LDg1NjA1MjQ5NiwxOTU5OTgzODAxLC0xMDQ0NjAwMjI0LDY0OT
 YzMjIxLC0xMjM5NTEzNzA3LC0xMDA1NTMzMjUsMTkxODUzNDgx
