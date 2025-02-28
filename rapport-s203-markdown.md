@@ -82,7 +82,8 @@ Qu'est-ce qu'un fichier iso bootable ?
 
 Qu'est-ce que MATE ? GNOME ?
 
-:   -   **** *Mate* et *Gnome* sont des environnements graphiques de debian
+:   -   **Malori** : *Mate* et *Gnome* sont des environnements graphiques de Debian
+:   - **Louis** :
 
 Qu'est-ce qu'un serveur web ?
 
@@ -236,11 +237,11 @@ Comparer-le aux outils inclus avec git (et installé précédemment) ainsi qu'av
 		
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzExNTQyMDY0LC0xMjkxMTY2OTQsLTk0MD
-k4MzA4MywxNTQ0MjU5MTE2LC02ODgzOTcyMDgsLTQxMzI3MTk4
-Miw4NzEyNzgyOCw3MDA0MjkxNTIsLTE2NDQyNTQ4MTMsLTIwMj
-kyNjM4ODUsLTQwOTE3NjAzMCw0ODc3NjU4MzAsLTQwODgzMzA0
-NSwtNTI5ODE1MSwzNTc0OTE5MDIsLTE4NDM3ODI5ODAsMTgwMj
-UxNjcxMiwtMTI2MjQwNzczMiwzNjU3Mzg2MzIsMTcwOTg1NTI4
-Nl19
+eyJoaXN0b3J5IjpbLTEzMTE0MzgxNDUsLTEyOTExNjY5NCwtOT
+QwOTgzMDgzLDE1NDQyNTkxMTYsLTY4ODM5NzIwOCwtNDEzMjcx
+OTgyLDg3MTI3ODI4LDcwMDQyOTE1MiwtMTY0NDI1NDgxMywtMj
+AyOTI2Mzg4NSwtNDA5MTc2MDMwLDQ4Nzc2NTgzMCwtNDA4ODMz
+MDQ1LC01Mjk4MTUxLDM1NzQ5MTkwMiwtMTg0Mzc4Mjk4MCwxOD
+AyNTE2NzEyLC0xMjYyNDA3NzMyLDM2NTczODYzMiwxNzA5ODU1
+Mjg2XX0=
 -->
