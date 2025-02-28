@@ -83,13 +83,15 @@ Qu'est-ce qu'un fichier iso bootable ?
 Qu'est-ce que MATE ? GNOME ?
 
 :   -   **Malori** : *MATE* et *GNOME* sont des environnements graphiques de Debian
-:   - **Louis** : MATE est un environnement de bureau et une dérivation de GNOME.  On y retrouve le bureau, le gestionnaire de fenêtres, les différents menus… GNOME est un environnement de bureau conçu pour les systèmes d’exploitation GNU/Linux et UNIX. MATE a repris le code source de GNOME 2 pour reprendre l’aspect « bureau », délaissé par la version GNOME 3.
+:   - **Louis** : MATE est un environnement de bureau.[^1] et une dérivation de GNOME.  On y retrouve le bureau, le gestionnaire de fenêtres, les différents menus… GNOME est un environnement de bureau conçu pour les systèmes d’exploitation GNU/Linux et UNIX. MATE a repris le code source de GNOME 2 pour reprendre l’aspect « bureau », délaissé par la version GNOME 3.
 
-Un environnement de bureau est un logiciel qui regroupe différents outils constituant une interface graphique, qui permettent à l’utilisateur d’interagir graphiquement avec l’ordinateur.
+[^1]: Un environnement de bureau est un logiciel qui regroupe différents outils constituant une interface graphique, qui permettent à l’utilisateur d’interagir graphiquement avec l’ordinateur.
+
 Qu'est-ce qu'un serveur web ?
 
-:   -   Un serveur web est un logiciel qui permet de stocker et de
+:   - **Ulysse** :   Un serveur web est un logiciel qui permet de stocker et de
         diffuser des pages web.
+: - 
 
 Qu'est-ce qu'un serveur ssh ?
 
@@ -238,11 +240,11 @@ Comparer-le aux outils inclus avec git (et installé précédemment) ainsi qu'av
 		
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjEwMzg4LC0xMjkxMTY2OTQsLTk0MD
-k4MzA4MywxNTQ0MjU5MTE2LC02ODgzOTcyMDgsLTQxMzI3MTk4
-Miw4NzEyNzgyOCw3MDA0MjkxNTIsLTE2NDQyNTQ4MTMsLTIwMj
-kyNjM4ODUsLTQwOTE3NjAzMCw0ODc3NjU4MzAsLTQwODgzMzA0
-NSwtNTI5ODE1MSwzNTc0OTE5MDIsLTE4NDM3ODI5ODAsMTgwMj
-UxNjcxMiwtMTI2MjQwNzczMiwzNjU3Mzg2MzIsMTcwOTg1NTI4
-Nl19
+eyJoaXN0b3J5IjpbMTE4MDA2NDc2NiwtMTI5MTE2Njk0LC05ND
+A5ODMwODMsMTU0NDI1OTExNiwtNjg4Mzk3MjA4LC00MTMyNzE5
+ODIsODcxMjc4MjgsNzAwNDI5MTUyLC0xNjQ0MjU0ODEzLC0yMD
+I5MjYzODg1LC00MDkxNzYwMzAsNDg3NzY1ODMwLC00MDg4MzMw
+NDUsLTUyOTgxNTEsMzU3NDkxOTAyLC0xODQzNzgyOTgwLDE4MD
+I1MTY3MTIsLTEyNjI0MDc3MzIsMzY1NzM4NjMyLDE3MDk4NTUy
+ODZdfQ==
 -->
