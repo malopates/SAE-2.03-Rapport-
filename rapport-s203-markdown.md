@@ -300,7 +300,7 @@ J'ai utilisé `apt-cache search <name>` pour m'assurer d'utiliser les bon noms d
 
 ### 1. Choix du logiciel
 
-Je rajouterai juste l'aspect esthétique 
+
 
 ### 2. Installation sur la machine virtuelle
 
@@ -363,7 +363,7 @@ Contrairement à gitk, git gui se concentre sur la génération de
 
 Pourquoi avez-vous choisi ce logiciel ?
 
-:   -   **Malori** : Nous avons choisi [Gittyup](https://murmele.github.io/Gittyup/) car c'est un logiciel open-source, son interface le rend facile d'utilisation, et sa license est MIT, c'est-à-dire qu'elle impose très peu de restrictions à la réutilisation et présente donc une compatibilité de licence élevée.
+:   -   **Ulysse
 
 Comment l'avez vous installé ?
 
@@ -388,22 +388,21 @@ C'est la configuration par défaut.
 		- `--system`: étend la configuration à tous les utilisateurs et tous les dépôts présent sur le système
  La 3e ligne, `int.defaultBranch "master"` évite un avertissement à la création d'une branche par défaut
 
-			**Pour plus d'informations, utilisez `man git config` (`&&` permet d'enchaîner les 3 commandes en une seule ligne)*
+			*Pour plus d'informations, utilisez `man git config` (`&&` permet d'enchaîner les 3 commandes en une seule ligne)*
 
 [Sources](https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-config)
 
 Comparez-le aux outils inclus avec git (et installé précédemment) ainsi qu’avec ce qui serait fait en ligne de commande pure : fonctionnalités avantages, inconvénients…
 
-:   -   **Malori** : L'interface est épuré et intuitive, avec des schémas clairs et un code couleur distinctif, la navigation est fluide et efficace. 
-L’arborescence est facilement lisible, ce qui fait gagner du temps à l'utilisateur. Des fonctionnalités pratiques permettent d’apercevoir instantanément les modifications en survolant les éléments. On peut aussi consulter les statistiques détaillées de chaque utilisateur, et il est possible d’effectuer plusieurs actions en parallèle comme fetch, pull ou clone sur plusieurs repo à la fois.
+:   -   **Malori** : L'interface est épuré et intuitive, avec des schémas clairs et un code couleur distinctif, la navigation est fluide et efficace. L’arborescence est facilement lisible, ce qui fait gagner du temps à l'utilisateur. Des fonctionnalités pratiques permettent d’apercevoir instantanément les modifications en survolant les éléments. On peut aussi consulter les statistiques détaillées de chaque utilisateur, et il est possible d’effectuer plusieurs actions en parallèle comme fetch, pull ou clone sur plusieurs repo à la fois.
 		
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI3MjgwMzc0LDM1NDU0MDU4MSwxNDU0Nz
-YxNDAxLDE5Mjg3MzQyNzAsMTU4Mzk1MjE3OSwtNzA3MzI4Njkw
-LDg1NjA1MjQ5NiwxOTU5OTgzODAxLC0xMDQ0NjAwMjI0LDY0OT
-YzMjIxLC0xMjM5NTEzNzA3LC0xMDA1NTMzMjUsMTkxODUzNDgx
-NiwtMzM5NzkxODE0LDEwOTA3MjkxMTUsNDgwNDQ0OTgsNTI3MD
-E0MDU4LC0xMjkxMTY2OTQsLTk0MDk4MzA4MywxNTQ0MjU5MTE2
-XX0=
+eyJoaXN0b3J5IjpbLTU0NDU5NDI3NywzNTQ1NDA1ODEsMTQ1ND
+c2MTQwMSwxOTI4NzM0MjcwLDE1ODM5NTIxNzksLTcwNzMyODY5
+MCw4NTYwNTI0OTYsMTk1OTk4MzgwMSwtMTA0NDYwMDIyNCw2ND
+k2MzIyMSwtMTIzOTUxMzcwNywtMTAwNTUzMzI1LDE5MTg1MzQ4
+MTYsLTMzOTc5MTgxNCwxMDkwNzI5MTE1LDQ4MDQ0NDk4LDUyNz
+AxNDA1OCwtMTI5MTE2Njk0LC05NDA5ODMwODMsMTU0NDI1OTEx
+Nl19
 -->
