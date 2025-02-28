@@ -215,11 +215,13 @@ Il existe 3 durées de prise en charge (support) de ces versions : la durée min
 
 Pendant combien de temps les mises à jour de sécurité seront-elles fournies ?
 
-:   -   Les mises à jour de sécurité seront fournies pendant 5 ans.
+:   -   **Ulysse** : [Durée : **5 ans**](https://wiki.debian.org/LTS)
+ELTS : jusqu’à **10 ans**[^2].
+
 
 Combien de version au minimum sont activement maintenues par Debian ? Donnez leur nom générique (= les types de distribution).
 
-:   -   Il y a 3 versions au minimum activement maintenues par Debian :
+:   -  **Malori** :  Il y a 3 versions au minimum activement maintenues par Debian :
         *stable, testing* et *unstable*.
 
 Chaque distribution majeur possède un nom de code différent. Par exemple la version majeur actuelle (Debian 12) se nomme bookworm. D'où viennent les noms de code données aux distributions ?
@@ -305,11 +307,11 @@ Comparer-le aux outils inclus avec git (et installé précédemment) ainsi qu'av
 		
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDU1MzMyNSwxOTE4NTM0ODE2LC0zMz
-k3OTE4MTQsMTA5MDcyOTExNSw0ODA0NDQ5OCw1MjcwMTQwNTgs
-LTEyOTExNjY5NCwtOTQwOTgzMDgzLDE1NDQyNTkxMTYsLTY4OD
-M5NzIwOCwtNDEzMjcxOTgyLDg3MTI3ODI4LDcwMDQyOTE1Miwt
-MTY0NDI1NDgxMywtMjAyOTI2Mzg4NSwtNDA5MTc2MDMwLDQ4Nz
-c2NTgzMCwtNDA4ODMzMDQ1LC01Mjk4MTUxLDM1NzQ5MTkwMl19
-
+eyJoaXN0b3J5IjpbLTIwNjE4NDg3MiwtMTAwNTUzMzI1LDE5MT
+g1MzQ4MTYsLTMzOTc5MTgxNCwxMDkwNzI5MTE1LDQ4MDQ0NDk4
+LDUyNzAxNDA1OCwtMTI5MTE2Njk0LC05NDA5ODMwODMsMTU0ND
+I1OTExNiwtNjg4Mzk3MjA4LC00MTMyNzE5ODIsODcxMjc4Mjgs
+NzAwNDI5MTUyLC0xNjQ0MjU0ODEzLC0yMDI5MjYzODg1LC00MD
+kxNzYwMzAsNDg3NzY1ODMwLC00MDg4MzMwNDUsLTUyOTgxNTFd
+fQ==
 -->
