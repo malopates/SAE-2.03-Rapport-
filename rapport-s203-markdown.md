@@ -69,8 +69,10 @@ Quelle est la configuration réseau utilisée par défaut ?
 
 Quel est le nom du fichier XML contenant la configuration de votre machine ?
 
-:   -   **Ulysse** : Le nom du fichier XML contenant la configuration de votre machine est le fichier `sae203.vbox`, (``/usr/local/virtual_machine/infoetu/prenom.nom.etu/sae203``) comme le dit le manuel virtualbox  "the XML settings file, with a `.vbox` file extension."
+:   -   **Ulysse** : Le nom du fichier XML contenant la configuration de votre machine est le fichier `sae203.vbox`, (``/usr/local/virtual_machine/infoetu/prenom.nom.etu/sae203``) comme le dit le manuel virtualbox en source :   
+> "the XML settings file, with a `.vbox` file extension."
 
+***[Source](https://www.virtualbox.org/manual/ch10.html#vboxconfigdata-XML-files)***
 
 
 Comment vous modifieriez ce fichier de configuration pour mettre 2 processeurs à votre machine ?
@@ -90,9 +92,11 @@ Ainsi, pour mettre 2 processeurs, il suffit d’ajouter la ligne :
 
 Qu'est-ce qu'un fichier iso bootable ?
 
-:   -  **Ulysse** :  Un fichier iso bootable est un fichier qui s'exécute au
+:   -  **Louis** :  Un fichier iso bootable est un fichier qui s'exécute au
         démarrage de la VM et qui contient une instance d'un système
         d'exploitation. Il permet de créer la machine. 
+        
+      :   - Ulysse
 
 Qu'est-ce que MATE ? GNOME ?
 
@@ -289,11 +293,11 @@ Comparer-le aux outils inclus avec git (et installé précédemment) ainsi qu'av
 		
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NTcyMDYxMyw1MjcwMTQwNTgsLTEyOT
-ExNjY5NCwtOTQwOTgzMDgzLDE1NDQyNTkxMTYsLTY4ODM5NzIw
-OCwtNDEzMjcxOTgyLDg3MTI3ODI4LDcwMDQyOTE1MiwtMTY0ND
-I1NDgxMywtMjAyOTI2Mzg4NSwtNDA5MTc2MDMwLDQ4Nzc2NTgz
-MCwtNDA4ODMzMDQ1LC01Mjk4MTUxLDM1NzQ5MTkwMiwtMTg0Mz
-c4Mjk4MCwxODAyNTE2NzEyLC0xMjYyNDA3NzMyLDM2NTczODYz
-Ml19
+eyJoaXN0b3J5IjpbLTI1OTIwNzg3LDUyNzAxNDA1OCwtMTI5MT
+E2Njk0LC05NDA5ODMwODMsMTU0NDI1OTExNiwtNjg4Mzk3MjA4
+LC00MTMyNzE5ODIsODcxMjc4MjgsNzAwNDI5MTUyLC0xNjQ0Mj
+U0ODEzLC0yMDI5MjYzODg1LC00MDkxNzYwMzAsNDg3NzY1ODMw
+LC00MDg4MzMwNDUsLTUyOTgxNTEsMzU3NDkxOTAyLC0xODQzNz
+gyOTgwLDE4MDI1MTY3MTIsLTEyNjI0MDc3MzIsMzY1NzM4NjMy
+XX0=
 -->
