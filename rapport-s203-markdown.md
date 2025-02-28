@@ -238,7 +238,6 @@ Chaque distribution majeur possède un nom de code différent. Par exemple la ve
         l'époque, responsable du projet Debian et travaillait chez
         Pixar, la société qui a produit les films.
 
-Que signifie "64-bit" dans "Debian 64-bit" ?
 L'un des atouts de Debian fut le nombre d'architecture (≈ processeurs) officiellement prises en charge. 
 
 Combien et lesquelles sont prises en charge par la version Bullseye ?
@@ -400,7 +399,7 @@ Comparez-le aux outils inclus avec git (et installé précédemment) ainsi qu’
 | Customisable | Avoir les fonctionnalités que l'on souhaite | Perte de temps puisque les fonctionnalités nécessaire sont présente par défaut |
 | Peut gérer plusieurs dépôt simultanément | Boost de productivité | On peut vite s'y perdre |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0NjM1MjgsLTQ0MDk5NDI5MiwyMTE0MT
+eyJoaXN0b3J5IjpbMjM4NTg3MDUsLTQ0MDk5NDI5MiwyMTE0MT
 UxNDQ1LC0xMzMwOTU0OTcyLDM1NDU0MDU4MSwxNDU0NzYxNDAx
 LDE5Mjg3MzQyNzAsMTU4Mzk1MjE3OSwtNzA3MzI4NjkwLDg1Nj
 A1MjQ5NiwxOTU5OTgzODAxLC0xMDQ0NjAwMjI0LDY0OTYzMjIx
