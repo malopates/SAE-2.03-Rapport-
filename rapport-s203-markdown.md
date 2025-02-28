@@ -11,7 +11,7 @@ geometry: margin=2cm
 
 ##  1^ère^ semaine
 
-### ![Logo PC](https://cdn-icons-png.flaticon.com/512/73/73575.png =50x50) Création de la 1^ère^ VM
+### Création de la 1^ère^ VM
 
 Pour la première séance, nous avons commencé en créant une nouvelle VM dans **Oracle VM VirtualBox** que nous avons appelée "*SAE203auto*", sans aucun fichier iso, mais en sélectionnant le type (**Linux**) et la version (**Debian 12 Bookworm** en version 64-bit). Pour ce qui est de l'iso, il faut se rendre dans l'onglet `Storage`, puis dans "`Controller: IDE`" -> "`Empty`" pour rajouter dans "`IDE Primary Device 0`" le fichier "**S203-Debian12.viso**" afin que les fichiers de configuration automatique se lancent convenablement.
 
@@ -54,7 +54,7 @@ Nous avons plus tard réalisé que le problème venait du fait que la commande `
 fonctionne.
 ![](https://zimbra.univ-lille.fr/service/home/~/?auth=co&loc=fr_FR&id=4172&part=3)
 
-### ![Question](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Question_mark_alternate.svg/788px-Question_mark_alternate.svg.png =20x30)   Configuration matérielle dans VirtualBox 
+###    Configuration matérielle dans VirtualBox 
 
 Que signifie "64-bit" dans "Debian 64-bit" ?
 
@@ -91,7 +91,7 @@ Ainsi, pour mettre 2 processeurs, il suffit d’ajouter la ligne :
 ```VboxManage modifyvm --cpus 2```
 [Source](https://docs.oracle.com/en/virtualization/virtualbox/6.0/user/vboxmanage-modifyvm.html)
 
-### ![drawing](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Question_mark_alternate.svg/788px-Question_mark_alternate.svg.png =20x30) Installation OS de base 
+###  Installation OS de base 
 
 Qu'est-ce qu'un fichier iso bootable ?
 
@@ -307,11 +307,11 @@ L’arborescence est facilement lisible, ce qui fait gagner du temps à l'utilis
 		
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNzMyODY5MCw4NTYwNTI0OTYsMTk1OT
-k4MzgwMSwtMTA0NDYwMDIyNCw2NDk2MzIyMSwtMTIzOTUxMzcw
-NywtMTAwNTUzMzI1LDE5MTg1MzQ4MTYsLTMzOTc5MTgxNCwxMD
-kwNzI5MTE1LDQ4MDQ0NDk4LDUyNzAxNDA1OCwtMTI5MTE2Njk0
-LC05NDA5ODMwODMsMTU0NDI1OTExNiwtNjg4Mzk3MjA4LC00MT
-MyNzE5ODIsODcxMjc4MjgsNzAwNDI5MTUyLC0xNjQ0MjU0ODEz
-XX0=
+eyJoaXN0b3J5IjpbMTk5MzMyMTkwNCwtNzA3MzI4NjkwLDg1Nj
+A1MjQ5NiwxOTU5OTgzODAxLC0xMDQ0NjAwMjI0LDY0OTYzMjIx
+LC0xMjM5NTEzNzA3LC0xMDA1NTMzMjUsMTkxODUzNDgxNiwtMz
+M5NzkxODE0LDEwOTA3MjkxMTUsNDgwNDQ0OTgsNTI3MDE0MDU4
+LC0xMjkxMTY2OTQsLTk0MDk4MzA4MywxNTQ0MjU5MTE2LC02OD
+gzOTcyMDgsLTQxMzI3MTk4Miw4NzEyNzgyOCw3MDA0MjkxNTJd
+fQ==
 -->
