@@ -99,13 +99,13 @@ Qu'est-ce qu'un serveur web ?
 
 Qu'est-ce qu'un serveur ssh ?
 
-:   -   **Ulysse** : SSH (pour "Secure Shell") est un protocole de communication sécurisé qui permet d'accéder à distance à un serveur.
+:   -   **Ulysse** : SSH (pour "Secure Shell") est un protocole de communication sécurisé qui permet d'accéder à distance à un serveur, et donc un outil permettant de se connecter à distance à des serveurs Linux pour les administrer.
+: - **Louis** : Il surpasse son prédécesseur Telnet notamment par sa sécurité accrue des données échangées. Le protocole, et la suite d’applications associées, permettent ainsi saisir des commandes sur un shell pour gérer en temps réel des serveurs Linux, mais aussi le transfert de fichiers entre des machines de façon sécurisée.
 
 
 Qu'est-ce qu'un serveur mandataire ?
 
-:   -   Un serveur mandataire est un serveur qui permet de filtrer les
-        requêtes des clients.
+:   -   **Malori** : Un serveur mandataire (dit "proxy" plus communément) est un serveur qui permet de filtrer les requêtes des clients. 
 
 ###  
 ![question](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Question_mark_alternate.svg/788px-Question_mark_alternate.svg.png =20x30)
@@ -243,11 +243,11 @@ Comparer-le aux outils inclus avec git (et installé précédemment) ainsi qu'av
 		
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MTQwNjc0MiwtMTI5MTE2Njk0LC05ND
-A5ODMwODMsMTU0NDI1OTExNiwtNjg4Mzk3MjA4LC00MTMyNzE5
-ODIsODcxMjc4MjgsNzAwNDI5MTUyLC0xNjQ0MjU0ODEzLC0yMD
-I5MjYzODg1LC00MDkxNzYwMzAsNDg3NzY1ODMwLC00MDg4MzMw
-NDUsLTUyOTgxNTEsMzU3NDkxOTAyLC0xODQzNzgyOTgwLDE4MD
-I1MTY3MTIsLTEyNjI0MDc3MzIsMzY1NzM4NjMyLDE3MDk4NTUy
-ODZdfQ==
+eyJoaXN0b3J5IjpbMjIxNzA5MzQ0LC0xMjkxMTY2OTQsLTk0MD
+k4MzA4MywxNTQ0MjU5MTE2LC02ODgzOTcyMDgsLTQxMzI3MTk4
+Miw4NzEyNzgyOCw3MDA0MjkxNTIsLTE2NDQyNTQ4MTMsLTIwMj
+kyNjM4ODUsLTQwOTE3NjAzMCw0ODc3NjU4MzAsLTQwODgzMzA0
+NSwtNTI5ODE1MSwzNTc0OTE5MDIsLTE4NDM3ODI5ODAsMTgwMj
+UxNjcxMiwtMTI2MjQwNzczMiwzNjU3Mzg2MzIsMTcwOTg1NTI4
+Nl19
 -->
