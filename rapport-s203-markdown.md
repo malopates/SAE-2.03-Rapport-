@@ -269,19 +269,19 @@ En parralèle, Ulysse s'est penché sur **pandoc**, et a exporté ses réponses 
 
 Qu'est-ce que le logiciel gitk ? Comment se lance-t-il ?
 
-:   - **** : gitk est un navigateur de dépôt graphique qui permet de voir nos
+:   - **Malori** : gitk est un navigateur de dépôt graphique qui permet de voir nos
         branches et nos commits, pulls, push, etc. sur git. Il se lance
         depuis le terminal depuis un dépôt. 
 
 Qu'est-ce que le logiciel git-gui ? Comment se lance-t-il ?
 
-:   -   Interface graphique de Git basée sur Tcl/Tk. Git gui permet aux
+:   -  **Malori** : Interface graphique de Git basée sur Tcl/Tk. Git gui permet aux
         utilisateurs d'apporter des modifications à leur dépôt en
         faisant de nouveaux commits, en modifiant les commits existants,
         en créant des branches, en effectuant des fusions locales, et en
         récupérant/poussant vers des dépôts distants.
 
-:   -   Contrairement à gitk, git gui se concentre sur la génération de
+:   -   **Malori** : Contrairement à gitk, git gui se concentre sur la génération de
         commit et l'annotation de fichiers uniques et n'affiche pas
         l'historique du projet. Il fournit cependant des actions de menu
         pour démarrer une session gitk à partir de git gui.
@@ -309,11 +309,11 @@ Comparer-le aux outils inclus avec git (et installé précédemment) ainsi qu'av
 		
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwODYxMzQxNCw2NDk2MzIyMSwtMTIzOT
-UxMzcwNywtMTAwNTUzMzI1LDE5MTg1MzQ4MTYsLTMzOTc5MTgx
-NCwxMDkwNzI5MTE1LDQ4MDQ0NDk4LDUyNzAxNDA1OCwtMTI5MT
-E2Njk0LC05NDA5ODMwODMsMTU0NDI1OTExNiwtNjg4Mzk3MjA4
-LC00MTMyNzE5ODIsODcxMjc4MjgsNzAwNDI5MTUyLC0xNjQ0Mj
-U0ODEzLC0yMDI5MjYzODg1LC00MDkxNzYwMzAsNDg3NzY1ODMw
-XX0=
+eyJoaXN0b3J5IjpbLTEwNDQ2MDAyMjQsNjQ5NjMyMjEsLTEyMz
+k1MTM3MDcsLTEwMDU1MzMyNSwxOTE4NTM0ODE2LC0zMzk3OTE4
+MTQsMTA5MDcyOTExNSw0ODA0NDQ5OCw1MjcwMTQwNTgsLTEyOT
+ExNjY5NCwtOTQwOTgzMDgzLDE1NDQyNTkxMTYsLTY4ODM5NzIw
+OCwtNDEzMjcxOTgyLDg3MTI3ODI4LDcwMDQyOTE1MiwtMTY0ND
+I1NDgxMywtMjAyOTI2Mzg4NSwtNDA5MTc2MDMwLDQ4Nzc2NTgz
+MF19
 -->
