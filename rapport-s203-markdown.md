@@ -122,15 +122,19 @@ Qu'est-ce qu'un serveur web ?
 >
 >2. Le serveur matériel, qui est un ordinateur stockant les fichiers composant le site Web et un serveur Web. Il est connecté à Internet et possède un nom de domaine.
 
+***[Source](https://wiki.archlinux.org/title/List_of_applications/Internet#Web_servers)***
+
 Qu'est-ce qu'un serveur ssh ?
 
 :   -   **Ulysse** : SSH (pour "*Secure Shell*") est un protocole de communication sécurisé qui permet d'==accéder à distance à un serveur==, et donc un outil permettant de se connecter à distance à des serveurs Linux pour les administrer.
-: - **Louis** : Il surpasse son prédécesseur Telnet notamment par sa sécurité accrue des données échangées. Le protocole, et la suite d’applications associées, permettent ainsi saisir des commandes sur un shell pour gérer en temps réel des serveurs Linux, mais aussi le transfert de fichiers entre des machines de façon sécurisée.
+: - **Louis** : Il surpasse son prédécesseur Telnet notamment par **sa sécurité accrue des données échangées**. Le protocole, et la suite d’applications associées, permettent ainsi saisir des commandes sur un shell pour ==gérer en temps réel des serveurs Linux==, mais aussi ==le transfert de fichiers entre des machines== de façon sécurisée.
+
+***[Source](https://wiki.archlinux.org/title/Secure_Shell)***
 
 
 Qu'est-ce qu'un serveur mandataire ?
 
-:   -   **Malori** : Un serveur mandataire (dit "proxy" plus communément) est un serveur intermédiaire qui vient ==se placer entre deux hôtes==. 
+:   -   **Malori** : Un serveur mandataire (dit "*proxy*" plus communément) est un serveur intermédiaire qui vient ==se placer entre deux hôtes==. 
 
 : - **Ulysse** : Par exemple, une requête d’accès à une ressource normalement transmise du client vers un serveur, Web par exemple, passera plutôt par un serveur proxy, qui ==évalue la requête et la retransmet correctement au second hôte==.
 
@@ -300,11 +304,11 @@ Comparer-le aux outils inclus avec git (et installé précédemment) ainsi qu'av
 		
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzc5NzUzMzksNTI3MDE0MDU4LC0xMj
-kxMTY2OTQsLTk0MDk4MzA4MywxNTQ0MjU5MTE2LC02ODgzOTcy
-MDgsLTQxMzI3MTk4Miw4NzEyNzgyOCw3MDA0MjkxNTIsLTE2ND
-QyNTQ4MTMsLTIwMjkyNjM4ODUsLTQwOTE3NjAzMCw0ODc3NjU4
-MzAsLTQwODgzMzA0NSwtNTI5ODE1MSwzNTc0OTE5MDIsLTE4ND
-M3ODI5ODAsMTgwMjUxNjcxMiwtMTI2MjQwNzczMiwzNjU3Mzg2
-MzJdfQ==
+eyJoaXN0b3J5IjpbNTAyMzYzMTg3LDUyNzAxNDA1OCwtMTI5MT
+E2Njk0LC05NDA5ODMwODMsMTU0NDI1OTExNiwtNjg4Mzk3MjA4
+LC00MTMyNzE5ODIsODcxMjc4MjgsNzAwNDI5MTUyLC0xNjQ0Mj
+U0ODEzLC0yMDI5MjYzODg1LC00MDkxNzYwMzAsNDg3NzY1ODMw
+LC00MDg4MzMwNDUsLTUyOTgxNTEsMzU3NDkxOTAyLC0xODQzNz
+gyOTgwLDE4MDI1MTY3MTIsLTEyNjI0MDc3MzIsMzY1NzM4NjMy
+XX0=
 -->
