@@ -253,13 +253,9 @@ Bullseye prend en charge 9 architectures :
 
 -mipsel64
 
-  
-
-• Première version avec un nom de code
-
 -   Quelle a était le premier nom de code utilisé ?
     
-    Le premier nom de code utilisé était « Buzz »
+:   -  Le premier nom de code utilisé était « Buzz »
     
 -   Quand a-t-il été annoncé ?
     
@@ -268,24 +264,19 @@ Bullseye prend en charge 9 architectures :
 -   Quelle était le numéro de version de cette distribution ?
     
     Son numéro de version était 1.1
-    
+    Dernier nom de code attribué
 
-• Dernière nom de code attribué
-
--   Quel est le dernier nom de code annoncée à ce jour ?
+Quel est le dernier nom de code annoncée à ce jour ?
     
-    Le dernier nom de code annoncé est « Trixie »
+:   -  Le dernier nom de code annoncé est « Trixie »
     
--   Quand a-t-il été annoncé ?
+Quand a-t-il été annoncé ?
     
-    Il a été annoncé le 8 Novembre 2020
+:   -  Il a été annoncé le 8 Novembre 2020
     
--   Quelle est la version de cette distribution ?
+Quelle est la version de cette distribution ?
     
-
-C’est le nom de code de Debian 13, qui est le « testing » actuel.
-
-  
+:   -  C’est le nom de code de Debian 13, qui est le « testing » actuel.
 
 _Sources :_
 
@@ -335,7 +326,6 @@ _Explication de la commande :_
 -les termes suivant « string » et séparés d’un espace sont les groupes auquel « user » sera automatiquement ajouté, c’est pour cela que l’on a rajouté « sudo ».
 
 [https://www.debian.org/releases/stable/amd64/apbs04.fr.html#preseed-account](https://www.debian.org/releases/stable/amd64/apbs04.fr.html#preseed-account)  
- 
 
 2. Installation de MATE :
 
@@ -344,10 +334,7 @@ MATE est l’un des nombreux paquets que l’on peut sélectionner lors d’une 
 Pour automatiser cette sélection et installation, on va utiliser la ligne de commande suivante :
 
 ![](https://media.discordapp.net/attachments/861363773901635646/1345003034169577514/34be8daa4b5249e5.png?ex=67c2f730&is=67c1a5b0&hm=0c12dbf9965c91c7541f0f77f56ed1ae7e923a8f1c77a253e72513f0e3e3c831&=&format=webp&quality=lossless&width=1440&height=207)
-
 (A noter qu’il n’y a pas besoin d’écrire « d-i » au début de la commande)
-
- 
 
 3. Installation des paquets supplémentaire :
 
@@ -513,11 +500,11 @@ Comparez-le aux outils inclus avec git (et installé précédemment) ainsi qu’
 | Customisable | Avoir les fonctionnalités que l'on souhaite | Perte de temps puisque les fonctionnalités nécessaire sont présente par défaut |
 | Peut gérer plusieurs dépôt simultanément | Boost de productivité | On peut vite s'y perdre |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzOTQwMjAzMSwtNDQwOTk0MjkyLDIxMT
-QxNTE0NDUsLTEzMzA5NTQ5NzIsMzU0NTQwNTgxLDE0NTQ3NjE0
-MDEsMTkyODczNDI3MCwxNTgzOTUyMTc5LC03MDczMjg2OTAsOD
-U2MDUyNDk2LDE5NTk5ODM4MDEsLTEwNDQ2MDAyMjQsNjQ5NjMy
-MjEsLTEyMzk1MTM3MDcsLTEwMDU1MzMyNSwxOTE4NTM0ODE2LC
-0zMzk3OTE4MTQsMTA5MDcyOTExNSw0ODA0NDQ5OCw1MjcwMTQw
-NThdfQ==
+eyJoaXN0b3J5IjpbLTEzNzgyMDczNDAsLTQ0MDk5NDI5MiwyMT
+E0MTUxNDQ1LC0xMzMwOTU0OTcyLDM1NDU0MDU4MSwxNDU0NzYx
+NDAxLDE5Mjg3MzQyNzAsMTU4Mzk1MjE3OSwtNzA3MzI4NjkwLD
+g1NjA1MjQ5NiwxOTU5OTgzODAxLC0xMDQ0NjAwMjI0LDY0OTYz
+MjIxLC0xMjM5NTEzNzA3LC0xMDA1NTMzMjUsMTkxODUzNDgxNi
+wtMzM5NzkxODE0LDEwOTA3MjkxMTUsNDgwNDQ0OTgsNTI3MDE0
+MDU4XX0=
 -->
