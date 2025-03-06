@@ -526,22 +526,22 @@ Enfin, configurez comme ceci :
 
     Gitea est ce qu'on appelle une forge logicielle, c'est-à-dire que c'est un outil de "rédaction, partage et maintenance collaborative de texte". Gitea inclue un système de gestions de versions, Git (dont nous avons parlé la semaine dernière), mais aussi bien d'autres fonctionnalités : le passage en revue de code, des outils de management de projet, une réponse très rapide couplée à une faible consommation de ressources.
 
-#### • À quels logiciels bien connus dans ce domaine peut-on le comparer (en citer au moins 2) ?
+#### À quels logiciels bien connus dans ce domaine peut-on le comparer (en citer au moins 2) ?
 
     On pourrait comparer Gitea à GitLab, GitHub ou BitBucket.
 
-#### • Qu’est-ce qu’un fork (dans le domaine du développement logiciel bien entendu) ?
+#### Qu’est-ce qu’un fork (dans le domaine du développement logiciel bien entendu) ?
 
     Un fork est un logiciel qui crée à partir du code source d'un logiciel existant. Pour vraiment parler de fork, et non de branche, il faut le nouveau logiciel parte d'une vision différente à celle du initial, et c'est pour cela que l'on parle de schisme.
 
-#### • De quel logiciel Gitea est-il le fork ? Ce logiciel existe-t-il encore ?
+#### De quel logiciel Gitea est-il le fork ? Ce logiciel existe-t-il encore ?
 
     Gitea est un fork de Gogs (le fork eu lieu le 17 Octobre 2016). Gogs existe toujours et sa dernière mise à jour (version 0.13.2) a été publiée le 23 décembre 2024.
 
 *Sources* :  
 [Gitea.com](https://docs.gitea.com/)  
 [Wikipedia : Gitea](https://fr.wikipedia.org/wiki/Gitea)  
-[Université de Grenobles](https://scienceouverte.univ-grenoble-alpes.fr/codes-et-logiciels/outils-bonnes-pratiques/forges-logicielles/)  
+[Université de Grenoble](https://scienceouverte.univ-grenoble-alpes.fr/codes-et-logiciels/outils-bonnes-pratiques/forges-logicielles/)  
 [Gitea comparé aux autres hosts de Git](https://docs.gitea.com/installation/comparison)  
 [Wikipedia : Fork](https://fr.wikipedia.org/wiki/Fork_(d%C3%A9veloppement_logiciel))  
 [Gogs](https://gogs.io/)
@@ -556,11 +556,11 @@ chmod +x gitea
 Elle nous permet de récupérer les fichiers correspondant à un système Debian 64-bit et de l'éxécuter.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTM1Njg4NTMsLTExNTM0Njc2ODksLT
-Q0MDk5NDI5MiwyMTE0MTUxNDQ1LC0xMzMwOTU0OTcyLDM1NDU0
-MDU4MSwxNDU0NzYxNDAxLDE5Mjg3MzQyNzAsMTU4Mzk1MjE3OS
-wtNzA3MzI4NjkwLDg1NjA1MjQ5NiwxOTU5OTgzODAxLC0xMDQ0
-NjAwMjI0LDY0OTYzMjIxLC0xMjM5NTEzNzA3LC0xMDA1NTMzMj
-UsMTkxODUzNDgxNiwtMzM5NzkxODE0LDEwOTA3MjkxMTUsNDgw
-NDQ0OThdfQ==
+eyJoaXN0b3J5IjpbODA1MDE1OTcwLC0xMTUzNDY3Njg5LC00ND
+A5OTQyOTIsMjExNDE1MTQ0NSwtMTMzMDk1NDk3MiwzNTQ1NDA1
+ODEsMTQ1NDc2MTQwMSwxOTI4NzM0MjcwLDE1ODM5NTIxNzksLT
+cwNzMyODY5MCw4NTYwNTI0OTYsMTk1OTk4MzgwMSwtMTA0NDYw
+MDIyNCw2NDk2MzIyMSwtMTIzOTUxMzcwNywtMTAwNTUzMzI1LD
+E5MTg1MzQ4MTYsLTMzOTc5MTgxNCwxMDkwNzI5MTE1LDQ4MDQ0
+NDk4XX0=
 -->
