@@ -550,7 +550,7 @@ Qu’est-ce qu’un fork (dans le domaine du développement logiciel bien entend
 
  :   -   **Louis :** Un **fork** est un logiciel qui est créé à partir du code source d'un logiciel existant. Pour vraiment parler de fork, et non de branche, il faut que le nouveau logiciel parte d'une *vision différente* à celle de l'initiale, et c'est pour cela que l'on parle de schisme.
 
- :   -   **Malori :** On peut en citer parmis plus connus, tel que [WordPress](https://fr.wikipedia.org/wiki/WordPress "WordPress"), [MariaDB](https://fr.wikipedia.org/wiki/MariaDB "MariaDB")
+ :   -   **Malori :** On peut en citer parmis plus connus, tel que [WordPress](https://fr.wikipedia.org/wiki/WordPress "WordPress") fork de , [MariaDB](https://fr.wikipedia.org/wiki/MariaDB "MariaDB")
 [*Source*](https://fr.wikipedia.org/wiki/Fork_(d%C3%A9veloppement_logiciel))  
 
 #### De quel logiciel Gitea est-il le fork ? Ce logiciel existe-t-il encore ?
@@ -572,7 +572,7 @@ chmod +x gitea
 Elle nous permet de récupérer les fichiers correspondant à un système Debian 64-bit et de l'éxécuter.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk0ODA5NjgyLC04NDk0MDYwNzcsLTE2OT
+eyJoaXN0b3J5IjpbLTkwMDE2NTk5LC04NDk0MDYwNzcsLTE2OT
 UyMjQxMTEsLTE3MTQ0ODczOTIsODA1MDE1OTcwLC0xMTUzNDY3
 Njg5LC00NDA5OTQyOTIsMjExNDE1MTQ0NSwtMTMzMDk1NDk3Mi
 wzNTQ1NDA1ODEsMTQ1NDc2MTQwMSwxOTI4NzM0MjcwLDE1ODM5
