@@ -524,16 +524,18 @@ Enfin, configurez comme ceci :
 
  Qu'est-ce que Gitea ?
 
- :   -   **Louis**   Gitea est ce qu'on appelle une [**forge logicielle**](https://scienceouverte.univ-grenoble-alpes.fr/codes-et-logiciels/outils-bonnes-pratiques/forges-logicielles/), c'est-à-dire que c'est un outil de "*rédaction, partage et maintenance collaborative de texte*". Gitea inclue un système de gestions de versions, **Git** (dont nous avons parlé la semaine dernière), mais aussi bien d'autres fonctionnalités : le passage en revue de code, des outils de management de projet, une réponse très rapide couplée à une faible consommation de ressources.
+ :   -   **Louis :**   Gitea est ce qu'on appelle une [**forge logicielle**](https://scienceouverte.univ-grenoble-alpes.fr/codes-et-logiciels/outils-bonnes-pratiques/forges-logicielles/), c'est-à-dire que c'est un outil de "*rédaction, partage et maintenance collaborative de texte*". Gitea inclue un système de gestions de versions, **Git** (dont nous avons parlé la semaine dernière), mais aussi bien d'autres fonctionnalités : le passage en revue de code, des outils de management de projet, une réponse très rapide couplée à une faible consommation de ressources.
 
 **Sources**:
 [Doc Gitea](https://docs.gitea.com/)  
 [Wikipedia gitea](https://fr.wikipedia.org/wiki/Gitea)  
 
-#### À quels logiciels bien connus dans ce domaine peut-on le comparer (en citer au moins 2) ?
 
-   On pourrait comparer **Gitea** à [**GitLab**](https://about.gitlab.com/), [**GitHub**](https://github.com/) ou [**BitBucket**](https://bitbucket.org/). 
+À quels logiciels bien connus dans ce domaine peut-on le comparer (en citer au moins 2) ?
 
+   :   -   **Louis :** On pourrait comparer **Gitea** à [**GitLab**](https://about.gitlab.com/), [**GitHub**](https://github.com/) ou [**BitBucket**](https://bitbucket.org/). 
+ :   -   **Malori :** Ils sont tous plus que décents, et répondent aux demandes de cette SAE
+ 
 |Fonctionnalitées| Gitea  | BitBucket | GitLab |
 |--|--|--|--|
 | Open-source | ✓ | ✓ | ✓ |
@@ -568,11 +570,11 @@ chmod +x gitea
 Elle nous permet de récupérer les fichiers correspondant à un système Debian 64-bit et de l'éxécuter.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTIwODg0MTAwLC04NDk0MDYwNzcsLTE2OT
-UyMjQxMTEsLTE3MTQ0ODczOTIsODA1MDE1OTcwLC0xMTUzNDY3
-Njg5LC00NDA5OTQyOTIsMjExNDE1MTQ0NSwtMTMzMDk1NDk3Mi
-wzNTQ1NDA1ODEsMTQ1NDc2MTQwMSwxOTI4NzM0MjcwLDE1ODM5
-NTIxNzksLTcwNzMyODY5MCw4NTYwNTI0OTYsMTk1OTk4MzgwMS
-wtMTA0NDYwMDIyNCw2NDk2MzIyMSwtMTIzOTUxMzcwNywtMTAw
-NTUzMzI1XX0=
+eyJoaXN0b3J5IjpbLTE2ODkwMDI4OTgsLTg0OTQwNjA3NywtMT
+Y5NTIyNDExMSwtMTcxNDQ4NzM5Miw4MDUwMTU5NzAsLTExNTM0
+Njc2ODksLTQ0MDk5NDI5MiwyMTE0MTUxNDQ1LC0xMzMwOTU0OT
+cyLDM1NDU0MDU4MSwxNDU0NzYxNDAxLDE5Mjg3MzQyNzAsMTU4
+Mzk1MjE3OSwtNzA3MzI4NjkwLDg1NjA1MjQ5NiwxOTU5OTgzOD
+AxLC0xMDQ0NjAwMjI0LDY0OTYzMjIxLC0xMjM5NTEzNzA3LC0x
+MDA1NTMzMjVdfQ==
 -->
