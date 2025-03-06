@@ -561,7 +561,7 @@ Qu’est-ce qu’un fork (dans le domaine du développement logiciel bien entend
 [*Source*](https://fr.wikipedia.org/wiki/Fork_(d%C3%A9veloppement_logiciel))  
 
 ### *Installation du binaire*
-
+:   -Ulysse : 
 **On utilise la commande :**
 ``` bash
 wget -O gitea https://dl.gitea.com/gitea/main-nightly gitea-main-nightly-linux-amd64
@@ -570,11 +570,11 @@ chmod +x gitea
 Elle nous permet de récupérer les fichiers correspondant à un système Debian 64-bit et de l'exécuter.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzAzMTEzOTIsLTg0OTQwNjA3NywtMT
-Y5NTIyNDExMSwtMTcxNDQ4NzM5Miw4MDUwMTU5NzAsLTExNTM0
-Njc2ODksLTQ0MDk5NDI5MiwyMTE0MTUxNDQ1LC0xMzMwOTU0OT
-cyLDM1NDU0MDU4MSwxNDU0NzYxNDAxLDE5Mjg3MzQyNzAsMTU4
-Mzk1MjE3OSwtNzA3MzI4NjkwLDg1NjA1MjQ5NiwxOTU5OTgzOD
-AxLC0xMDQ0NjAwMjI0LDY0OTYzMjIxLC0xMjM5NTEzNzA3LC0x
-MDA1NTMzMjVdfQ==
+eyJoaXN0b3J5IjpbLTM1NTg5MjYwNCwtODQ5NDA2MDc3LC0xNj
+k1MjI0MTExLC0xNzE0NDg3MzkyLDgwNTAxNTk3MCwtMTE1MzQ2
+NzY4OSwtNDQwOTk0MjkyLDIxMTQxNTE0NDUsLTEzMzA5NTQ5Nz
+IsMzU0NTQwNTgxLDE0NTQ3NjE0MDEsMTkyODczNDI3MCwxNTgz
+OTUyMTc5LC03MDczMjg2OTAsODU2MDUyNDk2LDE5NTk5ODM4MD
+EsLTEwNDQ2MDAyMjQsNjQ5NjMyMjEsLTEyMzk1MTM3MDcsLTEw
+MDU1MzMyNV19
 -->
