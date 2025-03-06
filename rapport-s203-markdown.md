@@ -560,8 +560,6 @@ Qu’est-ce qu’un fork (dans le domaine du développement logiciel bien entend
 [*Source*](https://fr.wikipedia.org/wiki/Fork_(d%C3%A9veloppement_logiciel))  
 
 
-
-
 ### Installation du binaire
 
 **On utilise la commande :**
@@ -569,10 +567,10 @@ Qu’est-ce qu’un fork (dans le domaine du développement logiciel bien entend
 wget -O gitea https://dl.gitea.com/gitea/main-nightly gitea-main-nightly-linux-amd64
 chmod +x gitea
 ```
-Elle nous permet de récupérer les fichiers correspondant à un système Debian 64-bit et de l'éxécuter.
+Elle nous permet de récupérer les fichiers correspondant à un système Debian 64-bit et de l'exécuter.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MTgxMzMyNiwtODQ5NDA2MDc3LC0xNj
+eyJoaXN0b3J5IjpbMTM2ODcyNjAzNCwtODQ5NDA2MDc3LC0xNj
 k1MjI0MTExLC0xNzE0NDg3MzkyLDgwNTAxNTk3MCwtMTE1MzQ2
 NzY4OSwtNDQwOTk0MjkyLDIxMTQxNTE0NDUsLTEzMzA5NTQ5Nz
 IsMzU0NTQwNTgxLDE0NTQ3NjE0MDEsMTkyODczNDI3MCwxNTgz
