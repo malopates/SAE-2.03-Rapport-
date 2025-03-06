@@ -280,7 +280,7 @@ _Sources :_
 [https://wiki.debian.org/DebianTrixie?highlight=%28CategoryRelease%29](https://wiki.debian.org/DebianTrixie?highlight=%28CategoryRelease%29)  
 
 
-### Ajustement de la pré-configuration
+### *Ajustement de la pré-configuration*
 
 Pour cette partie, il faut effectuer les modifications associées à preseed.cfg :
 
@@ -374,7 +374,7 @@ En parralèle, Ulysse s'est penché sur **pandoc**, et a exporté ses réponses 
 
 ## 3^ème^-semaine 
 ***
-### Introduction
+### *Introduction*
 *Nous allons cette semaine traiter le cas de Git et des applications graphiques qui lui sont associées*
 
 **Pour ce faire, nous allons :** 
@@ -384,7 +384,7 @@ En parralèle, Ulysse s'est penché sur **pandoc**, et a exporté ses réponses 
 
 ### I. Configuration de git sur la machine
 
-### Qu'est-ce que git ?
+### *Qu'est-ce que git ?*
 
 Git est un logiciel de gestion de versions décentralisé (DVCS) qui se différencie des autres VCS
 par sa vison des données comme une série de snapshots, au lieu de simplement y voir des fichiers et les changements qu'on leur applique.
@@ -400,7 +400,7 @@ Git sépare le travail en trois espaces : le dossier de travail, un index auquel
 J'ai utilisé `apt-cache search <name>` pour m'assurer d'utiliser les bon noms de paquets pour la machine
 
 
-### 2. Installation sur la machine virtuelle
+### *Installation sur la machine virtuelle*
 
 Il existe plusieurs méthodes d'installer gitnuro sur une machine Linux proposées par leur site officiel.
 
@@ -430,7 +430,7 @@ Pour lancer gitnuro, il suffit d'utiliser la commande :
 
 ![Screen flatpak](https://cdn.discordapp.com/attachments/861363773901635646/1345079267356311593/718f9810582fd268.png?ex=67c33e2f&is=67c1ecaf&hm=893bd0046ebf42c972b49e0db82d6fee27eb8ac56d9d7d23956655163eea37a0&)
 
-###    Interfaces graphiques pour *git* 
+###    *Interfaces graphiques pour *git** 
 
 Qu'est-ce que le logiciel gitk ? Comment se lance-t-il ?
 
@@ -520,7 +520,7 @@ Enfin, configurez comme ceci :
 
 ## 2. Gitea
 
-### Question 1 : *À propos de Gitea*
+### *À propos de Gitea*
 
  Qu'est-ce que Gitea ?
 
@@ -559,8 +559,7 @@ Qu’est-ce qu’un fork (dans le domaine du développement logiciel bien entend
 
 [*Source*](https://fr.wikipedia.org/wiki/Fork_(d%C3%A9veloppement_logiciel))  
 
-
-### Installation du binaire
+### *Installation du binaire*
 
 **On utilise la commande :**
 ``` bash
@@ -570,11 +569,11 @@ chmod +x gitea
 Elle nous permet de récupérer les fichiers correspondant à un système Debian 64-bit et de l'exécuter.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2ODcyNjAzNCwtODQ5NDA2MDc3LC0xNj
-k1MjI0MTExLC0xNzE0NDg3MzkyLDgwNTAxNTk3MCwtMTE1MzQ2
-NzY4OSwtNDQwOTk0MjkyLDIxMTQxNTE0NDUsLTEzMzA5NTQ5Nz
-IsMzU0NTQwNTgxLDE0NTQ3NjE0MDEsMTkyODczNDI3MCwxNTgz
-OTUyMTc5LC03MDczMjg2OTAsODU2MDUyNDk2LDE5NTk5ODM4MD
-EsLTEwNDQ2MDAyMjQsNjQ5NjMyMjEsLTEyMzk1MTM3MDcsLTEw
-MDU1MzMyNV19
+eyJoaXN0b3J5IjpbLTExODc4MjA3MzksLTg0OTQwNjA3NywtMT
+Y5NTIyNDExMSwtMTcxNDQ4NzM5Miw4MDUwMTU5NzAsLTExNTM0
+Njc2ODksLTQ0MDk5NDI5MiwyMTE0MTUxNDQ1LC0xMzMwOTU0OT
+cyLDM1NDU0MDU4MSwxNDU0NzYxNDAxLDE5Mjg3MzQyNzAsMTU4
+Mzk1MjE3OSwtNzA3MzI4NjkwLDg1NjA1MjQ5NiwxOTU5OTgzOD
+AxLC0xMDQ0NjAwMjI0LDY0OTYzMjIxLC0xMjM5NTEzNzA3LC0x
+MDA1NTMzMjVdfQ==
 -->
