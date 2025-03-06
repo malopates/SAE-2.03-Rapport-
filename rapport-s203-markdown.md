@@ -548,7 +548,7 @@ Enfin, configurez comme ceci :
 
    Gitea est un fork de [Gogs](https://dl.gogs.io/) (le fork eu lieu le 17 Octobre 2016). Gogs existe toujours et sa dernière mise à jour (version 0.13.2) a été publiée le 23 décembre 2024.
 
-*Sources* :  
+[*Sources*]()  
 
 [Wikipedia : Gitea](https://fr.wikipedia.org/wiki/Gitea)  
 [Université de Grenoble](https://scienceouverte.univ-grenoble-alpes.fr/codes-et-logiciels/outils-bonnes-pratiques/forges-logicielles/)  
@@ -565,7 +565,7 @@ chmod +x gitea
 Elle nous permet de récupérer les fichiers correspondant à un système Debian 64-bit et de l'éxécuter.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODYzNzA5ODgsLTE3MTQ0ODczOTIsOD
+eyJoaXN0b3J5IjpbLTEwMTQ5NTkzMDEsLTE3MTQ0ODczOTIsOD
 A1MDE1OTcwLC0xMTUzNDY3Njg5LC00NDA5OTQyOTIsMjExNDE1
 MTQ0NSwtMTMzMDk1NDk3MiwzNTQ1NDA1ODEsMTQ1NDc2MTQwMS
 wxOTI4NzM0MjcwLDE1ODM5NTIxNzksLTcwNzMyODY5MCw4NTYw
