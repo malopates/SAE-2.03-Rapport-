@@ -531,9 +531,9 @@ Enfin, configurez comme ceci :
    On pourrait comparer Gitea à [**GitLab**](https://about.gitlab.com/), [**GitHub**](https://github.com/) ou [**BitBucket**](https://bitbucket.org/). 
 |Fonctionnalitées| Gitea  | BitBucket | GitLab |
 |--|--|--|--|
-| Open-source |  |  |  |
+| Open-source | ✓ | ✓ | ✓ |
 | Gratuit |  |  |  |
-| Support Markdown |  |  |  |
+| Support Markdown | ✓ | ✓ | ✓ |
 | Double authentification | ✓ | ✓ | ✓ |
 
 [Source](https://docs.gitea.com/installation/comparison)  
@@ -564,7 +564,7 @@ chmod +x gitea
 Elle nous permet de récupérer les fichiers correspondant à un système Debian 64-bit et de l'éxécuter.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MzAzMzU0OSwtMTcxNDQ4NzM5Miw4MD
+eyJoaXN0b3J5IjpbLTIzNjA4MzM3OSwtMTcxNDQ4NzM5Miw4MD
 UwMTU5NzAsLTExNTM0Njc2ODksLTQ0MDk5NDI5MiwyMTE0MTUx
 NDQ1LC0xMzMwOTU0OTcyLDM1NDU0MDU4MSwxNDU0NzYxNDAxLD
 E5Mjg3MzQyNzAsMTU4Mzk1MjE3OSwtNzA3MzI4NjkwLDg1NjA1
