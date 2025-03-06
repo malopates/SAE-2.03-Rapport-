@@ -522,9 +522,9 @@ Enfin, configurez comme ceci :
 
 ### Question 1 : *À propos de Gitea*
 
-####  Qu'est-ce que Gitea ?
+ Qu'est-ce que Gitea ?
 
-   Gitea est ce qu'on appelle une [**forge logicielle**](https://scienceouverte.univ-grenoble-alpes.fr/codes-et-logiciels/outils-bonnes-pratiques/forges-logicielles/), c'est-à-dire que c'est un outil de "*rédaction, partage et maintenance collaborative de texte*". Gitea inclue un système de gestions de versions, **Git** (dont nous avons parlé la semaine dernière), mais aussi bien d'autres fonctionnalités : le passage en revue de code, des outils de management de projet, une réponse très rapide couplée à une faible consommation de ressources.
+ :   -   **Louis**   Gitea est ce qu'on appelle une [**forge logicielle**](https://scienceouverte.univ-grenoble-alpes.fr/codes-et-logiciels/outils-bonnes-pratiques/forges-logicielles/), c'est-à-dire que c'est un outil de "*rédaction, partage et maintenance collaborative de texte*". Gitea inclue un système de gestions de versions, **Git** (dont nous avons parlé la semaine dernière), mais aussi bien d'autres fonctionnalités : le passage en revue de code, des outils de management de projet, une réponse très rapide couplée à une faible consommation de ressources.
 
 **Sources**:
 [Doc Gitea](https://docs.gitea.com/)  
@@ -568,11 +568,11 @@ chmod +x gitea
 Elle nous permet de récupérer les fichiers correspondant à un système Debian 64-bit et de l'éxécuter.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2MzU1Mjc4NSwtODQ5NDA2MDc3LC0xNj
-k1MjI0MTExLC0xNzE0NDg3MzkyLDgwNTAxNTk3MCwtMTE1MzQ2
-NzY4OSwtNDQwOTk0MjkyLDIxMTQxNTE0NDUsLTEzMzA5NTQ5Nz
-IsMzU0NTQwNTgxLDE0NTQ3NjE0MDEsMTkyODczNDI3MCwxNTgz
-OTUyMTc5LC03MDczMjg2OTAsODU2MDUyNDk2LDE5NTk5ODM4MD
-EsLTEwNDQ2MDAyMjQsNjQ5NjMyMjEsLTEyMzk1MTM3MDcsLTEw
-MDU1MzMyNV19
+eyJoaXN0b3J5IjpbNTIwODg0MTAwLC04NDk0MDYwNzcsLTE2OT
+UyMjQxMTEsLTE3MTQ0ODczOTIsODA1MDE1OTcwLC0xMTUzNDY3
+Njg5LC00NDA5OTQyOTIsMjExNDE1MTQ0NSwtMTMzMDk1NDk3Mi
+wzNTQ1NDA1ODEsMTQ1NDc2MTQwMSwxOTI4NzM0MjcwLDE1ODM5
+NTIxNzksLTcwNzMyODY5MCw4NTYwNTI0OTYsMTk1OTk4MzgwMS
+wtMTA0NDYwMDIyNCw2NDk2MzIyMSwtMTIzOTUxMzcwNywtMTAw
+NTUzMzI1XX0=
 -->
