@@ -532,9 +532,10 @@ Enfin, configurez comme ceci :
 |Fonctionnalitées| Gitea  | BitBucket | GitLab |
 |--|--|--|--|
 | Open-source | ✓ | ✓ | ✓ |
-| Gratuit |  |  |  |
+| Gratuit | ✓ | ✓ | ✓ |
 | Support Markdown | ✓ | ✓ | ✓ |
 | Double authentification | ✓ | ✓ | ✓ |
+|Télémétrie | ✘| | | 
 
 [Source](https://docs.gitea.com/installation/comparison)  
 
@@ -564,11 +565,11 @@ chmod +x gitea
 Elle nous permet de récupérer les fichiers correspondant à un système Debian 64-bit et de l'éxécuter.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzNjA4MzM3OSwtMTcxNDQ4NzM5Miw4MD
-UwMTU5NzAsLTExNTM0Njc2ODksLTQ0MDk5NDI5MiwyMTE0MTUx
-NDQ1LC0xMzMwOTU0OTcyLDM1NDU0MDU4MSwxNDU0NzYxNDAxLD
-E5Mjg3MzQyNzAsMTU4Mzk1MjE3OSwtNzA3MzI4NjkwLDg1NjA1
-MjQ5NiwxOTU5OTgzODAxLC0xMDQ0NjAwMjI0LDY0OTYzMjIxLC
-0xMjM5NTEzNzA3LC0xMDA1NTMzMjUsMTkxODUzNDgxNiwtMzM5
-NzkxODE0XX0=
+eyJoaXN0b3J5IjpbLTY0MTk2NTAwLC0xNzE0NDg3MzkyLDgwNT
+AxNTk3MCwtMTE1MzQ2NzY4OSwtNDQwOTk0MjkyLDIxMTQxNTE0
+NDUsLTEzMzA5NTQ5NzIsMzU0NTQwNTgxLDE0NTQ3NjE0MDEsMT
+kyODczNDI3MCwxNTgzOTUyMTc5LC03MDczMjg2OTAsODU2MDUy
+NDk2LDE5NTk5ODM4MDEsLTEwNDQ2MDAyMjQsNjQ5NjMyMjEsLT
+EyMzk1MTM3MDcsLTEwMDU1MzMyNSwxOTE4NTM0ODE2LC0zMzk3
+OTE4MTRdfQ==
 -->
