@@ -506,7 +506,7 @@ Comparez-le aux outils inclus avec git (et installé précédemment) ainsi qu’
 ## 4^ème^-semaine 
 ***
 ### Introduction
-*Cette semaine, nous avons vu plus en profondeur l'outil Gitea, *
+*Cette semaine, nous avons vu plus en profondeur l'outil Gitea ainsi que ses homologues, et nous sommes penché un peu sur ses fonctions et son fonctionnement*
 
 ## 1. Redirection de port
 
@@ -548,11 +548,11 @@ Enfin, configurez comme ceci :
 
    Gitea est un fork de [Gogs](https://dl.gogs.io/) (le fork eu lieu le 17 Octobre 2016). Gogs existe toujours et sa dernière mise à jour (version 0.13.2) a été publiée le 23 décembre 2024.
 
-[*Sources*]()  
+[*Source*](https://fr.wikipedia.org/wiki/Fork_(d%C3%A9veloppement_logiciel))  
 
 [Wikipedia : Gitea](https://fr.wikipedia.org/wiki/Gitea)  
 [Université de Grenoble](https://scienceouverte.univ-grenoble-alpes.fr/codes-et-logiciels/outils-bonnes-pratiques/forges-logicielles/)  
-[Wikipedia : Fork](https://fr.wikipedia.org/wiki/Fork_(d%C3%A9veloppement_logiciel))  
+
 
 
 ### Installation du binaire
@@ -565,11 +565,11 @@ chmod +x gitea
 Elle nous permet de récupérer les fichiers correspondant à un système Debian 64-bit et de l'éxécuter.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTQ5NTkzMDEsLTE3MTQ0ODczOTIsOD
-A1MDE1OTcwLC0xMTUzNDY3Njg5LC00NDA5OTQyOTIsMjExNDE1
-MTQ0NSwtMTMzMDk1NDk3MiwzNTQ1NDA1ODEsMTQ1NDc2MTQwMS
-wxOTI4NzM0MjcwLDE1ODM5NTIxNzksLTcwNzMyODY5MCw4NTYw
-NTI0OTYsMTk1OTk4MzgwMSwtMTA0NDYwMDIyNCw2NDk2MzIyMS
-wtMTIzOTUxMzcwNywtMTAwNTUzMzI1LDE5MTg1MzQ4MTYsLTMz
-OTc5MTgxNF19
+eyJoaXN0b3J5IjpbLTg5NDcyNzg2NiwtMTcxNDQ4NzM5Miw4MD
+UwMTU5NzAsLTExNTM0Njc2ODksLTQ0MDk5NDI5MiwyMTE0MTUx
+NDQ1LC0xMzMwOTU0OTcyLDM1NDU0MDU4MSwxNDU0NzYxNDAxLD
+E5Mjg3MzQyNzAsMTU4Mzk1MjE3OSwtNzA3MzI4NjkwLDg1NjA1
+MjQ5NiwxOTU5OTgzODAxLC0xMDQ0NjAwMjI0LDY0OTYzMjIxLC
+0xMjM5NTEzNzA3LC0xMDA1NTMzMjUsMTkxODUzNDgxNiwtMzM5
+NzkxODE0XX0=
 -->
