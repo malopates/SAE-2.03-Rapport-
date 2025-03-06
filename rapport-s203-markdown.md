@@ -535,7 +535,7 @@ Enfin, configurez comme ceci :
 | Gratuit | ✓ | ✓ | ✓ |
 | Support Markdown | ✓ | ✓ | ✓ |
 | Double authentification | ✓ | ✓ | ✓ |
-|Télémétrie | ✘| | | 
+|Télémétrie | ✘|✓|✓ | 
 
 [Source](https://docs.gitea.com/installation/comparison)  
 
@@ -553,7 +553,7 @@ Enfin, configurez comme ceci :
 [Université de Grenoble](https://scienceouverte.univ-grenoble-alpes.fr/codes-et-logiciels/outils-bonnes-pratiques/forges-logicielles/)  
 
 [Wikipedia : Fork](https://fr.wikipedia.org/wiki/Fork_(d%C3%A9veloppement_logiciel))  
-[Gogs](https://gogs.io/)
+[Gogs](https://dl.gogs.io/
 
 ### Installation du binaire
 
@@ -565,11 +565,11 @@ chmod +x gitea
 Elle nous permet de récupérer les fichiers correspondant à un système Debian 64-bit et de l'éxécuter.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MTk2NTAwLC0xNzE0NDg3MzkyLDgwNT
-AxNTk3MCwtMTE1MzQ2NzY4OSwtNDQwOTk0MjkyLDIxMTQxNTE0
-NDUsLTEzMzA5NTQ5NzIsMzU0NTQwNTgxLDE0NTQ3NjE0MDEsMT
-kyODczNDI3MCwxNTgzOTUyMTc5LC03MDczMjg2OTAsODU2MDUy
-NDk2LDE5NTk5ODM4MDEsLTEwNDQ2MDAyMjQsNjQ5NjMyMjEsLT
-EyMzk1MTM3MDcsLTEwMDU1MzMyNSwxOTE4NTM0ODE2LC0zMzk3
-OTE4MTRdfQ==
+eyJoaXN0b3J5IjpbMTYwOTAwNzU5OSwtMTcxNDQ4NzM5Miw4MD
+UwMTU5NzAsLTExNTM0Njc2ODksLTQ0MDk5NDI5MiwyMTE0MTUx
+NDQ1LC0xMzMwOTU0OTcyLDM1NDU0MDU4MSwxNDU0NzYxNDAxLD
+E5Mjg3MzQyNzAsMTU4Mzk1MjE3OSwtNzA3MzI4NjkwLDg1NjA1
+MjQ5NiwxOTU5OTgzODAxLC0xMDQ0NjAwMjI0LDY0OTYzMjIxLC
+0xMjM5NTEzNzA3LC0xMDA1NTMzMjUsMTkxODUzNDgxNiwtMzM5
+NzkxODE0XX0=
 -->
