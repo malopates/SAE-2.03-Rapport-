@@ -550,12 +550,12 @@ Qu’est-ce qu’un fork (dans le domaine du développement logiciel bien entend
 
  :   -   **Louis :** Un **fork** est un logiciel qui est créé à partir du code source d'un logiciel existant. Pour vraiment parler de fork, et non de branche, il faut que le nouveau logiciel parte d'une *vision différente* à celle de l'initiale, et c'est pour cela que l'on parle de schisme.
 
- :   -   **Malori :** On peut en citer parmis plus connus, tel que [WordPress](https://fr.wikipedia.org/wiki/WordPress "WordPress") fork de b2 , [MariaDB](https://fr.wikipedia.org/wiki/MariaDB "MariaDB") fork de MySQL et 
+ :   -   **Malori :** On peut en citer parmis plus connus, tel que [WordPress](https://fr.wikipedia.org/wiki/WordPress "WordPress") fork de **b2**  et [MariaDB](https://fr.wikipedia.org/wiki/MariaDB "MariaDB") fork de **MySQL**. 
 [*Source*](https://fr.wikipedia.org/wiki/Fork_(d%C3%A9veloppement_logiciel))  
 
-#### De quel logiciel Gitea est-il le fork ? Ce logiciel existe-t-il encore ?
+ De quel logiciel Gitea est-il le fork ? Ce logiciel existe-t-il encore ?
 
-Gitea est un fork de [Gogs](https://dl.gogs.io/) (le fork eu lieu le 17 Octobre 2016). Gogs existe toujours et sa dernière mise à jour (version 0.13.2) a été publiée le 23 décembre 2024.
+ :   -   **Malori :** Gitea est un fork de [Gogs](https://dl.gogs.io/) (le fork eu lieu le 17 Octobre 2016). Gogs existe toujours et sa dernière mise à jour (version 0.13.2) a été publiée le 23 décembre 2024.
 
 [*Source*](https://fr.wikipedia.org/wiki/Fork_(d%C3%A9veloppement_logiciel))  
 
@@ -572,11 +572,11 @@ chmod +x gitea
 Elle nous permet de récupérer les fichiers correspondant à un système Debian 64-bit et de l'éxécuter.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgyMzU1NDczLC04NDk0MDYwNzcsLTE2OT
-UyMjQxMTEsLTE3MTQ0ODczOTIsODA1MDE1OTcwLC0xMTUzNDY3
-Njg5LC00NDA5OTQyOTIsMjExNDE1MTQ0NSwtMTMzMDk1NDk3Mi
-wzNTQ1NDA1ODEsMTQ1NDc2MTQwMSwxOTI4NzM0MjcwLDE1ODM5
-NTIxNzksLTcwNzMyODY5MCw4NTYwNTI0OTYsMTk1OTk4MzgwMS
-wtMTA0NDYwMDIyNCw2NDk2MzIyMSwtMTIzOTUxMzcwNywtMTAw
-NTUzMzI1XX0=
+eyJoaXN0b3J5IjpbLTQ3MTgxMzMyNiwtODQ5NDA2MDc3LC0xNj
+k1MjI0MTExLC0xNzE0NDg3MzkyLDgwNTAxNTk3MCwtMTE1MzQ2
+NzY4OSwtNDQwOTk0MjkyLDIxMTQxNTE0NDUsLTEzMzA5NTQ5Nz
+IsMzU0NTQwNTgxLDE0NTQ3NjE0MDEsMTkyODczNDI3MCwxNTgz
+OTUyMTc5LC03MDczMjg2OTAsODU2MDUyNDk2LDE5NTk5ODM4MD
+EsLTEwNDQ2MDAyMjQsNjQ5NjMyMjEsLTEyMzk1MTM3MDcsLTEw
+MDU1MzMyNV19
 -->
