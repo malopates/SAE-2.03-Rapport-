@@ -21,7 +21,7 @@ Le reste de la configuration de la VM s'est faite en laissant les paramètres **
 
 
 
-###    Configuration matérielle dans VirtualBox 
+###    *Configuration matérielle dans VirtualBox*
 
 Que signifie "64-bit" dans "Debian 64-bit" ?
 
@@ -132,7 +132,7 @@ Qu'est-ce qu'un serveur mandataire ?
 ***[Source](https://www.geeksforgeeks.org/how-to-check-the-groups-a-user-belongs-to-in-linux/)***
 
 
-### Suppléments invités 
+### *Suppléments invités* 
 
 Quelle est la version du noyau Linux utilisé par votre VM ? N'oubliez pas, comme pour toutes les questions, de justifier votre réponse.
 
@@ -168,7 +168,7 @@ Les [suppléments invités]{.underline} sont des **pilotes adapté à des systè
 ***[Source](https://man.archlinux.org/man/mount.8)***
 
 
-###  Quelques questions 
+###  *Quelques questions* 
 
 
 Pendant combien de temps les mises à jour de sécurité seront-elles fournies ?
@@ -190,6 +190,7 @@ Chaque distribution majeur possède un nom de code différent. Par exemple la ve
         provenant de Toy Story a été prise par Bruce Perens qui était, à
         l'époque, responsable du projet Debian et travaillait chez
         Pixar, la société qui a produit les films.
+        
         **Question 4.2 Quelques questions**
 
  Qu’est-ce que le Projet Debian ? D’où vient le nom Debian ?
@@ -569,11 +570,11 @@ chmod +x gitea
 Elle nous permet de récupérer les fichiers correspondant à un système Debian 64-bit et de l'exécuter.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODc4MjA3MzksLTg0OTQwNjA3NywtMT
-Y5NTIyNDExMSwtMTcxNDQ4NzM5Miw4MDUwMTU5NzAsLTExNTM0
-Njc2ODksLTQ0MDk5NDI5MiwyMTE0MTUxNDQ1LC0xMzMwOTU0OT
-cyLDM1NDU0MDU4MSwxNDU0NzYxNDAxLDE5Mjg3MzQyNzAsMTU4
-Mzk1MjE3OSwtNzA3MzI4NjkwLDg1NjA1MjQ5NiwxOTU5OTgzOD
-AxLC0xMDQ0NjAwMjI0LDY0OTYzMjIxLC0xMjM5NTEzNzA3LC0x
-MDA1NTMzMjVdfQ==
+eyJoaXN0b3J5IjpbMTcxMTAwMjYwNywtODQ5NDA2MDc3LC0xNj
+k1MjI0MTExLC0xNzE0NDg3MzkyLDgwNTAxNTk3MCwtMTE1MzQ2
+NzY4OSwtNDQwOTk0MjkyLDIxMTQxNTE0NDUsLTEzMzA5NTQ5Nz
+IsMzU0NTQwNTgxLDE0NTQ3NjE0MDEsMTkyODczNDI3MCwxNTgz
+OTUyMTc5LC03MDczMjg2OTAsODU2MDUyNDk2LDE5NTk5ODM4MD
+EsLTEwNDQ2MDAyMjQsNjQ5NjMyMjEsLTEyMzk1MTM3MDcsLTEw
+MDU1MzMyNV19
 -->
