@@ -548,7 +548,7 @@ Enfin, configurez comme ceci :
 
 ### Installation du binaire
 
-On utilise la commande :
+**On utilise la commande :**
 ``` bash
 wget -O gitea https://dl.gitea.com/gitea/main-nightly gitea-main-nightly-linux-amd64
 chmod +x gitea
@@ -556,11 +556,11 @@ chmod +x gitea
 Elle nous permet de récupérer les fichiers correspondant à un système Debian 64-bit et de l'éxécuter.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA1MDE1OTcwLC0xMTUzNDY3Njg5LC00ND
-A5OTQyOTIsMjExNDE1MTQ0NSwtMTMzMDk1NDk3MiwzNTQ1NDA1
-ODEsMTQ1NDc2MTQwMSwxOTI4NzM0MjcwLDE1ODM5NTIxNzksLT
-cwNzMyODY5MCw4NTYwNTI0OTYsMTk1OTk4MzgwMSwtMTA0NDYw
-MDIyNCw2NDk2MzIyMSwtMTIzOTUxMzcwNywtMTAwNTUzMzI1LD
-E5MTg1MzQ4MTYsLTMzOTc5MTgxNCwxMDkwNzI5MTE1LDQ4MDQ0
-NDk4XX0=
+eyJoaXN0b3J5IjpbMzg5NTUzNTA2LDgwNTAxNTk3MCwtMTE1Mz
+Q2NzY4OSwtNDQwOTk0MjkyLDIxMTQxNTE0NDUsLTEzMzA5NTQ5
+NzIsMzU0NTQwNTgxLDE0NTQ3NjE0MDEsMTkyODczNDI3MCwxNT
+gzOTUyMTc5LC03MDczMjg2OTAsODU2MDUyNDk2LDE5NTk5ODM4
+MDEsLTEwNDQ2MDAyMjQsNjQ5NjMyMjEsLTEyMzk1MTM3MDcsLT
+EwMDU1MzMyNSwxOTE4NTM0ODE2LC0zMzk3OTE4MTQsMTA5MDcy
+OTExNV19
 -->
