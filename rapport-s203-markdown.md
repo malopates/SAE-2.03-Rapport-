@@ -533,8 +533,8 @@ Enfin, configurez comme ceci :
 |--|--|--|--|
 | Open-source |  |  |  |
 | Gratuit |  |  |  |
+| Support Markdown |  |  |  |
 |  |  |  |  |
-| Open-source |  |  |  |
 
 [Source](https://docs.gitea.com/installation/comparison)  
 
@@ -564,11 +564,11 @@ chmod +x gitea
 Elle nous permet de récupérer les fichiers correspondant à un système Debian 64-bit et de l'éxécuter.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTQ0ODczOTIsODA1MDE1OTcwLC0xMT
-UzNDY3Njg5LC00NDA5OTQyOTIsMjExNDE1MTQ0NSwtMTMzMDk1
-NDk3MiwzNTQ1NDA1ODEsMTQ1NDc2MTQwMSwxOTI4NzM0MjcwLD
-E1ODM5NTIxNzksLTcwNzMyODY5MCw4NTYwNTI0OTYsMTk1OTk4
-MzgwMSwtMTA0NDYwMDIyNCw2NDk2MzIyMSwtMTIzOTUxMzcwNy
-wtMTAwNTUzMzI1LDE5MTg1MzQ4MTYsLTMzOTc5MTgxNCwxMDkw
-NzI5MTE1XX0=
+eyJoaXN0b3J5IjpbLTUwNjQ2NDI1NiwtMTcxNDQ4NzM5Miw4MD
+UwMTU5NzAsLTExNTM0Njc2ODksLTQ0MDk5NDI5MiwyMTE0MTUx
+NDQ1LC0xMzMwOTU0OTcyLDM1NDU0MDU4MSwxNDU0NzYxNDAxLD
+E5Mjg3MzQyNzAsMTU4Mzk1MjE3OSwtNzA3MzI4NjkwLDg1NjA1
+MjQ5NiwxOTU5OTgzODAxLC0xMDQ0NjAwMjI0LDY0OTYzMjIxLC
+0xMjM5NTEzNzA3LC0xMDA1NTMzMjUsMTkxODUzNDgxNiwtMzM5
+NzkxODE0XX0=
 -->
