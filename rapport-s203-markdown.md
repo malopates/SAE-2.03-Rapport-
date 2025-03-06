@@ -524,16 +524,16 @@ Enfin, configurez comme ceci :
 
 ####  Qu'est-ce que Gitea ?
 
-   Gitea est ce qu'on appelle une forge logicielle, c'est-à-dire que c'est un outil de "rédaction, partage et maintenance collaborative de texte". Gitea inclue un système de gestions de versions, Git (dont nous avons parlé la semaine dernière), mais aussi bien d'autres fonctionnalités : le passage en revue de code, des outils de management de projet, une réponse très rapide couplée à une faible consommation de ressources.
+   Gitea est ce qu'on appelle une **forge logicielle**, c'est-à-dire que c'est un outil de "*rédaction, partage et maintenance collaborative de texte*". Gitea inclue un système de gestions de versions, **Git** (dont nous avons parlé la semaine dernière), mais aussi bien d'autres fonctionnalités : le passage en revue de code, des outils de management de projet, une réponse très rapide couplée à une faible consommation de ressources.
 
 **Sources**:
-[do](https://docs.gitea.com/)  
-[Source 2](https://fr.wikipedia.org/wiki/Gitea)  
+[Doc gitea](https://docs.gitea.com/)  
+[Wikipedia gitea](https://fr.wikipedia.org/wiki/Gitea)  
 [Source 3](https://scienceouverte.univ-grenoble-alpes.fr/codes-et-logiciels/outils-bonnes-pratiques/forges-logicielles/)  
 
 #### À quels logiciels bien connus dans ce domaine peut-on le comparer (en citer au moins 2) ?
 
-   On pourrait comparer Gitea à [**GitLab**](https://about.gitlab.com/), [**GitHub**](https://github.com/) ou [**BitBucket**](https://bitbucket.org/). 
+   On pourrait comparer **Gitea** à [**GitLab**](https://about.gitlab.com/), [**GitHub**](https://github.com/) ou [**BitBucket**](https://bitbucket.org/). 
 |Fonctionnalitées| Gitea  | BitBucket | GitLab |
 |--|--|--|--|
 | Open-source | ✓ | ✓ | ✓ |
@@ -546,7 +546,7 @@ Enfin, configurez comme ceci :
 
 #### Qu’est-ce qu’un fork (dans le domaine du développement logiciel bien entendu) ?
 
-Un fork est un logiciel qui crée à partir du code source d'un logiciel existant. Pour vraiment parler de fork, et non de branche, il faut le nouveau logiciel parte d'une vision différente à celle du initial, et c'est pour cela que l'on parle de schisme.
+Un **fork** est un logiciel qui crée à partir du code source d'un logiciel existant. Pour vraiment parler de fork, et non de branche, il faut le nouveau logiciel parte d'une vision différente à celle du initial, et c'est pour cela que l'on parle de schisme.
 
 
 #### De quel logiciel Gitea est-il le fork ? Ce logiciel existe-t-il encore ?
@@ -568,11 +568,11 @@ chmod +x gitea
 Elle nous permet de récupérer les fichiers correspondant à un système Debian 64-bit et de l'éxécuter.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3MDg0OTU5OSwtMTY5NTIyNDExMSwtMT
-cxNDQ4NzM5Miw4MDUwMTU5NzAsLTExNTM0Njc2ODksLTQ0MDk5
-NDI5MiwyMTE0MTUxNDQ1LC0xMzMwOTU0OTcyLDM1NDU0MDU4MS
-wxNDU0NzYxNDAxLDE5Mjg3MzQyNzAsMTU4Mzk1MjE3OSwtNzA3
-MzI4NjkwLDg1NjA1MjQ5NiwxOTU5OTgzODAxLC0xMDQ0NjAwMj
-I0LDY0OTYzMjIxLC0xMjM5NTEzNzA3LC0xMDA1NTMzMjUsMTkx
-ODUzNDgxNl19
+eyJoaXN0b3J5IjpbLTE5NjAzMTkxMTgsLTE2OTUyMjQxMTEsLT
+E3MTQ0ODczOTIsODA1MDE1OTcwLC0xMTUzNDY3Njg5LC00NDA5
+OTQyOTIsMjExNDE1MTQ0NSwtMTMzMDk1NDk3MiwzNTQ1NDA1OD
+EsMTQ1NDc2MTQwMSwxOTI4NzM0MjcwLDE1ODM5NTIxNzksLTcw
+NzMyODY5MCw4NTYwNTI0OTYsMTk1OTk4MzgwMSwtMTA0NDYwMD
+IyNCw2NDk2MzIyMSwtMTIzOTUxMzcwNywtMTAwNTUzMzI1LDE5
+MTg1MzQ4MTZdfQ==
 -->
