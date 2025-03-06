@@ -524,19 +524,19 @@ Enfin, configurez comme ceci :
 
 #### • Qu'est-ce que Gitea ?
 
-    Gitea est ce qu'on appelle une forge logicielle, c'est-à-dire que c'est un outil de "rédaction, partage et maintenance collaborative de texte". Gitea inclue un système de gestions de versions, Git (dont nous avons parlé la semaine dernière), mais aussi bien d'autres fonctionnalités : le passage en revue de code, des outils de management de projet, une réponse très rapide couplée à une faible consommation de ressources.
+   Gitea est ce qu'on appelle une forge logicielle, c'est-à-dire que c'est un outil de "rédaction, partage et maintenance collaborative de texte". Gitea inclue un système de gestions de versions, Git (dont nous avons parlé la semaine dernière), mais aussi bien d'autres fonctionnalités : le passage en revue de code, des outils de management de projet, une réponse très rapide couplée à une faible consommation de ressources.
 
 #### À quels logiciels bien connus dans ce domaine peut-on le comparer (en citer au moins 2) ?
 
-    On pourrait comparer Gitea à GitLab, GitHub ou BitBucket.
+   On pourrait comparer Gitea à **GitLab**, [**GitHub**](https://github.com/) ou **BitBucket**.
 
 #### Qu’est-ce qu’un fork (dans le domaine du développement logiciel bien entendu) ?
 
-    Un fork est un logiciel qui crée à partir du code source d'un logiciel existant. Pour vraiment parler de fork, et non de branche, il faut le nouveau logiciel parte d'une vision différente à celle du initial, et c'est pour cela que l'on parle de schisme.
+   Un fork est un logiciel qui crée à partir du code source d'un logiciel existant. Pour vraiment parler de fork, et non de branche, il faut le nouveau logiciel parte d'une vision différente à celle du initial, et c'est pour cela que l'on parle de schisme.
 
 #### De quel logiciel Gitea est-il le fork ? Ce logiciel existe-t-il encore ?
 
-    Gitea est un fork de Gogs (le fork eu lieu le 17 Octobre 2016). Gogs existe toujours et sa dernière mise à jour (version 0.13.2) a été publiée le 23 décembre 2024.
+   Gitea est un fork de Gogs (le fork eu lieu le 17 Octobre 2016). Gogs existe toujours et sa dernière mise à jour (version 0.13.2) a été publiée le 23 décembre 2024.
 
 *Sources* :  
 [Gitea.com](https://docs.gitea.com/)  
@@ -556,11 +556,11 @@ chmod +x gitea
 Elle nous permet de récupérer les fichiers correspondant à un système Debian 64-bit et de l'éxécuter.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg5NTUzNTA2LDgwNTAxNTk3MCwtMTE1Mz
-Q2NzY4OSwtNDQwOTk0MjkyLDIxMTQxNTE0NDUsLTEzMzA5NTQ5
-NzIsMzU0NTQwNTgxLDE0NTQ3NjE0MDEsMTkyODczNDI3MCwxNT
-gzOTUyMTc5LC03MDczMjg2OTAsODU2MDUyNDk2LDE5NTk5ODM4
-MDEsLTEwNDQ2MDAyMjQsNjQ5NjMyMjEsLTEyMzk1MTM3MDcsLT
-EwMDU1MzMyNSwxOTE4NTM0ODE2LC0zMzk3OTE4MTQsMTA5MDcy
-OTExNV19
+eyJoaXN0b3J5IjpbLTE0NjExMDU0MzUsODA1MDE1OTcwLC0xMT
+UzNDY3Njg5LC00NDA5OTQyOTIsMjExNDE1MTQ0NSwtMTMzMDk1
+NDk3MiwzNTQ1NDA1ODEsMTQ1NDc2MTQwMSwxOTI4NzM0MjcwLD
+E1ODM5NTIxNzksLTcwNzMyODY5MCw4NTYwNTI0OTYsMTk1OTk4
+MzgwMSwtMTA0NDYwMDIyNCw2NDk2MzIyMSwtMTIzOTUxMzcwNy
+wtMTAwNTUzMzI1LDE5MTg1MzQ4MTYsLTMzOTc5MTgxNCwxMDkw
+NzI5MTE1XX0=
 -->
