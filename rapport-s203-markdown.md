@@ -528,7 +528,11 @@ Enfin, configurez comme ceci :
 
 #### À quels logiciels bien connus dans ce domaine peut-on le comparer (en citer au moins 2) ?
 
-   On pourrait comparer Gitea à [**GitLab**](https://about.gitlab.com/), [**GitHub**](https://github.com/) ou [**BitBucket**]().
+   On pourrait comparer Gitea à [**GitLab**](https://about.gitlab.com/), [**GitHub**](https://github.com/) ou [**BitBucket**](https://bitbucket.org/). 
+|Fonctionnalitées| Gitea  | |
+|--|--|--|
+|  |  |  |
+
 
 #### Qu’est-ce qu’un fork (dans le domaine du développement logiciel bien entendu) ?
 
@@ -556,11 +560,11 @@ chmod +x gitea
 Elle nous permet de récupérer les fichiers correspondant à un système Debian 64-bit et de l'éxécuter.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjUxNTA0NDIsODA1MDE1OTcwLC0xMT
-UzNDY3Njg5LC00NDA5OTQyOTIsMjExNDE1MTQ0NSwtMTMzMDk1
-NDk3MiwzNTQ1NDA1ODEsMTQ1NDc2MTQwMSwxOTI4NzM0MjcwLD
-E1ODM5NTIxNzksLTcwNzMyODY5MCw4NTYwNTI0OTYsMTk1OTk4
-MzgwMSwtMTA0NDYwMDIyNCw2NDk2MzIyMSwtMTIzOTUxMzcwNy
-wtMTAwNTUzMzI1LDE5MTg1MzQ4MTYsLTMzOTc5MTgxNCwxMDkw
-NzI5MTE1XX0=
+eyJoaXN0b3J5IjpbMTIyOTQwMTc4LDgwNTAxNTk3MCwtMTE1Mz
+Q2NzY4OSwtNDQwOTk0MjkyLDIxMTQxNTE0NDUsLTEzMzA5NTQ5
+NzIsMzU0NTQwNTgxLDE0NTQ3NjE0MDEsMTkyODczNDI3MCwxNT
+gzOTUyMTc5LC03MDczMjg2OTAsODU2MDUyNDk2LDE5NTk5ODM4
+MDEsLTEwNDQ2MDAyMjQsNjQ5NjMyMjEsLTEyMzk1MTM3MDcsLT
+EwMDU1MzMyNSwxOTE4NTM0ODE2LC0zMzk3OTE4MTQsMTA5MDcy
+OTExNV19
 -->
