@@ -524,7 +524,7 @@ Enfin, configurez comme ceci :
 
 #### • Qu'est-ce que Gitea ?
 
-    Gitea est ce qu'on appelle une forge logicielle, c'est à dire que c'est un outil de "rédaction, partage et maintenance collaborative de texte". Gitea inclue un système de gestions de versions, Git (dont nous avons parlé la semaine dernière), mais aussi bien d'autres fonctionnalités : le passage en revue de code, des outils de management de projet, une réponse très rapide couplée à une faible consommation de ressources.
+    Gitea est ce qu'on appelle une forge logicielle, c'est-à-dire que c'est un outil de "rédaction, partage et maintenance collaborative de texte". Gitea inclue un système de gestions de versions, Git (dont nous avons parlé la semaine dernière), mais aussi bien d'autres fonctionnalités : le passage en revue de code, des outils de management de projet, une réponse très rapide couplée à une faible consommation de ressources.
 
 #### • À quels logiciels bien connus dans ce domaine peut-on le comparer (en citer au moins 2) ?
 
@@ -556,11 +556,11 @@ chmod +x gitea
 Elle nous permet de récupérer les fichiers correspondant à un système Debian 64-bit et de l'éxécuter.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4NjYyODA0OSwtMTE1MzQ2NzY4OSwtND
-QwOTk0MjkyLDIxMTQxNTE0NDUsLTEzMzA5NTQ5NzIsMzU0NTQw
-NTgxLDE0NTQ3NjE0MDEsMTkyODczNDI3MCwxNTgzOTUyMTc5LC
-03MDczMjg2OTAsODU2MDUyNDk2LDE5NTk5ODM4MDEsLTEwNDQ2
-MDAyMjQsNjQ5NjMyMjEsLTEyMzk1MTM3MDcsLTEwMDU1MzMyNS
-wxOTE4NTM0ODE2LC0zMzk3OTE4MTQsMTA5MDcyOTExNSw0ODA0
-NDQ5OF19
+eyJoaXN0b3J5IjpbLTIwOTM1Njg4NTMsLTExNTM0Njc2ODksLT
+Q0MDk5NDI5MiwyMTE0MTUxNDQ1LC0xMzMwOTU0OTcyLDM1NDU0
+MDU4MSwxNDU0NzYxNDAxLDE5Mjg3MzQyNzAsMTU4Mzk1MjE3OS
+wtNzA3MzI4NjkwLDg1NjA1MjQ5NiwxOTU5OTgzODAxLC0xMDQ0
+NjAwMjI0LDY0OTYzMjIxLC0xMjM5NTEzNzA3LC0xMDA1NTMzMj
+UsMTkxODUzNDgxNiwtMzM5NzkxODE0LDEwOTA3MjkxMTUsNDgw
+NDQ0OThdfQ==
 -->
