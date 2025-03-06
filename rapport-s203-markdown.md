@@ -546,9 +546,11 @@ Enfin, configurez comme ceci :
 
 [Source](https://docs.gitea.com/installation/comparison)  
 
-#### Qu’est-ce qu’un fork (dans le domaine du développement logiciel bien entendu) ?
+Qu’est-ce qu’un fork (dans le domaine du développement logiciel bien entendu) ?
 
-Un **fork** est un logiciel qui est créé à partir du code source d'un logiciel existant. Pour vraiment parler de fork, et non de branche, il faut que le nouveau logiciel parte d'une *vision différente* à celle de l'initiale, et c'est pour cela que l'on parle de schisme.
+ :   -   **Louis:** Un **fork** est un logiciel qui est créé à partir du code source d'un logiciel existant. Pour vraiment parler de fork, et non de branche, il faut que le nouveau logiciel parte d'une *vision différente* à celle de l'initiale, et c'est pour cela que l'on parle de schisme.
+
+ :   -   **Malori :** On peut 
 [*Source*](https://fr.wikipedia.org/wiki/Fork_(d%C3%A9veloppement_logiciel))  
 
 #### De quel logiciel Gitea est-il le fork ? Ce logiciel existe-t-il encore ?
@@ -570,11 +572,11 @@ chmod +x gitea
 Elle nous permet de récupérer les fichiers correspondant à un système Debian 64-bit et de l'éxécuter.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODkwMDI4OTgsLTg0OTQwNjA3NywtMT
-Y5NTIyNDExMSwtMTcxNDQ4NzM5Miw4MDUwMTU5NzAsLTExNTM0
-Njc2ODksLTQ0MDk5NDI5MiwyMTE0MTUxNDQ1LC0xMzMwOTU0OT
-cyLDM1NDU0MDU4MSwxNDU0NzYxNDAxLDE5Mjg3MzQyNzAsMTU4
-Mzk1MjE3OSwtNzA3MzI4NjkwLDg1NjA1MjQ5NiwxOTU5OTgzOD
-AxLC0xMDQ0NjAwMjI0LDY0OTYzMjIxLC0xMjM5NTEzNzA3LC0x
-MDA1NTMzMjVdfQ==
+eyJoaXN0b3J5IjpbNjIyOTU1NDkxLC04NDk0MDYwNzcsLTE2OT
+UyMjQxMTEsLTE3MTQ0ODczOTIsODA1MDE1OTcwLC0xMTUzNDY3
+Njg5LC00NDA5OTQyOTIsMjExNDE1MTQ0NSwtMTMzMDk1NDk3Mi
+wzNTQ1NDA1ODEsMTQ1NDc2MTQwMSwxOTI4NzM0MjcwLDE1ODM5
+NTIxNzksLTcwNzMyODY5MCw4NTYwNTI0OTYsMTk1OTk4MzgwMS
+wtMTA0NDYwMDIyNCw2NDk2MzIyMSwtMTIzOTUxMzcwNywtMTAw
+NTUzMzI1XX0=
 -->
