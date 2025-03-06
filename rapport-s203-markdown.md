@@ -84,7 +84,7 @@ GNOME est un environnement de bureau conçu pour les systèmes d’exploitation 
 
 Qu'est-ce qu'un serveur web ?
 
-: - **Ulysse** :  [Un serveur WEB]{.underline} est un logiciel qui ==contrôle et permet de rendre accessible des **fichiers** ou des **pages WEB**== (liste non-exhaustive) via HTTP ou HTTPS.
+: - **Ulysse** :  [Un serveur WEB]{.underline} est un logiciel qui contrôle et permet de rendre accessible des **fichiers** ou des **pages WEB** (liste non-exhaustive) via HTTP ou HTTPS.
 
 : - **Louis** : On peut distinguer deux catégories de serveurs Web :
 
@@ -96,20 +96,20 @@ Qu'est-ce qu'un serveur web ?
 
 Qu'est-ce qu'un serveur ssh ?
 
-:   -   **Ulysse** : SSH (pour "*Secure Shell*") est un protocole de communication sécurisé qui permet d'==accéder à distance à un serveur==, et donc un outil permettant de se connecter à distance à des serveurs Linux pour les administrer.
-: - **Louis** : Il surpasse son prédécesseur Telnet notamment par **sa sécurité accrue des données échangées**. Le protocole, et la suite d’applications associées, permettent ainsi saisir des commandes sur un shell pour ==gérer en temps réel des serveurs Linux==, mais aussi ==le transfert de fichiers entre des machines== de façon sécurisée.
+:   -   **Ulysse** : SSH (pour "*Secure Shell*") est un protocole de communication sécurisé qui permet d'accéder à distance à un serveur, et donc un outil permettant de se connecter à distance à des serveurs Linux pour les administrer.
+: - **Louis** : Il surpasse son prédécesseur Telnet notamment par **sa sécurité accrue des données échangées**. Le protocole, et la suite d’applications associées, permettent ainsi saisir des commandes sur un shell pour gérer en temps réel des serveurs Linux, mais aussi le transfert de fichiers entre des machines de façon sécurisée.
 
 ***[Source](https://wiki.archlinux.org/title/Secure_Shell)***
 
 
 Qu'est-ce qu'un serveur mandataire ?
 
-:   -   **Malori** : Un serveur mandataire (dit "*proxy*" plus communément) est un serveur intermédiaire qui vient ==se placer entre deux hôtes==. 
+:   -   **Malori** : Un serveur mandataire (dit "*proxy*" plus communément) est un serveur intermédiaire qui vient se placer entre deux hôtes. 
 
-: - **Ulysse** : Par exemple, une requête d’accès à une ressource normalement transmise du client vers un serveur, Web par exemple, passera plutôt par un serveur proxy, qui ==évalue la requête et la retransmet correctement au second hôte==.
+: - **Ulysse** : Par exemple, une requête d’accès à une ressource normalement transmise du client vers un serveur, Web par exemple, passera plutôt par un serveur proxy, qui évalue la requête et la retransmet correctement au second hôte.
 
 : - **Louis** : 
- Les serveurs mandataires ont ==différentes utilités== :
+ Les serveurs mandataires ont différentes utilités :
 
 > 1. Ils peuvent servir à filtrer l’accès certains contenus, ce qui est pratique en milieu académique ou professionnel.
 
@@ -163,7 +163,7 @@ Les [suppléments invités]{.underline} sont des **pilotes adapté à des systè
 
 :   -  **Malori** : Dans le cas général, cette commande permet de monter une partition sur le disque.
 : - **Ulysse** : C'est-à-dire qu'elle **rattache** un système de fichier au système principal. Dans notre cas, l'objectif est de permettre au système d'**accéder au CDROM**.
-:   -  **Louis** : Et elle permet donc au **système d’exploitation** d’utiliser **l’unité de stockage** montée. En effet, on va à la fois ==créer un chemin d’accès dans l’arborescence du système qui redirige vers l’unité de stockage== (c’est l’ancien chemin du point de montage) et on va aussi ==formater la partition avec un système de fichier==.
+:   -  **Louis** : Et elle permet donc au **système d’exploitation** d’utiliser **l’unité de stockage** montée. En effet, on va à la fois créer un chemin d’accès dans l’arborescence du système qui redirige vers l’unité de stockage (c’est l’ancien chemin du point de montage) et on va aussi formater la partition avec un système de fichier.
 
 ***[Source](https://man.archlinux.org/man/mount.8)***
 
@@ -570,7 +570,7 @@ chmod +x gitea
 Elle nous permet de récupérer les fichiers correspondant à un système Debian 64-bit et de l'exécuter.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNjg5NTI2OSwtODQ5NDA2MDc3LC0xNj
+eyJoaXN0b3J5IjpbMTA3MDQwNTQ2NywtODQ5NDA2MDc3LC0xNj
 k1MjI0MTExLC0xNzE0NDg3MzkyLDgwNTAxNTk3MCwtMTE1MzQ2
 NzY4OSwtNDQwOTk0MjkyLDIxMTQxNTE0NDUsLTEzMzA5NTQ5Nz
 IsMzU0NTQwNTgxLDE0NTQ3NjE0MDEsMTkyODczNDI3MCwxNTgz
