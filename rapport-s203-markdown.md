@@ -526,8 +526,11 @@ Enfin, configurez comme ceci :
 
    Gitea est ce qu'on appelle une forge logicielle, c'est-à-dire que c'est un outil de "rédaction, partage et maintenance collaborative de texte". Gitea inclue un système de gestions de versions, Git (dont nous avons parlé la semaine dernière), mais aussi bien d'autres fonctionnalités : le passage en revue de code, des outils de management de projet, une réponse très rapide couplée à une faible consommation de ressources.
 
-[Sources](https://docs.gitea.com/)  
+
+[Source](https://docs.gitea.com/)  
 [Source 2](https://fr.wikipedia.org/wiki/Gitea)  
+[Source 3](https://scienceouverte.univ-grenoble-alpes.fr/codes-et-logiciels/outils-bonnes-pratiques/forges-logicielles/)  
+
 #### À quels logiciels bien connus dans ce domaine peut-on le comparer (en citer au moins 2) ?
 
    On pourrait comparer Gitea à [**GitLab**](https://about.gitlab.com/), [**GitHub**](https://github.com/) ou [**BitBucket**](https://bitbucket.org/). 
@@ -552,7 +555,6 @@ Gitea est un fork de [Gogs](https://dl.gogs.io/) (le fork eu lieu le 17 Octobre 
 
 [*Source*](https://fr.wikipedia.org/wiki/Fork_(d%C3%A9veloppement_logiciel))  
 
-[Université de Grenoble](https://scienceouverte.univ-grenoble-alpes.fr/codes-et-logiciels/outils-bonnes-pratiques/forges-logicielles/)  
 
 
 
@@ -566,7 +568,7 @@ chmod +x gitea
 Elle nous permet de récupérer les fichiers correspondant à un système Debian 64-bit et de l'éxécuter.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTQxODUwMzcsLTE3MTQ0ODczOTIsOD
+eyJoaXN0b3J5IjpbLTE2OTUyMjQxMTEsLTE3MTQ0ODczOTIsOD
 A1MDE1OTcwLC0xMTUzNDY3Njg5LC00NDA5OTQyOTIsMjExNDE1
 MTQ0NSwtMTMzMDk1NDk3MiwzNTQ1NDA1ODEsMTQ1NDc2MTQwMS
 wxOTI4NzM0MjcwLDE1ODM5NTIxNzksLTcwNzMyODY5MCw4NTYw
