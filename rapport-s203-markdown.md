@@ -542,11 +542,11 @@ Enfin, configurez comme ceci :
 
 #### Qu’est-ce qu’un fork (dans le domaine du développement logiciel bien entendu) ?
 
-   Un fork est un logiciel qui crée à partir du code source d'un logiciel existant. Pour vraiment parler de fork, et non de branche, il faut le nouveau logiciel parte d'une vision différente à celle du initial, et c'est pour cela que l'on parle de schisme.
+Un fork est un logiciel qui crée à partir du code source d'un logiciel existant. Pour vraiment parler de fork, et non de branche, il faut le nouveau logiciel parte d'une vision différente à celle du initial, et c'est pour cela que l'on parle de schisme.
 
 #### De quel logiciel Gitea est-il le fork ? Ce logiciel existe-t-il encore ?
 
-   Gitea est un fork de [Gogs](https://dl.gogs.io/) (le fork eu lieu le 17 Octobre 2016). Gogs existe toujours et sa dernière mise à jour (version 0.13.2) a été publiée le 23 décembre 2024.
+Gitea est un fork de [Gogs](https://dl.gogs.io/) (le fork eu lieu le 17 Octobre 2016). Gogs existe toujours et sa dernière mise à jour (version 0.13.2) a été publiée le 23 décembre 2024.
 
 [*Source*](https://fr.wikipedia.org/wiki/Fork_(d%C3%A9veloppement_logiciel))  
 
@@ -565,7 +565,7 @@ chmod +x gitea
 Elle nous permet de récupérer les fichiers correspondant à un système Debian 64-bit et de l'éxécuter.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NDcyNzg2NiwtMTcxNDQ4NzM5Miw4MD
+eyJoaXN0b3J5IjpbMTgwMTYxNDM0NiwtMTcxNDQ4NzM5Miw4MD
 UwMTU5NzAsLTExNTM0Njc2ODksLTQ0MDk5NDI5MiwyMTE0MTUx
 NDQ1LC0xMzMwOTU0OTcyLDM1NDU0MDU4MSwxNDU0NzYxNDAxLD
 E5Mjg3MzQyNzAsMTU4Mzk1MjE3OSwtNzA3MzI4NjkwLDg1NjA1
