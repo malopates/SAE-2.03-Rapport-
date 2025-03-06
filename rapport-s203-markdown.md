@@ -11,7 +11,7 @@ geometry: margin=2cm
 
 ##  1^ère^ semaine
 ***
-### Création de la 1^ère^ VM
+### *Création de la 1^ère^ VM*
 
 Pour la première séance, nous avons commencé en créant une nouvelle VM dans **Oracle VM VirtualBox** que nous avons appelée "*SAE203auto*", sans aucun fichier iso, mais en sélectionnant le type (**Linux**) et la version (**Debian 12 Bookworm** en version 64-bit). Pour ce qui est de l'iso, il faut se rendre dans l'onglet `Storage`, puis dans "`Controller: IDE`" -> "`Empty`" pour rajouter dans "`IDE Primary Device 0`" le fichier "**S203-Debian12.viso**" afin que les fichiers de configuration automatique se lancent convenablement.
 
@@ -570,7 +570,7 @@ chmod +x gitea
 Elle nous permet de récupérer les fichiers correspondant à un système Debian 64-bit et de l'exécuter.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMTAwMjYwNywtODQ5NDA2MDc3LC0xNj
+eyJoaXN0b3J5IjpbLTYwNjg5NTI2OSwtODQ5NDA2MDc3LC0xNj
 k1MjI0MTExLC0xNzE0NDg3MzkyLDgwNTAxNTk3MCwtMTE1MzQ2
 NzY4OSwtNDQwOTk0MjkyLDIxMTQxNTE0NDUsLTEzMzA5NTQ5Nz
 IsMzU0NTQwNTgxLDE0NTQ3NjE0MDEsMTkyODczNDI3MCwxNTgz
