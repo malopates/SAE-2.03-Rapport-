@@ -516,7 +516,7 @@ Enfin, configurez comme ceci :
 
 |Nom|Protocole|IP hôte|Port hôte|IP invité|Port invité|
 |:------:|:------:|:------:|:------:|:------:|:------:|
-|gitea|TCP||3000||3000|
+|gitea|[TCP](https://fr.wikipedia.org/wiki/Transmission_Control_Protocol)||3000||3000|
 
 ## 2. Gitea
 
@@ -546,7 +546,7 @@ Enfin, configurez comme ceci :
 #### Qu’est-ce qu’un fork (dans le domaine du développement logiciel bien entendu) ?
 
 Un **fork** est un logiciel qui est créé à partir du code source d'un logiciel existant. Pour vraiment parler de fork, et non de branche, il faut que le nouveau logiciel parte d'une *vision différente* à celle de l'initiale, et c'est pour cela que l'on parle de schisme.
-
+[*Source*](https://fr.wikipedia.org/wiki/Fork_(d%C3%A9veloppement_logiciel))  
 
 #### De quel logiciel Gitea est-il le fork ? Ce logiciel existe-t-il encore ?
 
@@ -567,7 +567,7 @@ chmod +x gitea
 Elle nous permet de récupérer les fichiers correspondant à un système Debian 64-bit et de l'éxécuter.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MTQzMDAxNywtMTY5NTIyNDExMSwtMT
+eyJoaXN0b3J5IjpbLTg0OTQwNjA3NywtMTY5NTIyNDExMSwtMT
 cxNDQ4NzM5Miw4MDUwMTU5NzAsLTExNTM0Njc2ODksLTQ0MDk5
 NDI5MiwyMTE0MTUxNDQ1LC0xMzMwOTU0OTcyLDM1NDU0MDU4MS
 wxNDU0NzYxNDAxLDE5Mjg3MzQyNzAsMTU4Mzk1MjE3OSwtNzA3
