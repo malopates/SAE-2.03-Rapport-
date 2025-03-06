@@ -524,12 +524,11 @@ Enfin, configurez comme ceci :
 
 ####  Qu'est-ce que Gitea ?
 
-   Gitea est ce qu'on appelle une **forge logicielle**, c'est-à-dire que c'est un outil de "*rédaction, partage et maintenance collaborative de texte*". Gitea inclue un système de gestions de versions, **Git** (dont nous avons parlé la semaine dernière), mais aussi bien d'autres fonctionnalités : le passage en revue de code, des outils de management de projet, une réponse très rapide couplée à une faible consommation de ressources.
+   Gitea est ce qu'on appelle une [**forge logicielle**](https://scienceouverte.univ-grenoble-alpes.fr/codes-et-logiciels/outils-bonnes-pratiques/forges-logicielles/), c'est-à-dire que c'est un outil de "*rédaction, partage et maintenance collaborative de texte*". Gitea inclue un système de gestions de versions, **Git** (dont nous avons parlé la semaine dernière), mais aussi bien d'autres fonctionnalités : le passage en revue de code, des outils de management de projet, une réponse très rapide couplée à une faible consommation de ressources.
 
 **Sources**:
 [Doc gitea](https://docs.gitea.com/)  
 [Wikipedia gitea](https://fr.wikipedia.org/wiki/Gitea)  
-[Source 3](https://scienceouverte.univ-grenoble-alpes.fr/codes-et-logiciels/outils-bonnes-pratiques/forges-logicielles/)  
 
 #### À quels logiciels bien connus dans ce domaine peut-on le comparer (en citer au moins 2) ?
 
@@ -568,11 +567,11 @@ chmod +x gitea
 Elle nous permet de récupérer les fichiers correspondant à un système Debian 64-bit et de l'éxécuter.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjAzMTkxMTgsLTE2OTUyMjQxMTEsLT
-E3MTQ0ODczOTIsODA1MDE1OTcwLC0xMTUzNDY3Njg5LC00NDA5
-OTQyOTIsMjExNDE1MTQ0NSwtMTMzMDk1NDk3MiwzNTQ1NDA1OD
-EsMTQ1NDc2MTQwMSwxOTI4NzM0MjcwLDE1ODM5NTIxNzksLTcw
-NzMyODY5MCw4NTYwNTI0OTYsMTk1OTk4MzgwMSwtMTA0NDYwMD
-IyNCw2NDk2MzIyMSwtMTIzOTUxMzcwNywtMTAwNTUzMzI1LDE5
-MTg1MzQ4MTZdfQ==
+eyJoaXN0b3J5IjpbNjExNzM4NTgwLC0xNjk1MjI0MTExLC0xNz
+E0NDg3MzkyLDgwNTAxNTk3MCwtMTE1MzQ2NzY4OSwtNDQwOTk0
+MjkyLDIxMTQxNTE0NDUsLTEzMzA5NTQ5NzIsMzU0NTQwNTgxLD
+E0NTQ3NjE0MDEsMTkyODczNDI3MCwxNTgzOTUyMTc5LC03MDcz
+Mjg2OTAsODU2MDUyNDk2LDE5NTk5ODM4MDEsLTEwNDQ2MDAyMj
+QsNjQ5NjMyMjEsLTEyMzk1MTM3MDcsLTEwMDU1MzMyNSwxOTE4
+NTM0ODE2XX0=
 -->
