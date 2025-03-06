@@ -556,13 +556,12 @@ Qu’est-ce qu’un fork (dans le domaine du développement logiciel bien entend
 
  De quel logiciel Gitea est-il le fork ? Ce logiciel existe-t-il encore ?
 
- :   -   **Malori :** Gitea est un fork de [Gogs](https://dl.gogs.io/) (le fork eu lieu le 17 Octobre 2016). Gogs existe toujours et sa dernière mise à jour (version 0.13.2) a été publiée le 23 décembre 2024.
+ :   -   **Louis :** Gitea est un fork de [Gogs](https://dl.gogs.io/) (le fork eu lieu le 17 Octobre 2016). Gogs existe toujours et sa dernière mise à jour (version 0.13.2) a été publiée le 23 décembre 2024.
 
 [*Source*](https://fr.wikipedia.org/wiki/Fork_(d%C3%A9veloppement_logiciel))  
 
 ### *Installation du binaire*
-  • **Ulysse :** 
-**On utilise la commande :**
+  • **Ulysse :** On utilise la commande 
 ``` bash
 wget -O gitea https://dl.gitea.com/gitea/main-nightly gitea-main-nightly-linux-amd64
 chmod +x gitea
@@ -570,11 +569,11 @@ chmod +x gitea
 Elle nous permet de récupérer les fichiers correspondant à un système Debian 64-bit et de l'exécuter.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTI3NjM5NzksLTg0OTQwNjA3NywtMT
-Y5NTIyNDExMSwtMTcxNDQ4NzM5Miw4MDUwMTU5NzAsLTExNTM0
-Njc2ODksLTQ0MDk5NDI5MiwyMTE0MTUxNDQ1LC0xMzMwOTU0OT
-cyLDM1NDU0MDU4MSwxNDU0NzYxNDAxLDE5Mjg3MzQyNzAsMTU4
-Mzk1MjE3OSwtNzA3MzI4NjkwLDg1NjA1MjQ5NiwxOTU5OTgzOD
-AxLC0xMDQ0NjAwMjI0LDY0OTYzMjIxLC0xMjM5NTEzNzA3LC0x
-MDA1NTMzMjVdfQ==
+eyJoaXN0b3J5IjpbMTA3Nzg0NzEzOSwtMTg1Mjc2Mzk3OSwtOD
+Q5NDA2MDc3LC0xNjk1MjI0MTExLC0xNzE0NDg3MzkyLDgwNTAx
+NTk3MCwtMTE1MzQ2NzY4OSwtNDQwOTk0MjkyLDIxMTQxNTE0ND
+UsLTEzMzA5NTQ5NzIsMzU0NTQwNTgxLDE0NTQ3NjE0MDEsMTky
+ODczNDI3MCwxNTgzOTUyMTc5LC03MDczMjg2OTAsODU2MDUyND
+k2LDE5NTk5ODM4MDEsLTEwNDQ2MDAyMjQsNjQ5NjMyMjEsLTEy
+Mzk1MTM3MDddfQ==
 -->
