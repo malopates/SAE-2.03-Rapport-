@@ -545,15 +545,14 @@ Enfin, configurez comme ceci :
 
 #### De quel logiciel Gitea est-il le fork ? Ce logiciel existe-t-il encore ?
 
-   Gitea est un fork de Gogs (le fork eu lieu le 17 Octobre 2016). Gogs existe toujours et sa dernière mise à jour (version 0.13.2) a été publiée le 23 décembre 2024.
+   Gitea est un fork de [Gogs](https://dl.gogs.io/) (le fork eu lieu le 17 Octobre 2016). Gogs existe toujours et sa dernière mise à jour (version 0.13.2) a été publiée le 23 décembre 2024.
 
 *Sources* :  
 [Gitea.com](https://docs.gitea.com/)  
 [Wikipedia : Gitea](https://fr.wikipedia.org/wiki/Gitea)  
 [Université de Grenoble](https://scienceouverte.univ-grenoble-alpes.fr/codes-et-logiciels/outils-bonnes-pratiques/forges-logicielles/)  
-
 [Wikipedia : Fork](https://fr.wikipedia.org/wiki/Fork_(d%C3%A9veloppement_logiciel))  
-[Gogs](https://dl.gogs.io/
+
 
 ### Installation du binaire
 
@@ -565,7 +564,7 @@ chmod +x gitea
 Elle nous permet de récupérer les fichiers correspondant à un système Debian 64-bit et de l'éxécuter.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwOTAwNzU5OSwtMTcxNDQ4NzM5Miw4MD
+eyJoaXN0b3J5IjpbMTM0OTE3NDExOCwtMTcxNDQ4NzM5Miw4MD
 UwMTU5NzAsLTExNTM0Njc2ODksLTQ0MDk5NDI5MiwyMTE0MTUx
 NDQ1LC0xMzMwOTU0OTcyLDM1NDU0MDU4MSwxNDU0NzYxNDAxLD
 E5Mjg3MzQyNzAsMTU4Mzk1MjE3OSwtNzA3MzI4NjkwLDg1NjA1
