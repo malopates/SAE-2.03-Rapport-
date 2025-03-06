@@ -499,12 +499,67 @@ Comparez-le aux outils inclus avec git (et installé précédemment) ainsi qu’
 | Plus intuitif puisque l'utilisation de commandes n'est pas obligatoire | Plus accès débutant | Perte de temps puisqu'il faut faire des aller-retour entre le terminal et l'application |
 | Customisable | Avoir les fonctionnalités que l'on souhaite | Perte de temps puisque les fonctionnalités nécessaire sont présente par défaut |
 | Peut gérer plusieurs dépôt simultanément | Boost de productivité | On peut vite s'y perdre |
+
+
+
+
+## 4^ème^-semaine 
+***
+### Introduction
+
+## 1. Redirection de port
+
+Pour cette partie, il suffit simplement de cliquer sur "Configuration" après avoir sélectionné la machine virtuelle sur VirtualBox.  
+Ensuite, il faut cliquer sur "Advanced" pour faire dérouler un autre menu, et ensuite "Redirection des ports".  
+Enfin, configurez comme ceci :
+
+|Nom|Protocole|IP hôte|Port hôte|IP invité|Port invité|
+|:------:|:------:|:------:|:------:|:------:|:------:|
+|gitea|TCP||3000||3000|
+
+## 2. Gitea
+
+### Question 1 : *À propos de Gitea*
+
+#### • Qu'est-ce que Gitea ?
+
+    Gitea est ce qu'on appelle une forge logicielle, c'est à dire que c'est un outil de "rédaction, partage et maintenance collaborative de texte". Gitea inclue un système de gestions de versions, Git (dont nous avons parlé la semaine dernière), mais aussi bien d'autres fonctionnalités : le passage en revue de code, des outils de management de projet, une réponse très rapide couplée à une faible consommation de ressources.
+
+#### • À quels logiciels bien connus dans ce domaine peut-on le comparer (en citer au moins 2) ?
+
+    On pourrait comparer Gitea à GitLab, GitHub ou BitBucket.
+
+#### • Qu’est-ce qu’un fork (dans le domaine du développement logiciel bien entendu) ?
+
+    Un fork est un logiciel qui crée à partir du code source d'un logiciel existant. Pour vraiment parler de fork, et non de branche, il faut le nouveau logiciel parte d'une vision différente à celle du initial, et c'est pour cela que l'on parle de schisme.
+
+#### • De quel logiciel Gitea est-il le fork ? Ce logiciel existe-t-il encore ?
+
+    Gitea est un fork de Gogs (le fork eu lieu le 17 Octobre 2016). Gogs existe toujours et sa dernière mise à jour (version 0.13.2) a été publiée le 23 décembre 2024.
+
+*Sources* :  
+[Gitea.com](https://docs.gitea.com/)  
+[Wikipedia : Gitea](https://fr.wikipedia.org/wiki/Gitea)  
+[Université de Grenobles](https://scienceouverte.univ-grenoble-alpes.fr/codes-et-logiciels/outils-bonnes-pratiques/forges-logicielles/)  
+[Gitea comparé aux autres hosts de Git](https://docs.gitea.com/installation/comparison)  
+[Wikiepdia : Fork](https://fr.wikipedia.org/wiki/Fork_(d%C3%A9veloppement_logiciel))  
+[Gogs](https://gogs.io/)
+
+### Installation du binaire
+
+On utilise la commande :
+``` bash
+wget -O gitea https://dl.gitea.com/gitea/main-nightly gitea-main-nightly-linux-amd64
+chmod +x gitea
+```
+Elle nous permet de récupérer les fichiers correspondant à un système Debian 64-bit et de l'éxécuter.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTM0Njc2ODksLTQ0MDk5NDI5MiwyMT
-E0MTUxNDQ1LC0xMzMwOTU0OTcyLDM1NDU0MDU4MSwxNDU0NzYx
-NDAxLDE5Mjg3MzQyNzAsMTU4Mzk1MjE3OSwtNzA3MzI4NjkwLD
-g1NjA1MjQ5NiwxOTU5OTgzODAxLC0xMDQ0NjAwMjI0LDY0OTYz
-MjIxLC0xMjM5NTEzNzA3LC0xMDA1NTMzMjUsMTkxODUzNDgxNi
-wtMzM5NzkxODE0LDEwOTA3MjkxMTUsNDgwNDQ0OTgsNTI3MDE0
-MDU4XX0=
+eyJoaXN0b3J5IjpbLTE1MTM5NTE0OTIsLTExNTM0Njc2ODksLT
+Q0MDk5NDI5MiwyMTE0MTUxNDQ1LC0xMzMwOTU0OTcyLDM1NDU0
+MDU4MSwxNDU0NzYxNDAxLDE5Mjg3MzQyNzAsMTU4Mzk1MjE3OS
+wtNzA3MzI4NjkwLDg1NjA1MjQ5NiwxOTU5OTgzODAxLC0xMDQ0
+NjAwMjI0LDY0OTYzMjIxLC0xMjM5NTEzNzA3LC0xMDA1NTMzMj
+UsMTkxODUzNDgxNiwtMzM5NzkxODE0LDEwOTA3MjkxMTUsNDgw
+NDQ0OThdfQ==
 -->
