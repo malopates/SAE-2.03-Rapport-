@@ -506,7 +506,7 @@ Comparez-le aux outils inclus avec git (et installé précédemment) ainsi qu’
 ## 4^ème^-semaine 
 ***
 ### Introduction
-**
+*Cette semaine, nous avons vu plus en profondeur l'outil Gitea, *
 
 ## 1. Redirection de port
 
@@ -556,11 +556,11 @@ chmod +x gitea
 Elle nous permet de récupérer les fichiers correspondant à un système Debian 64-bit et de l'éxécuter.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NDA2NDQwNiwtMTE1MzQ2NzY4OSwtND
-QwOTk0MjkyLDIxMTQxNTE0NDUsLTEzMzA5NTQ5NzIsMzU0NTQw
-NTgxLDE0NTQ3NjE0MDEsMTkyODczNDI3MCwxNTgzOTUyMTc5LC
-03MDczMjg2OTAsODU2MDUyNDk2LDE5NTk5ODM4MDEsLTEwNDQ2
-MDAyMjQsNjQ5NjMyMjEsLTEyMzk1MTM3MDcsLTEwMDU1MzMyNS
-wxOTE4NTM0ODE2LC0zMzk3OTE4MTQsMTA5MDcyOTExNSw0ODA0
-NDQ5OF19
+eyJoaXN0b3J5IjpbOTk2NDk5MjkxLC0xMTUzNDY3Njg5LC00ND
+A5OTQyOTIsMjExNDE1MTQ0NSwtMTMzMDk1NDk3MiwzNTQ1NDA1
+ODEsMTQ1NDc2MTQwMSwxOTI4NzM0MjcwLDE1ODM5NTIxNzksLT
+cwNzMyODY5MCw4NTYwNTI0OTYsMTk1OTk4MzgwMSwtMTA0NDYw
+MDIyNCw2NDk2MzIyMSwtMTIzOTUxMzcwNywtMTAwNTUzMzI1LD
+E5MTg1MzQ4MTYsLTMzOTc5MTgxNCwxMDkwNzI5MTE1LDQ4MDQ0
+NDk4XX0=
 -->
