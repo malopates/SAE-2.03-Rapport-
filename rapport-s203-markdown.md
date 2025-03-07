@@ -567,12 +567,27 @@ Donnez la version que vous avez installé et la commande permettant d’obtenir 
 (Source][https://docs.gitea.com/administration/command-line]
 
 : -   Comment faire pour mettre à jour le binaire de votre service sans devoir tout reconfigurer ? Essayez en mettant à jour vers la version `1.24-dev`.
+
+changement de mdp user git  
+  
+
+  
+
+Choisir le fichier adéquat  
+Comme nous sommes sur Linux x64, l'on doit choisir l'outil wget^(logiciel libre permettant le téléchargement d'un fichiermais aussi la recopie en local de tout ou partie d'un site qui sera par la suite consultable hors-ligne. https://doc.ubuntu-fr.org/wget) est installé par défaut dans les dernières versions d'Ubuntu, point fort, celui ci peut tourner en arrière-plan et ainsi nous permettre de lancer un téléchargement et de nous déconnecter du système  
+
+  
+
+  
+wget -O gitea https://dl.gitea.com/gitea/main-nightly/gitea-main-nightly-linux-amd64 chmod +x gitea  
+  
+(l'option -O afin de préciser le nom du fichier de destination)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MzMzMzQwNywtNjIxNzk0NTg5LDU0Nj
-A0NzQ0Myw4ODU0MjkxMTEsLTE4MzU2NTcwNjgsMjY4Mjk1ODg4
-LDQ5ODIxMDkxNSwxMDc3ODQ3MTM5LC0xODUyNzYzOTc5LC04ND
-k0MDYwNzcsLTE2OTUyMjQxMTEsLTE3MTQ0ODczOTIsODA1MDE1
-OTcwLC0xMTUzNDY3Njg5LC00NDA5OTQyOTIsMjExNDE1MTQ0NS
-wtMTMzMDk1NDk3MiwzNTQ1NDA1ODEsMTQ1NDc2MTQwMSwxOTI4
-NzM0MjcwXX0=
+eyJoaXN0b3J5IjpbMTU2MzQ0MDQ1NiwyMDQzMzMzNDA3LC02Mj
+E3OTQ1ODksNTQ2MDQ3NDQzLDg4NTQyOTExMSwtMTgzNTY1NzA2
+OCwyNjgyOTU4ODgsNDk4MjEwOTE1LDEwNzc4NDcxMzksLTE4NT
+I3NjM5NzksLTg0OTQwNjA3NywtMTY5NTIyNDExMSwtMTcxNDQ4
+NzM5Miw4MDUwMTU5NzAsLTExNTM0Njc2ODksLTQ0MDk5NDI5Mi
+wyMTE0MTUxNDQ1LC0xMzMwOTU0OTcyLDM1NDU0MDU4MSwxNDU0
+NzYxNDAxXX0=
 -->
