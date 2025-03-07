@@ -47,12 +47,6 @@ Quel est le nom du fichier XML contenant la configuration de votre machine ?
 
 Comment vous modifieriez ce fichier de configuration pour mettre 2 processeurs à votre machine ?
 
-:   -  **Malori  :** Pour mettre 2 processeurs à votre machine, je modifierais le
-        fichier de configuration en ajoutant la ligne suivante :
-        `<vcpu placement='static'>2</vcpu>.`
-        [Source](https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/6/html/virtualization_administration_guide/sect-cpu-allocation#sect-cpu-allocation)
-        
-        OU
  :   - **Louis** :   A partir de la commande VboxManage modifyvm, on peut utiliser « --cpus <cpucount> ».
 Ainsi, pour mettre 2 processeurs, il suffit d’ajouter la ligne :
 ```VboxManage modifyvm --cpus 2```
@@ -569,11 +563,11 @@ chmod +x gitea
 Elle nous permet de récupérer les fichiers correspondant à un système Debian 64-bit et de l'exécuter.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk4MjEwOTE1LDEwNzc4NDcxMzksLTE4NT
-I3NjM5NzksLTg0OTQwNjA3NywtMTY5NTIyNDExMSwtMTcxNDQ4
-NzM5Miw4MDUwMTU5NzAsLTExNTM0Njc2ODksLTQ0MDk5NDI5Mi
-wyMTE0MTUxNDQ1LC0xMzMwOTU0OTcyLDM1NDU0MDU4MSwxNDU0
-NzYxNDAxLDE5Mjg3MzQyNzAsMTU4Mzk1MjE3OSwtNzA3MzI4Nj
-kwLDg1NjA1MjQ5NiwxOTU5OTgzODAxLC0xMDQ0NjAwMjI0LDY0
-OTYzMjIxXX0=
+eyJoaXN0b3J5IjpbMjY4Mjk1ODg4LDQ5ODIxMDkxNSwxMDc3OD
+Q3MTM5LC0xODUyNzYzOTc5LC04NDk0MDYwNzcsLTE2OTUyMjQx
+MTEsLTE3MTQ0ODczOTIsODA1MDE1OTcwLC0xMTUzNDY3Njg5LC
+00NDA5OTQyOTIsMjExNDE1MTQ0NSwtMTMzMDk1NDk3MiwzNTQ1
+NDA1ODEsMTQ1NDc2MTQwMSwxOTI4NzM0MjcwLDE1ODM5NTIxNz
+ksLTcwNzMyODY5MCw4NTYwNTI0OTYsMTk1OTk4MzgwMSwtMTA0
+NDYwMDIyNF19
 -->
