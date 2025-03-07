@@ -397,7 +397,7 @@ J'ai utilisé `apt-cache search <name>` pour m'assurer d'utiliser les bon noms d
 
 ### *Installation sur la machine virtuelle*
 
-Il existe plusieurs méthodes d'installer gitnuro sur une machine Linux proposées par leur site officiel.
+Il existe plusieurs méthodes d'installer **gitnuro** sur une machine Linux proposées par leur site officiel.
 
 Nous avons décidé d'utilise la ligne de commande :
 
@@ -561,11 +561,11 @@ chmod +x gitea
 Elle nous permet de récupérer les fichiers correspondant à un système Debian 64-bit et de l'exécuter.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODYxNTg2MDEsLTE4MzU2NTcwNjgsMj
-Y4Mjk1ODg4LDQ5ODIxMDkxNSwxMDc3ODQ3MTM5LC0xODUyNzYz
-OTc5LC04NDk0MDYwNzcsLTE2OTUyMjQxMTEsLTE3MTQ0ODczOT
-IsODA1MDE1OTcwLC0xMTUzNDY3Njg5LC00NDA5OTQyOTIsMjEx
-NDE1MTQ0NSwtMTMzMDk1NDk3MiwzNTQ1NDA1ODEsMTQ1NDc2MT
-QwMSwxOTI4NzM0MjcwLDE1ODM5NTIxNzksLTcwNzMyODY5MCw4
-NTYwNTI0OTZdfQ==
+eyJoaXN0b3J5IjpbODg1NDI5MTExLC0xODM1NjU3MDY4LDI2OD
+I5NTg4OCw0OTgyMTA5MTUsMTA3Nzg0NzEzOSwtMTg1Mjc2Mzk3
+OSwtODQ5NDA2MDc3LC0xNjk1MjI0MTExLC0xNzE0NDg3MzkyLD
+gwNTAxNTk3MCwtMTE1MzQ2NzY4OSwtNDQwOTk0MjkyLDIxMTQx
+NTE0NDUsLTEzMzA5NTQ5NzIsMzU0NTQwNTgxLDE0NTQ3NjE0MD
+EsMTkyODczNDI3MCwxNTgzOTUyMTc5LC03MDczMjg2OTAsODU2
+MDUyNDk2XX0=
 -->
