@@ -558,12 +558,16 @@ chmod +x gitea
 ```
 Elle nous permet de récupérer les fichiers correspondant à un système Debian 64-bit et de l'exécuter.
 
+
+:  - Donnez la version que vous avez installé et la commande permettant d’obtenir cette information.
+    
+-   Comment faire pour mettre à jour le binaire de votre service sans devoir tout reconfigurer ? Essayez en mettant à jour vers la version `1.24-dev`.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ2MDQ3NDQzLDg4NTQyOTExMSwtMTgzNT
-Y1NzA2OCwyNjgyOTU4ODgsNDk4MjEwOTE1LDEwNzc4NDcxMzks
-LTE4NTI3NjM5NzksLTg0OTQwNjA3NywtMTY5NTIyNDExMSwtMT
-cxNDQ4NzM5Miw4MDUwMTU5NzAsLTExNTM0Njc2ODksLTQ0MDk5
-NDI5MiwyMTE0MTUxNDQ1LC0xMzMwOTU0OTcyLDM1NDU0MDU4MS
-wxNDU0NzYxNDAxLDE5Mjg3MzQyNzAsMTU4Mzk1MjE3OSwtNzA3
-MzI4NjkwXX0=
+eyJoaXN0b3J5IjpbLTE3MzAyNjY4NjMsNTQ2MDQ3NDQzLDg4NT
+QyOTExMSwtMTgzNTY1NzA2OCwyNjgyOTU4ODgsNDk4MjEwOTE1
+LDEwNzc4NDcxMzksLTE4NTI3NjM5NzksLTg0OTQwNjA3NywtMT
+Y5NTIyNDExMSwtMTcxNDQ4NzM5Miw4MDUwMTU5NzAsLTExNTM0
+Njc2ODksLTQ0MDk5NDI5MiwyMTE0MTUxNDQ1LC0xMzMwOTU0OT
+cyLDM1NDU0MDU4MSwxNDU0NzYxNDAxLDE5Mjg3MzQyNzAsMTU4
+Mzk1MjE3OV19
 -->
