@@ -25,14 +25,14 @@ Le reste de la configuration de la VM s'est faite en laissant les paramètres **
 
 Que signifie "64-bit" dans "Debian 64-bit" ?
 
-:   - **Malori** : C'est la ==largeur des registres== soit la façon dont le processeur gère les informations qu'il doit effectuer, ce qui signifie que Debian peut faire tourner le processeur en 64-bit, et en 32-bit, ce qui n'est pas réciproque (le 32-bit ne fait pas tourner du 64). Pour exploiter ces processeurs à leur plein potentiel, il est nécessaire que les logiciels et l’O.S sur la machine soient compatibles, sinon le processeur se limiterait à tourner en mode 32 bits : c’est la **compatibilité descendante.**
+:   - **Malori** : C'est la largeur des registres soit la façon dont le processeur gère les informations qu'il doit effectuer, ce qui signifie que Debian peut faire tourner le processeur en 64-bit, et en 32-bit, ce qui n'est pas réciproque (le 32-bit ne fait pas tourner du 64). Pour exploiter ces processeurs à leur plein potentiel, il est nécessaire que les logiciels et l’O.S sur la machine soient compatibles, sinon le processeur se limiterait à tourner en mode 32 bits : c’est la **compatibilité descendante.**
 
 ***[Source](https://en.wikipedia.org/wiki/64-bit_computing)***
 
 Quelle est la configuration réseau utilisée par défaut ?
 
 :   - **Louis** :  La configuration réseau utilisée par défaut est la configuration
-        en mode *NAT*. (Network Adress Translation) Celui-ci permet à la machine virtuelle de se connecter à Internet ==sans avoir à lui fournir une adresse I.P== sur le réseau local, car elle utilise la connexion de l’hôte.
+        en mode *NAT*. (Network Adress Translation) Celui-ci permet à la machine virtuelle de se connecter à Internet sans avoir à lui fournir une adresse I.P sur le réseau local, car elle utilise la connexion de l’hôte.
 
 ***[Source](https://www.virtualbox.org/manual/ch06.html#network_nat)***
 
@@ -569,11 +569,11 @@ chmod +x gitea
 Elle nous permet de récupérer les fichiers correspondant à un système Debian 64-bit et de l'exécuter.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3Nzg0NzEzOSwtMTg1Mjc2Mzk3OSwtOD
-Q5NDA2MDc3LC0xNjk1MjI0MTExLC0xNzE0NDg3MzkyLDgwNTAx
-NTk3MCwtMTE1MzQ2NzY4OSwtNDQwOTk0MjkyLDIxMTQxNTE0ND
-UsLTEzMzA5NTQ5NzIsMzU0NTQwNTgxLDE0NTQ3NjE0MDEsMTky
-ODczNDI3MCwxNTgzOTUyMTc5LC03MDczMjg2OTAsODU2MDUyND
-k2LDE5NTk5ODM4MDEsLTEwNDQ2MDAyMjQsNjQ5NjMyMjEsLTEy
-Mzk1MTM3MDddfQ==
+eyJoaXN0b3J5IjpbNDk4MjEwOTE1LDEwNzc4NDcxMzksLTE4NT
+I3NjM5NzksLTg0OTQwNjA3NywtMTY5NTIyNDExMSwtMTcxNDQ4
+NzM5Miw4MDUwMTU5NzAsLTExNTM0Njc2ODksLTQ0MDk5NDI5Mi
+wyMTE0MTUxNDQ1LC0xMzMwOTU0OTcyLDM1NDU0MDU4MSwxNDU0
+NzYxNDAxLDE5Mjg3MzQyNzAsMTU4Mzk1MjE3OSwtNzA3MzI4Nj
+kwLDg1NjA1MjQ5NiwxOTU5OTgzODAxLC0xMDQ0NjAwMjI0LDY0
+OTYzMjIxXX0=
 -->
