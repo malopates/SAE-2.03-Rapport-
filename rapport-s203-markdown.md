@@ -494,8 +494,6 @@ Comparez-le aux outils inclus avec git (et installé précédemment) ainsi qu’
 | Peut gérer plusieurs dépôt simultanément | Boost de productivité | On peut vite s'y perdre |
 
 
-
-
 ## 4^ème^-semaine 
 ***
 ### Introduction
@@ -561,11 +559,11 @@ chmod +x gitea
 Elle nous permet de récupérer les fichiers correspondant à un système Debian 64-bit et de l'exécuter.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg1NDI5MTExLC0xODM1NjU3MDY4LDI2OD
-I5NTg4OCw0OTgyMTA5MTUsMTA3Nzg0NzEzOSwtMTg1Mjc2Mzk3
-OSwtODQ5NDA2MDc3LC0xNjk1MjI0MTExLC0xNzE0NDg3MzkyLD
-gwNTAxNTk3MCwtMTE1MzQ2NzY4OSwtNDQwOTk0MjkyLDIxMTQx
-NTE0NDUsLTEzMzA5NTQ5NzIsMzU0NTQwNTgxLDE0NTQ3NjE0MD
-EsMTkyODczNDI3MCwxNTgzOTUyMTc5LC03MDczMjg2OTAsODU2
-MDUyNDk2XX0=
+eyJoaXN0b3J5IjpbNTQ2MDQ3NDQzLDg4NTQyOTExMSwtMTgzNT
+Y1NzA2OCwyNjgyOTU4ODgsNDk4MjEwOTE1LDEwNzc4NDcxMzks
+LTE4NTI3NjM5NzksLTg0OTQwNjA3NywtMTY5NTIyNDExMSwtMT
+cxNDQ4NzM5Miw4MDUwMTU5NzAsLTExNTM0Njc2ODksLTQ0MDk5
+NDI5MiwyMTE0MTUxNDQ1LC0xMzMwOTU0OTcyLDM1NDU0MDU4MS
+wxNDU0NzYxNDAxLDE5Mjg3MzQyNzAsMTU4Mzk1MjE3OSwtNzA3
+MzI4NjkwXX0=
 -->
