@@ -409,7 +409,7 @@ Cependant, n'ayant aucune expérience, il était inévitable de tomber sur une e
 
 ![Capture d'écran gitnuro](https://cdn.discordapp.com/attachments/861363773901635646/1345079726775074848/b5b6f1b1902b5679.png?ex=67c33e9d&is=67c1ed1d&hm=1d381ace0313cf0f346ff2cfd037af08d7ae17e06894d6411a1d8e88e8089944&)
 
-Après avoir essayé, en vain, d'utiliser flathub, nous sommes tombés sur (ce post)[https://superuser.com/questions/1755709/getting-this-error-when-trying-to-use-flatpak-no-remote-refs-found-similar-to]
+Après avoir essayé, en vain, d'utiliser flathub, nous sommes tombés sur [ce post](https://superuser.com/questions/1755709/getting-this-error-when-trying-to-use-flatpak-no-remote-refs-found-similar-to)
 
 Qui préconisait l'utilisation de la commande suivante :
 
@@ -561,11 +561,11 @@ chmod +x gitea
 Elle nous permet de récupérer les fichiers correspondant à un système Debian 64-bit et de l'exécuter.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4OTI2OTA5MywtMTgzNTY1NzA2OCwyNj
-gyOTU4ODgsNDk4MjEwOTE1LDEwNzc4NDcxMzksLTE4NTI3NjM5
-NzksLTg0OTQwNjA3NywtMTY5NTIyNDExMSwtMTcxNDQ4NzM5Mi
-w4MDUwMTU5NzAsLTExNTM0Njc2ODksLTQ0MDk5NDI5MiwyMTE0
-MTUxNDQ1LC0xMzMwOTU0OTcyLDM1NDU0MDU4MSwxNDU0NzYxND
-AxLDE5Mjg3MzQyNzAsMTU4Mzk1MjE3OSwtNzA3MzI4NjkwLDg1
-NjA1MjQ5Nl19
+eyJoaXN0b3J5IjpbLTE5ODYxNTg2MDEsLTE4MzU2NTcwNjgsMj
+Y4Mjk1ODg4LDQ5ODIxMDkxNSwxMDc3ODQ3MTM5LC0xODUyNzYz
+OTc5LC04NDk0MDYwNzcsLTE2OTUyMjQxMTEsLTE3MTQ0ODczOT
+IsODA1MDE1OTcwLC0xMTUzNDY3Njg5LC00NDA5OTQyOTIsMjEx
+NDE1MTQ0NSwtMTMzMDk1NDk3MiwzNTQ1NDA1ODEsMTQ1NDc2MT
+QwMSwxOTI4NzM0MjcwLDE1ODM5NTIxNzksLTcwNzMyODY5MCw4
+NTYwNTI0OTZdfQ==
 -->
