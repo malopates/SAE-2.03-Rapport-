@@ -582,12 +582,15 @@ Comme nous sommes sur Linux x64, l'on doit choisir l'outil wget^(logiciel libre 
 wget -O gitea https://dl.gitea.com/gitea/main-nightly/gitea-main-nightly-linux-amd64 chmod +x gitea  
   
 (l'option -O afin de préciser le nom du fichier de destination)
+
+*recopier commandes changer 1..giteaAsc ..gitea*  
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTgzMzcxMTgsMjA0MzMzMzQwNywtNj
-IxNzk0NTg5LDU0NjA0NzQ0Myw4ODU0MjkxMTEsLTE4MzU2NTcw
-NjgsMjY4Mjk1ODg4LDQ5ODIxMDkxNSwxMDc3ODQ3MTM5LC0xOD
-UyNzYzOTc5LC04NDk0MDYwNzcsLTE2OTUyMjQxMTEsLTE3MTQ0
-ODczOTIsODA1MDE1OTcwLC0xMTUzNDY3Njg5LC00NDA5OTQyOT
-IsMjExNDE1MTQ0NSwtMTMzMDk1NDk3MiwzNTQ1NDA1ODEsMTQ1
-NDc2MTQwMV19
+eyJoaXN0b3J5IjpbNDMwMTk4MTI2LC0xODk4MzM3MTE4LDIwND
+MzMzM0MDcsLTYyMTc5NDU4OSw1NDYwNDc0NDMsODg1NDI5MTEx
+LC0xODM1NjU3MDY4LDI2ODI5NTg4OCw0OTgyMTA5MTUsMTA3Nz
+g0NzEzOSwtMTg1Mjc2Mzk3OSwtODQ5NDA2MDc3LC0xNjk1MjI0
+MTExLC0xNzE0NDg3MzkyLDgwNTAxNTk3MCwtMTE1MzQ2NzY4OS
+wtNDQwOTk0MjkyLDIxMTQxNTE0NDUsLTEzMzA5NTQ5NzIsMzU0
+NTQwNTgxXX0=
 -->
