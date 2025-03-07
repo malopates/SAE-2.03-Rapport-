@@ -558,6 +558,8 @@ chmod +x gitea
 ```
 Elle nous permet de récupérer les fichiers correspondant à un système Debian 64-bit et de l'exécuter.
 
+*recopier commandes changer 1..giteaAsc ..gitea*  
+wget -O giteaAsc...
 
 Donnez la version que vous avez installé et la commande permettant d’obtenir cette information.
  :  -  Pour obtenir la version de gitea installée, `gitea -v`
@@ -566,11 +568,11 @@ Donnez la version que vous avez installé et la commande permettant d’obtenir 
 
 -   Comment faire pour mettre à jour le binaire de votre service sans devoir tout reconfigurer ? Essayez en mettant à jour vers la version `1.24-dev`.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyMTc5NDU4OSw1NDYwNDc0NDMsODg1ND
-I5MTExLC0xODM1NjU3MDY4LDI2ODI5NTg4OCw0OTgyMTA5MTUs
-MTA3Nzg0NzEzOSwtMTg1Mjc2Mzk3OSwtODQ5NDA2MDc3LC0xNj
-k1MjI0MTExLC0xNzE0NDg3MzkyLDgwNTAxNTk3MCwtMTE1MzQ2
-NzY4OSwtNDQwOTk0MjkyLDIxMTQxNTE0NDUsLTEzMzA5NTQ5Nz
-IsMzU0NTQwNTgxLDE0NTQ3NjE0MDEsMTkyODczNDI3MCwxNTgz
-OTUyMTc5XX0=
+eyJoaXN0b3J5IjpbNjYxOTM4NDM3LC02MjE3OTQ1ODksNTQ2MD
+Q3NDQzLDg4NTQyOTExMSwtMTgzNTY1NzA2OCwyNjgyOTU4ODgs
+NDk4MjEwOTE1LDEwNzc4NDcxMzksLTE4NTI3NjM5NzksLTg0OT
+QwNjA3NywtMTY5NTIyNDExMSwtMTcxNDQ4NzM5Miw4MDUwMTU5
+NzAsLTExNTM0Njc2ODksLTQ0MDk5NDI5MiwyMTE0MTUxNDQ1LC
+0xMzMwOTU0OTcyLDM1NDU0MDU4MSwxNDU0NzYxNDAxLDE5Mjg3
+MzQyNzBdfQ==
 -->
