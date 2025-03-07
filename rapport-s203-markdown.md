@@ -564,10 +564,10 @@ wget -O giteaAsc...
 Donnez la version que vous avez installé et la commande permettant d’obtenir cette information.
  :  -  Pour obtenir la version de gitea installée, `gitea -v`
 
-(Source][https://docs.gitea.com/administration/command-line]
+[Source](https://docs.gitea.com/administration/command-line)
 
-: -   Comment faire pour mettre à jour le binaire de votre service sans devoir tout reconfigurer ? Essayez en mettant à jour vers la version `1.24-dev`.
-
+ Comment faire pour mettre à jour le binaire de votre service sans devoir tout reconfigurer ? Essayez en mettant à jour vers la version `1.24-dev`.
+: -  
 changement de mdp user git  
   
 
@@ -583,11 +583,11 @@ wget -O gitea https://dl.gitea.com/gitea/main-nightly/gitea-main-nightly-linux-a
   
 (l'option -O afin de préciser le nom du fichier de destination)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MzQ0MDQ1NiwyMDQzMzMzNDA3LC02Mj
-E3OTQ1ODksNTQ2MDQ3NDQzLDg4NTQyOTExMSwtMTgzNTY1NzA2
-OCwyNjgyOTU4ODgsNDk4MjEwOTE1LDEwNzc4NDcxMzksLTE4NT
-I3NjM5NzksLTg0OTQwNjA3NywtMTY5NTIyNDExMSwtMTcxNDQ4
-NzM5Miw4MDUwMTU5NzAsLTExNTM0Njc2ODksLTQ0MDk5NDI5Mi
-wyMTE0MTUxNDQ1LC0xMzMwOTU0OTcyLDM1NDU0MDU4MSwxNDU0
-NzYxNDAxXX0=
+eyJoaXN0b3J5IjpbLTE4OTgzMzcxMTgsMjA0MzMzMzQwNywtNj
+IxNzk0NTg5LDU0NjA0NzQ0Myw4ODU0MjkxMTEsLTE4MzU2NTcw
+NjgsMjY4Mjk1ODg4LDQ5ODIxMDkxNSwxMDc3ODQ3MTM5LC0xOD
+UyNzYzOTc5LC04NDk0MDYwNzcsLTE2OTUyMjQxMTEsLTE3MTQ0
+ODczOTIsODA1MDE1OTcwLC0xMTUzNDY3Njg5LC00NDA5OTQyOT
+IsMjExNDE1MTQ0NSwtMTMzMDk1NDk3MiwzNTQ1NDA1ODEsMTQ1
+NDc2MTQwMV19
 -->
