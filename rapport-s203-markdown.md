@@ -189,7 +189,7 @@ Chaque distribution majeur possède un nom de code différent. Par exemple la ve
 
  Qu’est-ce que le Projet Debian ? D’où vient le nom Debian ?
 
-:   -Debian est une distribution de l’O.S Linux. Il est géré par les membres, volontaires, du projet Debian, qui se définissent comme des descendants directs du projet GNU, c’est-à-dire que leur objectif est de développer un système d’exploitation de qualité et qui le logiciel libre en son centre (liberté de distribution, de copie, de modification…). Le nom Debian est une contraction du nom du créateur, Ian Murdock, et sa femme, Debra.
+:   - **Louis** : Debian est une distribution de l’O.S Linux. Il est géré par les membres, volontaires, du projet Debian, qui se définissent comme des descendants directs du projet GNU, c’est-à-dire que leur objectif est de développer un système d’exploitation de qualité et qui le logiciel libre en son centre (liberté de distribution, de copie, de modification…). Le nom Debian est une contraction du nom du créateur, Ian Murdock, et sa femme, Debra.
 
   
 Il existe 3 durées de prise en charge (support) de ces versions : la durée minimale la durée en support long terme (LTS) et la durée en support long terme étendue (ELTS). Quelles sont les durées de ces prises en charge ?
@@ -563,11 +563,11 @@ chmod +x gitea
 Elle nous permet de récupérer les fichiers correspondant à un système Debian 64-bit et de l'exécuter.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY4Mjk1ODg4LDQ5ODIxMDkxNSwxMDc3OD
-Q3MTM5LC0xODUyNzYzOTc5LC04NDk0MDYwNzcsLTE2OTUyMjQx
-MTEsLTE3MTQ0ODczOTIsODA1MDE1OTcwLC0xMTUzNDY3Njg5LC
-00NDA5OTQyOTIsMjExNDE1MTQ0NSwtMTMzMDk1NDk3MiwzNTQ1
-NDA1ODEsMTQ1NDc2MTQwMSwxOTI4NzM0MjcwLDE1ODM5NTIxNz
-ksLTcwNzMyODY5MCw4NTYwNTI0OTYsMTk1OTk4MzgwMSwtMTA0
-NDYwMDIyNF19
+eyJoaXN0b3J5IjpbLTE4MzU2NTcwNjgsMjY4Mjk1ODg4LDQ5OD
+IxMDkxNSwxMDc3ODQ3MTM5LC0xODUyNzYzOTc5LC04NDk0MDYw
+NzcsLTE2OTUyMjQxMTEsLTE3MTQ0ODczOTIsODA1MDE1OTcwLC
+0xMTUzNDY3Njg5LC00NDA5OTQyOTIsMjExNDE1MTQ0NSwtMTMz
+MDk1NDk3MiwzNTQ1NDA1ODEsMTQ1NDc2MTQwMSwxOTI4NzM0Mj
+cwLDE1ODM5NTIxNzksLTcwNzMyODY5MCw4NTYwNTI0OTYsMTk1
+OTk4MzgwMV19
 -->
