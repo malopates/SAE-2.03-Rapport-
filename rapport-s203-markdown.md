@@ -566,13 +566,13 @@ Donnez la version que vous avez installé et la commande permettant d’obtenir 
 
 (Source][https://docs.gitea.com/administration/command-line]
 
--   Comment faire pour mettre à jour le binaire de votre service sans devoir tout reconfigurer ? Essayez en mettant à jour vers la version `1.24-dev`.
+: -   Comment faire pour mettre à jour le binaire de votre service sans devoir tout reconfigurer ? Essayez en mettant à jour vers la version `1.24-dev`.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjYxOTM4NDM3LC02MjE3OTQ1ODksNTQ2MD
-Q3NDQzLDg4NTQyOTExMSwtMTgzNTY1NzA2OCwyNjgyOTU4ODgs
-NDk4MjEwOTE1LDEwNzc4NDcxMzksLTE4NTI3NjM5NzksLTg0OT
-QwNjA3NywtMTY5NTIyNDExMSwtMTcxNDQ4NzM5Miw4MDUwMTU5
-NzAsLTExNTM0Njc2ODksLTQ0MDk5NDI5MiwyMTE0MTUxNDQ1LC
-0xMzMwOTU0OTcyLDM1NDU0MDU4MSwxNDU0NzYxNDAxLDE5Mjg3
-MzQyNzBdfQ==
+eyJoaXN0b3J5IjpbMjA0MzMzMzQwNywtNjIxNzk0NTg5LDU0Nj
+A0NzQ0Myw4ODU0MjkxMTEsLTE4MzU2NTcwNjgsMjY4Mjk1ODg4
+LDQ5ODIxMDkxNSwxMDc3ODQ3MTM5LC0xODUyNzYzOTc5LC04ND
+k0MDYwNzcsLTE2OTUyMjQxMTEsLTE3MTQ0ODczOTIsODA1MDE1
+OTcwLC0xMTUzNDY3Njg5LC00NDA5OTQyOTIsMjExNDE1MTQ0NS
+wtMTMzMDk1NDk3MiwzNTQ1NDA1ODEsMTQ1NDc2MTQwMSwxOTI4
+NzM0MjcwXX0=
 -->
