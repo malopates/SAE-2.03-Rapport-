@@ -560,13 +560,13 @@ Elle nous permet de récupérer les fichiers correspondant à un système Debian
 
 
 Donnez la version que vous avez installé et la commande permettant d’obtenir cette information.
- :  -  Pour obtenir la version de gitea installée, 
+ :  -  Pour obtenir la version de gitea installée, `gitea -v`
 
-https://docs.gitea.com/administration/command-line
+(Source][https://docs.gitea.com/administration/command-line]
 
 -   Comment faire pour mettre à jour le binaire de votre service sans devoir tout reconfigurer ? Essayez en mettant à jour vers la version `1.24-dev`.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwODQ2MDk5OCw1NDYwNDc0NDMsODg1ND
+eyJoaXN0b3J5IjpbLTYyMTc5NDU4OSw1NDYwNDc0NDMsODg1ND
 I5MTExLC0xODM1NjU3MDY4LDI2ODI5NTg4OCw0OTgyMTA5MTUs
 MTA3Nzg0NzEzOSwtMTg1Mjc2Mzk3OSwtODQ5NDA2MDc3LC0xNj
 k1MjI0MTExLC0xNzE0NDg3MzkyLDgwNTAxNTk3MCwtMTE1MzQ2
