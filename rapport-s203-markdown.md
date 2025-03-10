@@ -262,13 +262,6 @@ _Sources complémentaires :_
 [WikiDebian](https://wiki.debian.org/fr/DebianOldStable)  
 [Wiki Debian Projet LTS](https://wiki.debian.org/fr/LTS/Extended)  
 
-
-
-
-
-
-
-
 ### *Ajustement de la pré-configuration*
 
 Pour cette partie, il faut effectuer les modifications associées à preseed.cfg :
@@ -596,11 +589,11 @@ Mettre des extensions pandocs
 
 /!\ changer réponse première version debian !! avec texte en parenthèse
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4OTYxODY4MSwtMTY2OTUzNDgyLC03Nz
-ExNzY5NTMsLTI5ODE4MzQyNiwtMTEzNTAyODEyOCwyMjM5NTA3
-NjIsMTgzODQzNDA0MywyNTgxODkxNzksNzUwMjY4NjQ5LC0xMj
-U5MzQwNzkwLDk1MTMyNTM3OCwtMjY3NjQ0NzU2LC0zODQzMTkx
-NzQsODQ4NTI0ODM5LC0xNjQ3NTU3OTMxLDQ3ODc0OTI5MSwtMT
-gyOTM0Njc0MywxNDU5MTI1Nzc0LDIwMzUwOTEyNDQsNDMwMTk4
-MTI2XX0=
+eyJoaXN0b3J5IjpbLTE4MTQ1MjA4NywtOTg5NjE4NjgxLC0xNj
+Y5NTM0ODIsLTc3MTE3Njk1MywtMjk4MTgzNDI2LC0xMTM1MDI4
+MTI4LDIyMzk1MDc2MiwxODM4NDM0MDQzLDI1ODE4OTE3OSw3NT
+AyNjg2NDksLTEyNTkzNDA3OTAsOTUxMzI1Mzc4LC0yNjc2NDQ3
+NTYsLTM4NDMxOTE3NCw4NDg1MjQ4MzksLTE2NDc1NTc5MzEsND
+c4NzQ5MjkxLC0xODI5MzQ2NzQzLDE0NTkxMjU3NzQsMjAzNTA5
+MTI0NF19
 -->
