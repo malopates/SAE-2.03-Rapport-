@@ -572,12 +572,15 @@ changement de mdp user git
 corrections Carle : 
 - pas besoin de .git
 - revoir le readme pour qu'il colle bien, en markdown si .md
+- décrire chaque ligne de commandes 
+- préciser ce qu'on a pas fait 
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTc5NjM5MDgsMTgzODQzNDA0MywyNT
-gxODkxNzksNzUwMjY4NjQ5LC0xMjU5MzQwNzkwLDk1MTMyNTM3
-OCwtMjY3NjQ0NzU2LC0zODQzMTkxNzQsODQ4NTI0ODM5LC0xNj
-Q3NTU3OTMxLDQ3ODc0OTI5MSwtMTgyOTM0Njc0MywxNDU5MTI1
-Nzc0LDIwMzUwOTEyNDQsNDMwMTk4MTI2LC0xODk4MzM3MTE4LD
-IwNDMzMzM0MDcsLTYyMTc5NDU4OSw1NDYwNDc0NDMsODg1NDI5
-MTExXX0=
+eyJoaXN0b3J5IjpbMTg5MzExMDc3MSwxODM4NDM0MDQzLDI1OD
+E4OTE3OSw3NTAyNjg2NDksLTEyNTkzNDA3OTAsOTUxMzI1Mzc4
+LC0yNjc2NDQ3NTYsLTM4NDMxOTE3NCw4NDg1MjQ4MzksLTE2ND
+c1NTc5MzEsNDc4NzQ5MjkxLC0xODI5MzQ2NzQzLDE0NTkxMjU3
+NzQsMjAzNTA5MTI0NCw0MzAxOTgxMjYsLTE4OTgzMzcxMTgsMj
+A0MzMzMzQwNywtNjIxNzk0NTg5LDU0NjA0NzQ0Myw4ODU0Mjkx
+MTFdfQ==
 -->
