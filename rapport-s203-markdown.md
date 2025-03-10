@@ -579,11 +579,12 @@ changement de mdp user git
 rajouter -toc dans le readme !!! :(
 
 pandoc
-`-N
-
+-N
 Number section headings in LaTeX, ConTeXt, HTML, Docx, ms, or EPUB output. By default, sections are not numbered. Sections with class `unnumbered` will never be numbered, even if [`--number-sections`](https://pandoc.org/MANUAL.html#option--number-sections) is specified.
+
+-s (standalone)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTEyMzYxMzIsMjIzOTUwNzYyLDE4Mz
+eyJoaXN0b3J5IjpbLTExMzUwMjgxMjgsMjIzOTUwNzYyLDE4Mz
 g0MzQwNDMsMjU4MTg5MTc5LDc1MDI2ODY0OSwtMTI1OTM0MDc5
 MCw5NTEzMjUzNzgsLTI2NzY0NDc1NiwtMzg0MzE5MTc0LDg0OD
 UyNDgzOSwtMTY0NzU1NzkzMSw0Nzg3NDkyOTEsLTE4MjkzNDY3
