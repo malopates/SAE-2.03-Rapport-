@@ -219,8 +219,8 @@ Bullseye prend en charge 9 architectures :
 -mipsel64
 
 **Sources :**
-[WikiDebian](https://wiki.debian.org/DebianBullseye#Architectures)  
-[WikiDebian](https://wiki.debian.org/LTS?highlight=%28%5CbCategoryLts%5Cb%29)
+[WikiDebian Architectures](https://wiki.debian.org/DebianBullseye#Architectures)  
+[WikiDebian LTS](https://wiki.debian.org/LTS?highlight=%28%5CbCategoryLts%5Cb%29)
 
 Quel a été le premier nom de code utilisé ?
     
@@ -251,14 +251,10 @@ Quelle est la version de cette distribution ?
     
 :   -  C’est le nom de code de Debian 13, qui est le « testing » actuel.
 
-_Sources :_
+_Sources complémentaires :_
 [Doc Debian](https://www.debian.org/doc/manuals/debian-faq/basic-defs.fr.html#pronunciation)  
-
 [WikiDebian](https://wiki.debian.org/fr/DebianOldStable)  
-
-
-
-[Source](https://wiki.debian.org/fr/LTS/Extended)  
+[Wiki Debian Projet LTS](https://wiki.debian.org/fr/LTS/Extended)  
 
 
 
@@ -578,7 +574,7 @@ wget -O gitea https://dl.gitea.com/gitea/main-nightly/gitea-main-nightly-linux-a
 *recopier commandes changer 1..giteaAsc ..gitea*  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NTk4MDAwOCw4NDg1MjQ4MzksLTE2ND
+eyJoaXN0b3J5IjpbMTg1OTE5OTU0Niw4NDg1MjQ4MzksLTE2ND
 c1NTc5MzEsNDc4NzQ5MjkxLC0xODI5MzQ2NzQzLDE0NTkxMjU3
 NzQsMjAzNTA5MTI0NCw0MzAxOTgxMjYsLTE4OTgzMzcxMTgsMj
 A0MzMzMzQwNywtNjIxNzk0NTg5LDU0NjA0NzQ0Myw4ODU0Mjkx
