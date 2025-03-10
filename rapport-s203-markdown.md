@@ -569,10 +569,11 @@ wget -O gitea https://dl.gitea.com/gitea/main-nightly/gitea-main-nightly-linux-a
 *recopier commandes changer 1..giteaAsc ..gitea*  
 changement de mdp user git  
 
-corrections carles : 
-
+corrections Carle : 
+- pas besoin de .git
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjY0Mzg1MCwxODM4NDM0MDQzLDI1OD
+eyJoaXN0b3J5IjpbMjAxNzQ5Mjc0MCwxODM4NDM0MDQzLDI1OD
 E4OTE3OSw3NTAyNjg2NDksLTEyNTkzNDA3OTAsOTUxMzI1Mzc4
 LC0yNjc2NDQ3NTYsLTM4NDMxOTE3NCw4NDg1MjQ4MzksLTE2ND
 c1NTc5MzEsNDc4NzQ5MjkxLC0xODI5MzQ2NzQzLDE0NTkxMjU3
