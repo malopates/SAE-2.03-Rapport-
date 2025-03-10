@@ -252,17 +252,17 @@ Quelle est la version de cette distribution ?
 
 _Sources :_
 
-[https://www.debian.org/doc/manuals/debian-faq/basic-defs.fr.html#whatisdebian](https://www.debian.org/doc/manuals/debian-faq/basic-defs.fr.html#whatisdebian)  
+[Source](https://www.debian.org/doc/manuals/debian-faq/basic-defs.fr.html#whatisdebian)  
 
-[https://www.debian.org/doc/manuals/debian-faq/basic-defs.fr.html#pronunciation](https://www.debian.org/doc/manuals/debian-faq/basic-defs.fr.html#pronunciation)  
+[Source](https://www.debian.org/doc/manuals/debian-faq/basic-defs.fr.html#pronunciation)  
 
-[https://wiki.debian.org/fr/DebianOldStable](https://wiki.debian.org/fr/DebianOldStable)  
+[Source](https://wiki.debian.org/fr/DebianOldStable)  
 
-[https://wiki.debian.org/LTS?highlight=%28%5CbCategoryLts%5Cb%29](https://wiki.debian.org/LTS?highlight=%28%5CbCategoryLts%5Cb%29)  
+[Source](https://wiki.debian.org/LTS?highlight=%28%5CbCategoryLts%5Cb%29)  
 
-[https://www.debian.org/lts/index.fr.html](https://www.debian.org/lts/index.fr.html)  
+[Source](https://www.debian.org/lts/index.fr.html)  
 
-[https://wiki.debian.org/fr/LTS/Extended](https://wiki.debian.org/fr/LTS/Extended)  
+[Source](https://wiki.debian.org/fr/LTS/Extended)  
 
 [https://www.debian.org/security/faq#lifespan](https://www.debian.org/security/faq#lifespan)  
 
@@ -586,11 +586,11 @@ wget -O gitea https://dl.gitea.com/gitea/main-nightly/gitea-main-nightly-linux-a
 *recopier commandes changer 1..giteaAsc ..gitea*  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDMwMTk4MTI2LC0xODk4MzM3MTE4LDIwND
-MzMzM0MDcsLTYyMTc5NDU4OSw1NDYwNDc0NDMsODg1NDI5MTEx
-LC0xODM1NjU3MDY4LDI2ODI5NTg4OCw0OTgyMTA5MTUsMTA3Nz
-g0NzEzOSwtMTg1Mjc2Mzk3OSwtODQ5NDA2MDc3LC0xNjk1MjI0
-MTExLC0xNzE0NDg3MzkyLDgwNTAxNTk3MCwtMTE1MzQ2NzY4OS
-wtNDQwOTk0MjkyLDIxMTQxNTE0NDUsLTEzMzA5NTQ5NzIsMzU0
-NTQwNTgxXX0=
+eyJoaXN0b3J5IjpbMTgzMzc5MjQyNyw0MzAxOTgxMjYsLTE4OT
+gzMzcxMTgsMjA0MzMzMzQwNywtNjIxNzk0NTg5LDU0NjA0NzQ0
+Myw4ODU0MjkxMTEsLTE4MzU2NTcwNjgsMjY4Mjk1ODg4LDQ5OD
+IxMDkxNSwxMDc3ODQ3MTM5LC0xODUyNzYzOTc5LC04NDk0MDYw
+NzcsLTE2OTUyMjQxMTEsLTE3MTQ0ODczOTIsODA1MDE1OTcwLC
+0xMTUzNDY3Njg5LC00NDA5OTQyOTIsMjExNDE1MTQ0NSwtMTMz
+MDk1NDk3Ml19
 -->
