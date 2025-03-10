@@ -243,8 +243,9 @@ Quelle était le numéro de version de cette distribution ?
 
 Quel est le dernier nom de code annoncée à ce jour ?
     
-:   -  Le dernier nom de code annoncé est « Trixie »
+:   -  Le dernier nom de code annoncé est « Duke »
 [Source](https://wiki.debian.org/DebianTrixie?highlight=%28CategoryRelease%29)  
+
     
 Quand a-t-il été annoncé ?
     
@@ -595,11 +596,11 @@ Mettre des extensions pandocs
 
 /!\ changer réponse première version debian !! avec texte en parenthèse
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Njk1MzQ4MiwtNzcxMTc2OTUzLC0yOT
-gxODM0MjYsLTExMzUwMjgxMjgsMjIzOTUwNzYyLDE4Mzg0MzQw
-NDMsMjU4MTg5MTc5LDc1MDI2ODY0OSwtMTI1OTM0MDc5MCw5NT
-EzMjUzNzgsLTI2NzY0NDc1NiwtMzg0MzE5MTc0LDg0ODUyNDgz
-OSwtMTY0NzU1NzkzMSw0Nzg3NDkyOTEsLTE4MjkzNDY3NDMsMT
-Q1OTEyNTc3NCwyMDM1MDkxMjQ0LDQzMDE5ODEyNiwtMTg5ODMz
-NzExOF19
+eyJoaXN0b3J5IjpbMTQwNzQxNjgzNCwtMTY2OTUzNDgyLC03Nz
+ExNzY5NTMsLTI5ODE4MzQyNiwtMTEzNTAyODEyOCwyMjM5NTA3
+NjIsMTgzODQzNDA0MywyNTgxODkxNzksNzUwMjY4NjQ5LC0xMj
+U5MzQwNzkwLDk1MTMyNTM3OCwtMjY3NjQ0NzU2LC0zODQzMTkx
+NzQsODQ4NTI0ODM5LC0xNjQ3NTU3OTMxLDQ3ODc0OTI5MSwtMT
+gyOTM0Njc0MywxNDU5MTI1Nzc0LDIwMzUwOTEyNDQsNDMwMTk4
+MTI2XX0=
 -->
