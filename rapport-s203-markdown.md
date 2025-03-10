@@ -250,6 +250,7 @@ Quand a-t-il été annoncé ?
 Quelle est la version de cette distribution ?
     
 :   -  C’est le nom de code de Debian 13, qui est le « testing » actuel.
+(debian duke)
 
 _Sources complémentaires :_
 [Doc Debian](https://www.debian.org/doc/manuals/debian-faq/basic-defs.fr.html#pronunciation)  
@@ -587,12 +588,14 @@ Number section headings in LaTeX, ConTeXt, HTML, Docx, ms, or EPUB output. By de
 -lof (list of figure) / list of table
 
 Mettre des extensions pandocs
+
+/!\ changer réponse première version debian !! avec texte en parenthèse
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MTE3Njk1MywtMjk4MTgzNDI2LC0xMT
-M1MDI4MTI4LDIyMzk1MDc2MiwxODM4NDM0MDQzLDI1ODE4OTE3
-OSw3NTAyNjg2NDksLTEyNTkzNDA3OTAsOTUxMzI1Mzc4LC0yNj
-c2NDQ3NTYsLTM4NDMxOTE3NCw4NDg1MjQ4MzksLTE2NDc1NTc5
-MzEsNDc4NzQ5MjkxLC0xODI5MzQ2NzQzLDE0NTkxMjU3NzQsMj
-AzNTA5MTI0NCw0MzAxOTgxMjYsLTE4OTgzMzcxMTgsMjA0MzMz
-MzQwN119
+eyJoaXN0b3J5IjpbMzQ0NjcwMzY5LC03NzExNzY5NTMsLTI5OD
+E4MzQyNiwtMTEzNTAyODEyOCwyMjM5NTA3NjIsMTgzODQzNDA0
+MywyNTgxODkxNzksNzUwMjY4NjQ5LC0xMjU5MzQwNzkwLDk1MT
+MyNTM3OCwtMjY3NjQ0NzU2LC0zODQzMTkxNzQsODQ4NTI0ODM5
+LC0xNjQ3NTU3OTMxLDQ3ODc0OTI5MSwtMTgyOTM0Njc0MywxND
+U5MTI1Nzc0LDIwMzUwOTEyNDQsNDMwMTk4MTI2LC0xODk4MzM3
+MTE4XX0=
 -->
