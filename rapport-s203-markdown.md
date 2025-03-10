@@ -583,12 +583,16 @@ pandoc
 Number section headings in LaTeX, ConTeXt, HTML, Docx, ms, or EPUB output. By default, sections are not numbered. Sections with class `unnumbered` will never be numbered, even if [`--number-sections`](https://pandoc.org/MANUAL.html#option--number-sections) is specified.
 
 -s (standalone)
+
+-lof (list of figure) / list of table
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzUwMjgxMjgsMjIzOTUwNzYyLDE4Mz
-g0MzQwNDMsMjU4MTg5MTc5LDc1MDI2ODY0OSwtMTI1OTM0MDc5
-MCw5NTEzMjUzNzgsLTI2NzY0NDc1NiwtMzg0MzE5MTc0LDg0OD
-UyNDgzOSwtMTY0NzU1NzkzMSw0Nzg3NDkyOTEsLTE4MjkzNDY3
-NDMsMTQ1OTEyNTc3NCwyMDM1MDkxMjQ0LDQzMDE5ODEyNiwtMT
-g5ODMzNzExOCwyMDQzMzMzNDA3LC02MjE3OTQ1ODksNTQ2MDQ3
-NDQzXX0=
+eyJoaXN0b3J5IjpbLTI5ODE4MzQyNiwtMTEzNTAyODEyOCwyMj
+M5NTA3NjIsMTgzODQzNDA0MywyNTgxODkxNzksNzUwMjY4NjQ5
+LC0xMjU5MzQwNzkwLDk1MTMyNTM3OCwtMjY3NjQ0NzU2LC0zOD
+QzMTkxNzQsODQ4NTI0ODM5LC0xNjQ3NTU3OTMxLDQ3ODc0OTI5
+MSwtMTgyOTM0Njc0MywxNDU5MTI1Nzc0LDIwMzUwOTEyNDQsND
+MwMTk4MTI2LC0xODk4MzM3MTE4LDIwNDMzMzM0MDcsLTYyMTc5
+NDU4OV19
 -->
