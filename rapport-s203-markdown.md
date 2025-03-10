@@ -574,13 +574,13 @@ corrections Carle :
 - revoir le readme pour qu'il colle bien, en markdown si .md
 - décrire chaque ligne de commandes 
 - préciser ce qu'on a pas fait 
-- 
+- expliquer la ligne de commande pandoc 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5MzExMDc3MSwxODM4NDM0MDQzLDI1OD
-E4OTE3OSw3NTAyNjg2NDksLTEyNTkzNDA3OTAsOTUxMzI1Mzc4
-LC0yNjc2NDQ3NTYsLTM4NDMxOTE3NCw4NDg1MjQ4MzksLTE2ND
-c1NTc5MzEsNDc4NzQ5MjkxLC0xODI5MzQ2NzQzLDE0NTkxMjU3
-NzQsMjAzNTA5MTI0NCw0MzAxOTgxMjYsLTE4OTgzMzcxMTgsMj
-A0MzMzMzQwNywtNjIxNzk0NTg5LDU0NjA0NzQ0Myw4ODU0Mjkx
-MTFdfQ==
+eyJoaXN0b3J5IjpbMjIzOTUwNzYyLDE4Mzg0MzQwNDMsMjU4MT
+g5MTc5LDc1MDI2ODY0OSwtMTI1OTM0MDc5MCw5NTEzMjUzNzgs
+LTI2NzY0NDc1NiwtMzg0MzE5MTc0LDg0ODUyNDgzOSwtMTY0Nz
+U1NzkzMSw0Nzg3NDkyOTEsLTE4MjkzNDY3NDMsMTQ1OTEyNTc3
+NCwyMDM1MDkxMjQ0LDQzMDE5ODEyNiwtMTg5ODMzNzExOCwyMD
+QzMzMzNDA3LC02MjE3OTQ1ODksNTQ2MDQ3NDQzLDg4NTQyOTEx
+MV19
 -->
