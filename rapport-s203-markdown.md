@@ -224,7 +224,8 @@ Bullseye prend en charge 9 architectures :
 -mipsel
 
 -mipsel64
-Sources :**
+
+**Sources :**
 [WikiDebian](https://wiki.debian.org/DebianBullseye#Architectures)  
 [WikiDebian](https://wiki.debian.org/LTS?highlight=%28%5CbCategoryLts%5Cb%29)
 
@@ -588,11 +589,11 @@ wget -O gitea https://dl.gitea.com/gitea/main-nightly/gitea-main-nightly-linux-a
 *recopier commandes changer 1..giteaAsc ..gitea*  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTQ5ODA2MDcsMTQ1OTEyNTc3NCwyMD
-M1MDkxMjQ0LDQzMDE5ODEyNiwtMTg5ODMzNzExOCwyMDQzMzMz
-NDA3LC02MjE3OTQ1ODksNTQ2MDQ3NDQzLDg4NTQyOTExMSwtMT
-gzNTY1NzA2OCwyNjgyOTU4ODgsNDk4MjEwOTE1LDEwNzc4NDcx
-MzksLTE4NTI3NjM5NzksLTg0OTQwNjA3NywtMTY5NTIyNDExMS
-wtMTcxNDQ4NzM5Miw4MDUwMTU5NzAsLTExNTM0Njc2ODksLTQ0
-MDk5NDI5Ml19
+eyJoaXN0b3J5IjpbLTgyMzY2NDQwMSwxNDU5MTI1Nzc0LDIwMz
+UwOTEyNDQsNDMwMTk4MTI2LC0xODk4MzM3MTE4LDIwNDMzMzM0
+MDcsLTYyMTc5NDU4OSw1NDYwNDc0NDMsODg1NDI5MTExLC0xOD
+M1NjU3MDY4LDI2ODI5NTg4OCw0OTgyMTA5MTUsMTA3Nzg0NzEz
+OSwtMTg1Mjc2Mzk3OSwtODQ5NDA2MDc3LC0xNjk1MjI0MTExLC
+0xNzE0NDg3MzkyLDgwNTAxNTk3MCwtMTE1MzQ2NzY4OSwtNDQw
+OTk0MjkyXX0=
 -->
