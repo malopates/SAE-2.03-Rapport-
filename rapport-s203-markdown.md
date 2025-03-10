@@ -558,8 +558,7 @@ Donnez la version que vous avez installé et la commande permettant d’obtenir 
 1. Choisir le fichier adéquat
 Comme nous sommes sur **Linux x64**, l'on doit choisir l'outil wget[^5]  est installé par défaut dans les dernières versions d'Ubuntu, point fort, celui ci peut tourner en arrière-plan et ainsi nous permettre de lancer un téléchargement et de nous déconnecter du système.
 
-[^5]: [Logiciel](https://doc.ubuntu-fr.org/wget
-) libre permettant le téléchargement d'un fichier mais aussi la recopie en local de tout ou partie d'un site qui sera par la suite consultable hors-ligne. 
+[^5]: [Logiciel](https://doc.ubuntu-fr.org/wget) libre permettant le téléchargement d'un fichier mais aussi la recopie en local de tout ou partie d'un site qui sera par la suite consultable hors-ligne. 
   pas oublier sudo pour certaines commandes
 
   
@@ -570,11 +569,11 @@ wget -O gitea https://dl.gitea.com/gitea/main-nightly/gitea-main-nightly-linux-a
 *recopier commandes changer 1..giteaAsc ..gitea*  
 changement de mdp user git  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUwMjY4NjQ5LC0xMjU5MzQwNzkwLDk1MT
-MyNTM3OCwtMjY3NjQ0NzU2LC0zODQzMTkxNzQsODQ4NTI0ODM5
-LC0xNjQ3NTU3OTMxLDQ3ODc0OTI5MSwtMTgyOTM0Njc0MywxND
-U5MTI1Nzc0LDIwMzUwOTEyNDQsNDMwMTk4MTI2LC0xODk4MzM3
-MTE4LDIwNDMzMzM0MDcsLTYyMTc5NDU4OSw1NDYwNDc0NDMsOD
-g1NDI5MTExLC0xODM1NjU3MDY4LDI2ODI5NTg4OCw0OTgyMTA5
-MTVdfQ==
+eyJoaXN0b3J5IjpbMjU4MTg5MTc5LDc1MDI2ODY0OSwtMTI1OT
+M0MDc5MCw5NTEzMjUzNzgsLTI2NzY0NDc1NiwtMzg0MzE5MTc0
+LDg0ODUyNDgzOSwtMTY0NzU1NzkzMSw0Nzg3NDkyOTEsLTE4Mj
+kzNDY3NDMsMTQ1OTEyNTc3NCwyMDM1MDkxMjQ0LDQzMDE5ODEy
+NiwtMTg5ODMzNzExOCwyMDQzMzMzNDA3LC02MjE3OTQ1ODksNT
+Q2MDQ3NDQzLDg4NTQyOTExMSwtMTgzNTY1NzA2OCwyNjgyOTU4
+ODhdfQ==
 -->
