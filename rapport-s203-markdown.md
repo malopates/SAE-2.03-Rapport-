@@ -229,10 +229,12 @@ Bullseye prend en charge 9 architectures :
 Quel a été le premier nom de code utilisé ?
     
  :   -  Le premier nom de code utilisé était « Buzz »
+        [Source](https://wiki.debian.org/DebianReleases#Codenames)  
+        
+ Quand a-t-il été annoncé ?
     
--   Quand a-t-il été annoncé ?
-    
-    La version Buzz a été annoncée le 17 juin 1996
+  : -   La version Buzz a été annoncée le 17 juin 1996
+
     
 Quelle était le numéro de version de cette distribution ?
     
@@ -586,7 +588,7 @@ wget -O gitea https://dl.gitea.com/gitea/main-nightly/gitea-main-nightly-linux-a
 *recopier commandes changer 1..giteaAsc ..gitea*  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4OTc0NjQ3NCwyMDM1MDkxMjQ0LDQzMD
+eyJoaXN0b3J5IjpbMTQ1OTEyNTc3NCwyMDM1MDkxMjQ0LDQzMD
 E5ODEyNiwtMTg5ODMzNzExOCwyMDQzMzMzNDA3LC02MjE3OTQ1
 ODksNTQ2MDQ3NDQzLDg4NTQyOTExMSwtMTgzNTY1NzA2OCwyNj
 gyOTU4ODgsNDk4MjEwOTE1LDEwNzc4NDcxMzksLTE4NTI3NjM5
