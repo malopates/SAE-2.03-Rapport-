@@ -568,17 +568,17 @@ Comme nous sommes sur Linux x64, l'on doit choisir l'outil wget^(logiciel libre 
 
   
 wget -O gitea https://dl.gitea.com/gitea/main-nightly/gitea-main-nightly-linux-amd64 chmod +x gitea  
-  
-(l'option -O afin de préciser le nom du fichier de destination)
+ 
+(l'option -O afin de préciser le nom du fichier de destination, concaténant les documents dans un même fichier renseigné après l'option)
 
 *recopier commandes changer 1..giteaAsc ..gitea*  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4NDMxOTE3NCw4NDg1MjQ4MzksLTE2ND
-c1NTc5MzEsNDc4NzQ5MjkxLC0xODI5MzQ2NzQzLDE0NTkxMjU3
-NzQsMjAzNTA5MTI0NCw0MzAxOTgxMjYsLTE4OTgzMzcxMTgsMj
-A0MzMzMzQwNywtNjIxNzk0NTg5LDU0NjA0NzQ0Myw4ODU0Mjkx
-MTEsLTE4MzU2NTcwNjgsMjY4Mjk1ODg4LDQ5ODIxMDkxNSwxMD
-c3ODQ3MTM5LC0xODUyNzYzOTc5LC04NDk0MDYwNzcsLTE2OTUy
-MjQxMTFdfQ==
+eyJoaXN0b3J5IjpbLTI2NzY0NDc1NiwtMzg0MzE5MTc0LDg0OD
+UyNDgzOSwtMTY0NzU1NzkzMSw0Nzg3NDkyOTEsLTE4MjkzNDY3
+NDMsMTQ1OTEyNTc3NCwyMDM1MDkxMjQ0LDQzMDE5ODEyNiwtMT
+g5ODMzNzExOCwyMDQzMzMzNDA3LC02MjE3OTQ1ODksNTQ2MDQ3
+NDQzLDg4NTQyOTExMSwtMTgzNTY1NzA2OCwyNjgyOTU4ODgsND
+k4MjEwOTE1LDEwNzc4NDcxMzksLTE4NTI3NjM5NzksLTg0OTQw
+NjA3N119
 -->
