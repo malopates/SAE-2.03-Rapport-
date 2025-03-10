@@ -243,6 +243,7 @@ Quelle était le numéro de version de cette distribution ?
     
 :   -  Son numéro de version était 1.1
     Dernier nom de code attribué
+    
 
 Quel est le dernier nom de code annoncée à ce jour ?
     
@@ -252,6 +253,7 @@ Quel est le dernier nom de code annoncée à ce jour ?
 Quand a-t-il été annoncé ?
     
 :   -  Il a été annoncé le 8 Novembre 2020
+[Source](https://wiki.debian.org/LTS?highlight=%28%5CbCategoryLts%5Cb%29)  
     
 Quelle est la version de cette distribution ?
     
@@ -262,7 +264,7 @@ _Sources :_
 
 [WikiDebian](https://wiki.debian.org/fr/DebianOldStable)  
 
-[Source](https://wiki.debian.org/LTS?highlight=%28%5CbCategoryLts%5Cb%29)  
+
 
 [Source](https://wiki.debian.org/fr/LTS/Extended)  
 
@@ -584,11 +586,11 @@ wget -O gitea https://dl.gitea.com/gitea/main-nightly/gitea-main-nightly-linux-a
 *recopier commandes changer 1..giteaAsc ..gitea*  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDc1NTc5MzEsNDc4NzQ5MjkxLC0xOD
-I5MzQ2NzQzLDE0NTkxMjU3NzQsMjAzNTA5MTI0NCw0MzAxOTgx
-MjYsLTE4OTgzMzcxMTgsMjA0MzMzMzQwNywtNjIxNzk0NTg5LD
-U0NjA0NzQ0Myw4ODU0MjkxMTEsLTE4MzU2NTcwNjgsMjY4Mjk1
-ODg4LDQ5ODIxMDkxNSwxMDc3ODQ3MTM5LC0xODUyNzYzOTc5LC
-04NDk0MDYwNzcsLTE2OTUyMjQxMTEsLTE3MTQ0ODczOTIsODA1
-MDE1OTcwXX0=
+eyJoaXN0b3J5IjpbODQ4NTI0ODM5LC0xNjQ3NTU3OTMxLDQ3OD
+c0OTI5MSwtMTgyOTM0Njc0MywxNDU5MTI1Nzc0LDIwMzUwOTEy
+NDQsNDMwMTk4MTI2LC0xODk4MzM3MTE4LDIwNDMzMzM0MDcsLT
+YyMTc5NDU4OSw1NDYwNDc0NDMsODg1NDI5MTExLC0xODM1NjU3
+MDY4LDI2ODI5NTg4OCw0OTgyMTA5MTUsMTA3Nzg0NzEzOSwtMT
+g1Mjc2Mzk3OSwtODQ5NDA2MDc3LC0xNjk1MjI0MTExLC0xNzE0
+NDg3MzkyXX0=
 -->
