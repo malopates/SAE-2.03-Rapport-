@@ -190,7 +190,7 @@ Chaque distribution majeur possède un nom de code différent. Par exemple la ve
  Qu’est-ce que le Projet Debian ? D’où vient le nom Debian ?
 
 :   - **Louis** : Debian est une distribution de l’O.S Linux. Il est géré par les membres, volontaires, du projet Debian, qui se définissent comme des descendants directs du projet GNU, c’est-à-dire que leur objectif est de développer un système d’exploitation de qualité et qui le logiciel libre en son centre (liberté de distribution, de copie, de modification…). Le nom Debian est une contraction du nom du créateur, Ian Murdock, et sa femme, Debra.
-
+[Source](https://www.debian.org/doc/manuals/debian-faq/basic-defs.fr.html#whatisdebian)  
   
 Il existe 3 durées de prise en charge (support) de ces versions : la durée minimale la durée en support long terme (LTS) et la durée en support long terme étendue (ELTS). Quelles sont les durées de ces prises en charge ?
 
@@ -254,7 +254,7 @@ Quelle est la version de cette distribution ?
 
 _Sources :_
 
-[Source](https://www.debian.org/doc/manuals/debian-faq/basic-defs.fr.html#whatisdebian)  
+
 
 [Source](https://www.debian.org/doc/manuals/debian-faq/basic-defs.fr.html#pronunciation)  
 
@@ -268,7 +268,7 @@ _Sources :_
 
 [Source](https://www.debian.org/security/faq#lifespan)  
 
-[Source](https://wiki.debian.org/DebianReleases#Codenames)  
+
 
 [Source](https://www.debian.org/doc/manuals/project-history/releases.en.html)  
 
@@ -586,11 +586,11 @@ wget -O gitea https://dl.gitea.com/gitea/main-nightly/gitea-main-nightly-linux-a
 *recopier commandes changer 1..giteaAsc ..gitea*  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzNTA5MTI0NCw0MzAxOTgxMjYsLTE4OT
-gzMzcxMTgsMjA0MzMzMzQwNywtNjIxNzk0NTg5LDU0NjA0NzQ0
-Myw4ODU0MjkxMTEsLTE4MzU2NTcwNjgsMjY4Mjk1ODg4LDQ5OD
-IxMDkxNSwxMDc3ODQ3MTM5LC0xODUyNzYzOTc5LC04NDk0MDYw
-NzcsLTE2OTUyMjQxMTEsLTE3MTQ0ODczOTIsODA1MDE1OTcwLC
-0xMTUzNDY3Njg5LC00NDA5OTQyOTIsMjExNDE1MTQ0NSwtMTMz
-MDk1NDk3Ml19
+eyJoaXN0b3J5IjpbMTA4OTc0NjQ3NCwyMDM1MDkxMjQ0LDQzMD
+E5ODEyNiwtMTg5ODMzNzExOCwyMDQzMzMzNDA3LC02MjE3OTQ1
+ODksNTQ2MDQ3NDQzLDg4NTQyOTExMSwtMTgzNTY1NzA2OCwyNj
+gyOTU4ODgsNDk4MjEwOTE1LDEwNzc4NDcxMzksLTE4NTI3NjM5
+NzksLTg0OTQwNjA3NywtMTY5NTIyNDExMSwtMTcxNDQ4NzM5Mi
+w4MDUwMTU5NzAsLTExNTM0Njc2ODksLTQ0MDk5NDI5MiwyMTE0
+MTUxNDQ1XX0=
 -->
