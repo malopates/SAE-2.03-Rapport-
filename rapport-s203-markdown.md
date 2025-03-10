@@ -260,7 +260,7 @@ Quelle est la version de cette distribution ?
 _Sources :_
 [Doc Debian](https://www.debian.org/doc/manuals/debian-faq/basic-defs.fr.html#pronunciation)  
 
-[Source](https://wiki.debian.org/fr/DebianOldStable)  
+[WikiDebian](https://wiki.debian.org/fr/DebianOldStable)  
 
 [Source](https://wiki.debian.org/LTS?highlight=%28%5CbCategoryLts%5Cb%29)  
 
@@ -584,11 +584,11 @@ wget -O gitea https://dl.gitea.com/gitea/main-nightly/gitea-main-nightly-linux-a
 *recopier commandes changer 1..giteaAsc ..gitea*  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc4NzQ5MjkxLC0xODI5MzQ2NzQzLDE0NT
-kxMjU3NzQsMjAzNTA5MTI0NCw0MzAxOTgxMjYsLTE4OTgzMzcx
-MTgsMjA0MzMzMzQwNywtNjIxNzk0NTg5LDU0NjA0NzQ0Myw4OD
-U0MjkxMTEsLTE4MzU2NTcwNjgsMjY4Mjk1ODg4LDQ5ODIxMDkx
-NSwxMDc3ODQ3MTM5LC0xODUyNzYzOTc5LC04NDk0MDYwNzcsLT
-E2OTUyMjQxMTEsLTE3MTQ0ODczOTIsODA1MDE1OTcwLC0xMTUz
-NDY3Njg5XX0=
+eyJoaXN0b3J5IjpbLTE2NDc1NTc5MzEsNDc4NzQ5MjkxLC0xOD
+I5MzQ2NzQzLDE0NTkxMjU3NzQsMjAzNTA5MTI0NCw0MzAxOTgx
+MjYsLTE4OTgzMzcxMTgsMjA0MzMzMzQwNywtNjIxNzk0NTg5LD
+U0NjA0NzQ0Myw4ODU0MjkxMTEsLTE4MzU2NTcwNjgsMjY4Mjk1
+ODg4LDQ5ODIxMDkxNSwxMDc3ODQ3MTM5LC0xODUyNzYzOTc5LC
+04NDk0MDYwNzcsLTE2OTUyMjQxMTEsLTE3MTQ0ODczOTIsODA1
+MDE1OTcwXX0=
 -->
