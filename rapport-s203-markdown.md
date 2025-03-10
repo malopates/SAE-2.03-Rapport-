@@ -250,7 +250,7 @@ Quel est le dernier nom de code annoncée à ce jour ?
 Quand a-t-il été annoncé ?
     
 :   -  Il a été annoncé le 22 janvier 2025
-[Source]()  
+[Source](https://wiki.debian.org/fr/DebianDuke)  
     
 Quelle est la version de cette distribution ?
     
@@ -596,7 +596,7 @@ Mettre des extensions pandocs
 
 /!\ changer réponse première version debian !! avec texte en parenthèse
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MjQ4NjI3NywtMTY2OTUzNDgyLC03Nz
+eyJoaXN0b3J5IjpbLTQ2NDQ0MjA2MywtMTY2OTUzNDgyLC03Nz
 ExNzY5NTMsLTI5ODE4MzQyNiwtMTEzNTAyODEyOCwyMjM5NTA3
 NjIsMTgzODQzNDA0MywyNTgxODkxNzksNzUwMjY4NjQ5LC0xMj
 U5MzQwNzkwLDk1MTMyNTM3OCwtMjY3NjQ0NzU2LC0zODQzMTkx
