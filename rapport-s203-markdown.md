@@ -202,27 +202,20 @@ Il existe 3 durées de prise en charge (support) de ces versions : la durée min
 | LTS        | **5 ans**   | [Lien](https://wiki.debian.org/LTS)         |
 | ELTS       | **10 ans**  | [Lien](https://wiki.debian.org/LTS/Extended) |
 
+[Source](https://www.debian.org/security/faq#lifespan)  
 
 L’un des atouts de Debian fut le nombre d’architecture (≈ processeurs) officiellement prises en charge. Combien et lesquelles sont prises en charge par la version _Bullseye_ ?
 :   -  **Louis** : 
 Bullseye prend en charge 9 architectures :
 
 -amd64
-
 -i386
-
 -ppc64el
-
 -s390x
-
 -armel
-
 -armhf
-
 -arm64
-
 -mipsel
-
 -mipsel64
 
 **Sources :**
@@ -268,9 +261,9 @@ _Sources :_
 
 [Source](https://wiki.debian.org/fr/LTS/Extended)  
 
-[Source](https://www.debian.org/security/faq#lifespan)  
 
-[Source](https://www.debian.org/doc/manuals/project-history/releases.en.html)  
+
+
 
 
 
@@ -586,11 +579,11 @@ wget -O gitea https://dl.gitea.com/gitea/main-nightly/gitea-main-nightly-linux-a
 *recopier commandes changer 1..giteaAsc ..gitea*  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ4NTI0ODM5LC0xNjQ3NTU3OTMxLDQ3OD
-c0OTI5MSwtMTgyOTM0Njc0MywxNDU5MTI1Nzc0LDIwMzUwOTEy
-NDQsNDMwMTk4MTI2LC0xODk4MzM3MTE4LDIwNDMzMzM0MDcsLT
-YyMTc5NDU4OSw1NDYwNDc0NDMsODg1NDI5MTExLC0xODM1NjU3
-MDY4LDI2ODI5NTg4OCw0OTgyMTA5MTUsMTA3Nzg0NzEzOSwtMT
-g1Mjc2Mzk3OSwtODQ5NDA2MDc3LC0xNjk1MjI0MTExLC0xNzE0
-NDg3MzkyXX0=
+eyJoaXN0b3J5IjpbLTE3Mzg1OTIyMDcsODQ4NTI0ODM5LC0xNj
+Q3NTU3OTMxLDQ3ODc0OTI5MSwtMTgyOTM0Njc0MywxNDU5MTI1
+Nzc0LDIwMzUwOTEyNDQsNDMwMTk4MTI2LC0xODk4MzM3MTE4LD
+IwNDMzMzM0MDcsLTYyMTc5NDU4OSw1NDYwNDc0NDMsODg1NDI5
+MTExLC0xODM1NjU3MDY4LDI2ODI5NTg4OCw0OTgyMTA5MTUsMT
+A3Nzg0NzEzOSwtMTg1Mjc2Mzk3OSwtODQ5NDA2MDc3LC0xNjk1
+MjI0MTExXX0=
 -->
