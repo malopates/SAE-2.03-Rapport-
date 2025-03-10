@@ -239,7 +239,7 @@ Quel a été le premier nom de code utilisé ?
 Quelle était le numéro de version de cette distribution ?
     
 :   -  Son numéro de version était 1.1
-  [Source](https://www.debian.org/doc/manuals/project-history/releases.en.html)  
+  [Source : Releases sur Debian](https://www.debian.org/doc/manuals/project-history/releases.en.html)  
 
 Quel est le dernier nom de code annoncée à ce jour ?
     
@@ -250,12 +250,12 @@ Quel est le dernier nom de code annoncée à ce jour ?
 Quand a-t-il été annoncé ?
     
 :   -  Il a été annoncé le 22 janvier 2025
-[Source](https://wiki.debian.org/fr/DebianDuke)  
+[Source : Page Wiki Debian Duke](https://wiki.debian.org/fr/DebianDuke)  
     
 Quelle est la version de cette distribution ?
     
-:   -  C’est le nom de code de Debian 13, qui est le « testing » actuel.
-(debian duke)
+:   -  Duke est le nom de code de développement de Debian 15
+[](https://wiki.debian.org/fr/DebianDuke)
 
 _Sources complémentaires :_
 [Doc Debian](https://www.debian.org/doc/manuals/debian-faq/basic-defs.fr.html#pronunciation)  
@@ -596,11 +596,11 @@ Mettre des extensions pandocs
 
 /!\ changer réponse première version debian !! avec texte en parenthèse
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2NDQ0MjA2MywtMTY2OTUzNDgyLC03Nz
-ExNzY5NTMsLTI5ODE4MzQyNiwtMTEzNTAyODEyOCwyMjM5NTA3
-NjIsMTgzODQzNDA0MywyNTgxODkxNzksNzUwMjY4NjQ5LC0xMj
-U5MzQwNzkwLDk1MTMyNTM3OCwtMjY3NjQ0NzU2LC0zODQzMTkx
-NzQsODQ4NTI0ODM5LC0xNjQ3NTU3OTMxLDQ3ODc0OTI5MSwtMT
-gyOTM0Njc0MywxNDU5MTI1Nzc0LDIwMzUwOTEyNDQsNDMwMTk4
-MTI2XX0=
+eyJoaXN0b3J5IjpbLTE5MTUwODg5OTcsLTE2Njk1MzQ4MiwtNz
+cxMTc2OTUzLC0yOTgxODM0MjYsLTExMzUwMjgxMjgsMjIzOTUw
+NzYyLDE4Mzg0MzQwNDMsMjU4MTg5MTc5LDc1MDI2ODY0OSwtMT
+I1OTM0MDc5MCw5NTEzMjUzNzgsLTI2NzY0NDc1NiwtMzg0MzE5
+MTc0LDg0ODUyNDgzOSwtMTY0NzU1NzkzMSw0Nzg3NDkyOTEsLT
+E4MjkzNDY3NDMsMTQ1OTEyNTc3NCwyMDM1MDkxMjQ0LDQzMDE5
+ODEyNl19
 -->
