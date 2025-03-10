@@ -553,9 +553,9 @@ Donnez la version que vous avez installé et la commande permettant d’obtenir 
  :  -  Pour obtenir la version de gitea installée, `gitea -v`
 [Source](https://docs.gitea.com/administration/command-line)
 
- Comment faire pour mettre à jour le binaire de votre service sans devoir tout reconfigurer ? Essayez en mettant à jour vers la version `1.24-dev`.
-: -  
-1. Choisir le fichier adéquat
+ **Comment faire pour mettre à jour le binaire de votre service sans devoir tout reconfigurer ? Essayez en mettant à jour vers la version `1.24-dev`.**
+	
+Choisir le fichier adéquat
 Comme nous sommes sur **Linux x64**, l'on doit choisir l'outil wget[^5]  est installé par défaut dans les dernières versions d'Ubuntu, point fort, celui ci peut tourner en arrière-plan et ainsi nous permettre de lancer un téléchargement et de nous déconnecter du système.
 
 [^5]: [Logiciel](https://doc.ubuntu-fr.org/wget) libre permettant le téléchargement d'un fichier mais aussi la recopie en local de tout ou partie d'un site qui sera par la suite consultable hors-ligne. 
@@ -569,11 +569,11 @@ wget -O gitea https://dl.gitea.com/gitea/main-nightly/gitea-main-nightly-linux-a
 *recopier commandes changer 1..giteaAsc ..gitea*  
 changement de mdp user git  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU4MTg5MTc5LDc1MDI2ODY0OSwtMTI1OT
-M0MDc5MCw5NTEzMjUzNzgsLTI2NzY0NDc1NiwtMzg0MzE5MTc0
-LDg0ODUyNDgzOSwtMTY0NzU1NzkzMSw0Nzg3NDkyOTEsLTE4Mj
-kzNDY3NDMsMTQ1OTEyNTc3NCwyMDM1MDkxMjQ0LDQzMDE5ODEy
-NiwtMTg5ODMzNzExOCwyMDQzMzMzNDA3LC02MjE3OTQ1ODksNT
-Q2MDQ3NDQzLDg4NTQyOTExMSwtMTgzNTY1NzA2OCwyNjgyOTU4
-ODhdfQ==
+eyJoaXN0b3J5IjpbMTgzODQzNDA0MywyNTgxODkxNzksNzUwMj
+Y4NjQ5LC0xMjU5MzQwNzkwLDk1MTMyNTM3OCwtMjY3NjQ0NzU2
+LC0zODQzMTkxNzQsODQ4NTI0ODM5LC0xNjQ3NTU3OTMxLDQ3OD
+c0OTI5MSwtMTgyOTM0Njc0MywxNDU5MTI1Nzc0LDIwMzUwOTEy
+NDQsNDMwMTk4MTI2LC0xODk4MzM3MTE4LDIwNDMzMzM0MDcsLT
+YyMTc5NDU4OSw1NDYwNDc0NDMsODg1NDI5MTExLC0xODM1NjU3
+MDY4XX0=
 -->
