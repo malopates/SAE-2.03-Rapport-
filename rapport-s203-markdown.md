@@ -224,7 +224,9 @@ Bullseye prend en charge 9 architectures :
 -mipsel
 
 -mipsel64
-[Source](https://wiki.debian.org/DebianBullseye#Architectures)  
+Sources :**
+[WikiDebian](https://wiki.debian.org/DebianBullseye#Architectures)  
+[WikiDebian](https://wiki.debian.org/LTS?highlight=%28%5CbCategoryLts%5Cb%29)
 
 Quel a été le premier nom de code utilisé ?
     
@@ -263,8 +265,6 @@ _Sources :_
 [Source](https://wiki.debian.org/fr/DebianOldStable)  
 
 [Source](https://wiki.debian.org/LTS?highlight=%28%5CbCategoryLts%5Cb%29)  
-
-[Source](https://www.debian.org/lts/index.fr.html)  
 
 [Source](https://wiki.debian.org/fr/LTS/Extended)  
 
@@ -588,11 +588,11 @@ wget -O gitea https://dl.gitea.com/gitea/main-nightly/gitea-main-nightly-linux-a
 *recopier commandes changer 1..giteaAsc ..gitea*  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1OTEyNTc3NCwyMDM1MDkxMjQ0LDQzMD
-E5ODEyNiwtMTg5ODMzNzExOCwyMDQzMzMzNDA3LC02MjE3OTQ1
-ODksNTQ2MDQ3NDQzLDg4NTQyOTExMSwtMTgzNTY1NzA2OCwyNj
-gyOTU4ODgsNDk4MjEwOTE1LDEwNzc4NDcxMzksLTE4NTI3NjM5
-NzksLTg0OTQwNjA3NywtMTY5NTIyNDExMSwtMTcxNDQ4NzM5Mi
-w4MDUwMTU5NzAsLTExNTM0Njc2ODksLTQ0MDk5NDI5MiwyMTE0
-MTUxNDQ1XX0=
+eyJoaXN0b3J5IjpbLTIwNTQ5ODA2MDcsMTQ1OTEyNTc3NCwyMD
+M1MDkxMjQ0LDQzMDE5ODEyNiwtMTg5ODMzNzExOCwyMDQzMzMz
+NDA3LC02MjE3OTQ1ODksNTQ2MDQ3NDQzLDg4NTQyOTExMSwtMT
+gzNTY1NzA2OCwyNjgyOTU4ODgsNDk4MjEwOTE1LDEwNzc4NDcx
+MzksLTE4NTI3NjM5NzksLTg0OTQwNjA3NywtMTY5NTIyNDExMS
+wtMTcxNDQ4NzM5Miw4MDUwMTU5NzAsLTExNTM0Njc2ODksLTQ0
+MDk5NDI5Ml19
 -->
