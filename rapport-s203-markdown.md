@@ -244,13 +244,13 @@ Quelle était le numéro de version de cette distribution ?
 Quel est le dernier nom de code annoncée à ce jour ?
     
 :   -  Le dernier nom de code annoncé est « Duke »
-[](https://wiki.debian.org/fr/DebianReleases)  
+[Source : Releases Debian Wiki](https://wiki.debian.org/fr/DebianReleases)  
 
     
 Quand a-t-il été annoncé ?
     
-:   -  Il a été annoncé le 8 Novembre 2020
-[Source](https://wiki.debian.org/LTS?highlight=%28%5CbCategoryLts%5Cb%29)  
+:   -  Il a été annoncé le 22 janvier 2025
+[Source]()  
     
 Quelle est la version de cette distribution ?
     
@@ -596,7 +596,7 @@ Mettre des extensions pandocs
 
 /!\ changer réponse première version debian !! avec texte en parenthèse
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyMjM5ODEzNywtMTY2OTUzNDgyLC03Nz
+eyJoaXN0b3J5IjpbLTI2MjQ4NjI3NywtMTY2OTUzNDgyLC03Nz
 ExNzY5NTMsLTI5ODE4MzQyNiwtMTEzNTAyODEyOCwyMjM5NTA3
 NjIsMTgzODQzNDA0MywyNTgxODkxNzksNzUwMjY4NjQ5LC0xMj
 U5MzQwNzkwLDk1MTMyNTM3OCwtMjY3NjQ0NzU2LC0zODQzMTkx
