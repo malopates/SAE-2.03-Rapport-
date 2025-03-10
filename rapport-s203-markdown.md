@@ -569,18 +569,19 @@ wget -O gitea https://dl.gitea.com/gitea/main-nightly/gitea-main-nightly-linux-a
 *recopier commandes changer 1..giteaAsc ..gitea*  
 changement de mdp user git  
 
-corrections Carle : 
+**corrections Carle :** 
 - pas besoin de .git
 - revoir le readme pour qu'il colle bien, en markdown si .md
 - décrire chaque ligne de commandes 
 - préciser ce qu'on a pas fait 
-- expliquer la ligne de commande pandoc 
+- expliquer la ligne de commande pandoc + installation
+- rajouter des captions pour les tableaux https://pandoc.org/chunkedhtml-demo/8.9-tables.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIzOTUwNzYyLDE4Mzg0MzQwNDMsMjU4MT
-g5MTc5LDc1MDI2ODY0OSwtMTI1OTM0MDc5MCw5NTEzMjUzNzgs
-LTI2NzY0NDc1NiwtMzg0MzE5MTc0LDg0ODUyNDgzOSwtMTY0Nz
-U1NzkzMSw0Nzg3NDkyOTEsLTE4MjkzNDY3NDMsMTQ1OTEyNTc3
-NCwyMDM1MDkxMjQ0LDQzMDE5ODEyNiwtMTg5ODMzNzExOCwyMD
-QzMzMzNDA3LC02MjE3OTQ1ODksNTQ2MDQ3NDQzLDg4NTQyOTEx
-MV19
+eyJoaXN0b3J5IjpbMTU2OTcxNzQ0MCwyMjM5NTA3NjIsMTgzOD
+QzNDA0MywyNTgxODkxNzksNzUwMjY4NjQ5LC0xMjU5MzQwNzkw
+LDk1MTMyNTM3OCwtMjY3NjQ0NzU2LC0zODQzMTkxNzQsODQ4NT
+I0ODM5LC0xNjQ3NTU3OTMxLDQ3ODc0OTI5MSwtMTgyOTM0Njc0
+MywxNDU5MTI1Nzc0LDIwMzUwOTEyNDQsNDMwMTk4MTI2LC0xOD
+k4MzM3MTE4LDIwNDMzMzM0MDcsLTYyMTc5NDU4OSw1NDYwNDc0
+NDNdfQ==
 -->
