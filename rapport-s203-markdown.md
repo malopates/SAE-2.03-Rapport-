@@ -235,8 +235,7 @@ Quel a été le premier nom de code utilisé ?
 Quelle était le numéro de version de cette distribution ?
     
 :   -  Son numéro de version était 1.1
-    Dernier nom de code attribué
-    
+  [Source](https://www.debian.org/doc/manuals/project-history/releases.en.html)  
 
 Quel est le dernier nom de code annoncée à ce jour ?
     
@@ -579,11 +578,11 @@ wget -O gitea https://dl.gitea.com/gitea/main-nightly/gitea-main-nightly-linux-a
 *recopier commandes changer 1..giteaAsc ..gitea*  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Mzg1OTIyMDcsODQ4NTI0ODM5LC0xNj
-Q3NTU3OTMxLDQ3ODc0OTI5MSwtMTgyOTM0Njc0MywxNDU5MTI1
-Nzc0LDIwMzUwOTEyNDQsNDMwMTk4MTI2LC0xODk4MzM3MTE4LD
-IwNDMzMzM0MDcsLTYyMTc5NDU4OSw1NDYwNDc0NDMsODg1NDI5
-MTExLC0xODM1NjU3MDY4LDI2ODI5NTg4OCw0OTgyMTA5MTUsMT
-A3Nzg0NzEzOSwtMTg1Mjc2Mzk3OSwtODQ5NDA2MDc3LC0xNjk1
-MjI0MTExXX0=
+eyJoaXN0b3J5IjpbLTg1NTk4MDAwOCw4NDg1MjQ4MzksLTE2ND
+c1NTc5MzEsNDc4NzQ5MjkxLC0xODI5MzQ2NzQzLDE0NTkxMjU3
+NzQsMjAzNTA5MTI0NCw0MzAxOTgxMjYsLTE4OTgzMzcxMTgsMj
+A0MzMzMzQwNywtNjIxNzk0NTg5LDU0NjA0NzQ0Myw4ODU0Mjkx
+MTEsLTE4MzU2NTcwNjgsMjY4Mjk1ODg4LDQ5ODIxMDkxNSwxMD
+c3ODQ3MTM5LC0xODUyNzYzOTc5LC04NDk0MDYwNzcsLTE2OTUy
+MjQxMTFdfQ==
 -->
