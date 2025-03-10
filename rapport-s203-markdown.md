@@ -558,8 +558,11 @@ Donnez la version que vous avez installé et la commande permettant d’obtenir 
 
 changement de mdp user git  
 Choisir le fichier adéquat  
-Comme nous sommes sur Linux x64, l'on doit choisir l'outil wget^(logiciel libre permettant le téléchargement d'un fichiermais aussi la recopie en local de tout ou partie d'un site qui sera par la suite consultable hors-ligne. https://doc.ubuntu-fr.org/wget) est installé par défaut dans les dernières versions d'Ubuntu, point fort, celui ci peut tourner en arrière-plan et ainsi nous permettre de lancer un téléchargement et de nous déconnecter du système  
+Comme nous sommes sur Linux x64, l'on doit choisir l'outil wget[^5]  est installé par défaut dans les dernières versions d'Ubuntu, point fort, celui ci peut tourner en arrière-plan et ainsi nous permettre de lancer un téléchargement et de nous déconnecter du système  
+Some text with a footnote.[^1]
 
+[^5]: [Logiciel](https://doc.ubuntu-fr.org/wget
+) libre permettant le téléchargement d'un fichier mais aussi la recopie en local de tout ou partie d'un site qui sera par la suite consultable hors-ligne. 
   pas oublier sudo pour certaines commandes
 
   
@@ -570,11 +573,11 @@ wget -O gitea https://dl.gitea.com/gitea/main-nightly/gitea-main-nightly-linux-a
 *recopier commandes changer 1..giteaAsc ..gitea*  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTkzNDA3OTAsOTUxMzI1Mzc4LC0yNj
-c2NDQ3NTYsLTM4NDMxOTE3NCw4NDg1MjQ4MzksLTE2NDc1NTc5
-MzEsNDc4NzQ5MjkxLC0xODI5MzQ2NzQzLDE0NTkxMjU3NzQsMj
-AzNTA5MTI0NCw0MzAxOTgxMjYsLTE4OTgzMzcxMTgsMjA0MzMz
-MzQwNywtNjIxNzk0NTg5LDU0NjA0NzQ0Myw4ODU0MjkxMTEsLT
-E4MzU2NTcwNjgsMjY4Mjk1ODg4LDQ5ODIxMDkxNSwxMDc3ODQ3
-MTM5XX0=
+eyJoaXN0b3J5IjpbMTExMDUxODUzMSwtMTI1OTM0MDc5MCw5NT
+EzMjUzNzgsLTI2NzY0NDc1NiwtMzg0MzE5MTc0LDg0ODUyNDgz
+OSwtMTY0NzU1NzkzMSw0Nzg3NDkyOTEsLTE4MjkzNDY3NDMsMT
+Q1OTEyNTc3NCwyMDM1MDkxMjQ0LDQzMDE5ODEyNiwtMTg5ODMz
+NzExOCwyMDQzMzMzNDA3LC02MjE3OTQ1ODksNTQ2MDQ3NDQzLD
+g4NTQyOTExMSwtMTgzNTY1NzA2OCwyNjgyOTU4ODgsNDk4MjEw
+OTE1XX0=
 -->
