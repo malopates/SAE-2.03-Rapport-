@@ -555,11 +555,8 @@ Donnez la version que vous avez installé et la commande permettant d’obtenir 
 
  Comment faire pour mettre à jour le binaire de votre service sans devoir tout reconfigurer ? Essayez en mettant à jour vers la version `1.24-dev`.
 : -  
-
-changement de mdp user git  
-Choisir le fichier adéquat  
-Comme nous sommes sur Linux x64, l'on doit choisir l'outil wget[^5]  est installé par défaut dans les dernières versions d'Ubuntu, point fort, celui ci peut tourner en arrière-plan et ainsi nous permettre de lancer un téléchargement et de nous déconnecter du système  
-Some text with a footnote.[^1]
+1. Choisir le fichier adéquat
+Comme nous sommes sur **Linux x64**, l'on doit choisir l'outil wget[^5]  est installé par défaut dans les dernières versions d'Ubuntu, point fort, celui ci peut tourner en arrière-plan et ainsi nous permettre de lancer un téléchargement et de nous déconnecter du système.
 
 [^5]: [Logiciel](https://doc.ubuntu-fr.org/wget
 ) libre permettant le téléchargement d'un fichier mais aussi la recopie en local de tout ou partie d'un site qui sera par la suite consultable hors-ligne. 
@@ -571,13 +568,13 @@ wget -O gitea https://dl.gitea.com/gitea/main-nightly/gitea-main-nightly-linux-a
 (l'option -O afin de préciser le nom du fichier de destination, concaténant les documents dans un même fichier renseigné après l'option)
 
 *recopier commandes changer 1..giteaAsc ..gitea*  
-
+changement de mdp user git  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMDUxODUzMSwtMTI1OTM0MDc5MCw5NT
-EzMjUzNzgsLTI2NzY0NDc1NiwtMzg0MzE5MTc0LDg0ODUyNDgz
-OSwtMTY0NzU1NzkzMSw0Nzg3NDkyOTEsLTE4MjkzNDY3NDMsMT
-Q1OTEyNTc3NCwyMDM1MDkxMjQ0LDQzMDE5ODEyNiwtMTg5ODMz
-NzExOCwyMDQzMzMzNDA3LC02MjE3OTQ1ODksNTQ2MDQ3NDQzLD
-g4NTQyOTExMSwtMTgzNTY1NzA2OCwyNjgyOTU4ODgsNDk4MjEw
-OTE1XX0=
+eyJoaXN0b3J5IjpbNzUwMjY4NjQ5LC0xMjU5MzQwNzkwLDk1MT
+MyNTM3OCwtMjY3NjQ0NzU2LC0zODQzMTkxNzQsODQ4NTI0ODM5
+LC0xNjQ3NTU3OTMxLDQ3ODc0OTI5MSwtMTgyOTM0Njc0MywxND
+U5MTI1Nzc0LDIwMzUwOTEyNDQsNDMwMTk4MTI2LC0xODk4MzM3
+MTE4LDIwNDMzMzM0MDcsLTYyMTc5NDU4OSw1NDYwNDc0NDMsOD
+g1NDI5MTExLC0xODM1NjU3MDY4LDI2ODI5NTg4OCw0OTgyMTA5
+MTVdfQ==
 -->
