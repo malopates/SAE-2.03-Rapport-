@@ -258,7 +258,7 @@ Quelle est la version de cette distribution ?
 :   -  C’est le nom de code de Debian 13, qui est le « testing » actuel.
 
 _Sources :_
-[Source](https://www.debian.org/doc/manuals/debian-faq/basic-defs.fr.html#pronunciation)  
+[Doc Debian](https://www.debian.org/doc/manuals/debian-faq/basic-defs.fr.html#pronunciation)  
 
 [Source](https://wiki.debian.org/fr/DebianOldStable)  
 
@@ -584,11 +584,11 @@ wget -O gitea https://dl.gitea.com/gitea/main-nightly/gitea-main-nightly-linux-a
 *recopier commandes changer 1..giteaAsc ..gitea*  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjkzNDY3NDMsMTQ1OTEyNTc3NCwyMD
-M1MDkxMjQ0LDQzMDE5ODEyNiwtMTg5ODMzNzExOCwyMDQzMzMz
-NDA3LC02MjE3OTQ1ODksNTQ2MDQ3NDQzLDg4NTQyOTExMSwtMT
-gzNTY1NzA2OCwyNjgyOTU4ODgsNDk4MjEwOTE1LDEwNzc4NDcx
-MzksLTE4NTI3NjM5NzksLTg0OTQwNjA3NywtMTY5NTIyNDExMS
-wtMTcxNDQ4NzM5Miw4MDUwMTU5NzAsLTExNTM0Njc2ODksLTQ0
-MDk5NDI5Ml19
+eyJoaXN0b3J5IjpbNDc4NzQ5MjkxLC0xODI5MzQ2NzQzLDE0NT
+kxMjU3NzQsMjAzNTA5MTI0NCw0MzAxOTgxMjYsLTE4OTgzMzcx
+MTgsMjA0MzMzMzQwNywtNjIxNzk0NTg5LDU0NjA0NzQ0Myw4OD
+U0MjkxMTEsLTE4MzU2NTcwNjgsMjY4Mjk1ODg4LDQ5ODIxMDkx
+NSwxMDc3ODQ3MTM5LC0xODUyNzYzOTc5LC04NDk0MDYwNzcsLT
+E2OTUyMjQxMTEsLTE3MTQ0ODczOTIsODA1MDE1OTcwLC0xMTUz
+NDY3Njg5XX0=
 -->
