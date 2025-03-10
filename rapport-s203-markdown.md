@@ -551,11 +551,11 @@ wget -O giteaAsc...
 
 Donnez la version que vous avez installé et la commande permettant d’obtenir cette information.
  :  -  Pour obtenir la version de gitea installée, `gitea -v`
-
 [Source](https://docs.gitea.com/administration/command-line)
 
  Comment faire pour mettre à jour le binaire de votre service sans devoir tout reconfigurer ? Essayez en mettant à jour vers la version `1.24-dev`.
 : -  
+
 changement de mdp user git  
   
 
@@ -574,7 +574,7 @@ wget -O gitea https://dl.gitea.com/gitea/main-nightly/gitea-main-nightly-linux-a
 *recopier commandes changer 1..giteaAsc ..gitea*  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1OTE5OTU0Niw4NDg1MjQ4MzksLTE2ND
+eyJoaXN0b3J5IjpbLTM4NDMxOTE3NCw4NDg1MjQ4MzksLTE2ND
 c1NTc5MzEsNDc4NzQ5MjkxLC0xODI5MzQ2NzQzLDE0NTkxMjU3
 NzQsMjAzNTA5MTI0NCw0MzAxOTgxMjYsLTE4OTgzMzcxMTgsMj
 A0MzMzMzQwNywtNjIxNzk0NTg5LDU0NjA0NzQ0Myw4ODU0Mjkx
