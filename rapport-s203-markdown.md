@@ -576,12 +576,18 @@ changement de mdp user git
 - préciser ce qu'on a pas fait 
 - expliquer la ligne de commande pandoc + installation
 - rajouter des captions pour les tableaux https://pandoc.org/chunkedhtml-demo/8.9-tables.html
+rajouter -toc dans le readme !!! :(
+
+pandoc
+`-N
+
+Number section headings in LaTeX, ConTeXt, HTML, Docx, ms, or EPUB output. By default, sections are not numbered. Sections with class `unnumbered` will never be numbered, even if [`--number-sections`](https://pandoc.org/MANUAL.html#option--number-sections) is specified.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2OTcxNzQ0MCwyMjM5NTA3NjIsMTgzOD
-QzNDA0MywyNTgxODkxNzksNzUwMjY4NjQ5LC0xMjU5MzQwNzkw
-LDk1MTMyNTM3OCwtMjY3NjQ0NzU2LC0zODQzMTkxNzQsODQ4NT
-I0ODM5LC0xNjQ3NTU3OTMxLDQ3ODc0OTI5MSwtMTgyOTM0Njc0
-MywxNDU5MTI1Nzc0LDIwMzUwOTEyNDQsNDMwMTk4MTI2LC0xOD
-k4MzM3MTE4LDIwNDMzMzM0MDcsLTYyMTc5NDU4OSw1NDYwNDc0
-NDNdfQ==
+eyJoaXN0b3J5IjpbLTIwOTEyMzYxMzIsMjIzOTUwNzYyLDE4Mz
+g0MzQwNDMsMjU4MTg5MTc5LDc1MDI2ODY0OSwtMTI1OTM0MDc5
+MCw5NTEzMjUzNzgsLTI2NzY0NDc1NiwtMzg0MzE5MTc0LDg0OD
+UyNDgzOSwtMTY0NzU1NzkzMSw0Nzg3NDkyOTEsLTE4MjkzNDY3
+NDMsMTQ1OTEyNTc3NCwyMDM1MDkxMjQ0LDQzMDE5ODEyNiwtMT
+g5ODMzNzExOCwyMDQzMzMzNDA3LC02MjE3OTQ1ODksNTQ2MDQ3
+NDQzXX0=
 -->
