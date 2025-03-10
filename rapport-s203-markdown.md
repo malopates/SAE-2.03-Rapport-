@@ -264,15 +264,15 @@ _Sources :_
 
 [Source](https://wiki.debian.org/fr/LTS/Extended)  
 
-[https://www.debian.org/security/faq#lifespan](https://www.debian.org/security/faq#lifespan)  
+[Source](https://www.debian.org/security/faq#lifespan)  
 
-[https://wiki.debian.org/DebianReleases#Codenames](https://wiki.debian.org/DebianReleases#Codenames)  
+[Source](https://wiki.debian.org/DebianReleases#Codenames)  
 
-[https://wiki.debian.org/DebianBullseye#Architectures](https://wiki.debian.org/DebianBullseye#Architectures)  
+[Source](https://wiki.debian.org/DebianBullseye#Architectures)  
 
-[https://www.debian.org/doc/manuals/project-history/releases.en.html](https://www.debian.org/doc/manuals/project-history/releases.en.html)  
+[Source](https://www.debian.org/doc/manuals/project-history/releases.en.html)  
 
-[https://wiki.debian.org/DebianTrixie?highlight=%28CategoryRelease%29](https://wiki.debian.org/DebianTrixie?highlight=%28CategoryRelease%29)  
+[Source](https://wiki.debian.org/DebianTrixie?highlight=%28CategoryRelease%29)  
 
 
 ### *Ajustement de la pré-configuration*
@@ -586,11 +586,11 @@ wget -O gitea https://dl.gitea.com/gitea/main-nightly/gitea-main-nightly-linux-a
 *recopier commandes changer 1..giteaAsc ..gitea*  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMzc5MjQyNyw0MzAxOTgxMjYsLTE4OT
-gzMzcxMTgsMjA0MzMzMzQwNywtNjIxNzk0NTg5LDU0NjA0NzQ0
-Myw4ODU0MjkxMTEsLTE4MzU2NTcwNjgsMjY4Mjk1ODg4LDQ5OD
-IxMDkxNSwxMDc3ODQ3MTM5LC0xODUyNzYzOTc5LC04NDk0MDYw
-NzcsLTE2OTUyMjQxMTEsLTE3MTQ0ODczOTIsODA1MDE1OTcwLC
-0xMTUzNDY3Njg5LC00NDA5OTQyOTIsMjExNDE1MTQ0NSwtMTMz
-MDk1NDk3Ml19
+eyJoaXN0b3J5IjpbLTE1Nzc1NTAxNjEsNDMwMTk4MTI2LC0xOD
+k4MzM3MTE4LDIwNDMzMzM0MDcsLTYyMTc5NDU4OSw1NDYwNDc0
+NDMsODg1NDI5MTExLC0xODM1NjU3MDY4LDI2ODI5NTg4OCw0OT
+gyMTA5MTUsMTA3Nzg0NzEzOSwtMTg1Mjc2Mzk3OSwtODQ5NDA2
+MDc3LC0xNjk1MjI0MTExLC0xNzE0NDg3MzkyLDgwNTAxNTk3MC
+wtMTE1MzQ2NzY4OSwtNDQwOTk0MjkyLDIxMTQxNTE0NDUsLTEz
+MzA5NTQ5NzJdfQ==
 -->
