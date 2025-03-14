@@ -349,7 +349,8 @@ Pour le choix de l'éditeur, je préfére travailler sur navigateur afin de m'é
 
 En parralèle, Ulysse s'est penché sur **pandoc**, et a exporté ses réponses sous le format .md puis compilé en HTML avec la commande:
 
-`pandoc.exe rapport-s203-markdown.md -o rapport-s203.html`
+`pandoc rapport-s203-markdown.md -o rapport-s203.html`
+
 
 ![Capture d'écran du rapport d'Ulysse](https://cdn.discordapp.com/attachments/1339313007641235487/1344963770484654191/Capture_du_2025-02-28_10-24-361.png?ex=67c2d29f&is=67c1811f&hm=d3bd37ace3b798ba34e9429abc5f3d6c0a048557bb8459c1a110ee731556ad90&)
 
@@ -568,7 +569,6 @@ wget -O gitea https://dl.gitea.com/gitea/main-nightly/gitea-main-nightly-linux-a
 changement de mdp user git  
 
 **corrections Carle :** 
-- revoir le readme pour qu'il colle bien, en markdown si .md
 - décrire chaque ligne de commandes 
 - préciser ce qu'on a pas fait 
 - expliquer la ligne de commande pandoc + installation
@@ -587,11 +587,11 @@ Mettre des extensions pandocs
 
 /!\ changer réponse première version debian !! avec texte en parenthèse
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjg5MDM4NjcsLTE4MTQ1MjA4NywtOT
-g5NjE4NjgxLC0xNjY5NTM0ODIsLTc3MTE3Njk1MywtMjk4MTgz
-NDI2LC0xMTM1MDI4MTI4LDIyMzk1MDc2MiwxODM4NDM0MDQzLD
-I1ODE4OTE3OSw3NTAyNjg2NDksLTEyNTkzNDA3OTAsOTUxMzI1
-Mzc4LC0yNjc2NDQ3NTYsLTM4NDMxOTE3NCw4NDg1MjQ4MzksLT
-E2NDc1NTc5MzEsNDc4NzQ5MjkxLC0xODI5MzQ2NzQzLDE0NTkx
-MjU3NzRdfQ==
+eyJoaXN0b3J5IjpbNzY4MjM5ODE2LC0xODE0NTIwODcsLTk4OT
+YxODY4MSwtMTY2OTUzNDgyLC03NzExNzY5NTMsLTI5ODE4MzQy
+NiwtMTEzNTAyODEyOCwyMjM5NTA3NjIsMTgzODQzNDA0MywyNT
+gxODkxNzksNzUwMjY4NjQ5LC0xMjU5MzQwNzkwLDk1MTMyNTM3
+OCwtMjY3NjQ0NzU2LC0zODQzMTkxNzQsODQ4NTI0ODM5LC0xNj
+Q3NTU3OTMxLDQ3ODc0OTI5MSwtMTgyOTM0Njc0MywxNDU5MTI1
+Nzc0XX0=
 -->
