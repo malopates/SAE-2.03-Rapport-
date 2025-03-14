@@ -351,7 +351,9 @@ En parralèle, Ulysse s'est penché sur **pandoc**, et a exporté ses réponses 
 
 `pandoc rapport-s203-markdown.md -o rapport-s203.html`
 
-Si le type de fichier de sortie n'est pas précisé, pandoc interprètera l'extension de celui
+>Si le type de fichier de sortie n'est pas précisé, pandoc interprètera le format dans l'extension du nom de fichier. 
+
+-o précis
 
 ![Capture d'écran du rapport d'Ulysse](https://cdn.discordapp.com/attachments/1339313007641235487/1344963770484654191/Capture_du_2025-02-28_10-24-361.png?ex=67c2d29f&is=67c1811f&hm=d3bd37ace3b798ba34e9429abc5f3d6c0a048557bb8459c1a110ee731556ad90&)
 
@@ -588,11 +590,11 @@ Mettre des extensions pandocs
 
 /!\ changer réponse première version debian !! avec texte en parenthèse
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjI4MzgzNDEsLTE4MTQ1MjA4NywtOT
-g5NjE4NjgxLC0xNjY5NTM0ODIsLTc3MTE3Njk1MywtMjk4MTgz
-NDI2LC0xMTM1MDI4MTI4LDIyMzk1MDc2MiwxODM4NDM0MDQzLD
-I1ODE4OTE3OSw3NTAyNjg2NDksLTEyNTkzNDA3OTAsOTUxMzI1
-Mzc4LC0yNjc2NDQ3NTYsLTM4NDMxOTE3NCw4NDg1MjQ4MzksLT
-E2NDc1NTc5MzEsNDc4NzQ5MjkxLC0xODI5MzQ2NzQzLDE0NTkx
-MjU3NzRdfQ==
+eyJoaXN0b3J5IjpbMTAyMDI4NDI5MCwtMTgxNDUyMDg3LC05OD
+k2MTg2ODEsLTE2Njk1MzQ4MiwtNzcxMTc2OTUzLC0yOTgxODM0
+MjYsLTExMzUwMjgxMjgsMjIzOTUwNzYyLDE4Mzg0MzQwNDMsMj
+U4MTg5MTc5LDc1MDI2ODY0OSwtMTI1OTM0MDc5MCw5NTEzMjUz
+NzgsLTI2NzY0NDc1NiwtMzg0MzE5MTc0LDg0ODUyNDgzOSwtMT
+Y0NzU1NzkzMSw0Nzg3NDkyOTEsLTE4MjkzNDY3NDMsMTQ1OTEy
+NTc3NF19
 -->
