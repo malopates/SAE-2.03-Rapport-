@@ -560,7 +560,6 @@ Comme nous sommes sur **Linux x64**, l'on doit choisir l'outil wget[^5]  est ins
 [^5]: [Logiciel](https://doc.ubuntu-fr.org/wget) libre permettant le téléchargement d'un fichier mais aussi la recopie en local de tout ou partie d'un site qui sera par la suite consultable hors-ligne. 
   pas oublier sudo pour certaines commandes
 
-  
 wget -O gitea https://dl.gitea.com/gitea/main-nightly/gitea-main-nightly-linux-amd64 chmod +x gitea  
  
 (l'option -O afin de préciser le nom du fichier de destination, concaténant les documents dans un même fichier renseigné après l'option)
@@ -569,7 +568,6 @@ wget -O gitea https://dl.gitea.com/gitea/main-nightly/gitea-main-nightly-linux-a
 changement de mdp user git  
 
 **corrections Carle :** 
-- pas besoin de .git
 - revoir le readme pour qu'il colle bien, en markdown si .md
 - décrire chaque ligne de commandes 
 - préciser ce qu'on a pas fait 
@@ -589,11 +587,11 @@ Mettre des extensions pandocs
 
 /!\ changer réponse première version debian !! avec texte en parenthèse
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTQ1MjA4NywtOTg5NjE4NjgxLC0xNj
-Y5NTM0ODIsLTc3MTE3Njk1MywtMjk4MTgzNDI2LC0xMTM1MDI4
-MTI4LDIyMzk1MDc2MiwxODM4NDM0MDQzLDI1ODE4OTE3OSw3NT
-AyNjg2NDksLTEyNTkzNDA3OTAsOTUxMzI1Mzc4LC0yNjc2NDQ3
-NTYsLTM4NDMxOTE3NCw4NDg1MjQ4MzksLTE2NDc1NTc5MzEsND
-c4NzQ5MjkxLC0xODI5MzQ2NzQzLDE0NTkxMjU3NzQsMjAzNTA5
-MTI0NF19
+eyJoaXN0b3J5IjpbLTEyNjg5MDM4NjcsLTE4MTQ1MjA4NywtOT
+g5NjE4NjgxLC0xNjY5NTM0ODIsLTc3MTE3Njk1MywtMjk4MTgz
+NDI2LC0xMTM1MDI4MTI4LDIyMzk1MDc2MiwxODM4NDM0MDQzLD
+I1ODE4OTE3OSw3NTAyNjg2NDksLTEyNTkzNDA3OTAsOTUxMzI1
+Mzc4LC0yNjc2NDQ3NTYsLTM4NDMxOTE3NCw4NDg1MjQ4MzksLT
+E2NDc1NTc5MzEsNDc4NzQ5MjkxLC0xODI5MzQ2NzQzLDE0NTkx
+MjU3NzRdfQ==
 -->
