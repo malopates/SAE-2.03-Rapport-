@@ -293,12 +293,10 @@ Pour automatiser cette sélection et installation, on va utiliser la ligne de co
 ![](https://media.discordapp.net/attachments/861363773901635646/1345003034169577514/34be8daa4b5249e5.png?ex=67c2f730&is=67c1a5b0&hm=0c12dbf9965c91c7541f0f77f56ed1ae7e923a8f1c77a253e72513f0e3e3c831&=&format=webp&quality=lossless&width=1440&height=207)
 (A noter qu’il n’y a pas besoin d’écrire « d-i » au début de la commande)
 
-3. Installation des paquets supplémentaire :
+3. **Installation des paquets supplémentaire :**
 
 Pour installer des paquets non présents dans le tasksel, on va utiliser la commande ``` d-i pkgsel/include``` et, à la suite de « string », on va renseigner les différents paquets à installer, soit :
-
 ![](https://media.discordapp.net/attachments/861363773901635646/1345003005614751786/8eb0211196a577b2.png?ex=67c2f729&is=67c1a5a9&hm=9422127e5508a4c2dfbec7cca352f639cd09cf661cb30f39d53e366a4f0d9f57&=&format=webp&quality=lossless&width=1440&height=99)
-
 • sudo
 
 • git
@@ -588,11 +586,11 @@ Mettre des extensions pandocs
 
 /!\ changer réponse première version debian !! avec texte en parenthèse
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3MTU2MTAwOCw3NTAyMzYwNzksMTYzOD
-ExNjI2NiwxMDA2ODAzNDcwLC0xOTU4MzM2OTMxLC0xODE0NTIw
-ODcsLTk4OTYxODY4MSwtMTY2OTUzNDgyLC03NzExNzY5NTMsLT
-I5ODE4MzQyNiwtMTEzNTAyODEyOCwyMjM5NTA3NjIsMTgzODQz
-NDA0MywyNTgxODkxNzksNzUwMjY4NjQ5LC0xMjU5MzQwNzkwLD
-k1MTMyNTM3OCwtMjY3NjQ0NzU2LC0zODQzMTkxNzQsODQ4NTI0
-ODM5XX0=
+eyJoaXN0b3J5IjpbMTk1MjcyNTUyMCwtNTcxNTYxMDA4LDc1MD
+IzNjA3OSwxNjM4MTE2MjY2LDEwMDY4MDM0NzAsLTE5NTgzMzY5
+MzEsLTE4MTQ1MjA4NywtOTg5NjE4NjgxLC0xNjY5NTM0ODIsLT
+c3MTE3Njk1MywtMjk4MTgzNDI2LC0xMTM1MDI4MTI4LDIyMzk1
+MDc2MiwxODM4NDM0MDQzLDI1ODE4OTE3OSw3NTAyNjg2NDksLT
+EyNTkzNDA3OTAsOTUxMzI1Mzc4LC0yNjc2NDQ3NTYsLTM4NDMx
+OTE3NF19
 -->
