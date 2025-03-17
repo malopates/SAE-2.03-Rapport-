@@ -372,8 +372,7 @@ En parralèle, Ulysse s'est penché sur **pandoc**, et a exporté ses réponses 
 
 ### *Qu'est-ce que git ?*
 
-Git est un logiciel de gestion de versions décentralisé (DVCS) qui se différencie des autres VCS
-par sa vison des données comme une série de snapshots, au lieu de simplement y voir des fichiers et les changements qu'on leur applique.
+Git est un logiciel de gestion de versions décentralisé (DVCS) qui se différencie des autres VCS par sa vison des données comme une série de snapshots, au lieu de simplement y voir des fichiers et les changements qu'on leur applique.
 Git sépare le travail en trois espaces : le dossier de travail, un index auquel on ajoute les changements et un dépôt .git, sur lequel on enverra les changements définitifs.
 
 [Source](https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F)
@@ -590,11 +589,11 @@ Mettre des extensions pandocs
 
 /!\ changer réponse première version debian !! avec texte en parenthèse
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTgzMzY5MzEsLTE4MTQ1MjA4NywtOT
-g5NjE4NjgxLC0xNjY5NTM0ODIsLTc3MTE3Njk1MywtMjk4MTgz
-NDI2LC0xMTM1MDI4MTI4LDIyMzk1MDc2MiwxODM4NDM0MDQzLD
-I1ODE4OTE3OSw3NTAyNjg2NDksLTEyNTkzNDA3OTAsOTUxMzI1
-Mzc4LC0yNjc2NDQ3NTYsLTM4NDMxOTE3NCw4NDg1MjQ4MzksLT
-E2NDc1NTc5MzEsNDc4NzQ5MjkxLC0xODI5MzQ2NzQzLDE0NTkx
-MjU3NzRdfQ==
+eyJoaXN0b3J5IjpbLTIxNDI0NTM4OTMsLTE5NTgzMzY5MzEsLT
+E4MTQ1MjA4NywtOTg5NjE4NjgxLC0xNjY5NTM0ODIsLTc3MTE3
+Njk1MywtMjk4MTgzNDI2LC0xMTM1MDI4MTI4LDIyMzk1MDc2Mi
+wxODM4NDM0MDQzLDI1ODE4OTE3OSw3NTAyNjg2NDksLTEyNTkz
+NDA3OTAsOTUxMzI1Mzc4LC0yNjc2NDQ3NTYsLTM4NDMxOTE3NC
+w4NDg1MjQ4MzksLTE2NDc1NTc5MzEsNDc4NzQ5MjkxLC0xODI5
+MzQ2NzQzXX0=
 -->
