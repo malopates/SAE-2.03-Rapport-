@@ -563,9 +563,9 @@ Comme nous sommes sur **Linux x64**, l'on doit choisir l'outil wget[^5]  est ins
 
 [^5]: [Logiciel](https://doc.ubuntu-fr.org/wget) libre permettant le téléchargement d'un fichier mais aussi la recopie en local de tout ou partie d'un site qui sera par la suite consultable hors-ligne. 
   pas oublier sudo pour certaines commandes
-
+```
 wget -O gitea https://dl.gitea.com/gitea/main-nightly/gitea-main-nightly-linux-amd64 chmod chmod +x gitea  
- 
+ ```
 > l'option -O précise le nom du fichier de destination, concaténant les documents dans un même fichier renseigné après l'option
 
 *recopier commandes changer 1..giteaAsc ..gitea*  
@@ -590,11 +590,11 @@ Mettre des extensions pandocs
 
 /!\ changer réponse première version debian !! avec texte en parenthèse
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3NjYwOTYwNSwxNjM4MTE2MjY2LDEwMD
-Y4MDM0NzAsLTE5NTgzMzY5MzEsLTE4MTQ1MjA4NywtOTg5NjE4
-NjgxLC0xNjY5NTM0ODIsLTc3MTE3Njk1MywtMjk4MTgzNDI2LC
-0xMTM1MDI4MTI4LDIyMzk1MDc2MiwxODM4NDM0MDQzLDI1ODE4
-OTE3OSw3NTAyNjg2NDksLTEyNTkzNDA3OTAsOTUxMzI1Mzc4LC
-0yNjc2NDQ3NTYsLTM4NDMxOTE3NCw4NDg1MjQ4MzksLTE2NDc1
-NTc5MzFdfQ==
+eyJoaXN0b3J5IjpbNzUwMjM2MDc5LDE2MzgxMTYyNjYsMTAwNj
+gwMzQ3MCwtMTk1ODMzNjkzMSwtMTgxNDUyMDg3LC05ODk2MTg2
+ODEsLTE2Njk1MzQ4MiwtNzcxMTc2OTUzLC0yOTgxODM0MjYsLT
+ExMzUwMjgxMjgsMjIzOTUwNzYyLDE4Mzg0MzQwNDMsMjU4MTg5
+MTc5LDc1MDI2ODY0OSwtMTI1OTM0MDc5MCw5NTEzMjUzNzgsLT
+I2NzY0NDc1NiwtMzg0MzE5MTc0LDg0ODUyNDgzOSwtMTY0NzU1
+NzkzMV19
 -->
