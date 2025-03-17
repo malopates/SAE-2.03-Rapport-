@@ -445,7 +445,7 @@ Pourquoi avez-vous choisi ce logiciel ?
 
 :   -   **Ulysse** : J’ai choisi premièrement d’installer le logiciel gitnuro, parce qu’il est disponible sur Linux, Mac et Windows, qu’il est gratuit, open-source et qu’il n’est pas propriétaire, mais sous la license GNU GPL, en outre de son apparence. 
 
-Comment l'avez vous installé ?
+Comment avez vous installé gitnuro ?
 
 :   -   **Louis** :  Comme le paquet git a déjà été installé sur la machine grâce à l'éxécution du preseed de 
 la semaine 1, nous n'avons plus qu'à configurer le logiciel. Pour cela, il suffit d'utiliser
@@ -589,11 +589,11 @@ Mettre des extensions pandocs
 
 /!\ changer réponse première version debian !! avec texte en parenthèse
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDI0NTM4OTMsLTE5NTgzMzY5MzEsLT
-E4MTQ1MjA4NywtOTg5NjE4NjgxLC0xNjY5NTM0ODIsLTc3MTE3
-Njk1MywtMjk4MTgzNDI2LC0xMTM1MDI4MTI4LDIyMzk1MDc2Mi
-wxODM4NDM0MDQzLDI1ODE4OTE3OSw3NTAyNjg2NDksLTEyNTkz
-NDA3OTAsOTUxMzI1Mzc4LC0yNjc2NDQ3NTYsLTM4NDMxOTE3NC
-w4NDg1MjQ4MzksLTE2NDc1NTc5MzEsNDc4NzQ5MjkxLC0xODI5
-MzQ2NzQzXX0=
+eyJoaXN0b3J5IjpbLTEyMTQ1OTY1OCwtMTk1ODMzNjkzMSwtMT
+gxNDUyMDg3LC05ODk2MTg2ODEsLTE2Njk1MzQ4MiwtNzcxMTc2
+OTUzLC0yOTgxODM0MjYsLTExMzUwMjgxMjgsMjIzOTUwNzYyLD
+E4Mzg0MzQwNDMsMjU4MTg5MTc5LDc1MDI2ODY0OSwtMTI1OTM0
+MDc5MCw5NTEzMjUzNzgsLTI2NzY0NDc1NiwtMzg0MzE5MTc0LD
+g0ODUyNDgzOSwtMTY0NzU1NzkzMSw0Nzg3NDkyOTEsLTE4Mjkz
+NDY3NDNdfQ==
 -->
