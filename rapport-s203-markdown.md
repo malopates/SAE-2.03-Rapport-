@@ -266,7 +266,7 @@ _Sources complémentaires :_
 
 Pour cette partie, il faut effectuer les modifications associées à preseed.cfg :
 
-1. Modifier les groupe de « user » :
+1. **Modifier les groupe de « user » :**
 
 Pour ce faire, on a remplacé la ligne :
 
@@ -276,17 +276,15 @@ par la ligne :
 
 ```d-i passwd/user-default-groups string sudo audio cdrom video```
 
-_Explication de la commande :_
+>« d-i » est une abréviation pour « debian installer »
 
--« d-i » est une abréviation pour « debian installer »
+>passwd/user-default-groups est le fichier qui contient les groupe assignés par défaut à l’utilisateur par défaut, ici « user ». Cela a des conséquences uniquement sur cet utilisateur, et non ceux créés ultérieurement.
 
--passwd/user-default-groups est le fichier qui contient les groupe assignés par défaut à l’utilisateur par défaut, ici « user ». Cela a des conséquences uniquement sur cet utilisateur, et non ceux créés ultérieurement.
+>les termes suivant « string » et séparés d’un espace sont les groupes auquel « user » sera automatiquement ajouté, c’est pour cela que l’on a rajouté « sudo ».
 
--les termes suivant « string » et séparés d’un espace sont les groupes auquel « user » sera automatiquement ajouté, c’est pour cela que l’on a rajouté « sudo ».
+[Source : Debian](https://www.debian.org/releases/stable/amd64/apbs04.fr.html#preseed-account)  
 
-[https://www.debian.org/releases/stable/amd64/apbs04.fr.html#preseed-account](https://www.debian.org/releases/stable/amd64/apbs04.fr.html#preseed-account)  
-
-2. Installation de MATE :
+2. **Installation de MATE :**
 
 MATE est l’un des nombreux paquets que l’on peut sélectionner lors d’une installation graphique manuelle, ou avec la commande tasksel.
 
@@ -590,11 +588,11 @@ Mettre des extensions pandocs
 
 /!\ changer réponse première version debian !! avec texte en parenthèse
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUwMjM2MDc5LDE2MzgxMTYyNjYsMTAwNj
-gwMzQ3MCwtMTk1ODMzNjkzMSwtMTgxNDUyMDg3LC05ODk2MTg2
-ODEsLTE2Njk1MzQ4MiwtNzcxMTc2OTUzLC0yOTgxODM0MjYsLT
-ExMzUwMjgxMjgsMjIzOTUwNzYyLDE4Mzg0MzQwNDMsMjU4MTg5
-MTc5LDc1MDI2ODY0OSwtMTI1OTM0MDc5MCw5NTEzMjUzNzgsLT
-I2NzY0NDc1NiwtMzg0MzE5MTc0LDg0ODUyNDgzOSwtMTY0NzU1
-NzkzMV19
+eyJoaXN0b3J5IjpbLTU3MTU2MTAwOCw3NTAyMzYwNzksMTYzOD
+ExNjI2NiwxMDA2ODAzNDcwLC0xOTU4MzM2OTMxLC0xODE0NTIw
+ODcsLTk4OTYxODY4MSwtMTY2OTUzNDgyLC03NzExNzY5NTMsLT
+I5ODE4MzQyNiwtMTEzNTAyODEyOCwyMjM5NTA3NjIsMTgzODQz
+NDA0MywyNTgxODkxNzksNzUwMjY4NjQ5LC0xMjU5MzQwNzkwLD
+k1MTMyNTM3OCwtMjY3NjQ0NzU2LC0zODQzMTkxNzQsODQ4NTI0
+ODM5XX0=
 -->
