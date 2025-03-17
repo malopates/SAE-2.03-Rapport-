@@ -387,31 +387,32 @@ J'ai utilisé `apt-cache search <name>` pour m'assurer d'utiliser les bon noms d
 
 ### *Installation sur la machine virtuelle*
 
-Il existe plusieurs méthodes d'installer **gitnuro** sur une machine Linux proposées par leur site officiel.
 
-Nous avons décidé d'utilise la ligne de commande :
+:   -   **Louis** :  Comme le paquet git a déjà été installé sur la machine grâce à l'éxécution du preseed de 
+la semaine 1, nous n'avons plus qu'à configurer le logiciel. Pour cela, il suffit d'utiliser
+la commande :
 
-`flatpak install --user com.jetpackduba.Gitnuro`
+		```bash 
+		git config --global user.name "Prénom Nom" &&
+		git config --global user.email "votre@email" &&
+		git config --global init.defaultBranch "master"
+		```
+		 La commande `git config` sert, comme son nom l'indique, à configurer git sur la machine.
+ 
+		L'option `--global`est un des trois niveau de configuration de git :
 
-Mais pour ce faire, il fallait donc installer le paquet `flatpak` avec la commande `apt-get install flatpak`
+		- `--local`: limite la configuration au dépôt dans lequel la fonction est invoquée. 
+C'est la configuration par défaut.
 
-Cependant, n'ayant aucune expérience, il était inévitable de tomber sur une erreur :
+		- `--global`: permet d'étendre la configuration à l'utilisateur, à travers l'entiereté de l'O.S
 
-![Capture d'écran gitnuro](https://cdn.discordapp.com/attachments/861363773901635646/1345079726775074848/b5b6f1b1902b5679.png?ex=67c33e9d&is=67c1ed1d&hm=1d381ace0313cf0f346ff2cfd037af08d7ae17e06894d6411a1d8e88e8089944&)
+		- `--system`: étend la configuration à tous les utilisateurs et tous les dépôts présent sur le système
+ La 3e ligne, `int.defaultBranch "master"` évite un avertissement à la création d'une branche par défaut
 
-Après avoir essayé, en vain, d'utiliser flathub, nous sommes tombés sur [ce post](https://superuser.com/questions/1755709/getting-this-error-when-trying-to-use-flatpak-no-remote-refs-found-similar-to)
+			*Pour plus d'informations, utilisez `man git config` (`&&` permet d'enchaîner les 3 commandes en une seule ligne)*
 
-Qui préconisait l'utilisation de la commande suivante :
+[Sources](https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-config)                                       
 
-`flatpak remote-add --user --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo`
-
-Ainsi, nous n'avons plus eu qu'à réessayer la commande initiale et l'installation a eu lieu sans problème.
-
-Pour lancer gitnuro, il suffit d'utiliser la commande :
-
-`flatpak run com.jetpackduba.Gitnuro`
-
-![Screen flatpak](https://cdn.discordapp.com/attachments/861363773901635646/1345079267356311593/718f9810582fd268.png?ex=67c33e2f&is=67c1ecaf&hm=893bd0046ebf42c972b49e0db82d6fee27eb8ac56d9d7d23956655163eea37a0&)
 
 ###    *Interfaces graphiques pour *git** 
 
@@ -447,30 +448,32 @@ Pourquoi avez-vous choisi ce logiciel ?
 
 Comment avez vous installé gitnuro ?
 
-:   -   **Louis** :  Comme le paquet git a déjà été installé sur la machine grâce à l'éxécution du preseed de 
-la semaine 1, nous n'avons plus qu'à configurer le logiciel. Pour cela, il suffit d'utiliser
-la commande :
+Il existe plusieurs méthodes d'installer **gitnuro** sur une machine Linux proposées par leur site officiel.
 
-		```bash 
-		git config --global user.name "Prénom Nom" &&
-		git config --global user.email "votre@email" &&
-		git config --global init.defaultBranch "master"
-		```
-		 La commande `git config` sert, comme son nom l'indique, à configurer git sur la machine.
- 
-		L'option `--global`est un des trois niveau de configuration de git :
+Nous avons décidé d'utilise la ligne de commande :
 
-		- `--local`: limite la configuration au dépôt dans lequel la fonction est invoquée. 
-C'est la configuration par défaut.
+`flatpak install --user com.jetpackduba.Gitnuro`
 
-		- `--global`: permet d'étendre la configuration à l'utilisateur, à travers l'entiereté de l'O.S
+Mais pour ce faire, il fallait donc installer le paquet `flatpak` avec la commande `apt-get install flatpak`
 
-		- `--system`: étend la configuration à tous les utilisateurs et tous les dépôts présent sur le système
- La 3e ligne, `int.defaultBranch "master"` évite un avertissement à la création d'une branche par défaut
+Cependant, n'ayant aucune expérience, il était inévitable de tomber sur une erreur :
 
-			*Pour plus d'informations, utilisez `man git config` (`&&` permet d'enchaîner les 3 commandes en une seule ligne)*
+![Capture d'écran gitnuro](https://cdn.discordapp.com/attachments/861363773901635646/1345079726775074848/b5b6f1b1902b5679.png?ex=67c33e9d&is=67c1ed1d&hm=1d381ace0313cf0f346ff2cfd037af08d7ae17e06894d6411a1d8e88e8089944&)
 
-[Sources](https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-config)
+Après avoir essayé, en vain, d'utiliser flathub, nous sommes tombés sur [ce post](https://superuser.com/questions/1755709/getting-this-error-when-trying-to-use-flatpak-no-remote-refs-found-similar-to)
+
+Qui préconisait l'utilisation de la commande suivante :
+
+`flatpak remote-add --user --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo`
+
+Ainsi, nous n'avons plus eu qu'à réessayer la commande initiale et l'installation a eu lieu sans problème.
+
+Pour lancer gitnuro, il suffit d'utiliser la commande :
+
+`flatpak run com.jetpackduba.Gitnuro`
+
+![Screen flatpak](https://cdn.discordapp.com/attachments/861363773901635646/1345079267356311593/718f9810582fd268.png?ex=67c33e2f&is=67c1ecaf&hm=893bd0046ebf42c972b49e0db82d6fee27eb8ac56d9d7d23956655163eea37a0&)
+
 
 Comparez-le aux outils inclus avec git (et installé précédemment) ainsi qu’avec ce qui serait fait en ligne de commande pure : fonctionnalités avantages, inconvénients…
 
@@ -589,7 +592,7 @@ Mettre des extensions pandocs
 
 /!\ changer réponse première version debian !! avec texte en parenthèse
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTQ1OTY1OCwtMTk1ODMzNjkzMSwtMT
+eyJoaXN0b3J5IjpbMTAwNjgwMzQ3MCwtMTk1ODMzNjkzMSwtMT
 gxNDUyMDg3LC05ODk2MTg2ODEsLTE2Njk1MzQ4MiwtNzcxMTc2
 OTUzLC0yOTgxODM0MjYsLTExMzUwMjgxMjgsMjIzOTUwNzYyLD
 E4Mzg0MzQwNDMsMjU4MTg5MTc5LDc1MDI2ODY0OSwtMTI1OTM0
