@@ -387,8 +387,7 @@ J'ai utilisé `apt-cache search <name>` pour m'assurer d'utiliser les bon noms d
 
 ### *Installation sur la machine virtuelle*
 
-:   -   **Louis** :  Comme le paquet git a déjà été installé sur la machine grâce à l'éxécution du preseed de 
-la semaine 1, nous n'avons plus qu'à configurer le logiciel. Pour cela, il suffit d'utiliser
+:   -   **Louis** :  Comme le paquet git a déjà été installé sur la machine grâce à l'éxécution du preseed de la semaine 1, nous n'avons plus qu'à configurer le logiciel. Pour cela, il suffit d'utiliser
 la commande :
 
 		```bash 
@@ -591,11 +590,11 @@ Mettre des extensions pandocs
 
 /!\ changer réponse première version debian !! avec texte en parenthèse
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY1NDc2MDI4LDEwMDY4MDM0NzAsLTE5NT
-gzMzY5MzEsLTE4MTQ1MjA4NywtOTg5NjE4NjgxLC0xNjY5NTM0
-ODIsLTc3MTE3Njk1MywtMjk4MTgzNDI2LC0xMTM1MDI4MTI4LD
-IyMzk1MDc2MiwxODM4NDM0MDQzLDI1ODE4OTE3OSw3NTAyNjg2
-NDksLTEyNTkzNDA3OTAsOTUxMzI1Mzc4LC0yNjc2NDQ3NTYsLT
-M4NDMxOTE3NCw4NDg1MjQ4MzksLTE2NDc1NTc5MzEsNDc4NzQ5
-MjkxXX0=
+eyJoaXN0b3J5IjpbMTYzODExNjI2NiwxMDA2ODAzNDcwLC0xOT
+U4MzM2OTMxLC0xODE0NTIwODcsLTk4OTYxODY4MSwtMTY2OTUz
+NDgyLC03NzExNzY5NTMsLTI5ODE4MzQyNiwtMTEzNTAyODEyOC
+wyMjM5NTA3NjIsMTgzODQzNDA0MywyNTgxODkxNzksNzUwMjY4
+NjQ5LC0xMjU5MzQwNzkwLDk1MTMyNTM3OCwtMjY3NjQ0NzU2LC
+0zODQzMTkxNzQsODQ4NTI0ODM5LC0xNjQ3NTU3OTMxLDQ3ODc0
+OTI5MV19
 -->
