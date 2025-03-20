@@ -584,9 +584,8 @@ Number section headings in LaTeX, ConTeXt, HTML, Docx, ms, or EPUB output. By de
 
 Mettre des extensions pandocs
 
-/!\ changer réponse première version debian !! avec texte en parenthèse
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNDI4NDczNywxOTUyNzI1NTIwLC01Nz
+eyJoaXN0b3J5IjpbLTc2MTQ2NDcyMiwxOTUyNzI1NTIwLC01Nz
 E1NjEwMDgsNzUwMjM2MDc5LDE2MzgxMTYyNjYsMTAwNjgwMzQ3
 MCwtMTk1ODMzNjkzMSwtMTgxNDUyMDg3LC05ODk2MTg2ODEsLT
 E2Njk1MzQ4MiwtNzcxMTc2OTUzLC0yOTgxODM0MjYsLTExMzUw
