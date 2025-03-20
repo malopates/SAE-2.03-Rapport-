@@ -554,11 +554,11 @@ Donnez la version que vous avez installé et la commande permettant d’obtenir 
 
  **Comment faire pour mettre à jour le binaire de votre service sans devoir tout reconfigurer ? Essayez en mettant à jour vers la version `1.24-dev`.**
 	
-Choisir le fichier adéquat
-Comme nous sommes sur **Linux x64**, l'on doit choisir l'outil wget[^5]  est installé par défaut dans les dernières versions d'Ubuntu, point fort, celui ci peut tourner en arrière-plan et ainsi nous permettre de lancer un téléchargement et de nous déconnecter du système.
+**Choisir le fichier adéquat**
+Comme nous sommes sur **Linux x64**, l'on doit choisir l'outil wget[^5] , installé par défaut dans les dernières versions d'Ubuntu, point fort, celui-ci peut tourner en arrière-plan et ainsi nous permettre de lancer un téléchargement et de nous déconnecter du système.
 
 [^5]: [Logiciel](https://doc.ubuntu-fr.org/wget) libre permettant le téléchargement d'un fichier mais aussi la recopie en local de tout ou partie d'un site qui sera par la suite consultable hors-ligne. 
-  pas oublier sudo pour certaines commandes
+Il ne faut pas oublier sudo pour certaines commandes
 ```
 wget -O gitea https://dl.gitea.com/gitea/main-nightly/gitea-main-nightly-linux-amd64 chmod chmod +x gitea  
  ```
@@ -586,11 +586,11 @@ Mettre des extensions pandocs
 
 /!\ changer réponse première version debian !! avec texte en parenthèse
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MjcyNTUyMCwtNTcxNTYxMDA4LDc1MD
-IzNjA3OSwxNjM4MTE2MjY2LDEwMDY4MDM0NzAsLTE5NTgzMzY5
-MzEsLTE4MTQ1MjA4NywtOTg5NjE4NjgxLC0xNjY5NTM0ODIsLT
-c3MTE3Njk1MywtMjk4MTgzNDI2LC0xMTM1MDI4MTI4LDIyMzk1
-MDc2MiwxODM4NDM0MDQzLDI1ODE4OTE3OSw3NTAyNjg2NDksLT
-EyNTkzNDA3OTAsOTUxMzI1Mzc4LC0yNjc2NDQ3NTYsLTM4NDMx
-OTE3NF19
+eyJoaXN0b3J5IjpbLTUwNDI4NDczNywxOTUyNzI1NTIwLC01Nz
+E1NjEwMDgsNzUwMjM2MDc5LDE2MzgxMTYyNjYsMTAwNjgwMzQ3
+MCwtMTk1ODMzNjkzMSwtMTgxNDUyMDg3LC05ODk2MTg2ODEsLT
+E2Njk1MzQ4MiwtNzcxMTc2OTUzLC0yOTgxODM0MjYsLTExMzUw
+MjgxMjgsMjIzOTUwNzYyLDE4Mzg0MzQwNDMsMjU4MTg5MTc5LD
+c1MDI2ODY0OSwtMTI1OTM0MDc5MCw5NTEzMjUzNzgsLTI2NzY0
+NDc1Nl19
 -->
