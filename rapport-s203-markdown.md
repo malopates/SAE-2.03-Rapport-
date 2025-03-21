@@ -3,6 +3,7 @@ title: "Rapport SAE 2.03"
 author: ["Louis HUARD","Malori ALVAREZ","Ulysse PETILLON"]
 lang: fr
 toc: true
+geometry: margin=1in
 ---
 
 
@@ -344,7 +345,7 @@ En parralèle, Ulysse s'est penché sur **pandoc**, et a exporté ses réponses 
 
 >Si le type de fichier de sortie n'est pas précisé, pandoc interprètera le format dans l'extension du nom de fichier. 
 
-![Capture d'écran du rapport d'Ulysse](../rsrc_rapport/RapportUlysse.png)
+![Capture d'écran du rapport d'Ulysse](../rsrc_rapport/RapportUlysse.png){ width=40% }
 
 
 ## 3^ème^-semaine 
@@ -576,11 +577,11 @@ Number section headings in LaTeX, ConTeXt, HTML, Docx, ms, or EPUB output. By de
 Mettre des extensions pandocs
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNzU0MDc3OCwtMTYzMTQwMjIwOSwyMT
-A5NDgyMDY5LC0xMTQ2NDM3MDMsLTMwMTg0MTgyOCwxMzg1Mjk5
-NDAyLC03NjE0NjQ3MjIsMTk1MjcyNTUyMCwtNTcxNTYxMDA4LD
-c1MDIzNjA3OSwxNjM4MTE2MjY2LDEwMDY4MDM0NzAsLTE5NTgz
-MzY5MzEsLTE4MTQ1MjA4NywtOTg5NjE4NjgxLC0xNjY5NTM0OD
-IsLTc3MTE3Njk1MywtMjk4MTgzNDI2LC0xMTM1MDI4MTI4LDIy
-Mzk1MDc2Ml19
+eyJoaXN0b3J5IjpbLTU4NjczNDUxMywxMTI3NTQwNzc4LC0xNj
+MxNDAyMjA5LDIxMDk0ODIwNjksLTExNDY0MzcwMywtMzAxODQx
+ODI4LDEzODUyOTk0MDIsLTc2MTQ2NDcyMiwxOTUyNzI1NTIwLC
+01NzE1NjEwMDgsNzUwMjM2MDc5LDE2MzgxMTYyNjYsMTAwNjgw
+MzQ3MCwtMTk1ODMzNjkzMSwtMTgxNDUyMDg3LC05ODk2MTg2OD
+EsLTE2Njk1MzQ4MiwtNzcxMTc2OTUzLC0yOTgxODM0MjYsLTEx
+MzUwMjgxMjhdfQ==
 -->
