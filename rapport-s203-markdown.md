@@ -463,7 +463,7 @@ Pour lancer gitnuro, il suffit d'utiliser la commande :
 
 `flatpak run com.jetpackduba.Gitnuro`
 
-![Screen flatpak](https://cdn.discordapp.com/attachments/861363773901635646/1345079267356311593/718f9810582fd268.png?ex=67c33e2f&is=67c1ecaf&hm=893bd0046ebf42c972b49e0db82d6fee27eb8ac56d9d7d23956655163eea37a0&)
+![Screen flatpak](../rsrc_rapport/flatpak.png)
 
 
 Comparez-le aux outils inclus avec git (et installé précédemment) ainsi qu’avec ce qui serait fait en ligne de commande pure : fonctionnalités avantages, inconvénients…
@@ -582,11 +582,11 @@ Number section headings in LaTeX, ConTeXt, HTML, Docx, ms, or EPUB output. By de
 Mettre des extensions pandocs
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MDIzOTkxNSwtMzAxODQxODI4LDEzOD
-UyOTk0MDIsLTc2MTQ2NDcyMiwxOTUyNzI1NTIwLC01NzE1NjEw
-MDgsNzUwMjM2MDc5LDE2MzgxMTYyNjYsMTAwNjgwMzQ3MCwtMT
-k1ODMzNjkzMSwtMTgxNDUyMDg3LC05ODk2MTg2ODEsLTE2Njk1
-MzQ4MiwtNzcxMTc2OTUzLC0yOTgxODM0MjYsLTExMzUwMjgxMj
-gsMjIzOTUwNzYyLDE4Mzg0MzQwNDMsMjU4MTg5MTc5LDc1MDI2
-ODY0OV19
+eyJoaXN0b3J5IjpbOTI1MDU5NTQ3LC0zMDE4NDE4MjgsMTM4NT
+I5OTQwMiwtNzYxNDY0NzIyLDE5NTI3MjU1MjAsLTU3MTU2MTAw
+OCw3NTAyMzYwNzksMTYzODExNjI2NiwxMDA2ODAzNDcwLC0xOT
+U4MzM2OTMxLC0xODE0NTIwODcsLTk4OTYxODY4MSwtMTY2OTUz
+NDgyLC03NzExNzY5NTMsLTI5ODE4MzQyNiwtMTEzNTAyODEyOC
+wyMjM5NTA3NjIsMTgzODQzNDA0MywyNTgxODkxNzksNzUwMjY4
+NjQ5XX0=
 -->
