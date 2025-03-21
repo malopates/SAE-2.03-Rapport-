@@ -308,7 +308,7 @@ Pour installer des paquets non présents dans le tasksel, on va utiliser la comm
 • neofetch
 
 
-![Installation réussie](https://media.discordapp.net/attachments/861363773901635646/1344994403349172254/e186db6708bb1758.png?ex=67c2ef26&is=67c19da6&hm=14d1994d23ae87d8f5781bd4ebcc6081ad9d435cb242aaad0ac8bb65670b2f75&=&format=webp&quality=lossless&width=1131&height=604)
+![Installation réussie]()
 
 Alternativement, 
 
@@ -335,7 +335,7 @@ Soit au lancement de la machine grâce à la commande
 
 ## 2^ème^-semaine  
 ***
-**Malori** : Etant déjà initiée au **Markdown**, *riche d'une précédente SAE 2.03*, je me suis chargée de regrouper les différentes questions de mes coéquipier en un seul et même rapport. Louis et Ulysse se sont initié au MarkDown via les sites [^3] qui nous ont été fournis pour s'exercer; Ils m'ont ensuite envoyé leurs rendus afin que je puisse regrouper nos réponses.
+**Malori** : Etant déjà initiée au **Markdown**, *riche d'une précédente SAE 2.03*, je me suis chargée de regrouper les différentes questions de mes coéquipiers en un seul et même rapport. Louis et Ulysse se sont initié au MarkDown via les sites [^3] qui nous ont été fournis pour s'exercer; Ils m'ont ensuite envoyé leurs rendus afin que je puisse regrouper nos réponses.
 
 [^3]: [markdowntutorial.com](http://markdowntutorial.com) & [commonmark.org](http://commonmark.org)
 
@@ -349,7 +349,7 @@ En parralèle, Ulysse s'est penché sur **pandoc**, et a exporté ses réponses 
 
 -o précise 
 
-![Capture d'écran du rapport d'Ulysse]()
+![Capture d'écran du rapport d'Ulysse](../rsrc_rapport/RapportUlysse.png)
 
 
 ## 3^ème^-semaine 
@@ -582,11 +582,11 @@ Number section headings in LaTeX, ConTeXt, HTML, Docx, ms, or EPUB output. By de
 Mettre des extensions pandocs
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjM3OTAyNTEsLTExNDY0MzcwMywtMz
-AxODQxODI4LDEzODUyOTk0MDIsLTc2MTQ2NDcyMiwxOTUyNzI1
-NTIwLC01NzE1NjEwMDgsNzUwMjM2MDc5LDE2MzgxMTYyNjYsMT
-AwNjgwMzQ3MCwtMTk1ODMzNjkzMSwtMTgxNDUyMDg3LC05ODk2
-MTg2ODEsLTE2Njk1MzQ4MiwtNzcxMTc2OTUzLC0yOTgxODM0Mj
-YsLTExMzUwMjgxMjgsMjIzOTUwNzYyLDE4Mzg0MzQwNDMsMjU4
-MTg5MTc5XX0=
+eyJoaXN0b3J5IjpbMTEzMjc3NDI0LC0xMTQ2NDM3MDMsLTMwMT
+g0MTgyOCwxMzg1Mjk5NDAyLC03NjE0NjQ3MjIsMTk1MjcyNTUy
+MCwtNTcxNTYxMDA4LDc1MDIzNjA3OSwxNjM4MTE2MjY2LDEwMD
+Y4MDM0NzAsLTE5NTgzMzY5MzEsLTE4MTQ1MjA4NywtOTg5NjE4
+NjgxLC0xNjY5NTM0ODIsLTc3MTE3Njk1MywtMjk4MTgzNDI2LC
+0xMTM1MDI4MTI4LDIyMzk1MDc2MiwxODM4NDM0MDQzLDI1ODE4
+OTE3OV19
 -->
