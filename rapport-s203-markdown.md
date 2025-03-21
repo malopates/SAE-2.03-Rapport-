@@ -349,7 +349,7 @@ En parralèle, Ulysse s'est penché sur **pandoc**, et a exporté ses réponses 
 
 -o précise 
 
-![Capture d'écran du rapport d'Ulysse](https://cdn.discordapp.com/attachments/1339313007641235487/1344963770484654191/Capture_du_2025-02-28_10-24-361.png?ex=67c2d29f&is=67c1811f&hm=d3bd37ace3b798ba34e9429abc5f3d6c0a048557bb8459c1a110ee731556ad90&)
+![Capture d'écran du rapport d'Ulysse]()
 
 
 ## 3^ème^-semaine 
@@ -582,11 +582,11 @@ Number section headings in LaTeX, ConTeXt, HTML, Docx, ms, or EPUB output. By de
 Mettre des extensions pandocs
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDY0MzcwMywtMzAxODQxODI4LDEzOD
-UyOTk0MDIsLTc2MTQ2NDcyMiwxOTUyNzI1NTIwLC01NzE1NjEw
-MDgsNzUwMjM2MDc5LDE2MzgxMTYyNjYsMTAwNjgwMzQ3MCwtMT
-k1ODMzNjkzMSwtMTgxNDUyMDg3LC05ODk2MTg2ODEsLTE2Njk1
-MzQ4MiwtNzcxMTc2OTUzLC0yOTgxODM0MjYsLTExMzUwMjgxMj
-gsMjIzOTUwNzYyLDE4Mzg0MzQwNDMsMjU4MTg5MTc5LDc1MDI2
-ODY0OV19
+eyJoaXN0b3J5IjpbMTU0NjIxMjI2NSwtMTE0NjQzNzAzLC0zMD
+E4NDE4MjgsMTM4NTI5OTQwMiwtNzYxNDY0NzIyLDE5NTI3MjU1
+MjAsLTU3MTU2MTAwOCw3NTAyMzYwNzksMTYzODExNjI2NiwxMD
+A2ODAzNDcwLC0xOTU4MzM2OTMxLC0xODE0NTIwODcsLTk4OTYx
+ODY4MSwtMTY2OTUzNDgyLC03NzExNzY5NTMsLTI5ODE4MzQyNi
+wtMTEzNTAyODEyOCwyMjM5NTA3NjIsMTgzODQzNDA0MywyNTgx
+ODkxNzldfQ==
 -->
