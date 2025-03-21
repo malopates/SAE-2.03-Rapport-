@@ -344,7 +344,7 @@ En parralèle, Ulysse s'est penché sur **pandoc**, et a exporté ses réponses 
 
 >Si le type de fichier de sortie n'est pas précisé, pandoc interprètera le format dans l'extension du nom de fichier. 
 
-![Capture d'écran du rapport d'Ulysse]()
+![Capture d'écran du rapport d'Ulysse](../rsrc_rapport/RapportUlysse.png)
 
 
 ## 3^ème^-semaine 
@@ -576,11 +576,11 @@ Number section headings in LaTeX, ConTeXt, HTML, Docx, ms, or EPUB output. By de
 Mettre des extensions pandocs
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyOTQ3Njg3LC0xNjMxNDAyMjA5LDIxMD
-k0ODIwNjksLTExNDY0MzcwMywtMzAxODQxODI4LDEzODUyOTk0
-MDIsLTc2MTQ2NDcyMiwxOTUyNzI1NTIwLC01NzE1NjEwMDgsNz
-UwMjM2MDc5LDE2MzgxMTYyNjYsMTAwNjgwMzQ3MCwtMTk1ODMz
-NjkzMSwtMTgxNDUyMDg3LC05ODk2MTg2ODEsLTE2Njk1MzQ4Mi
-wtNzcxMTc2OTUzLC0yOTgxODM0MjYsLTExMzUwMjgxMjgsMjIz
-OTUwNzYyXX0=
+eyJoaXN0b3J5IjpbLTEyNTE3MTYyMDQsLTE2MzE0MDIyMDksMj
+EwOTQ4MjA2OSwtMTE0NjQzNzAzLC0zMDE4NDE4MjgsMTM4NTI5
+OTQwMiwtNzYxNDY0NzIyLDE5NTI3MjU1MjAsLTU3MTU2MTAwOC
+w3NTAyMzYwNzksMTYzODExNjI2NiwxMDA2ODAzNDcwLC0xOTU4
+MzM2OTMxLC0xODE0NTIwODcsLTk4OTYxODY4MSwtMTY2OTUzND
+gyLC03NzExNzY5NTMsLTI5ODE4MzQyNiwtMTEzNTAyODEyOCwy
+MjM5NTA3NjJdfQ==
 -->
