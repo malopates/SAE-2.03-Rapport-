@@ -21,7 +21,7 @@ Pour la première séance, nous avons commencé en créant une nouvelle VM dans 
 
 Le reste de la configuration de la VM s'est faite en laissant les paramètres **par défaut.** Cependant, l'étape de chargement du pre-seed était bloqué, suite aux recherches de Louis, nous avons pu résoudre ce problème en redémarrant la machine à cette étape. 
 
-![Screen création VM](https://lh7-us.googleusercontent.com/HwGyxgCVJ4FucrncIYnrRtDJVPEdrYU__IEii__UMg29YSwengtuclEehw575ZxLd2NAXWbh1VpI0xNDq_o1kRc3V7HD2PmTYJKxIz14KGTN7T8BkUGBZ_M6d1aJU1k5DbnO3vo9U3_ELN5BtngKaZY)
+![Screen création VM](../rsrc_rapport/installVM.png)
 
 ###    *Configuration matérielle dans VirtualBox*
 
@@ -63,7 +63,7 @@ Qu'est-ce qu'un fichier iso bootable ?
         d'exploitation. Il permet de créer la machine. 
         
 :   - **Ulysse** : 
-Un [fichier ISO bootable]{.underline} est un fichier qui contient une **image disque**, et cette image contient une **copie des données du disque** en question. On peut l'utiliser pour **stocker des données** sans support de stockage, ou dans notre cas **servir de CD-ROMs virtuel** pour l'[hyperviseur]{.underline} (ici VirtualBox).
+Un [fichier ISO bootable]{.underline} est un fichier qui contient une **image disque**, et cette image contient une **copie des données du disque** en question. On peut l'utiliser pour **stocker des données** sans support de stockage, ou dans notre cas **servir de CD-ROMs virtuel** pour l'hyperviseur(ici VirtualBox).
 
 ***[Source](https://en.wikipedia.org/wiki/Disk_image)***
 
@@ -288,7 +288,8 @@ MATE est l’un des nombreux paquets que l’on peut sélectionner lors d’une 
 
 Pour automatiser cette sélection et installation, on va utiliser la ligne de commande suivante :
 
-![](https://media.discordapp.net/attachments/861363773901635646/1345003034169577514/34be8daa4b5249e5.png?ex=67c2f730&is=67c1a5b0&hm=0c12dbf9965c91c7541f0f77f56ed1ae7e923a8f1c77a253e72513f0e3e3c831&=&format=webp&quality=lossless&width=1440&height=207)
+![](../rsrc_rapport/task.png)
+
 (A noter qu’il n’y a pas besoin d’écrire « d-i » au début de la commande)
 
 3. **Installation des paquets supplémentaire :**
@@ -582,11 +583,11 @@ Number section headings in LaTeX, ConTeXt, HTML, Docx, ms, or EPUB output. By de
 Mettre des extensions pandocs
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1Mzc5MjU1NiwtMTE0NjQzNzAzLC0zMD
-E4NDE4MjgsMTM4NTI5OTQwMiwtNzYxNDY0NzIyLDE5NTI3MjU1
-MjAsLTU3MTU2MTAwOCw3NTAyMzYwNzksMTYzODExNjI2NiwxMD
-A2ODAzNDcwLC0xOTU4MzM2OTMxLC0xODE0NTIwODcsLTk4OTYx
-ODY4MSwtMTY2OTUzNDgyLC03NzExNzY5NTMsLTI5ODE4MzQyNi
-wtMTEzNTAyODEyOCwyMjM5NTA3NjIsMTgzODQzNDA0MywyNTgx
-ODkxNzldfQ==
+eyJoaXN0b3J5IjpbLTE2MzAzMTkyODksLTExNDY0MzcwMywtMz
+AxODQxODI4LDEzODUyOTk0MDIsLTc2MTQ2NDcyMiwxOTUyNzI1
+NTIwLC01NzE1NjEwMDgsNzUwMjM2MDc5LDE2MzgxMTYyNjYsMT
+AwNjgwMzQ3MCwtMTk1ODMzNjkzMSwtMTgxNDUyMDg3LC05ODk2
+MTg2ODEsLTE2Njk1MzQ4MiwtNzcxMTc2OTUzLC0yOTgxODM0Mj
+YsLTExMzUwMjgxMjgsMjIzOTUwNzYyLDE4Mzg0MzQwNDMsMjU4
+MTg5MTc5XX0=
 -->
