@@ -567,7 +567,7 @@ changement de mdp user git
 
 
 
-MET
+METTRE table_captions en extension 
 - rajouter des captions pour les tableaux https://pandoc.org/chunkedhtml-demo/8.9-tables.html
 rajouter -toc dans le readme !!! :(
 
@@ -582,7 +582,7 @@ Number section headings in LaTeX, ConTeXt, HTML, Docx, ms, or EPUB output. By de
 Mettre des extensions pandocs
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0NTM2MTQwMiwtMTE0NjQzNzAzLC0zMD
+eyJoaXN0b3J5IjpbMjEwOTQ4MjA2OSwtMTE0NjQzNzAzLC0zMD
 E4NDE4MjgsMTM4NTI5OTQwMiwtNzYxNDY0NzIyLDE5NTI3MjU1
 MjAsLTU3MTU2MTAwOCw3NTAyMzYwNzksMTYzODExNjI2NiwxMD
 A2ODAzNDcwLC0xOTU4MzM2OTMxLC0xODE0NTIwODcsLTk4OTYx
