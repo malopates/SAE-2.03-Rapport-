@@ -565,10 +565,9 @@ wget -O gitea https://dl.gitea.com/gitea/main-nightly/gitea-main-nightly-linux-a
 *recopier commandes changer 1..giteaAsc ..gitea*  
 changement de mdp user git  
 
-**corrections Carle :** 
-- décrire chaque ligne de commandes 
-- préciser ce qu'on a pas fait 
-- expliquer la ligne de commande pandoc + installation
+
+
+MET
 - rajouter des captions pour les tableaux https://pandoc.org/chunkedhtml-demo/8.9-tables.html
 rajouter -toc dans le readme !!! :(
 
@@ -583,11 +582,11 @@ Number section headings in LaTeX, ConTeXt, HTML, Docx, ms, or EPUB output. By de
 Mettre des extensions pandocs
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzAzMTkyODksLTExNDY0MzcwMywtMz
-AxODQxODI4LDEzODUyOTk0MDIsLTc2MTQ2NDcyMiwxOTUyNzI1
-NTIwLC01NzE1NjEwMDgsNzUwMjM2MDc5LDE2MzgxMTYyNjYsMT
-AwNjgwMzQ3MCwtMTk1ODMzNjkzMSwtMTgxNDUyMDg3LC05ODk2
-MTg2ODEsLTE2Njk1MzQ4MiwtNzcxMTc2OTUzLC0yOTgxODM0Mj
-YsLTExMzUwMjgxMjgsMjIzOTUwNzYyLDE4Mzg0MzQwNDMsMjU4
-MTg5MTc5XX0=
+eyJoaXN0b3J5IjpbLTU0NTM2MTQwMiwtMTE0NjQzNzAzLC0zMD
+E4NDE4MjgsMTM4NTI5OTQwMiwtNzYxNDY0NzIyLDE5NTI3MjU1
+MjAsLTU3MTU2MTAwOCw3NTAyMzYwNzksMTYzODExNjI2NiwxMD
+A2ODAzNDcwLC0xOTU4MzM2OTMxLC0xODE0NTIwODcsLTk4OTYx
+ODY4MSwtMTY2OTUzNDgyLC03NzExNzY5NTMsLTI5ODE4MzQyNi
+wtMTEzNTAyODEyOCwyMjM5NTA3NjIsMTgzODQzNDA0MywyNTgx
+ODkxNzldfQ==
 -->
