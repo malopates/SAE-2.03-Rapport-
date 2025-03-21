@@ -449,8 +449,8 @@ Nous avons décidé d'utilise la ligne de commande :
 Mais pour ce faire, il fallait donc installer le paquet `flatpak` avec la commande `apt-get install flatpak`
 
 Cependant, n'ayant aucune expérience, il était inévitable de tomber sur une erreur :
+![Screen flatpak](../rsrc_rapport/flatpak.png)
 
-![Capture d'écran gitnuro](../rsrc_rapport/gitnuro.png)
 Après avoir essayé, en vain, d'utiliser flathub, nous sommes tombés sur [ce post](https://superuser.com/questions/1755709/getting-this-error-when-trying-to-use-flatpak-no-remote-refs-found-similar-to)
 
 Qui préconisait l'utilisation de la commande suivante :
@@ -463,7 +463,7 @@ Pour lancer gitnuro, il suffit d'utiliser la commande :
 
 `flatpak run com.jetpackduba.Gitnuro`
 
-![Screen flatpak](../rsrc_rapport/flatpak.png)
+![Capture d'écran gitnuro](../rsrc_rapport/gitnuro.png)
 
 
 Comparez-le aux outils inclus avec git (et installé précédemment) ainsi qu’avec ce qui serait fait en ligne de commande pure : fonctionnalités avantages, inconvénients…
@@ -582,11 +582,11 @@ Number section headings in LaTeX, ConTeXt, HTML, Docx, ms, or EPUB output. By de
 Mettre des extensions pandocs
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI1MDU5NTQ3LC0zMDE4NDE4MjgsMTM4NT
-I5OTQwMiwtNzYxNDY0NzIyLDE5NTI3MjU1MjAsLTU3MTU2MTAw
-OCw3NTAyMzYwNzksMTYzODExNjI2NiwxMDA2ODAzNDcwLC0xOT
-U4MzM2OTMxLC0xODE0NTIwODcsLTk4OTYxODY4MSwtMTY2OTUz
-NDgyLC03NzExNzY5NTMsLTI5ODE4MzQyNiwtMTEzNTAyODEyOC
-wyMjM5NTA3NjIsMTgzODQzNDA0MywyNTgxODkxNzksNzUwMjY4
-NjQ5XX0=
+eyJoaXN0b3J5IjpbLTExNDY0MzcwMywtMzAxODQxODI4LDEzOD
+UyOTk0MDIsLTc2MTQ2NDcyMiwxOTUyNzI1NTIwLC01NzE1NjEw
+MDgsNzUwMjM2MDc5LDE2MzgxMTYyNjYsMTAwNjgwMzQ3MCwtMT
+k1ODMzNjkzMSwtMTgxNDUyMDg3LC05ODk2MTg2ODEsLTE2Njk1
+MzQ4MiwtNzcxMTc2OTUzLC0yOTgxODM0MjYsLTExMzUwMjgxMj
+gsMjIzOTUwNzYyLDE4Mzg0MzQwNDMsMjU4MTg5MTc5LDc1MDI2
+ODY0OV19
 -->
