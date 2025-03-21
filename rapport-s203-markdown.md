@@ -450,7 +450,7 @@ Mais pour ce faire, il fallait donc installer le paquet `flatpak` avec la comman
 
 Cependant, n'ayant aucune expérience, il était inévitable de tomber sur une erreur :
 
-![Capture d'écran gitnuro](https://cdn.discordapp.com/attachments/861363773901635646/1345079726775074848/b5b6f1b1902b5679.png?ex=67c33e9d&is=67c1ed1d&hm=1d381ace0313cf0f346ff2cfd037af08d7ae17e06894d6411a1d8e88e8089944&)
+![Capture d'écran gitnuro](../rsrc_rapport/)
 Après avoir essayé, en vain, d'utiliser flathub, nous sommes tombés sur [ce post](https://superuser.com/questions/1755709/getting-this-error-when-trying-to-use-flatpak-no-remote-refs-found-similar-to)
 
 Qui préconisait l'utilisation de la commande suivante :
@@ -582,11 +582,11 @@ Number section headings in LaTeX, ConTeXt, HTML, Docx, ms, or EPUB output. By de
 Mettre des extensions pandocs
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwMTg0MTgyOCwxMzg1Mjk5NDAyLC03Nj
-E0NjQ3MjIsMTk1MjcyNTUyMCwtNTcxNTYxMDA4LDc1MDIzNjA3
-OSwxNjM4MTE2MjY2LDEwMDY4MDM0NzAsLTE5NTgzMzY5MzEsLT
-E4MTQ1MjA4NywtOTg5NjE4NjgxLC0xNjY5NTM0ODIsLTc3MTE3
-Njk1MywtMjk4MTgzNDI2LC0xMTM1MDI4MTI4LDIyMzk1MDc2Mi
-wxODM4NDM0MDQzLDI1ODE4OTE3OSw3NTAyNjg2NDksLTEyNTkz
-NDA3OTBdfQ==
+eyJoaXN0b3J5IjpbNDk3NzYyMTU4LC0zMDE4NDE4MjgsMTM4NT
+I5OTQwMiwtNzYxNDY0NzIyLDE5NTI3MjU1MjAsLTU3MTU2MTAw
+OCw3NTAyMzYwNzksMTYzODExNjI2NiwxMDA2ODAzNDcwLC0xOT
+U4MzM2OTMxLC0xODE0NTIwODcsLTk4OTYxODY4MSwtMTY2OTUz
+NDgyLC03NzExNzY5NTMsLTI5ODE4MzQyNiwtMTEzNTAyODEyOC
+wyMjM5NTA3NjIsMTgzODQzNDA0MywyNTgxODkxNzksNzUwMjY4
+NjQ5XX0=
 -->
