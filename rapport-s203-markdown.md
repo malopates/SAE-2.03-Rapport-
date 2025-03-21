@@ -294,7 +294,7 @@ Pour automatiser cette sélection et installation, on va utiliser la ligne de co
 3. **Installation des paquets supplémentaire :**
 
 Pour installer des paquets non présents dans le tasksel, on va utiliser la commande ``` d-i pkgsel/include``` et, à la suite de « string », on va renseigner les différents paquets à installer, soit :
-![](https://media.discordapp.net/attachments/861363773901635646/1345003005614751786/8eb0211196a577b2.png?ex=67c2f729&is=67c1a5a9&hm=9422127e5508a4c2dfbec7cca352f639cd09cf661cb30f39d53e366a4f0d9f57&=&format=webp&quality=lossless&width=1440&height=99)
+![](../rsrc_rapport/pkgsel.png)
 • sudo
 
 • git
@@ -308,7 +308,7 @@ Pour installer des paquets non présents dans le tasksel, on va utiliser la comm
 • neofetch
 
 
-![Installation réussie](../rsrc_rapport/installation_reussie.png){ widt
+![Installation réussie](../rsrc_rapport/installation_reussie.png)
 
 Alternativement, 
 
@@ -582,7 +582,7 @@ Number section headings in LaTeX, ConTeXt, HTML, Docx, ms, or EPUB output. By de
 Mettre des extensions pandocs
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTcwMzg5NiwtMTE0NjQzNzAzLC0zMD
+eyJoaXN0b3J5IjpbLTU1Mzc5MjU1NiwtMTE0NjQzNzAzLC0zMD
 E4NDE4MjgsMTM4NTI5OTQwMiwtNzYxNDY0NzIyLDE5NTI3MjU1
 MjAsLTU3MTU2MTAwOCw3NTAyMzYwNzksMTYzODExNjI2NiwxMD
 A2ODAzNDcwLC0xOTU4MzM2OTMxLC0xODE0NTIwODcsLTk4OTYx
