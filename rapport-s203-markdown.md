@@ -308,7 +308,7 @@ Pour installer des paquets non présents dans le tasksel, on va utiliser la comm
 • neofetch
 
 
-![Installation réussie]()
+![Installation réussie](../rsrc_rapport/installation_reussie.png){ widt
 
 Alternativement, 
 
@@ -582,11 +582,11 @@ Number section headings in LaTeX, ConTeXt, HTML, Docx, ms, or EPUB output. By de
 Mettre des extensions pandocs
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMjc3NDI0LC0xMTQ2NDM3MDMsLTMwMT
-g0MTgyOCwxMzg1Mjk5NDAyLC03NjE0NjQ3MjIsMTk1MjcyNTUy
-MCwtNTcxNTYxMDA4LDc1MDIzNjA3OSwxNjM4MTE2MjY2LDEwMD
-Y4MDM0NzAsLTE5NTgzMzY5MzEsLTE4MTQ1MjA4NywtOTg5NjE4
-NjgxLC0xNjY5NTM0ODIsLTc3MTE3Njk1MywtMjk4MTgzNDI2LC
-0xMTM1MDI4MTI4LDIyMzk1MDc2MiwxODM4NDM0MDQzLDI1ODE4
-OTE3OV19
+eyJoaXN0b3J5IjpbLTE4MTcwMzg5NiwtMTE0NjQzNzAzLC0zMD
+E4NDE4MjgsMTM4NTI5OTQwMiwtNzYxNDY0NzIyLDE5NTI3MjU1
+MjAsLTU3MTU2MTAwOCw3NTAyMzYwNzksMTYzODExNjI2NiwxMD
+A2ODAzNDcwLC0xOTU4MzM2OTMxLC0xODE0NTIwODcsLTk4OTYx
+ODY4MSwtMTY2OTUzNDgyLC03NzExNzY5NTMsLTI5ODE4MzQyNi
+wtMTEzNTAyODEyOCwyMjM5NTA3NjIsMTgzODQzNDA0MywyNTgx
+ODkxNzldfQ==
 -->
