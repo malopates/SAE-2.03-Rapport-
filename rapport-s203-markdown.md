@@ -285,14 +285,14 @@ MATE est l’un des nombreux paquets que l’on peut sélectionner lors d’une 
 
 Pour automatiser cette sélection et installation, on va utiliser la ligne de commande suivante :
 
-![](../rsrc_rapport/task.png)
+![](../rsrc_rapport/task.png){ width=90% }
 
 (A noter qu’il n’y a pas besoin d’écrire « d-i » au début de la commande)
 
 3. **Installation des paquets supplémentaire :**
 
 Pour installer des paquets non présents dans le tasksel, on va utiliser la commande ``` d-i pkgsel/include``` et, à la suite de « string », on va renseigner les différents paquets à installer, soit :
-![](../rsrc_rapport/pkgsel.png)
+![](../rsrc_rapport/pkgsel.png){ width=90% }
 • sudo
 
 • git
@@ -306,7 +306,7 @@ Pour installer des paquets non présents dans le tasksel, on va utiliser la comm
 • neofetch
 
 
-![Installation réussie](../rsrc_rapport/installation_reussie.png)
+![Installation réussie](../rsrc_rapport/installation_reussie.png){ width=90% }
 
 Alternativement, 
 
@@ -345,7 +345,7 @@ En parralèle, Ulysse s'est penché sur **pandoc**, et a exporté ses réponses 
 
 >Si le type de fichier de sortie n'est pas précisé, pandoc interprètera le format dans l'extension du nom de fichier. 
 
-![Capture d'écran du rapport d'Ulysse](../rsrc_rapport/RapportUlysse.png){ width=10% }
+![Capture d'écran du rapport d'Ulysse](../rsrc_rapport/RapportUlysse.png){ width=30% }
 
 
 ## 3^ème^-semaine 
@@ -445,7 +445,7 @@ Nous avons décidé d'utilise la ligne de commande :
 Mais pour ce faire, il fallait donc installer le paquet `flatpak` avec la commande `apt-get install flatpak`
 
 Cependant, n'ayant aucune expérience, il était inévitable de tomber sur une erreur :
-![Screen flatpak](../rsrc_rapport/flatpak.png)
+![Screen flatpak](../rsrc_rapport/flatpak.png){ width=90% }
 
 Après avoir essayé, en vain, d'utiliser flathub, nous sommes tombés sur [ce post](https://superuser.com/questions/1755709/getting-this-error-when-trying-to-use-flatpak-no-remote-refs-found-similar-to)
 
@@ -459,7 +459,7 @@ Pour lancer gitnuro, il suffit d'utiliser la commande :
 
 `flatpak run com.jetpackduba.Gitnuro`
 
-![Capture d'écran gitnuro](../rsrc_rapport/gitnuro.png)
+![Capture d'écran gitnuro](../rsrc_rapport/gitnuro.png){ width=90% }
 
 
 Comparez-le aux outils inclus avec git (et installé précédemment) ainsi qu’avec ce qui serait fait en ligne de commande pure : fonctionnalités avantages, inconvénients…
@@ -577,11 +577,11 @@ Number section headings in LaTeX, ConTeXt, HTML, Docx, ms, or EPUB output. By de
 Mettre des extensions pandocs
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU4MDM2MzY0LDExMjc1NDA3NzgsLTE2Mz
-E0MDIyMDksMjEwOTQ4MjA2OSwtMTE0NjQzNzAzLC0zMDE4NDE4
-MjgsMTM4NTI5OTQwMiwtNzYxNDY0NzIyLDE5NTI3MjU1MjAsLT
-U3MTU2MTAwOCw3NTAyMzYwNzksMTYzODExNjI2NiwxMDA2ODAz
-NDcwLC0xOTU4MzM2OTMxLC0xODE0NTIwODcsLTk4OTYxODY4MS
-wtMTY2OTUzNDgyLC03NzExNzY5NTMsLTI5ODE4MzQyNiwtMTEz
-NTAyODEyOF19
+eyJoaXN0b3J5IjpbLTY2MDYxODg5NywxMTI3NTQwNzc4LC0xNj
+MxNDAyMjA5LDIxMDk0ODIwNjksLTExNDY0MzcwMywtMzAxODQx
+ODI4LDEzODUyOTk0MDIsLTc2MTQ2NDcyMiwxOTUyNzI1NTIwLC
+01NzE1NjEwMDgsNzUwMjM2MDc5LDE2MzgxMTYyNjYsMTAwNjgw
+MzQ3MCwtMTk1ODMzNjkzMSwtMTgxNDUyMDg3LC05ODk2MTg2OD
+EsLTE2Njk1MzQ4MiwtNzcxMTc2OTUzLC0yOTgxODM0MjYsLTEx
+MzUwMjgxMjhdfQ==
 -->
