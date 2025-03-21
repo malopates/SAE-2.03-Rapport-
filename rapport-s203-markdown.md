@@ -335,7 +335,7 @@ Soit au lancement de la machine grâce à la commande
 
 ## 2^ème^-semaine  
 ***
-**Malori** : Etant déjà initiée au **Markdown**, *riche d'une précédente SAE 2.03*, je me suis chargée de centraliser les rapports et questions en un seul et même rapport. Louis et Ulysse se sont initié au MarkDown via les sites [^3] qui nous ont été fournis pour s'exercer; Ils m'ont ensuite envoyé leurs rendus afin que je puisse regrouper nos réponses.
+**Malori** : Etant déjà initiée au **Markdown**, *riche d'une précédente SAE 2.03*, je me suis chargée de regrouper les différentes questions de mes coéquipier en un seul et même rapport. Louis et Ulysse se sont initié au MarkDown via les sites [^3] qui nous ont été fournis pour s'exercer; Ils m'ont ensuite envoyé leurs rendus afin que je puisse regrouper nos réponses.
 
 [^3]: [markdowntutorial.com](http://markdowntutorial.com) & [commonmark.org](http://commonmark.org)
 
@@ -582,11 +582,11 @@ Number section headings in LaTeX, ConTeXt, HTML, Docx, ms, or EPUB output. By de
 Mettre des extensions pandocs
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0NjIxMjI2NSwtMTE0NjQzNzAzLC0zMD
-E4NDE4MjgsMTM4NTI5OTQwMiwtNzYxNDY0NzIyLDE5NTI3MjU1
-MjAsLTU3MTU2MTAwOCw3NTAyMzYwNzksMTYzODExNjI2NiwxMD
-A2ODAzNDcwLC0xOTU4MzM2OTMxLC0xODE0NTIwODcsLTk4OTYx
-ODY4MSwtMTY2OTUzNDgyLC03NzExNzY5NTMsLTI5ODE4MzQyNi
-wtMTEzNTAyODEyOCwyMjM5NTA3NjIsMTgzODQzNDA0MywyNTgx
-ODkxNzldfQ==
+eyJoaXN0b3J5IjpbLTE0MjM3OTAyNTEsLTExNDY0MzcwMywtMz
+AxODQxODI4LDEzODUyOTk0MDIsLTc2MTQ2NDcyMiwxOTUyNzI1
+NTIwLC01NzE1NjEwMDgsNzUwMjM2MDc5LDE2MzgxMTYyNjYsMT
+AwNjgwMzQ3MCwtMTk1ODMzNjkzMSwtMTgxNDUyMDg3LC05ODk2
+MTg2ODEsLTE2Njk1MzQ4MiwtNzcxMTc2OTUzLC0yOTgxODM0Mj
+YsLTExMzUwMjgxMjgsMjIzOTUwNzYyLDE4Mzg0MzQwNDMsMjU4
+MTg5MTc5XX0=
 -->
