@@ -23,8 +23,6 @@ Le reste de la configuration de la VM s'est faite en laissant les paramètres **
 
 ![Screen création VM](https://lh7-us.googleusercontent.com/HwGyxgCVJ4FucrncIYnrRtDJVPEdrYU__IEii__UMg29YSwengtuclEehw575ZxLd2NAXWbh1VpI0xNDq_o1kRc3V7HD2PmTYJKxIz14KGTN7T8BkUGBZ_M6d1aJU1k5DbnO3vo9U3_ELN5BtngKaZY)
 
-
-
 ###    *Configuration matérielle dans VirtualBox*
 
 Que signifie "64-bit" dans "Debian 64-bit" ?
@@ -585,11 +583,11 @@ Number section headings in LaTeX, ConTeXt, HTML, Docx, ms, or EPUB output. By de
 Mettre des extensions pandocs
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2MTQ2NDcyMiwxOTUyNzI1NTIwLC01Nz
-E1NjEwMDgsNzUwMjM2MDc5LDE2MzgxMTYyNjYsMTAwNjgwMzQ3
-MCwtMTk1ODMzNjkzMSwtMTgxNDUyMDg3LC05ODk2MTg2ODEsLT
-E2Njk1MzQ4MiwtNzcxMTc2OTUzLC0yOTgxODM0MjYsLTExMzUw
-MjgxMjgsMjIzOTUwNzYyLDE4Mzg0MzQwNDMsMjU4MTg5MTc5LD
-c1MDI2ODY0OSwtMTI1OTM0MDc5MCw5NTEzMjUzNzgsLTI2NzY0
-NDc1Nl19
+eyJoaXN0b3J5IjpbMTM4NTI5OTQwMiwtNzYxNDY0NzIyLDE5NT
+I3MjU1MjAsLTU3MTU2MTAwOCw3NTAyMzYwNzksMTYzODExNjI2
+NiwxMDA2ODAzNDcwLC0xOTU4MzM2OTMxLC0xODE0NTIwODcsLT
+k4OTYxODY4MSwtMTY2OTUzNDgyLC03NzExNzY5NTMsLTI5ODE4
+MzQyNiwtMTEzNTAyODEyOCwyMjM5NTA3NjIsMTgzODQzNDA0My
+wyNTgxODkxNzksNzUwMjY4NjQ5LC0xMjU5MzQwNzkwLDk1MTMy
+NTM3OF19
 -->
