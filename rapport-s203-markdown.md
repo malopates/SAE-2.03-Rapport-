@@ -17,7 +17,7 @@ Pour la première séance, nous avons commencé en créant une nouvelle VM dans 
 
 Le reste de la configuration de la VM s'est faite en laissant les paramètres **par défaut.** Cependant, l'étape de chargement du pre-seed était bloqué, suite aux recherches de Louis, nous avons pu résoudre ce problème en redémarrant la machine à cette étape. 
 
-![Screen création VM](../rsrc_rapport/installVM.png)
+![Screen création VM]()
 
 ###    *Configuration matérielle dans VirtualBox*
 
@@ -344,9 +344,7 @@ En parralèle, Ulysse s'est penché sur **pandoc**, et a exporté ses réponses 
 
 >Si le type de fichier de sortie n'est pas précisé, pandoc interprètera le format dans l'extension du nom de fichier. 
 
--o précise 
-
-![Capture d'écran du rapport d'Ulysse](../rsrc_rapport/RapportUlysse.png)
+![Capture d'écran du rapport d'Ulysse]()
 
 
 ## 3^ème^-semaine 
@@ -578,11 +576,11 @@ Number section headings in LaTeX, ConTeXt, HTML, Docx, ms, or EPUB output. By de
 Mettre des extensions pandocs
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzE0MDIyMDksMjEwOTQ4MjA2OSwtMT
-E0NjQzNzAzLC0zMDE4NDE4MjgsMTM4NTI5OTQwMiwtNzYxNDY0
-NzIyLDE5NTI3MjU1MjAsLTU3MTU2MTAwOCw3NTAyMzYwNzksMT
-YzODExNjI2NiwxMDA2ODAzNDcwLC0xOTU4MzM2OTMxLC0xODE0
-NTIwODcsLTk4OTYxODY4MSwtMTY2OTUzNDgyLC03NzExNzY5NT
-MsLTI5ODE4MzQyNiwtMTEzNTAyODEyOCwyMjM5NTA3NjIsMTgz
-ODQzNDA0M119
+eyJoaXN0b3J5IjpbMTIyOTQ3Njg3LC0xNjMxNDAyMjA5LDIxMD
+k0ODIwNjksLTExNDY0MzcwMywtMzAxODQxODI4LDEzODUyOTk0
+MDIsLTc2MTQ2NDcyMiwxOTUyNzI1NTIwLC01NzE1NjEwMDgsNz
+UwMjM2MDc5LDE2MzgxMTYyNjYsMTAwNjgwMzQ3MCwtMTk1ODMz
+NjkzMSwtMTgxNDUyMDg3LC05ODk2MTg2ODEsLTE2Njk1MzQ4Mi
+wtNzcxMTc2OTUzLC0yOTgxODM0MjYsLTExMzUwMjgxMjgsMjIz
+OTUwNzYyXX0=
 -->
